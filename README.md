@@ -1,0 +1,2 @@
+# PokerTool
+Poker assistant tool
