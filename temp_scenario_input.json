@@ -1,0 +1,14 @@
+{
+  "game_type": "nlhe",
+  "board": "Jh2d7h",
+  "pot": 14500.0,
+  "effective_stack": 38000.0,
+  "range_ip": "15%",
+  "range_oop": "25%",
+  "bet_sizes": {
+    "flop": [
+      0.33,
+      0.75
+    ]
+  }
+}
