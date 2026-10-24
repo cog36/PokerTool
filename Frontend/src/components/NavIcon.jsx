@@ -1,6 +1,7 @@
 // A small, consistent line-icon set for the study tools.
 const paths = {
  overview: 'M3 3h7v7H3z M14 3h7v7h-7z M3 14h7v7H3z M14 14h7v7h-7z',
+ handOverview: 'M4 4h16v16H4z M8 8h8 M8 12h8 M8 16h4',
  analysis: 'M4 20V10 M10 20V4 M16 20v-7 M22 20H2',
  ranges: 'M3 3h18v18H3z M9 3v18 M15 3v18 M3 9h18 M3 15h18',
  arena: 'M12 3C10 6 3 10 3 14a5 5 0 0 0 9 3 5 5 0 0 0 9-3c0-4-7-8-9-11z M12 17v4 M8 21h8',

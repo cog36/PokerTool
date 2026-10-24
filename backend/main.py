@@ -13,9 +13,11 @@ from pydantic import BaseModel, ConfigDict, Field, field_validator, model_valida
 if __package__:
     from .parser import parse_gg_hand_history
     from .analyzer import analyze_session_hands
+    from .hand_history_overview import build_hand_history_overview
 else:
     from parser import parse_gg_hand_history
     from analyzer import analyze_session_hands
+    from hand_history_overview import build_hand_history_overview
 
 MAX_HAND_HISTORY_BYTES = 10 * 1024 * 1024
 DEFAULT_MODEL = 'openai/gpt-oss-120b'
@@ -84,6 +86,11 @@ def health():
     # Configuration status is not a claim that credentials or the provider were verified.
     key, model = settings()
     return {'status': 'ok', 'configured': bool(key), 'provider': 'Groq', 'model': model}
+
+
+@app.get('/api/hand-history-overview')
+def hand_history_overview():
+    return build_hand_history_overview()
 
 
 @app.post('/api/analyze')

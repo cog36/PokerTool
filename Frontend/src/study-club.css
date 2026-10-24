@@ -67,6 +67,38 @@ body { font-size: 15px; line-height: 1.65; }
 #overview .quote-card p, #overview .quote-card .eyebrow, #overview .quote-footer { color: var(--muted); font-size: 14px; }
 #overview .quote-mark { display: none; }
 .page-footer { font-size: 12px; line-height: 1.6; }
+#hand-overview .page-title { align-items: center; }
+#hand-overview .hand-overview-caption { color: var(--muted); font-size: 13px; margin: -8px 0 16px; }
+#hand-overview .hand-overview-stats { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+#hand-overview .hand-overview-section { margin: 0 0 18px; }
+#hand-overview .hand-overview-section > .panel-title { margin-bottom: 16px; }
+#hand-overview .hand-overview-section .panel-title h2 { font-size: 17px; margin-bottom: 4px; }
+#hand-overview .hand-overview-hud { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+#hand-overview .hand-overview-hud > div { display: flex; flex-direction: column; gap: 3px; border-left: 2px solid var(--border); padding: 3px 0 3px 12px; }
+#hand-overview .hand-overview-hud span { color: var(--muted); font-size: 12px; }
+#hand-overview .hand-overview-hud strong { font-size: 21px; font-variant-numeric: tabular-nums; }
+#hand-overview .hand-overview-hud small { color: var(--muted); font-size: 11px; }
+#hand-overview .hand-overview-table-wrap { width: 100%; overflow-x: auto; }
+#hand-overview .hand-overview-table { width: 100%; border-collapse: collapse; font-size: 12px; text-align: left; }
+#hand-overview .hand-overview-table th, #hand-overview .hand-overview-table td { border-bottom: 1px solid var(--border); padding: 10px 12px; white-space: nowrap; }
+#hand-overview .hand-overview-table thead th { color: var(--muted); font-size: 10px; font-weight: 600; letter-spacing: .5px; text-transform: uppercase; }
+#hand-overview .hand-overview-table tbody th { font-weight: 600; }
+#hand-overview .hand-list-table td:first-child { max-width: 190px; overflow: hidden; text-overflow: ellipsis; }
+#hand-overview .hand-list-table td:first-child small { display: block; color: var(--muted); font-size: 10px; }
+#hand-overview .hand-overview-hand-details { margin-top: 5px; }
+#hand-overview .hand-overview-hand-details summary { color: var(--mint); cursor: pointer; font-size: 10px; }
+#hand-overview .hand-overview-hand-details p { color: var(--muted); max-width: 440px; white-space: normal; }
+#hand-overview .analysis-filter input { border: 1px solid var(--border); border-radius: 6px; background: var(--panel); color: var(--text); font: inherit; padding: 8px; }
+#hand-overview .hand-overview-flags { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+#hand-overview .hand-overview-flags article { border-left: 2px solid var(--brass); padding: 4px 12px; }
+#hand-overview .hand-overview-flags strong { font-size: 13px; }
+#hand-overview .hand-overview-flags p, #hand-overview .hand-overview-errors li { color: var(--muted); font-size: 12px; line-height: 1.6; margin-top: 4px; }
+#hand-overview .hand-overview-pagination { align-items: center; color: var(--muted); display: flex; font-size: 12px; justify-content: space-between; margin: 14px 0 0; }
+#hand-overview .hand-overview-pagination .button { font-size: 12px; min-height: 34px; }
+#hand-overview .hand-overview-errors { margin-bottom: 16px; }
+#hand-overview .hand-overview-errors summary { cursor: pointer; font-size: 13px; }
+#hand-overview .hand-overview-errors ul { margin: 10px 0 0; padding-left: 20px; }
+#hand-overview .hand-overview-disclaimer { line-height: 1.6; }
 @media (max-width: 720px) {
  .brand { font-size: 30px; }
  .sidebar nav a { font-size: 12px; min-height: 42px; }
@@ -77,12 +109,19 @@ body { font-size: 15px; line-height: 1.65; }
  #overview .hero-art { opacity: .45; right: -25px; }
  #overview .hero-copy .button { position: relative; z-index: 2; }
  .local-badge { display: none; }
+ #hand-overview .hand-overview-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+ #hand-overview .hand-overview-hud { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+ #hand-overview .hand-overview-flags { grid-template-columns: 1fr; }
+ #hand-overview .panel-title { align-items: flex-start; }
+ #hand-overview .hand-overview-section .panel-title { flex-wrap: wrap; gap: 10px; }
 }
 
 @media (max-width: 480px) {
   #overview .hero-art { display: none; }
   #overview .hero-copy { max-width: 100%; }
   #overview .hero-card { min-height: 0; padding: 28px 24px; }
+  #hand-overview .hand-overview-hud { grid-template-columns: 1fr; }
+  #hand-overview .hand-overview-pagination { align-items: flex-start; flex-direction: column; gap: 10px; }
 }
 
 /* Finishing details: a card-room reference, a margin note, and useful surfaces.

@@ -43,7 +43,7 @@ npm run test:browser # Browser flows; run npm run dev first (uses installed Chro
 Frontend source:
 
 - `Frontend/src/App.jsx`: navigation, shared practice results, and checklist state.
-- `Frontend/src/pages/`: Overview, Ranges, Practice, Hands, and Notebook components.
+- `Frontend/src/pages/`: Home, Hand Overview, Session Analysis, Ranges, Practice, Hands, Notebook, and coaching components.
 - `Frontend/src/components/`: shared cards and the theme switch.
 - `Frontend/src/data.js`: curated teaching and replay examples.
 - `Frontend/src/model.js`: pure range/scoring helpers and browser storage utilities.
@@ -106,7 +106,9 @@ Vite proxies `/api` requests to Python. The API reads saved settings on every re
 - The API is for local development. A public deployment needs authentication, abuse limits, and a same-origin `/api` proxy before exposing this paid-provider endpoint.
 - Run API tests with `.venv/bin/python -m unittest discover -s backend -p 'test_*.py'` (mocked provider; no live AI calls).
 
-The Session Analysis screen accepts UTF-8 GG Poker `.txt` hand histories containing hands dealt to `Hero`. It sends each file to `POST /api/analyze`, where the API parses and audits it in memory; files are not saved. The response includes session totals, leak counts, and per-hand feedback. These findings use the simplified fixed ranges in `backend/analyzer.py`, not a solver or verified GTO output. Other poker-room formats are not supported by the current parser.
+The Hand Overview screen reads `.txt`, `.log`, and `.hh` files recursively from the local `hand_histories/` directory through `GET /api/hand-history-overview`. It aggregates GG Poker hands dealt to `Hero` and PokerStars/Betfair hands dealt to `bullets685`, with overall HUD metrics, position statistics, heuristic flags, and searchable hand details. The files are read locally and are not modified. Tournament ROI is not calculated because hand histories alone do not provide a complete results ledger.
+
+The Session Analysis screen accepts UTF-8 GG Poker `.txt` hand histories containing hands dealt to `Hero`. It sends each file to `POST /api/analyze`, where the API parses and audits it in memory; files are not saved. The response includes session totals, leak counts, and per-hand feedback. These findings use the simplified fixed ranges in `backend/analyzer.py`, not a solver or verified GTO output. Other poker-room formats are not supported by the Session Analysis parser.
 
 Install the backend dependencies, including `python-multipart`, from `backend/requirements.txt` before starting the API. Run the upload and analysis API tests with `.venv\\Scripts\\python -m unittest discover -s backend -p "test_*.py"` on Windows (or the corresponding activated-environment command on macOS/Linux).
 
