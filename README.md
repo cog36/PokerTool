@@ -245,3 +245,19 @@ Hero preflop reviews read the checked-in `charts/MTT_{5,10,20,40,100}_GTO.json` 
 Any positive-frequency action is chart-approved, including mixed actions; zero-frequency actions are outside the chart. Fold frequency is the residual after the listed alternatives. Limped/calling multiway sequences, unsupported cold reraises, missing tables/depths and inconsistent frequency totals are marked as a clearly labelled **Legacy fallback**: the chart remains unassessed and the prior heuristic feedback is used instead. The coverage reason is displayed and passed to AI coaching. Charts evaluate action category, not the chosen bet amount, exact EV, or ICM.
 
 The chart verdict remains visible in **Your preflop review** and is included in the AI explanation request. Opponent action selection and feedback are unchanged. Hero postflop reviews continue using the existing legacy feedback and AI coaching. No live GTO solver is added.
+
+## Tournament ledger
+
+Open **Tournaments** to read `tournament_summaries/**/*.txt` through `GET /api/tournaments`. The parser identifies GG player `Hero` and PokerStars/Betfair player `bullets685`; rows without a matching entry are labelled and excluded from accounting. It includes all listed buy-in components (including fees and bounty contributions), multiplying by the initial entry plus reported re-entries. Money uses integer cents; entries are nominal values because payment methods are not recorded.
+
+Duplicate `(room, tournament ID)` summaries are counted once. Conflicting financial snapshots are flagged and excluded rather than silently choosing one. Unknown returns, costs, or unfinished personal results are not converted to zero. Parse failures and incomplete/conflicting records are exposed in the view. The listed summary folder is read afresh when you refresh the tab.
+
+Cash-basis net profit = reported cash returns minus nominal buy-ins; ROI = net profit / buy-ins × 100. Only cash returns are counted. Noncash qualifications and ticket awards are $0 cash and do not count as cashed. No face-value view is offered.
+
+Cash-based ITM is binary for every completed known result: a positive cash return (including bounty cash) means cashed; $0 means did not cash. Unknown or unfinished results are excluded rather than fabricated. Accounting coverage is not a rating of skill or proof that all tournaments are present.
+
+The cumulative graph starts at $0 and uses each included result once, ordered by recorded start time. Timezones are not uniformly specified, so within-day cross-room order can be approximate; this is a tournament-results curve, not a settled cash-balance ledger. Missing-date results are excluded from the graph and counted separately.
+
+For the current files: 24 files, 23 unique entered tournaments, 29 entries, $77.60 buy-ins, $142.65 cash returns, $65.05 cash-prize net and 83.83% cash-prize ROI. Cash-based ITM is 16/23 tournaments (69.57%); all 23 supplied final results have a known cash outcome. These are a small observed sample, not a reliable estimate of long-run ROI.
+
+The reliability panel also cross-checks tournament IDs found in parsed hand histories against the summaries. Currently it finds 19 matches among 20 identifiable hand-history tournaments; PokerStars/Betfair #4040099699 has no summary. Its unknown result is excluded, not treated as a loss. Histories without identifiable tournament IDs cannot establish summary coverage.

@@ -1,0 +1,35 @@
+import { chromium, expect } from '@playwright/test';
+const browser = await chromium.launch({ channel: 'chrome', headless: true });
+try {
+ const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
+ const errors = [];page.on('pageerror', error => errors.push(error.message));
+ await page.goto(`${process.env.FRONTEND_URL || 'http://127.0.0.1:5173'}/#tournaments`);
+ await expect(page.locator('.tournament-stats article').first().locator('strong')).toHaveText('23');
+ await expect(page.locator('.tournament-stats article').nth(1)).toContainText('$77.60');
+ await expect(page.locator('.tournament-stats article').nth(2)).toContainText('$142.65');
+ await expect(page.locator('.tournament-stats article').nth(3)).toContainText('$65.05');
+ await expect(page.locator('.tournament-stats article').nth(4)).toContainText('83.83%');
+ await expect(page.locator('.tournament-stats article').nth(5)).toContainText('16 / 23 tournaments returned cash');
+ await expect(page.locator('.tournament-ledger tbody tr')).toHaveCount(23);
+ await expect(page.locator('.tournament-crosscheck')).toContainText('4040099699');
+ await expect(page.locator('.tournament-crosscheck')).toContainText('19 of 20');
+ await expect(page.locator('.profit-chart-readout strong')).toHaveText('$65.05');
+ await expect(page.getByRole('combobox', { name: 'Return basis' })).toHaveCount(0);
+ await expect(page.getByRole('columnheader', { name: 'Ticket value' })).toHaveCount(0);
+ await expect(page.locator('.tournament-stats article').nth(5)).toContainText('69.57%');
+ await expect(page.locator('.tournament-ledger tbody tr').filter({ hasText: '#4040099787' }).locator('.negative')).toHaveText('-$1.50');
+ await page.getByRole('searchbox', { name: 'Search tournaments' }).fill('319087466');
+ await expect(page.locator('.tournament-ledger tbody tr')).toHaveCount(1);
+ await expect(page.locator('.tournament-ledger tbody')).toContainText('2 file(s)');
+ await page.getByRole('searchbox', { name: 'Search tournaments' }).fill('');
+ await page.locator('.profit-chart circle').first().focus();
+ await expect(page.locator('.profit-chart-readout strong')).toHaveText('$0.00');
+ await page.locator('.profit-chart circle').last().focus();
+ await expect(page.locator('.profit-chart-readout strong')).toHaveText('$65.05');
+ await page.screenshot({ path: '/tmp/pokerttool-tournaments-desktop.png', fullPage: true });
+ await page.setViewportSize({ width: 390, height: 844 });
+ await page.screenshot({ path: '/tmp/pokerttool-tournaments-mobile.png', fullPage: true });
+ if (await page.evaluate(() => document.documentElement.scrollWidth > innerWidth)) throw new Error('Mobile page overflow');
+ if (errors.length) throw new Error(errors.join('\n'));
+ console.log('PASS: real summaries, deduplicated totals, cash-only accounting, cumulative curve, table search, keyboard graph and mobile layout.');
+} finally { await browser.close(); }

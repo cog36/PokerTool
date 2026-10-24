@@ -1,5 +1,6 @@
 // A small, consistent line-icon set for the study tools.
 const paths = {
+ tournaments: 'M8 3h8v7a4 4 0 0 1-8 0V3z M8 5H4v3a4 4 0 0 0 4 4 M16 5h4v3a4 4 0 0 1-4 4 M12 14v6 M8 21h8',
  overview: 'M3 3h7v7H3z M14 3h7v7h-7z M3 14h7v7H3z M14 14h7v7h-7z',
  handOverview: 'M4 4h16v16H4z M8 8h8 M8 12h8 M8 16h4',
  analysis: 'M4 20V10 M10 20V4 M16 20v-7 M22 20H2',

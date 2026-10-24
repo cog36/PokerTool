@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { lazy, Suspense, useEffect, useState } from 'react';
 import NavIcon from './components/NavIcon';
 import ThemeToggle from './components/ThemeToggle';
 import Overview from './pages/Overview';
@@ -6,11 +6,12 @@ import Ranges from './pages/Ranges';
 import Notebook from './pages/Notebook';
 import Coach from './pages/Coach';
 import Analysis from './pages/Analysis';
+const Tournaments = lazy(() => import('./pages/Tournaments'));
 import HandOverview from './pages/HandOverview';
 import Arena from './pages/Arena';
 import { readStored, writeStored } from './model';
 
-const pages = { overview: ['Home', '◫'], handOverview: ['Hand Overview', '▤'], analysis: ['Session Analysis', '⌁'], ranges: ['Preflop Charts', '▦'], arena: ['AI Arena', '♠'], notebook: ['Study Notebook', '▤'], coach: ['AI Coach', '✦'] };
+const pages = { overview: ['Home', '◫'], handOverview: ['Hand Overview', '▤'], tournaments: ['Tournaments', '♜'], analysis: ['Session Analysis', '⌁'], ranges: ['Preflop Charts', '▦'], arena: ['AI Arena', '♠'], notebook: ['Study Notebook', '▤'], coach: ['AI Coach', '✦'] };
 
 function currentPage() {
   const name = location.hash.slice(1);
@@ -50,6 +51,7 @@ export default function App() {
         {/* Keep screens mounted so filters, drafts, and replay position survive navigation. */}
         <div hidden={page !== 'overview'}><Overview tasks={tasks} toggleTask={toggleTask} /><p className="caption" role="status">{taskStatus}</p></div>
         <div hidden={page !== 'handOverview'}><HandOverview active={page === 'handOverview'} /></div>
+        <div hidden={page !== 'tournaments'}><Suspense fallback={<p role="status">Loading tournament ledger…</p>}><Tournaments active={page === 'tournaments'} /></Suspense></div>
         <div hidden={page !== 'analysis'}><Analysis analysis={analysis} onAnalysis={setAnalysis} /></div>
         <div hidden={page !== 'ranges'}><Ranges /></div>
         <div hidden={page !== 'arena'}><Arena active={page === 'arena'} /></div>

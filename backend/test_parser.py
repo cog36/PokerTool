@@ -17,7 +17,7 @@ SAMPLE_FILE_PATH = (
     / "GG20261015-2250 - Daily Hyper 2.txt"
 )
 POKERSTARS_FILE_PATH = next(
-    (PROJECT_ROOT / "hand_histories" / "pokerstars").glob("*.txt")
+    (PROJECT_ROOT / "hand_histories" / "pokerstars").glob("*T4039880417*.txt")
 )
 
 

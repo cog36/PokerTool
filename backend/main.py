@@ -14,10 +14,12 @@ if __package__:
     from .parser import parse_hand_history
     from .analyzer import analyze_session_hands
     from .hand_history_overview import build_hand_history_overview
+    from .tournaments import build_tournaments
 else:
     from parser import parse_hand_history
     from analyzer import analyze_session_hands
     from hand_history_overview import build_hand_history_overview
+    from tournaments import build_tournaments
 
 MAX_HAND_HISTORY_BYTES = 10 * 1024 * 1024
 DEFAULT_MODEL = 'openai/gpt-oss-120b'
@@ -92,6 +94,12 @@ def health():
 def hand_history_overview(response: Response, room: Literal['all', 'pokerstars', 'ggpoker'] = 'all'):
     response.headers['Cache-Control'] = 'no-store'
     return build_hand_history_overview(room=room)
+
+
+@app.get('/api/tournaments')
+def tournaments(response: Response):
+    response.headers['Cache-Control'] = 'no-store'
+    return build_tournaments()
 
 
 @app.post('/api/analyze')
