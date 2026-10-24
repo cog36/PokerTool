@@ -38,6 +38,15 @@ try {
   await page.getByRole('navigation').getByRole('link', { name: 'Overview', exact: false }).first().click();
   assert.equal(await page.locator('#overview-attempts').textContent(), '2');
   await page.getByRole('checkbox').first().check();
+  await page.getByRole('navigation').getByRole('link', { name: 'Practice Room' }).click();
+  await page.getByRole('button', { name: 'Next decision' }).click();
+  await page.getByRole('button', { name: '1 Fold' }).click();
+  await expect(page.locator('.answer-indicator.incorrect')).toHaveText(/Incorrect/);
+  await expect(page.locator('.action-buttons .chosen')).toHaveClass(/incorrect/);
+  assert.equal(await page.locator('.action-buttons .chosen').evaluate(element => getComputedStyle(element).backgroundColor), 'rgb(220, 53, 73)');
+  await page.getByRole('button', { name: 'Repeat the examples' }).click();
+  await expect(page.locator('.answer-indicator')).toHaveCount(0);
+
 
   await page.getByRole('navigation').getByRole('link', { name: 'Hand Library', exact: false }).click();
   await page.getByRole('button', { name: 'Next street' }).click();
@@ -55,6 +64,66 @@ try {
   await page.getByRole('button', { name: 'Delete note: React migration check' }).click();
   assert.equal(await page.locator('.saved-note').count(), 0);
 
+  // A fixed random source forces a full eight-opponent table for layout and gameplay checks.
+  await page.addInitScript(() => { Math.random = () => .999; });
+  await page.goto(`${baseUrl}/#arena`);
+  await page.reload();
+  await expect(page.locator('.arena-bot')).toHaveCount(8);
+  await expect(page.locator('.speech-bubble')).toHaveCount(8);
+  await expect(page.locator('.arena-community .card')).toHaveCount(0);
+  await expect(page.locator('.board-card-space')).toHaveCount(5);
+  await expect(page.locator('.arena-streets [aria-current="step"]')).toHaveText('Preflop');
+  await page.getByRole('button', { name: 'Cinematic play', exact: true }).click();
+  async function waitForDecision() {
+    await expect(page.locator('.arena-stage')).toHaveAttribute('data-dealing', 'false', { timeout: 15000 });
+    await expect(page.locator('.arena-stage')).toHaveAttribute('data-playing', 'false', { timeout: 20000 });
+    await expect(page.locator('.skip-playback')).toHaveCount(0, { timeout: 20000 });
+  }
+  await waitForDecision();
+  await expect(page.locator('.arena-community .card')).toHaveCount(0);
+  await expect(page.locator('.arena-action-log')).toContainText('posts');
+  assert.equal(await page.locator('.archetype-tag').count(), 8);
+
+  let decisions = 0;
+  while (!await page.locator('.arena-outcome').count()) {
+    assert.ok(++decisions < 80, 'The hand should finish');
+    await page.locator('.arena-actions').getByRole('button', { name: /^(Check|Call )/ }).click();
+    await waitForDecision();
+  }
+  await expect(page.locator('.arena-community .card')).toHaveCount(5);
+  for (const street of ['Preflop', 'Flop', 'Turn', 'River']) {
+    await expect(page.locator('.history-street').getByRole('heading', { name: street, exact: true })).toHaveCount(1);
+  }
+  await expect(page.locator('.arena-sidebar .practice-metrics strong').first()).toHaveText('1');
+  await page.locator('.arena-actions').getByRole('button').click();
+  await expect(page.locator('.arena-community .card')).toHaveCount(0);
+  await page.getByRole('navigation').getByRole('link', { name: 'Overview' }).first().click();
+  const pausedStatus = await page.locator('.dealer-status').textContent();
+  await page.waitForTimeout(400);
+  assert.equal(await page.locator('.dealer-status').textContent(), pausedStatus);
+  await page.getByRole('navigation').getByRole('link', { name: 'AI Arena' }).click();
+  await page.emulateMedia({ reducedMotion: 'reduce' });
+  await waitForDecision();
+  assert.equal(await page.locator('.arena-bot .bot-avatar').first().evaluate(element => getComputedStyle(element).animationName), 'none');
+  await page.getByRole('button', { name: 'Mute table talk' }).click();
+  await expect(page.locator('.speech-bubble')).toHaveCount(0);
+  await page.getByRole('button', { name: 'Show table talk' }).click();
+  await expect(page.locator('.speech-bubble')).toHaveCount(8);
+
+  // A new random table can also be heads-up, without affecting the current hand's deck.
+  await page.evaluate(() => { Math.random = () => .01; });
+  await page.getByRole('button', { name: 'New random table', exact: true }).click();
+  await expect(page.locator('.arena-bot')).toHaveCount(1);
+  await waitForDecision();
+  await expect(page.locator('.arena-community .card')).toHaveCount(0);
+  await expect(page.locator('.decision-context')).toContainText('BTN / SB');
+  await page.getByRole('button', { name: 'Read the opponent', exact: false }).click();
+  await page.getByRole('button', { name: 'Assume every bet is a bluff', exact: false }).click();
+  await expect(page.locator('.read-game .answer-indicator.incorrect')).toBeVisible();
+  await page.getByRole('button', { name: 'Next opponent' }).click();
+  await expect(page.locator('.read-game .answer-indicator')).toHaveCount(0);
+  await page.emulateMedia({ reducedMotion: 'no-preference' });
+
   // Provider calls are mocked here; these checks do not consume API quota.
   await page.route('**/api/health', route => route.fulfill({ json: { status: 'ok', configured: true } }));
   let chatFails = false;
@@ -62,20 +131,23 @@ try {
   await page.route('**/api/chat', async route => {
     submitted.push(route.request().postDataJSON());
     await route.fulfill(chatFails
-      ? { status: 503, json: { detail: 'Add GROQ_API_KEY to the server .env file.' } }
-      : { json: { reply: 'Position gives you more information before acting.' } });
+      ? { status: 503, json: { detail: { code: 'model_unavailable', message: 'The selected AI model is unavailable. Update GROQ_MODEL in backend/.env, then retry.', retryable: false } } }
+      : { json: { reply: '**Position** gives you more information before acting.' } });
   });
   await page.getByRole('navigation').getByRole('link', { name: 'AI Coach' }).click();
   const question = page.getByRole('textbox', { name: 'Your question' });
+  await page.getByRole('button', { name: 'Use a hand template' }).click();
+  await expect(question).toHaveValue(/Position:/);
   await question.fill('Why does position matter?');
   await page.getByRole('button', { name: 'Ask the coach' }).click();
   await expect(page.locator('.coach-message.assistant')).toHaveText(/Position gives you more information/);
+  await expect(page.locator('.coach-message.assistant p strong')).toHaveText('Position');
   assert.equal(submitted[0].messages[0].content, 'Why does position matter?');
   await page.getByRole('combobox', { name: 'Coaching style' }).selectOption('roast');
   chatFails = true;
   await question.fill('Give me an example.');
   await page.getByRole('button', { name: 'Ask the coach' }).click();
-  await expect(page.getByRole('alert')).toHaveText(/Add GROQ_API_KEY/);
+  await expect(page.getByRole('alert')).toHaveText(/selected AI model is unavailable/);
   await expect(question).toHaveValue('Give me an example.');
   assert.equal(submitted[1].mode, 'roast');
   assert.equal(submitted[1].messages.length, 3);
@@ -138,12 +210,15 @@ try {
     for (const route of ['overview', 'analysis', 'ranges', 'practice', 'arena', 'hands', 'notebook', 'coach']) {
       await page.goto(`${baseUrl}/doc.html#${route}`);
       await page.locator(`#${route}`).waitFor({ state: 'visible' });
-      if (route === 'overview') await page.screenshot({ path: `/tmp/pokerttool-react-${width}.png`, fullPage: true });
+      if (route === 'coach') await page.screenshot({ path: `/tmp/pokerttool-coach-${width}.png`, fullPage: true, animations: 'disabled' });
+      if (route === 'arena') await expect(page.locator('.arena-stage')).toHaveAttribute('data-dealing', 'false');
+      if (route === 'arena') await page.screenshot({ path: `/tmp/pokerttool-arena-${width}.png`, fullPage: true, animations: 'disabled' });
+      if (route === 'overview') await page.screenshot({ path: `/tmp/pokerttool-react-${width}.png`, fullPage: true, animations: 'disabled' });
       assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1), `Page overflows at ${width}px: ${route}`);
     }
   }
   assert.deepEqual(errors, []);
-  console.log('PASS: themes, range filters, keyboard scoring, shared session results, hand-history analysis, AI Arena, replays, notebook persistence, chat history, both entry points, mobile layout, and no browser errors.');
+  console.log('PASS: themes, range filters, keyboard scoring, shared session results, replays, notebook persistence, full preflop-to-river hands, 1–8 opponents, action history, speech bubbles, opponent quiz, chat history, provider errors, retry, both entry points, mobile layout, and no browser errors.');
 } finally {
   await browser.close();
 }

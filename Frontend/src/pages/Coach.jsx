@@ -1,89 +1,152 @@
 import { useEffect, useRef, useState } from 'react';
 
 const starters = [
-  'How should my opening range change from UTG to the button?',
-  'What information should I include when reviewing a hand?',
-  'Explain the difference between a value bet and a bluff.',
+  { icon: '▦', title: 'Find your range', question: 'How should my opening range change from UTG to the button?' },
+  { icon: '♧', title: 'Review a decision', question: 'What information should I include when reviewing a hand?' },
+  { icon: '◎', title: 'Build the fundamentals', question: 'Explain the difference between a value bet and a bluff.' },
 ];
+const connectionLabels = {
+  checking: 'Checking connection', ready: 'Server ready', connected: 'Coach connected',
+  offline: 'Server offline', setup: 'Setup needed', issue: 'Connection needs attention',
+};
+
+// Models sometimes include emphasis despite a plain-text request. Render only bold
+// spans as React nodes; never interpret model output as HTML.
+function replyText(text) {
+  return text.split(/(\*\*[^*]+\*\*)/g).map((part, index) =>
+    part.startsWith('**') && part.endsWith('**') ? <strong key={index}>{part.slice(2, -2)}</strong> : part);
+}
 
 export default function Coach() {
   const [messages, setMessages] = useState([]);
   const [draft, setDraft] = useState('');
   const [mode, setMode] = useState('constructive');
   const [busy, setBusy] = useState(false);
-  const [error, setError] = useState('');
-  const [configured, setConfigured] = useState(null);
+  const [error, setError] = useState(null);
+  const [connection, setConnection] = useState('checking');
+  const [pending, setPending] = useState('');
+  const [copyStatus, setCopyStatus] = useState('');
   const request = useRef(null);
+  const healthRequest = useRef(null);
   const locked = useRef(false);
   const transcript = useRef(null);
+  const composer = useRef(null);
+  const input = useRef(null);
+
+  async function checkConnection() {
+    healthRequest.current?.abort();
+    const controller = new AbortController();
+    healthRequest.current = controller;
+    const timeout = setTimeout(() => controller.abort(), 5000);
+    setConnection('checking');
+    try {
+      const response = await fetch('/api/health', { signal: controller.signal });
+      if (!response.ok) throw new Error();
+      const data = await response.json();
+      if (healthRequest.current !== controller) return;
+      setConnection(data.configured ? 'ready' : 'setup');
+    } catch {
+      if (healthRequest.current === controller) setConnection('offline');
+    } finally {
+      clearTimeout(timeout);
+    }
+  }
 
   useEffect(() => {
-    const controller = new AbortController();
-    fetch('/api/health', { signal: controller.signal })
-      .then(response => response.ok ? response.json() : Promise.reject())
-      .then(data => setConfigured(Boolean(data.configured)))
-      .catch(() => {});
-    return () => { controller.abort(); request.current?.abort(); };
+    checkConnection();
+    return () => { healthRequest.current?.abort(); healthRequest.current = null; request.current?.abort(); };
   }, []);
 
   useEffect(() => {
     const log = transcript.current;
     if (log) log.scrollTop = log.scrollHeight;
-  }, [messages, busy, error]);
+  }, [messages, pending, busy, error]);
+
+  function choosePrompt(text) {
+    setDraft(text); setError(null); input.current?.focus();
+  }
 
   async function send(event) {
     event.preventDefault();
     const text = draft.trim();
     if (!text || locked.current) return;
-    const pending = [...messages, { role: 'user', content: text }];
-    // Bound history to the API contract, retaining complete recent conversation turns.
-    const history = pending.slice(-19);
+    const conversation = [...messages, { role: 'user', content: text }];
+    const history = conversation.slice(-19);
     if (history.reduce((total, item) => total + item.content.length, 0) > 24000) {
-      setError('This conversation is too long. Start a new chat before sending more.');
+      setError({ message: 'This conversation is full. Start a new chat to explore another hand.', code: 'history_limit' });
       return;
     }
     locked.current = true;
-    setBusy(true); setError('');
+    setBusy(true); setError(null); setPending(text); setCopyStatus('');
     const controller = new AbortController();
     request.current = controller;
     const timeout = setTimeout(() => controller.abort(), 45000);
     try {
       const response = await fetch('/api/chat', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ messages: history, mode }),
-        signal: controller.signal,
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ messages: history, mode }), signal: controller.signal,
       });
       const data = await response.json().catch(() => null);
-      if (!response.ok) throw new Error(typeof data?.detail === 'string' ? data.detail : 'Could not send your message. Check the Python API and try again.');
-      if (typeof data?.reply !== 'string' || !data.reply.trim()) throw new Error('The coach returned no reply. Please try again.');
-      setMessages([...pending, { role: 'assistant', content: data.reply }]);
-      setDraft(''); setConfigured(true);
+      if (!response.ok) {
+        // Accept legacy text errors as well as the API's actionable error categories.
+        const detail = data?.detail;
+        const failure = new Error(typeof detail === 'string' ? detail : detail?.message || 'The Python API could not complete this request. Check the server and try again.');
+        failure.code = detail?.code || 'request_failed';
+        throw failure;
+      }
+      if (typeof data?.reply !== 'string' || !data.reply.trim()) throw new Error('No reply arrived. Your question is still here; please try again.');
+      setMessages([...conversation, { role: 'assistant', content: data.reply }]);
+      setDraft(''); setConnection('connected');
     } catch (failure) {
-      // Keep the draft and accepted history untouched on failure so retry is safe.
-      setError(failure.name === 'AbortError' ? 'Request stopped or timed out. Your draft is still here.' : failure.message === 'Failed to fetch' ? 'Cannot reach the Python API. Start it on port 8000 and try again.' : failure.message);
+      const stopped = failure.name === 'AbortError';
+      const offline = failure instanceof TypeError;
+      setError({
+        code: stopped ? 'stopped' : failure.code || 'request_failed',
+        message: stopped ? 'Request stopped or timed out. Your question is still here.' : offline ? 'Cannot reach the Python API. Start it on port 8000, then try again.' : failure.message,
+      });
+      if (!stopped) setConnection(offline ? 'offline' : 'issue');
     } finally {
-      clearTimeout(timeout); request.current = null; locked.current = false; setBusy(false);
+      clearTimeout(timeout); request.current = null; locked.current = false; setBusy(false); setPending('');
     }
   }
 
-  return <section className="page" id="coach">
-    <div className="page-title"><div><p className="eyebrow">A LITTLE PERSPECTIVE HELPS</p><h1>AI Coach<span>.</span></h1><p>Talk through the decision. Understand the reasoning.</p></div><span className="pill outlined">AI feedback · not solver analysis</span></div>
+  async function copyReply(text) {
+    try { await navigator.clipboard.writeText(text); setCopyStatus('Reply copied.'); }
+    catch { setCopyStatus('Copy is unavailable. You can select and copy the reply manually.'); }
+  }
+
+  const roast = mode === 'roast';
+  return <section className="page coach-page" id="coach">
+    <div className="page-title"><div><p className="eyebrow">A BETTER DECISION STARTS HERE</p><h1>AI Coach<span>.</span></h1><p>A little perspective. A clearer plan for your next hand.</p></div><span className="pill outlined">AI guidance · not solver output</span></div>
     <div className="coach-layout">
       <section className="panel coach-chat">
-        <div className="panel-title"><h2>Your table-side study partner</h2><button type="button" className="button" disabled={busy || !messages.length} onClick={() => { setMessages([]); setError(''); }}>New chat ↻</button></div>
+        <header className="coach-chat-header">
+          <div className="coach-heading"><span className="coach-mini-avatar" aria-hidden="true">✦</span><div><h2>Your table-side study partner</h2><span className={`coach-connection ${connection}`} role="status"><i />{connectionLabels[connection]}</span></div></div>
+          <button type="button" className="button coach-new-chat" disabled={busy || (!messages.length && !draft && !error)} onClick={() => { setMessages([]); setDraft(''); setError(null); setCopyStatus(''); input.current?.focus(); }}>New chat ↻</button>
+        </header>
         <div className="coach-transcript" ref={transcript} role="log" aria-live="polite" aria-label="Coaching conversation">
-          {!messages.length && <div className="coach-welcome"><span>✦</span><h2>What’s on your mind?</h2><p>Ask about a concept or describe a hand. Include positions, stack sizes, the board, and the action.</p><div className="coach-starters">{starters.map(text => <button key={text} type="button" disabled={busy} onClick={() => setDraft(text)}>{text}<span>↗</span></button>)}</div></div>}
-          {messages.map((message, index) => <article className={`coach-message ${message.role}`} key={index}><span>{message.role === 'user' ? 'YOU' : '✦ POKERTTOOL COACH'}</span><p>{message.content}</p></article>)}
-          {busy && <p className="coach-thinking" role="status">✦ Coach is thinking…</p>}
+          {!messages.length && !busy && <div className="coach-welcome">
+            <div className="coach-orbit" aria-hidden="true"><span>♠</span><i>✦</i></div>
+            <span className="coach-intro-label">YOUR NEXT GOOD QUESTION</span><h2>Let’s think through your game.</h2><p>Bring a tricky hand, a new concept, or a decision that didn’t feel quite right. We’ll break it down together.</p>
+            <div className="coach-starters">{starters.map(starter => <button key={starter.title} type="button" onClick={() => choosePrompt(starter.question)}><span className="starter-symbol" aria-hidden="true">{starter.icon}</span><span><strong>{starter.title}</strong><small>{starter.question}</small></span><b aria-hidden="true">↗</b></button>)}</div>
+          </div>}
+          {messages.map((message, index) => <article className={`coach-message ${message.role}`} key={index}><div className="coach-message-label"><span>{message.role === 'user' ? 'YOU' : '✦ POKERTOOL COACH'}</span>{message.role === 'assistant' && <button type="button" aria-label={`Copy coach reply ${Math.ceil(index / 2)}`} onClick={() => copyReply(message.content)}>Copy ↗</button>}</div><p>{message.role === 'assistant' ? replyText(message.content) : message.content}</p></article>)}
+          {pending && <article className="coach-message user pending-message"><div className="coach-message-label"><span>YOU</span></div><p>{pending}</p></article>}
+          {busy && <div className="coach-thinking" role="status"><span className="coach-mini-avatar" aria-hidden="true">✦</span><span>Thinking it through<span className="coach-typing" aria-hidden="true"><i /><i /><i /></span></span></div>}
         </div>
-        {error && <p className="coach-error" role="alert">{error}</p>}
-        <form className="coach-composer" onSubmit={send}>
-          <label className="field">Your question<textarea rows={3} maxLength={6000} value={draft} disabled={busy} onChange={event => setDraft(event.target.value)} placeholder="I was on the button with AKs…" required /></label>
-          <div className="coach-compose-footer"><span className="caption">{draft.length.toLocaleString()} / 6,000 · Replies may be inaccurate.</span><div>{busy && <button type="button" className="button" onClick={() => request.current?.abort()}>Stop</button>}<button className="button primary" type="submit" disabled={busy || !draft.trim()}>{busy ? 'Thinking…' : 'Ask the coach ↗'}</button></div></div>
+        {error && <div className={`coach-error${error.code === 'stopped' ? ' stopped' : ''}`} role="alert"><span className="coach-error-icon" aria-hidden="true">{error.code === 'stopped' ? 'Ⅱ' : '!'}</span><div><strong>{error.code === 'model_unavailable' ? 'The coaching model needs an update' : error.code === 'stopped' ? 'Your draft is safe' : 'Let’s reconnect your coach'}</strong><p>{error.message}</p></div><button type="button" disabled={busy || !draft.trim()} onClick={() => composer.current?.requestSubmit()}>Retry ↗</button></div>}
+        <form className="coach-composer" ref={composer} onSubmit={send}>
+          <label className="field">Your question<textarea ref={input} rows={3} maxLength={6000} value={draft} disabled={busy} onChange={event => setDraft(event.target.value)} onKeyDown={event => { if (event.key === 'Enter' && (event.metaKey || event.ctrlKey)) { event.preventDefault(); if (!busy) composer.current?.requestSubmit(); } }} placeholder="What would you like to work on?" required /></label>
+          <div className="coach-compose-footer"><span className="caption">{draft.length.toLocaleString()} / 6,000 <span className="composer-shortcut">· Ctrl / ⌘ + Enter to send</span></span><div>{busy && <button type="button" className="button" onClick={() => request.current?.abort()}>Stop</button>}<button className="button primary" type="submit" disabled={busy || !draft.trim()}>{busy ? 'Thinking…' : 'Ask the coach ↗'}</button></div></div>
+          <p className="coach-footer-note">A study partner, not a solver. Always question the reasoning.</p><span className="copy-status" role="status">{copyStatus}</span>
         </form>
       </section>
-      <aside className="coach-sidebar"><section className="panel"><p className="eyebrow">FIND YOUR STYLE</p><h2>Helpful, with personality.</h2><label className="field">Coaching style<select value={mode} disabled={busy} onChange={event => setMode(event.target.value)}><option value="constructive">Constructive coach</option><option value="roast">Friendly roast</option></select></label><p className="caption">{mode === 'roast' ? 'A little poker humour followed by useful reasoning. The decision gets roasted, not you.' : 'Supportive explanations focused on improving your next decision.'}</p></section><section className="learning-note"><span>✳</span><h3>Give your coach the context.</h3><p>Position · effective stacks · hole cards · board cards · bet sizes · previous actions.</p><p>The coach cannot see your practice results, notebook, or a solver. Only the conversation is sent to Groq when you submit.</p></section>{configured === false && <p className="caption">Chat needs server setup: add a Groq API key to .env, then restart the Python API.</p>}</aside>
+      <aside className="coach-sidebar">
+        <section className="panel coach-personality"><div className={`coach-character${roast ? ' roast' : ''}`} aria-hidden="true">{roast ? '🦊' : '🦉'}</div><span className="eyebrow">MEET YOUR CORNER OF THE TABLE</span><h2>{roast ? 'A little spice. Still on your side.' : 'Calm advice. Clear reasoning.'}</h2><p>{roast ? 'Some friendly poker humour, followed by a useful lesson. We roast the decision, not you.' : 'Patient explanations to help you understand the spot and make your next decision with purpose.'}</p><label className="field">Coaching style<select value={mode} disabled={busy} onChange={event => setMode(event.target.value)}><option value="constructive">Constructive coach</option><option value="roast">Friendly roast</option></select></label></section>
+        <section className="panel coach-hand-guide"><span className="eyebrow">GET A BETTER ANSWER</span><h3>Set the scene.</h3><p>The more context you bring, the more useful the conversation.</p><ul>{['Position and effective stacks', 'Your cards and the board', 'Bet sizes and earlier actions', 'The decision you’re unsure about'].map((text, index) => <li key={text}><span>0{index + 1}</span>{text}</li>)}</ul><button type="button" className="button" disabled={busy} onClick={() => choosePrompt('Help me review this hand:\nPosition: \nEffective stacks: \nMy hole cards: \nBoard: \nActions and bet sizes: \nMy question: ')}>Use a hand template <span>↗</span></button></section>
+        <div className="coach-service-note"><span>◈</span><p>Only the conversation you submit is sent to Groq. Your notebook and Arena hands aren’t shared automatically.</p></div>
+        {(connection === 'offline' || connection === 'setup' || connection === 'issue') && <div className="coach-setup-note"><p>{connection === 'setup' ? 'Add your Groq key in backend/.env to connect the coach.' : connection === 'offline' ? 'Start the Python API on port 8000 to connect.' : 'Check the message beside your question, then retry.'}</p><button type="button" disabled={busy} onClick={checkConnection}>Check connection ↗</button></div>}
+      </aside>
     </div>
   </section>;
 }

@@ -1338,27 +1338,52 @@ h1>span {
 }
 
 .action-buttons button[data-action=fold] {
-  color: #e8b8b9;
-  background: #34282c;
-  border-color: #514044;
+  color: #352005;
+  background: #ffc56c;
+  border-color: #ffda9d;
 }
 
 .action-buttons button[data-action=call] {
-  color: #bad0ef;
-  background: #233345;
-  border-color: #3a4e64;
+  color: #102e4c;
+  background: #81c3ff;
+  border-color: #add9ff;
 }
 
 .action-buttons button[data-action=raise] {
-  color: var(--mint);
-  background: #244336;
-  border-color: #3c6551;
+  color: #103c28;
+  background: #65e4a6;
+  border-color: #9cf4c5;
+}
+
+.action-buttons button {
+  font-weight: 750;
+  box-shadow: 0 3px 10px #00000020;
+  transition: filter 150ms, box-shadow 150ms;
+}
+
+.action-buttons button:hover:not(:disabled) {
+  filter: brightness(1.1);
+  box-shadow: 0 4px 16px #00000030;
+}
+
+/* A wrong choice turns red regardless of which action was selected. */
+.action-buttons button.chosen.incorrect {
+  background: #dc3549;
+  border-color: #ff8794;
+  color: #ffffff;
+  outline-color: #dc3549;
+}
+
+.action-buttons button.chosen.correct {
+  background: #65e4a6;
+  border-color: #9cf4c5;
+  color: #103c28;
 }
 
 .action-buttons button>span {
   font-size: 9px;
   border: 1px solid currentColor;
-  opacity: .5;
+  opacity: .85;
   padding: 0 4px;
   border-radius: 3px;
 }
@@ -1394,6 +1419,25 @@ h1>span {
 .feedback-panel {
   border-top: 3px solid var(--mint);
 }
+
+/* Text and a symbol accompany colour so the outcome is accessible. */
+.feedback-panel.incorrect { border-color: #e35868; }
+.feedback-panel.correct { border-top-color: #42bb82; }
+.answer-indicator {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 12px;
+  margin-top: 16px;
+  border: 1px solid;
+  border-radius: 7px;
+  font-size: 11px;
+  font-weight: 700;
+}
+.answer-indicator.incorrect { color: #ffb4bd; background: #4a1c27; border-color: #e35868; }
+.answer-indicator.correct { color: #a4eacb; background: #163e2d; border-color: #42bb82; }
+[data-theme="light"] .answer-indicator.incorrect { color: #9d1830; background: #ffe7eb; border-color: #ca364e; }
+[data-theme="light"] .answer-indicator.correct { color: #155d3d; background: #dff7e9; border-color: #238255; }
 
 .feedback-panel h3 {
   font-size: 22px;
@@ -2468,24 +2512,100 @@ h1>span {
   .hand:hover { scale: none; }
 }
 
-/* AI coach: a readable transcript and a composer that keeps failed drafts intact. */
-.coach-layout { display: grid; grid-template-columns: minmax(0, 2fr) minmax(250px, 1fr); gap: 22px; }
-.coach-chat { min-width: 0; }
-.coach-transcript { height: 390px; overflow-y: auto; display: flex; flex-direction: column; gap: 18px; padding: 10px 5px 20px; }
-.coach-welcome { text-align: center; max-width: 440px; margin: auto; padding: 20px 0; }
-.coach-welcome > span { color: var(--mint); font-size: 35px; }
-.coach-welcome h2 { margin: 10px 0; font-size: 25px; }
-.coach-welcome p { font-size: 12px; color: var(--muted); line-height: 1.9; }
-.coach-starters { display: grid; gap: 9px; margin-top: 24px; }
-.coach-starters button { display: flex; justify-content: space-between; gap: 12px; text-align: left; border: 1px solid var(--border); color: var(--text); background: var(--bg); border-radius: 7px; padding: 12px; font-size: 11px; }
-.coach-starters button:hover { border-color: var(--mint); }
-.coach-starters span { color: var(--mint); }
-.coach-message { max-width: 92%; background: var(--bg); border: 1px solid var(--border); padding: 16px; border-radius: 10px; animation: enter 200ms ease; }
-.coach-message.user { align-self: flex-end; border-color: var(--green); }
-.coach-message > span { color: var(--mint); font-size: 9px; letter-spacing: 1px; }
-.coach-message p { white-space: pre-wrap; overflow-wrap: anywhere; font-size: 13px; line-height: 1.9; margin-top: 8px; }
-.coach-thinking { color: var(--mint); font-size: 12px; }
-.coach-composer { border-top: 1px solid var(--border); padding-top: 18px; }
+/* AI Coach: a focused conversation space, with guidance kept in a quiet side rail. */
+.coach-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.95fr) minmax(265px, .85fr);
+  gap: 22px;
+  align-items: start;
+}
+
+.coach-chat {
+  padding: 0;
+  overflow: hidden;
+  background: linear-gradient(150deg, color-mix(in srgb, var(--green) 4%, var(--panel)), var(--panel) 55%);
+  box-shadow: 0 12px 40px #0000000a;
+}
+
+.coach-chat-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 20px 24px;
+  border-bottom: 1px solid var(--border);
+}
+
+.coach-heading { display: flex; align-items: center; gap: 12px; }
+.coach-heading h2 { font-size: 13px; letter-spacing: -.2px; }
+.coach-mini-avatar {
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  border: 1px solid color-mix(in srgb, var(--green) 40%, var(--border));
+  border-radius: 11px;
+  background: color-mix(in srgb, var(--green) 12%, var(--panel));
+  color: var(--mint);
+  font-size: 23px;
+}
+
+.coach-connection { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 9px; margin-top: 4px; }
+.coach-connection i { width: 5px; height: 5px; background: #d4ac64; }
+.coach-connection.connected i { background: var(--green); }
+.coach-connection.offline i, .coach-connection.issue i, .coach-connection.setup i { background: var(--red); }
+.coach-connection.checking i { animation: connection-pulse 800ms ease-in-out infinite alternate; }
+.coach-new-chat { padding: 7px 10px; font-size: 9px; }
+
+.coach-transcript {
+  height: clamp(490px, 55vh, 620px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 26px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) transparent;
+}
+
+.coach-welcome { width: 100%; margin: auto; text-align: center; padding: 12px 0; }
+.coach-orbit { position: relative; display: grid; place-items: center; width: 80px; height: 80px; margin: 0 auto 22px; border: 1px solid color-mix(in srgb, var(--green) 30%, transparent); border-radius: 50%; background: radial-gradient(circle, color-mix(in srgb, var(--green) 15%, transparent), transparent 72%); }
+.coach-orbit > span { display: grid; place-items: center; width: 50px; height: 50px; border: 1px solid color-mix(in srgb, var(--green) 40%, transparent); border-radius: 17px; background: color-mix(in srgb, var(--green) 13%, var(--panel)); color: var(--mint); font-size: 35px; rotate: -8deg; }
+.coach-orbit > i { position: absolute; width: auto; height: auto; right: -2px; top: 4px; color: var(--mint); font-style: normal; font-size: 19px; animation: coach-float 4s ease-in-out infinite alternate; }
+.coach-intro-label { font-size: 8px; letter-spacing: 1.8px; color: var(--mint); }
+.coach-welcome h2 { font-size: clamp(24px, 2vw, 31px); letter-spacing: -1px; line-height: 1.2; margin: 10px 0 13px; }
+.coach-welcome > p { color: var(--muted); font-size: 12px; line-height: 1.9; max-width: 430px; margin: 0 auto; }
+
+.coach-starters { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; margin: 27px 0 5px; }
+.coach-starters button { position: relative; display: flex; flex-direction: column; gap: 13px; text-align: left; border: 1px solid var(--border); border-radius: 10px; background: var(--bg); color: var(--text); padding: 16px 14px 25px; transition: border-color 160ms, translate 160ms, background 160ms; }
+.coach-starters button:hover { border-color: var(--green); background: color-mix(in srgb, var(--green) 7%, var(--bg)); translate: 0 -3px; }
+.coach-starters .starter-symbol { display: grid; place-items: center; width: 31px; height: 31px; border-radius: 8px; font-size: 20px; color: var(--mint); background: color-mix(in srgb, var(--green) 12%, var(--panel)); }
+.coach-starters button:nth-child(2) .starter-symbol { color: var(--lavender); background: color-mix(in srgb, var(--lavender) 12%, var(--panel)); }
+.coach-starters button:nth-child(3) .starter-symbol { color: var(--peach); background: color-mix(in srgb, var(--peach) 12%, var(--panel)); }
+.coach-starters strong { display: block; font-size: 11px; font-weight: 650; margin-bottom: 7px; }
+.coach-starters small { display: block; color: var(--muted); font-size: 10px; line-height: 1.7; }
+.coach-starters b { position: absolute; right: 12px; bottom: 9px; font-size: 14px; color: var(--mint); font-weight: 400; }
+
+.coach-message { max-width: 94%; background: var(--bg); border: 1px solid var(--border); padding: 17px 19px; border-radius: 12px 12px 12px 3px; animation: enter 200ms ease; }
+.coach-message.user { align-self: flex-end; border-radius: 12px 12px 3px 12px; background: color-mix(in srgb, var(--green) 10%, var(--panel)); border-color: color-mix(in srgb, var(--green) 30%, var(--border)); }
+.coach-message-label { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+.coach-message-label > span { color: var(--mint); font-size: 8px; letter-spacing: 1px; }
+.coach-message.user .coach-message-label > span { color: var(--muted); }
+.coach-message-label button { font-size: 9px; color: var(--muted); border: 0; background: none; padding: 3px; }
+.coach-message-label button:hover { color: var(--mint); }
+.coach-message p { white-space: pre-wrap; overflow-wrap: anywhere; font-size: 13px; line-height: 1.95; margin-top: 10px; }
+.coach-thinking { color: var(--muted); font-size: 11px; display: flex; align-items: center; gap: 12px; }
+.coach-typing { display: inline-flex; gap: 3px; margin-left: 9px; }
+.coach-typing i { width: 3px; height: 3px; background: var(--mint); animation: connection-pulse 700ms ease-in-out infinite alternate; }
+.coach-typing i:nth-child(2) { animation-delay: 150ms; }
+.coach-typing i:nth-child(3) { animation-delay: 300ms; }
+
+.coach-composer { padding: 20px 24px 16px; border-top: 1px solid var(--border); background: color-mix(in srgb, var(--bg) 25%, var(--panel)); }
+.coach-composer .field { font-size: 10px; margin-bottom: 13px; }
+.coach-composer textarea { padding: 14px; border-radius: 9px; min-height: 95px; font-size: 12px; }
+.coach-composer textarea:focus { border-color: var(--green); outline: 2px solid color-mix(in srgb, var(--green) 15%, transparent); outline-offset: 2px; }
 .coach-compose-footer, .coach-compose-footer > div { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
 .coach-error { color: var(--red); font-size: 12px; padding: 12px; border: 1px solid var(--red); border-radius: 7px; margin-bottom: 15px; }
 .coach-sidebar { display: grid; align-content: start; gap: 20px; }

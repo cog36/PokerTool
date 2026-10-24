@@ -4,26 +4,32 @@ import os
 from pathlib import Path
 from typing import Literal
 
-from dotenv import load_dotenv
-from fastapi import FastAPI, File, HTTPException, UploadFile
+from dotenv import dotenv_values
+from fastapi import FastAPI, HTTPException
 from openai import AsyncOpenAI, APIConnectionError, APIStatusError, APITimeoutError
 from pydantic import BaseModel, ConfigDict, Field, field_validator, model_validator
 
-if __package__:
-    from .analyzer import analyze_session_hands
-    from .parser import parse_gg_hand_history
-else:
-    from analyzer import analyze_session_hands
-    from parser import parse_gg_hand_history
+DEFAULT_MODEL = 'openai/gpt-oss-120b'
+BACKEND_DIR = Path(__file__).resolve().parent
 
-# Check both backend/ and project root for .env
-load_dotenv(Path(__file__).resolve().parent / '.env')
-load_dotenv(Path(__file__).resolve().parent.parent / '.env')
 
-app = FastAPI(title='PokertTool Coaching API')
-MAX_HAND_HISTORY_BYTES = 10 * 1024 * 1024
+def settings():
+    # Read files per request so a saved model/key change does not need a restart.
+    # Explicit process variables win; backend/.env wins over the legacy root file.
+    values = {**dotenv_values(BACKEND_DIR.parent / '.env'), **dotenv_values(BACKEND_DIR / '.env')}
+    for name in ('GROQ_API_KEY', 'GROQ_MODEL'):
+        if name in os.environ:
+            values[name] = os.environ[name]
+    return (values.get('GROQ_API_KEY') or '').strip(), (values.get('GROQ_MODEL') or DEFAULT_MODEL).strip()
 
-SYSTEM_PROMPT = """You are PokertTool's poker study coach. Discuss poker decisions and fundamentals.
+
+def failure(status, code, message, retryable=False):
+    return HTTPException(status, {'code': code, 'message': message, 'retryable': retryable})
+
+
+app = FastAPI(title='PokerTool Coaching API')
+
+SYSTEM_PROMPT = """You are PokerTool's poker study coach. Discuss poker decisions and fundamentals.
 Ask for missing position, effective stacks, board, bet sizes and previous actions when relevant.
 Distinguish realised profit from expected value. You have no solver, hand-history parser,
 player statistics or live session access: never claim to have calculated GTO frequencies,
@@ -67,7 +73,8 @@ class ChatReply(BaseModel):
 @app.get('/api/health')
 def health():
     # Configuration status is not a claim that credentials or the provider were verified.
-    return {'status': 'ok', 'configured': bool(os.getenv('GROQ_API_KEY', '').strip())}
+    key, model = settings()
+    return {'status': 'ok', 'configured': bool(key), 'provider': 'Groq', 'model': model}
 
 
 @app.post('/api/analyze')
@@ -124,9 +131,9 @@ async def analyze_hand_history(file: UploadFile = File(...)):
 
 @app.post('/api/chat', response_model=ChatReply)
 async def chat(request: ChatRequest):
-    key = os.getenv('GROQ_API_KEY', '').strip()
+    key, model = settings()
     if not key:
-        raise HTTPException(503, 'Add GROQ_API_KEY to the server .env file and restart the Python API.')
+        raise failure(503, 'missing_key', 'Add GROQ_API_KEY to backend/.env, save the file, and try again.')
 
     style = (
         'Offer friendly poker humour, then useful coaching. Roast the decision, never the person; no abusive insults.'
@@ -142,25 +149,33 @@ async def chat(request: ChatRequest):
             max_retries=0,
         ) as client:
             response = await client.chat.completions.create(
-                model=os.getenv('GROQ_MODEL', 'llama-3.3-70b-versatile'),
+                model=model,
                 messages=[{'role': 'system', 'content': f'{SYSTEM_PROMPT}\n{style}'}]
                 + [message.model_dump() for message in request.messages],
-                max_tokens=700,
+                max_completion_tokens=1600,
+                **({'reasoning_effort': 'low'} if model.startswith('openai/gpt-oss') else {}),
                 temperature=0.6,
             )
     except APITimeoutError:
-        raise HTTPException(504, 'The coach took too long to respond. Please try again.') from None
+        raise failure(504, 'timeout', 'The coach took too long to reply. Your question is saved; please try again.', True) from None
     except APIConnectionError:
-        raise HTTPException(502, 'Cannot reach the AI provider. Check the server connection and try again.') from None
+        raise failure(502, 'provider_offline', 'The server cannot reach Groq. Check its internet connection and try again.', True) from None
     except APIStatusError as error:
-        # Do not return provider error bodies: they may include sensitive request details.
+        # Return actionable categories, never raw provider bodies or credentials.
+        body = error.body if isinstance(error.body, dict) else {}
+        nested = body.get('error') if isinstance(body.get('error'), dict) else {}
+        code = body.get('code') or nested.get('code')
+        if error.status_code == 404 or code in ('model_not_found', 'model_decommissioned', 'model_not_available', 'model_permission_denied'):
+            raise failure(503, 'model_unavailable', f'The selected AI model is unavailable for this account. Set GROQ_MODEL={DEFAULT_MODEL} in backend/.env, save, then retry.') from None
         if error.status_code == 429:
-            raise HTTPException(429, 'The AI provider is busy or its quota was reached. Try again shortly.') from None
+            raise failure(429, 'rate_limited', 'Groq is busy or your account quota has been reached. Wait a moment or check your Groq usage, then retry.', True) from None
         if error.status_code in (401, 403):
-            raise HTTPException(503, 'The provider rejected the server API key. Check GROQ_API_KEY.') from None
-        raise HTTPException(502, 'The AI provider could not complete this request. Check the server model setting and try again.') from None
+            raise failure(503, 'invalid_key', 'Groq rejected the server credentials. Check GROQ_API_KEY in backend/.env and your account access.') from None
+        if error.status_code == 400:
+            raise failure(502, 'provider_request', 'Groq could not accept the model request. Check the server model setting or try a new conversation.') from None
+        raise failure(502, 'provider_error', 'The AI service is temporarily unavailable. Your question is saved; please try again.', True) from None
 
     reply = response.choices[0].message.content if response.choices else None
     if not reply or not reply.strip():
-        raise HTTPException(502, 'The coach returned an empty response. Please try again.')
+        raise failure(502, 'empty_reply', 'The coach returned no text. Please try again.', True)
     return ChatReply(reply=reply.strip())
