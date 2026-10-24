@@ -53,7 +53,7 @@ test('uncovered preflop spots fall back to legacy feedback and disclose why', ()
   const result = actionFeedback(before, after(before, 'call'), 0);
   assert.equal(result.source, 'LEGACY_LOGIC'); assert.equal(result.chart.assessment, 'UNASSESSED');
   assert.equal(result.fallback, true); assert.ok(result.fallbackReason);
-  assert.match(result.text, /using legacy analysis/); assert.match(result.text, /Pays/);
+  assert.match(result.text, /using legacy analysis/); assert.match(result.text, /may be less accurate/); assert.match(result.text, /Pays/);
  }
 });
 test('opponent and Hero postflop feedback retain legacy evaluation with no chart data', () => {
