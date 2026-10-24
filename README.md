@@ -1,5 +1,79 @@
 # ♠️ Interactive Poker Analysis & GTO Training App
 
+## Run the React frontend
+
+The browser-only frontend uses **React + Vite**, with the existing custom CSS and light/dark themes.
+It includes the overview, interactive range explorer, sample practice decisions, hand replays, and local study notes.
+The range and training data are illustrative; no Python server, API key, or solver is required.
+
+From the repository root, with Node.js 22.12+ (or 20.19+):
+
+```bash
+npm install
+npm run dev
+```
+
+Open the local URL printed by Vite (usually `http://127.0.0.1:5173`). Both `/` and `/doc.html` load the React app.
+Use Vite rather than opening the HTML file directly or using Live Server; JSX requires the build tool.
+
+```bash
+npm test          # Range generation, scoring, and persisted-data validation
+npm run build    # Production assets in dist/
+npm run preview  # Preview the production build
+npm run test:browser # Browser flows; run npm run dev first (uses installed Chrome)
+```
+
+Frontend source:
+
+- `Frontend/src/App.jsx`: navigation, shared practice results, and checklist state.
+- `Frontend/src/pages/`: Overview, Ranges, Practice, Hands, and Notebook components.
+- `Frontend/src/components/`: shared cards and the theme switch.
+- `Frontend/src/data.js`: curated teaching and replay examples.
+- `Frontend/src/model.js`: pure range/scoring helpers and browser storage utilities.
+- `Frontend/style.css`: responsive layouts, themes, and motion with reduced-motion support.
+
+Existing `river.notes`, `river.tasks`, and `pokerttool.theme` storage keys are retained.
+Browser storage is specific to the site origin; notes from a different port or a file URL remain on that origin.
+Practice scores last for the current visit; notes, checklist choices, and theme preferences persist locally.
+
+## Run the Python AI coach
+
+The AI Coach screen calls a FastAPI endpoint backed by Groq. Range and training screens still use sample data; the chatbot does not have a solver or automatic access to your notebook or practice results.
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r backend/requirements.txt
+cp .env.example .env
+```
+
+Edit `.env` and add your `GROQ_API_KEY` from [Groq Console](https://console.groq.com/keys).
+`GROQ_MODEL` is configurable; its default is `llama-3.3-70b-versatile`. Choose a model available to your account.
+Never put the key in frontend code or a `VITE_` variable.
+
+Start the Python API in one terminal:
+
+```bash
+source .venv/bin/activate
+python -m uvicorn main:app --reload --host 127.0.0.1 --port 8000
+```
+
+Start the frontend in another terminal with `npm run dev`, then open **AI Coach**.
+Vite proxies `/api` requests to Python. Restart the API after changing `.env`.
+`GET /api/health` reports whether a key is configured, not whether it is valid.
+`POST /api/chat` accepts `{ "messages": [{ "role": "user", "content": "Explain position" }], "mode": "constructive" }`.
+
+- The conversation stays in memory for this visit; submitting sends recent messages to Groq.
+- Constructive and friendly-roast styles share the same server-side poker coaching instructions.
+- No API key means a clear setup message, not a simulated AI response.
+- The API is for local development. A public deployment needs authentication, abuse limits, and a same-origin `/api` proxy before exposing this paid-provider endpoint.
+- Run API tests with `.venv/bin/python -m unittest discover -s backend -p 'test_*.py'` (mocked provider; no live AI calls).
+
+The remaining GTO and parsing sections describe the proposed scope and are not implemented yet.
+
+---
+
+
 [![Python](https://img.shields.io/badge/Backend-Python_3.11+-3776AB?logo=python&logoColor=white)](#tech-stack-breakdown)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi&logoColor=white)](#tech-stack-breakdown)
 [![Engine](https://img.shields.io/badge/Solver-GTOpen_C%2B%2B%2FRust-FF6F00)](#2-preflop--postflop-gto-solver-gtopen-integration)
@@ -46,7 +120,7 @@ By pairing data analysis with an LLM personality coach and interactive training 
 * **Backend API:** Python 3.11+ via **FastAPI** / **Uvicorn**
 * **Solver Engine:** **GTOpen** (C++/Rust CFR Solver with optional CUDA GPU support)
 * **AI / LLM Engine:** **Groq API** (`llama-3.3-70b-versatile`) using standard OpenAI SDK
-* **Frontend UI:** HTML5, CSS3, Vanilla JavaScript / Canvas for dynamic $13 \times 13$ matrix heatmaps
+* **Frontend UI:** React + Vite with custom CSS, responsive layouts, and light/dark themes
 * **Data Processing:** `pandas`, `numpy`, `eval7`
 
 ---
