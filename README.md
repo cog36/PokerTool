@@ -6,9 +6,10 @@ The browser-only frontend uses **React + Vite**, with the existing custom CSS an
 It includes the overview, interactive range explorer, sample practice decisions, hand replays, and local study notes.
 The range and training data are illustrative; no Python server, API key, or solver is required.
 
-From the repository root, with Node.js 22.12+ (or 20.19+):
+From the `Frontend/` folder, with Node.js 22.12+ (or 20.19+):
 
 ```bash
+cd Frontend
 npm install
 npm run dev
 ```
@@ -55,7 +56,7 @@ Start the Python API in one terminal:
 
 ```bash
 source .venv/bin/activate
-python -m uvicorn main:app --reload --host 127.0.0.1 --port 8000
+python -m uvicorn backend.main:app --reload --host 127.0.0.1 --port 8000
 ```
 
 Start the frontend in another terminal with `npm run dev`, then open **AI Coach**.

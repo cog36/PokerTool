@@ -8,7 +8,10 @@ import httpx
 from fastapi.testclient import TestClient
 from openai import APIStatusError, APITimeoutError
 
-import main
+try:
+    import main
+except ImportError:
+    from backend import main
 
 
 class ChatTests(unittest.TestCase):

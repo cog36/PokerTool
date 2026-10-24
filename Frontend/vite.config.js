@@ -2,7 +2,6 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  root: 'Frontend',
   base: './',
   plugins: [react()],
   // Browser requests stay same-origin; only Vite talks to the local Python API.
@@ -11,6 +10,7 @@ export default defineConfig({
   build: {
     outDir: '../dist',
     emptyOutDir: true,
-    rollupOptions: { input: { index: 'Frontend/index.html', doc: 'Frontend/doc.html' } },
+    rollupOptions: { input: { index: 'index.html', doc: 'doc.html' } },
   },
 });
+

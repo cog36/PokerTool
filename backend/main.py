@@ -1,4 +1,4 @@
-"""Local poker coaching API. Run: python -m uvicorn main:app --reload."""
+"""Local poker coaching API. Run: python -m uvicorn backend.main:app --reload or cd backend && uvicorn main:app --reload."""
 
 import os
 from pathlib import Path
@@ -9,7 +9,10 @@ from fastapi import FastAPI, HTTPException
 from openai import AsyncOpenAI, APIConnectionError, APIStatusError, APITimeoutError
 from pydantic import BaseModel, ConfigDict, Field, field_validator, model_validator
 
-load_dotenv(Path(__file__).parent / '.env')
+# Check both backend/ and project root for .env
+load_dotenv(Path(__file__).resolve().parent / '.env')
+load_dotenv(Path(__file__).resolve().parent.parent / '.env')
+
 app = FastAPI(title='PokertTool Coaching API')
 
 SYSTEM_PROMPT = """You are PokertTool's poker study coach. Discuss poker decisions and fundamentals.
@@ -101,3 +104,4 @@ async def chat(request: ChatRequest):
     if not reply or not reply.strip():
         raise HTTPException(502, 'The coach returned an empty response. Please try again.')
     return ChatReply(reply=reply.strip())
+
