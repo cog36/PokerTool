@@ -18,6 +18,23 @@ class AnalysisApiTests(unittest.TestCase):
     def setUp(self):
         self.client = TestClient(main.app)
 
+    def test_hand_history_overview_counts_hero_showdowns_not_table_markers(self):
+        response = self.client.get('/api/hand-history-overview')
+
+        self.assertEqual(response.status_code, 200)
+        result = response.json()
+        hand_showdowns = sum(hand['showdown'] for hand in result['hands'])
+        self.assertEqual(result['summary']['showdowns'], hand_showdowns)
+        self.assertEqual(
+            result['summary']['went_to_showdown_percent'],
+            round(100 * hand_showdowns / result['total_hands'], 1),
+        )
+        self.assertLess(hand_showdowns, result['total_hands'])
+        self.assertEqual(
+            result['summary']['won_showdowns'],
+            sum(hand['won_showdown'] for hand in result['hands']),
+        )
+
     def test_upload_returns_session_summary_and_hand_context(self):
         with SAMPLE_FILE_PATH.open('rb') as history:
             response = self.client.post(
