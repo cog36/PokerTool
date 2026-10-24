@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0b1114">
+    <meta name="description" content="Explore poker ranges, practise decisions, replay sample hands, and keep a personal study notebook.">
+    <title>PokertTool — Poker Study Club</title>
+    <!-- Apply the palette before React mounts to prevent a flash on refresh. -->
+    <script>
+      (() => {
+        let theme;
+        try { theme = localStorage.getItem('pokerttool.theme'); } catch {}
+        document.documentElement.dataset.theme = ['light', 'dark'].includes(theme)
+          ? theme : window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>Enable JavaScript to use the PokertTool study room.</noscript>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
