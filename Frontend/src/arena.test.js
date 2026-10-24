@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { act, planAction, planOpening, compareRanks, createMatch, dealHand, nextHand, evaluate, legalActions, decisionView, chooseBotAction } from './arena.js';
+import { act, planAction, planOpening, compareRanks, createMatch, createTournamentHand, dealHand, nextHand, evaluate, legalActions, decisionView, chooseBotAction } from './arena.js';
 const cards = text => text.split(' ').map(card => [card[0], { s: '♠', h: '♥', d: '♦', c: '♣' }[card[1]]]);
 
 // Cover each ranking category plus the two tricky cases: wheel straights and kickers.
@@ -205,4 +205,69 @@ test('an incomplete opening all-in needs a full raise and does not reopen a prev
   hand = act(hand, 'call');
   assert.equal(hand.actor, 1);
   assert.equal(legalActions(hand).canRaise, false);
+});
+
+test('persistent actions label raises, 3-bets and call increments separately from total chips', () => {
+  let hand = createMatch({ opponentCount: 2, random: seeded(2) });
+  hand = act(hand, { type: 'raise', to: 6 });
+  assert.equal(hand.players[0].lastAction.label, 'Raise');
+  assert.equal(hand.players[0].streetBet, 6);
+  hand = act(hand, { type: 'raise', to: 16 });
+  assert.equal(hand.players[1].lastAction.label, '3-bet');
+  assert.equal(hand.players[1].lastAction.total, 16);
+  hand = act(hand, 'call');
+  const callFrame = planAction(hand, 'call').find(frame => frame.actor === 0 && frame.event === 'call');
+  assert.equal(callFrame.hand.players[0].lastAction.amount, 10);
+  assert.equal(callFrame.hand.players[0].lastAction.total, 16);
+  hand = act(hand, 'call');
+  // Round completion sweeps bets and resets old labels before the flop action.
+  assert.equal(hand.street, 1);
+  assert.ok(hand.players.every(player => player.streetBet === 0 && player.lastAction === null));
+});
+
+test('tournament drills redraw seven unique types and reseat the human and shared archetypes', () => {
+  let previous = createTournamentHand({ random: () => .999 });
+  for (let number = 2; number < 8; number++) {
+    const hand = createTournamentHand({ number, previous, random: () => .999 });
+    assert.equal(hand.players.length, 8);
+    assert.equal(new Set(hand.players.map(player => player.seat)).size, 8);
+    assert.equal(new Set(hand.players.slice(1).map(player => player.archetype)).size, 7);
+    assert.notEqual(hand.players[0].seat, previous.players[0].seat);
+    assert.notEqual(hand.players[0].position, previous.players[0].position);
+    assert.notDeepEqual(hand.players.slice(1).map(player => player.archetype).sort(), previous.players.slice(1).map(player => player.archetype).sort());
+    hand.players.slice(1).forEach(player => {
+      const old = previous.players.find(other => other.archetype === player.archetype);
+      if (old) assert.notEqual(player.seat, old.seat);
+    });
+    assert.ok(hand.players.every(player => player.stack + player.committed === 200));
+    assert.equal(hand.trainingMode, 'chipEV');
+    previous = hand;
+  }
+});
+
+test('random physical seats determine blinds and action order without changing human identity', () => {
+  const hand = createTournamentHand({ random: seeded(999) });
+  const seats = [...hand.players].sort((a, b) => a.seat - b.seat);
+  const button = seats.findIndex(player => player.id === hand.button);
+  assert.equal(hand.smallBlind, seats[(button + 1) % 8].id);
+  assert.equal(hand.bigBlind, seats[(button + 2) % 8].id);
+  assert.equal(hand.actor, seats[(button + 3) % 8].id);
+  assert.equal(hand.players[0].name, 'You');
+});
+
+test('chip-EV tournament hands keep archetypes fixed and conserve chips through sampled decisions', () => {
+  for (const seed of [11, 17, 31]) {
+    let hand = createTournamentHand({ random: seeded(seed) });
+    const roster = hand.players.map(player => [player.id, player.archetype, player.seat]);
+    hand = last(planOpening(hand), hand);
+    let decisions = 0;
+    while (hand.phase !== 'complete') {
+      const legal = legalActions(hand);
+      const frames = planAction(hand, legal.canCheck ? 'check' : 'call');
+      hand = last(frames, hand);
+      assert.deepEqual(hand.players.map(player => [player.id, player.archetype, player.seat]), roster);
+      assert.equal(chips(hand), 1600);
+      assert.ok(++decisions < 200);
+    }
+  }
 });

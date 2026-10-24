@@ -1,3 +1,4 @@
+import { actionFeedback } from './actionFeedback.js';
 import { archetypes, profileFor } from './archetypes.js';
 
 // Money is stored in half-big-blind chips (2 chips = 1bb). Integer accounting
@@ -5,63 +6,21 @@ import { archetypes, profileFor } from './archetypes.js';
 export const BIG_BLIND = 2;
 export const ARENA_OPPONENTS = 7; // Eight seats including the human player.
 export const STREETS = ['Preflop', 'Flop', 'Turn', 'River'];
-const values = '23456789TJQKA';
-export const handLabels = ['High card', 'One pair', 'Two pair', 'Three of a kind', 'Straight', 'Flush', 'Full house', 'Four of a kind', 'Straight flush'];
+import { values, compareRanks, evaluate } from './pokerCards.js';
+import { sampledChipEV, betChipEV } from './chipEv.js';
+export { compareRanks, evaluate, handLabels } from './pokerCards.js';
 
-export function compareRanks(a, b) {
-  for (let i = 0; i < Math.max(a.length, b.length); i++) {
-    const difference = (a[i] || 0) - (b[i] || 0);
-    if (difference) return difference;
-  }
-  return 0;
-}
-
-function rankFive(cards) {
-  const numbers = cards.map(card => values.indexOf(card[0]) + 2).sort((a, b) => b - a);
-  const counts = new Map();
-  numbers.forEach(value => counts.set(value, (counts.get(value) || 0) + 1));
-  const groups = [...counts.entries()].sort((a, b) => b[1] - a[1] || b[0] - a[0]);
-  const unique = [...counts.keys()].sort((a, b) => b - a);
-  const straight = unique.length === 5 && unique[0] - unique[4] === 4 ? unique[0] : unique.join(',') === '14,5,4,3,2' ? 5 : 0;
-  const flush = cards.every(card => card[1] === cards[0][1]);
-  if (straight && flush) return [8, straight];
-  if (groups[0][1] === 4) return [7, groups[0][0], groups[1][0]];
-  if (groups[0][1] === 3 && groups[1][1] === 2) return [6, groups[0][0], groups[1][0]];
-  if (flush) return [5, ...numbers];
-  if (straight) return [4, straight];
-  if (groups[0][1] === 3) return [3, ...groups.map(group => group[0])];
-  if (groups[0][1] === 2 && groups[1][1] === 2) return [2, ...groups.map(group => group[0])];
-  if (groups[0][1] === 2) return [1, ...groups.map(group => group[0])];
-  return [0, ...numbers];
-}
-
-export function evaluate(cards) {
-  let best = [-1];
-  // Seven cards have only 21 five-card subsets; exhaustive ranking is small and clear.
-  for (let a = 0; a < cards.length - 4; a++)
-    for (let b = a + 1; b < cards.length - 3; b++)
-      for (let c = b + 1; c < cards.length - 2; c++)
-        for (let d = c + 1; d < cards.length - 1; d++)
-          for (let e = d + 1; e < cards.length; e++) {
-            const rank = rankFive([cards[a], cards[b], cards[c], cards[d], cards[e]]);
-            if (compareRanks(rank, best) > 0) best = rank;
-          }
-  return best;
-}
-
-
-const nextSeat = (players, from, predicate = player => player.inHand) => {
-  for (let offset = 1; offset <= players.length; offset++) {
-    const index = (from + offset) % players.length;
-    if (predicate(players[index])) return index;
-  }
-  return null;
-};
 const able = player => player.inHand && !player.folded && player.stack > 0;
 const live = state => state.players.filter(player => player.inHand && !player.folded);
-function ordered(state, from, predicate = able) {
-  return Array.from({ length: state.players.length }, (_, offset) => (from + offset + 1) % state.players.length).filter(id => predicate(state.players[id]));
+const seatOrder = players => [...players].sort((a, b) => (a.seat ?? a.id) - (b.seat ?? b.id));
+function clockwise(players, from, predicate) {
+  const seats = seatOrder(players);
+  const start = seats.findIndex(player => player.id === from);
+  return Array.from({ length: seats.length }, (_, offset) => seats[(start + offset + 1) % seats.length]).filter(predicate).map(player => player.id);
 }
+const nextSeat = (players, from, predicate = player => player.inHand) => clockwise(players, from, predicate)[0] ?? null;
+function ordered(state, from, predicate = able) { return clockwise(state.players, from, predicate); }
+
 function note(state, text, actor = null) {
   state.history.push({ street: STREETS[state.street], actor, text });
   state.log.push(`[${STREETS[state.street]}] ${text}`);
@@ -83,7 +42,7 @@ function randomFor(state) {
   return state.rng / 4294967296;
 }
 
-export function createMatch({ opponentCount, random = Math.random } = {}) {
+export function createMatch({ opponentCount, random = Math.random, randomizeSeats = false, number = 1, trainingMode = null } = {}) {
   const count = opponentCount ?? 1 + Math.floor(random() * 8);
   if (!Number.isInteger(count) || count < 1 || count > 8) throw new Error('Choose 1–8 opponents.');
   const pool = [...archetypes];
@@ -95,13 +54,53 @@ export function createMatch({ opponentCount, random = Math.random } = {}) {
     id: index + 1, name: profile.name, archetype: profile.id, stack: 200,
     stats: { actions: 0, folds: 0, calls: 0, raises: 0 },
   }))];
-  return dealHand({ players, button: 0, number: 1, seed: Math.floor(random() * 4294967295) });
+  const seats = players.map(player => player.id);
+  if (randomizeSeats) {
+    for (let i = seats.length - 1; i > 0; i--) {
+      const j = Math.floor(random() * (i + 1));
+      [seats[i], seats[j]] = [seats[j], seats[i]];
+    }
+  }
+  players.forEach((player, id) => { player.seat = seats[id]; });
+  const button = randomizeSeats ? Math.floor(random() * players.length) : 0;
+  const hand = dealHand({ players, button, number, seed: Math.floor(random() * 4294967295) });
+  hand.trainingMode = trainingMode;
+  return hand;
+}
+
+export function createTournamentHand({ number = 1, random = Math.random, previous = null } = {}) {
+  let hand = createMatch({ opponentCount: ARENA_OPPONENTS, randomizeSeats: true, number, trainingMode: 'chipEV', random });
+  if (!previous) return hand;
+  const players = hand.players.map(player => ({ ...player, stack: 200 }));
+  const selected = new Set(players.slice(1).map(player => player.archetype));
+  if (previous.players.slice(1).every(player => selected.has(player.archetype))) {
+    const alternatives = archetypes.filter(profile => !selected.has(profile.id));
+    const replacement = alternatives[Math.floor(random() * alternatives.length)];
+    const id = 1 + Math.floor(random() * ARENA_OPPONENTS);
+    players[id].archetype = replacement.id; players[id].name = replacement.name;
+  }
+  // Shared identities should visibly move, not just receive a new dealer label.
+  const forbidden = new Map(players.map(player => [player.id, previous.players.find(old => player.id === 0 ? old.id === 0 : old.archetype === player.archetype)?.seat]));
+  for (const player of players) {
+    if (player.seat !== forbidden.get(player.id)) continue;
+    const alternatives = players.filter(other => other.id !== player.id && other.seat !== forbidden.get(player.id) && player.seat !== forbidden.get(other.id));
+    const other = alternatives[Math.floor(random() * alternatives.length)];
+    [player.seat, other.seat] = [other.seat, player.seat];
+  }
+  let button = hand.button;
+  for (let attempt = 0; attempt < players.length; attempt++) {
+    hand = dealHand({ players, button, number, seed: hand.rng });
+    if (hand.players[0].position !== previous.players[0].position) break;
+    button = nextSeat(players, button, player => player.stack > 0);
+  }
+  hand.trainingMode = 'chipEV';
+  return hand;
 }
 
 export function dealHand({ players, button = 0, number = 1, seed = 417 } = {}) {
   if (!players) return createMatch();
   const state = {
-    players: players.map(player => ({ ...player, stats: { ...player.stats }, inHand: player.stack > 0, cards: [], committed: 0, streetBet: 0, folded: false, allIn: false, lastActedBet: null, reopenAt: 0, rank: null, bubble: player.id ? profileFor(player.archetype).intro : '' })),
+    players: players.map(player => ({ ...player, stats: { ...player.stats }, inHand: player.stack > 0, cards: [], committed: 0, streetBet: 0, folded: false, allIn: false, lastActedBet: null, reopenAt: 0, rank: null, lastAction: null, bubble: player.id ? profileFor(player.archetype).intro : '' })),
     button, number, street: 0, board: [], deck: [], pot: 0, currentBet: BIG_BLIND,
     minRaise: BIG_BLIND, pending: [], actor: null, phase: 'betting', history: [], log: [], winners: [], rng: seed >>> 0, raises: 0, showdown: false,
   };
@@ -126,6 +125,7 @@ export function dealHand({ players, button = 0, number = 1, seed = 417 } = {}) {
   state.dealOrder.forEach(id => state.players[id].cards.push(state.deck.pop()));
   for (const [id, amount, blind] of [[state.smallBlind, 1, 'small blind'], [state.bigBlind, 2, 'big blind']]) {
     const posted = pay(state, state.players[id], amount);
+    state.players[id].lastAction = { type: 'blind', label: blind === 'small blind' ? 'Small blind' : 'Big blind', amount: posted, total: posted, street: 0, allIn: state.players[id].allIn };
     note(state, `${state.players[id].name} (${state.players[id].position}) posts ${money(posted)} ${blind}${state.players[id].allIn ? ' · all-in' : ''}.`, id);
   }
   state.pending = ordered(state, state.bigBlind);
@@ -202,12 +202,16 @@ function finish(state, record) {
 
 function progress(state, record) {
   while (state.phase === 'betting') {
-    if (live(state).length === 1) { finish(state, record); return; }
+    if (live(state).length === 1) {
+      if (state.players.some(player => player.streetBet > 0)) record(state, 'collect');
+      finish(state, record); return;
+    }
     state.pending = state.pending.filter(id => able(state.players[id]));
     const actors = state.players.filter(able);
     // A lone player cannot bet into a dry side pot but must still answer an owed bet.
     if (actors.length === 1 && state.players[actors[0].id].streetBet >= state.currentBet) state.pending = [];
     if (state.pending.length) { state.actor = state.pending[0]; return; }
+    if (state.players.some(player => player.streetBet > 0)) record(state, 'collect');
     if (state.street === 3) { finish(state, record); return; }
     state.street++;
     state.deck.pop(); // Burn a card before each community street.
@@ -216,7 +220,7 @@ function progress(state, record) {
     state.currentBet = 0;
     state.minRaise = BIG_BLIND;
     state.raises = 0;
-    state.players.forEach(player => { player.streetBet = 0; player.lastActedBet = null; player.reopenAt = 0; });
+    state.players.forEach(player => { player.streetBet = 0; player.lastActedBet = null; player.reopenAt = 0; player.lastAction = null; });
     note(state, `${STREETS[state.street]} dealt: ${state.board.map(card => card.join('')).join(' ')}.`);
     record(state, 'street');
     state.pending = actors.length > 1 ? ordered(state, state.button) : [];
@@ -236,6 +240,7 @@ function apply(state, action, record) {
   if (type === 'check' && !legal.canCheck || type === 'fold' && !legal.canFold || type === 'call' && !legal.toCall) return false;
   if (!['check', 'call', 'fold', 'raise'].includes(type)) return false;
   if (type === 'raise' && (!legal.canRaise || !Number.isInteger(target) || target > legal.maxRaiseTo || target <= state.currentBet || target < legal.fullMinimum && target !== legal.maxRaiseTo)) return false;
+  const before = structuredClone(state);
   state.pending.shift();
   let amount = 0;
   if (type === 'fold') player.folded = true;
@@ -254,14 +259,17 @@ function apply(state, action, record) {
   if (type === 'fold') player.stats.folds++;
   if (type === 'call') player.stats.calls++;
   if (type === 'raise') player.stats.raises++;
-  const label = type === 'raise' ? `${legal.toCall || state.street === 0 ? 'raises' : 'bets'} to ${money(target)}` : type === 'call' ? `calls ${money(amount)}` : `${type}s`;
+  const aggression = type === 'raise' ? state.raises + (state.street === 0 ? 1 : 0) : 0;
+  const actionLabel = type === 'raise' ? (aggression >= 3 ? `${aggression}-bet` : state.street === 0 ? 'Raise' : state.raises === 1 ? 'Bet' : 'Raise') : { call: 'Call', fold: 'Fold', check: 'Check' }[type];
+  player.lastAction = { type, label: actionLabel, amount, total: player.streetBet, street: state.street, allIn: player.allIn };
+  const label = type === 'raise' ? `${actionLabel.toLowerCase()}s to ${money(target)}` : type === 'call' ? `calls ${money(amount)}` : `${type}s`;
   note(state, `${player.name} (${player.position}) ${label}${player.allIn ? ' · all-in' : ''}.`, player.id);
   if (player.id) {
     const profile = profileFor(player.archetype);
     const lines = { fold: profile.threshold > .7 ? 'Patience. Another hand will come.' : 'Not this time. Keep those chips warm.', check: profile.trap > .3 ? 'A quiet move can still tell a story.' : 'Let’s see what happens next.', call: profile.stickiness > .8 ? 'I do like to see how the story ends.' : 'That price deserves a look.', raise: profile.aggression > .8 ? 'Your move. Let’s make it interesting.' : 'I have a reason to put chips in.' };
     player.bubble = lines[type];
   }
-  record(state, type, player.id, amount);
+  record(state, type, player.id, amount, actionFeedback(before, state, player.id));
   progress(state, record);
   return true;
 }
@@ -275,10 +283,12 @@ export function act(previous, action) {
 export function decisionView(state, id = state.actor) {
   const player = state.players[id];
   return {
-    id, cards: player.cards, archetype: player.archetype, position: player.position,
+    id, cards: player.cards, archetype: player.archetype, position: player.position, trainingMode: state.trainingMode,
+    committed: player.committed,
+    contributors: state.players.filter(other => other.inHand).map(other => ({ id: other.id, committed: other.committed, folded: other.folded })),
     board: state.board, street: state.street, pot: state.pot, raises: state.raises,
     currentBet: state.currentBet, streetBet: player.streetBet, legal: legalActions(state, id),
-    opponents: state.players.filter(other => other.id !== id && other.inHand && !other.folded).map(other => ({ stack: other.stack, stats: { ...other.stats } })),
+    opponents: state.players.filter(other => other.id !== id && other.inHand && !other.folded).map(other => ({ id: other.id, stack: other.stack, streetBet: other.streetBet, stats: { ...other.stats } })),
   };
 }
 
@@ -317,11 +327,14 @@ export function chooseBotAction(view, roll = Math.random()) {
   const wantsTrap = strength > .78 && roll < profile.trap;
   const pressure = bluff / (1 + view.raises * 1.4);
   const strong = strength > (view.street ? .76 : .86);
-  const raise = legal.canRaise && !wantsTrap && !fitFold && (strong && roll < aggression / (1 + view.raises * .4) || !legal.toCall && strength >= threshold && roll < aggression || roll > 1 - pressure);
-  if (raise) {
-    const desired = view.street === 0 ? Math.max(5, view.currentBet * 3) : view.streetBet + legal.toCall + Math.ceil((view.pot + legal.toCall) * (profile.aggression > .8 ? .8 : .55));
-    return { type: 'raise', to: Math.min(legal.maxRaiseTo, Math.max(legal.minRaiseTo, desired)) };
-  }
+  const desired = view.street === 0 ? Math.max(5, view.currentBet * 3) : view.streetBet + legal.toCall + Math.ceil((view.pot + legal.toCall) * (profile.aggression > .8 ? .8 : .55));
+  const target = Math.min(legal.maxRaiseTo, Math.max(legal.minRaiseTo, desired));
+  const chipModel = view.trainingMode === 'chipEV' ? sampledChipEV(view, 40) : null;
+  const disciplined = ['tag', 'abc', 'gto', 'exploit'].includes(view.archetype);
+  const positiveBet = !chipModel || betChipEV(view, target, chipModel.equity) >= 0;
+  const raise = legal.canRaise && !wantsTrap && !fitFold && (!disciplined || positiveBet) && (strong && roll < aggression / (1 + view.raises * .4) || !legal.toCall && strength >= threshold && roll < aggression || roll > 1 - pressure);
+  if (raise) return { type: 'raise', to: target };
+  if (chipModel && legal.toCall && disciplined && chipModel.callEV < 0) return 'fold';
   if (!legal.toCall) return 'check';
   if (!fitFold && (strength >= threshold || roll < profile.stickiness * (view.street ? .40 : .18))) return 'call';
   return 'fold';
@@ -342,7 +355,7 @@ function runBots(state, record) {
 function plan(previous, action, opening) {
   const state = structuredClone(previous);
   const frames = [];
-  const record = (hand, event, actor = null, amount = 0) => frames.push({ hand: structuredClone(hand), event, actor, amount });
+  const record = (hand, event, actor = null, amount = 0, feedback = null) => frames.push({ hand: structuredClone(hand), event, actor, amount, feedback });
   if (!opening && (state.actor !== 0 || !apply(state, action, record))) return [];
   runBots(state, record);
   if (!frames.length) return [];

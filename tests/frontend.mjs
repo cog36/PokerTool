@@ -26,28 +26,8 @@ try {
   await page.getByRole('searchbox').fill('AKs');
   assert.equal(await page.locator('.hand:not(.dimmed)').count(), 1);
 
-  await page.getByRole('navigation').getByRole('link', { name: 'Practice Room', exact: false }).click();
-  await page.getByRole('heading', { name: 'A strong start', exact: true }).click();
-  await page.keyboard.press('3');
-  await expect(page.locator('.practice-metrics strong').first()).toHaveText('100');
-  await page.keyboard.press('3');
-  await expect(page.locator('.practice-metrics strong').first()).toHaveText('100');
-  await page.getByRole('button', { name: 'Next decision' }).click();
-  await page.getByRole('button', { name: '1 Fold' }).click();
-  await expect(page.locator('.practice-metrics strong').first()).toHaveText('200');
   await page.getByRole('navigation').getByRole('link', { name: 'Overview', exact: false }).first().click();
-  assert.equal(await page.locator('#overview-attempts').textContent(), '2');
   await page.getByRole('checkbox').first().check();
-  await page.getByRole('navigation').getByRole('link', { name: 'Practice Room' }).click();
-  await page.getByRole('button', { name: 'Next decision' }).click();
-  await page.getByRole('button', { name: '1 Fold' }).click();
-  await expect(page.locator('.answer-indicator.incorrect')).toHaveText(/Incorrect/);
-  await expect(page.locator('.action-buttons .chosen')).toHaveClass(/incorrect/);
-  assert.equal(await page.locator('.action-buttons .chosen').evaluate(element => getComputedStyle(element).backgroundColor), 'rgb(220, 53, 73)');
-  await page.getByRole('button', { name: 'Repeat the examples' }).click();
-  await expect(page.locator('.answer-indicator')).toHaveCount(0);
-
-
   await page.getByRole('navigation').getByRole('link', { name: 'Hand Library', exact: false }).click();
   await page.getByRole('button', { name: 'Next street' }).click();
   assert.equal(await page.locator('.replay-board .card').count(), 3);
@@ -69,6 +49,7 @@ try {
   await page.goto(`${baseUrl}/#arena`);
   await page.reload();
   await expect(page.locator('.arena-bot')).toHaveCount(7);
+  await page.getByRole('button', { name: 'Show table talk' }).click();
   await expect(page.locator('.speech-bubble')).toHaveCount(7);
   await expect(page.locator('.arena-community .card')).toHaveCount(0);
   await expect(page.locator('.board-card-space')).toHaveCount(5);
@@ -83,6 +64,11 @@ try {
   await expect(page.locator('.arena-community .card')).toHaveCount(0);
   await expect(page.locator('.arena-action-log')).toContainText('posts');
   assert.equal(await page.locator('.archetype-tag').count(), 7);
+  const firstHeroSeat = await page.locator('.arena-hero').getAttribute('data-physical-seat');
+  const firstHeroPosition = await page.locator('.decision-context > span').first().locator('strong').textContent();
+  const firstRoster = (await page.locator('.archetype-tag').allTextContents()).sort();
+  assert.ok(await page.locator('.wager-pile').count() >= 2);
+  await expect(page.locator('.tournament-mode-note')).toContainText('CHIP EV');
 
   let decisions = 0;
   while (!await page.locator('.arena-outcome').count()) {
@@ -98,12 +84,15 @@ try {
   await page.locator('.arena-actions').getByRole('button').click();
   await expect(page.locator('.arena-community .card')).toHaveCount(0);
   await page.getByRole('navigation').getByRole('link', { name: 'Overview' }).first().click();
+  await expect(page.locator('#overview')).toBeVisible();
   const pausedStatus = await page.locator('.dealer-status').textContent();
   await page.waitForTimeout(400);
   assert.equal(await page.locator('.dealer-status').textContent(), pausedStatus);
   await page.getByRole('navigation').getByRole('link', { name: 'AI Arena' }).click();
   await page.emulateMedia({ reducedMotion: 'reduce' });
   await waitForDecision();
+  assert.notEqual(await page.locator('.decision-context > span').first().locator('strong').textContent(), firstHeroPosition);
+  assert.notDeepEqual((await page.locator('.archetype-tag').allTextContents()).sort(), firstRoster);
   assert.equal(await page.locator('.arena-bot .bot-avatar').first().evaluate(element => getComputedStyle(element).animationName), 'none');
   await page.getByRole('button', { name: 'Mute table talk' }).click();
   await expect(page.locator('.speech-bubble')).toHaveCount(0);
@@ -116,7 +105,7 @@ try {
   await expect(page.locator('.arena-bot')).toHaveCount(7);
   await waitForDecision();
   await expect(page.locator('.arena-community .card')).toHaveCount(0);
-  await expect(page.locator('.decision-context')).toContainText('BTN');
+  assert.ok((await page.locator('.decision-context > span').first().locator('strong').textContent()).length > 0);
   await page.getByRole('button', { name: 'Read the opponent', exact: false }).click();
   await page.getByRole('button', { name: 'Assume every bet is a bluff', exact: false }).click();
   await expect(page.locator('.read-game .answer-indicator.incorrect')).toBeVisible();
@@ -207,7 +196,7 @@ try {
 
   for (const width of [1440, 390]) {
     await page.setViewportSize({ width, height: 1000 });
-    for (const route of ['overview', 'analysis', 'ranges', 'practice', 'arena', 'hands', 'notebook', 'coach']) {
+    for (const route of ['overview', 'analysis', 'ranges', 'arena', 'hands', 'notebook', 'coach']) {
       await page.goto(`${baseUrl}/doc.html#${route}`);
       await page.locator(`#${route}`).waitFor({ state: 'visible' });
       if (route === 'coach') await page.screenshot({ path: `/tmp/pokerttool-coach-${width}.png`, fullPage: true, animations: 'disabled' });

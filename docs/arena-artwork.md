@@ -1,0 +1,11 @@
+# Arena portraits
+
+Generated using the built-in imagegen tool. Final atlas: `Frontend/public/images/poker-portraits.png` (4 × 4 cells). `PlayerPortrait.jsx` selects cells with CSS background positions; thirteen archetypes keep stable portrait identities. Portraits are original fictional characters inspired by the supplied game-avatar reference, rather than extracted copies.
+
+## Final prompt
+
+Use case: stylized-concept. Asset type: one game portrait sprite atlas for a poker training website. Create a polished sheet of 16 distinct fictional adult poker player caricature portraits, reminiscent of expressive premium 3D poker game avatars: oversized heads, detailed faces, confident, sly or thoughtful expressions, bust portraits with shoulders. Exact uniform 4 by 4 grid on a square canvas, all 16 cells same size, no gaps, no borders, no text, no symbols or logos. Every individual head centred in its own cell, top of hair and chin fully inside cell with 12% safe margin, consistent camera crop. Each cell has the SAME flat deep charcoal plum background #211c2b. Diverse genders, ethnicities, ages and fashion. Row 1: disciplined woman in teal blazer; daring young man with swept hair red jacket; thoughtful woman with glasses; relaxed smiling bearded man. Row 2: elderly meticulous man with spectacles; daring punk with orange mohawk; cheerful friendly woman in hoodie; stern silver-haired man in dark suit. Row 3: cautious young man in cap; clean-cut conventional man in navy polo; mysterious woman in dark hat; alert woman with short hair in gold jacket. Row 4: analytical man with glasses; professional male poker dealer in white shirt and black waistcoat; cool woman with headphones; cheerful mature man in fedora. High quality illustrated game portraits, coherent art direction and studio lighting, character appeal and legible silhouettes at 64px. No real people, no lettering, no cards overlapping faces.
+
+## Animation
+
+The dealer hand is a code-native SVG, animated between the existing deck and card targets. Hero cards and new community cards turn face-up; opponents' hidden cards stay concealed until a legitimate showdown. Quick play shortens motion and reduced motion removes the hand/card-turn effects.
