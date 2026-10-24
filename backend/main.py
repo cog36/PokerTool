@@ -5,15 +5,23 @@ from pathlib import Path
 from typing import Literal
 
 from dotenv import load_dotenv
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, File, HTTPException, UploadFile
 from openai import AsyncOpenAI, APIConnectionError, APIStatusError, APITimeoutError
 from pydantic import BaseModel, ConfigDict, Field, field_validator, model_validator
+
+if __package__:
+    from .analyzer import analyze_session_hands
+    from .parser import parse_gg_hand_history
+else:
+    from analyzer import analyze_session_hands
+    from parser import parse_gg_hand_history
 
 # Check both backend/ and project root for .env
 load_dotenv(Path(__file__).resolve().parent / '.env')
 load_dotenv(Path(__file__).resolve().parent.parent / '.env')
 
 app = FastAPI(title='PokertTool Coaching API')
+MAX_HAND_HISTORY_BYTES = 10 * 1024 * 1024
 
 SYSTEM_PROMPT = """You are PokertTool's poker study coach. Discuss poker decisions and fundamentals.
 Ask for missing position, effective stacks, board, bet sizes and previous actions when relevant.
@@ -62,6 +70,58 @@ def health():
     return {'status': 'ok', 'configured': bool(os.getenv('GROQ_API_KEY', '').strip())}
 
 
+@app.post('/api/analyze')
+async def analyze_hand_history(file: UploadFile = File(...)):
+    filename = file.filename or ''
+    if Path(filename).suffix.lower() != '.txt':
+        raise HTTPException(400, 'Upload a GG Poker hand-history .txt file.')
+
+    contents = await file.read(MAX_HAND_HISTORY_BYTES + 1)
+    if len(contents) > MAX_HAND_HISTORY_BYTES:
+        raise HTTPException(413, 'The hand-history file must be 10 MB or smaller.')
+    if not contents:
+        raise HTTPException(400, 'The uploaded file is empty.')
+
+    try:
+        history = contents.decode('utf-8-sig')
+    except UnicodeDecodeError:
+        raise HTTPException(400, 'The hand-history file must use UTF-8 text encoding.') from None
+
+    try:
+        parsed_hands = parse_gg_hand_history(history)
+    except ValueError:
+        raise HTTPException(400, 'The file could not be parsed as a GG Poker hand history.') from None
+    if not parsed_hands:
+        raise HTTPException(
+            400,
+            'No supported hands were found. Upload a GG Poker hand history that includes Hero hole cards.',
+        )
+
+    analysis = analyze_session_hands(parsed_hands)
+    hands = [
+        {
+            **audited,
+            'raw_cards': parsed['raw_cards'],
+            'board': parsed['board'],
+            'total_pot': parsed['total_pot'],
+            'hero_invested': parsed['hero_invested'],
+            'saw_showdown': parsed['saw_showdown'],
+            'actions_before_hero': parsed['actions_before_hero'],
+            'hero_first_action': parsed['hero_first_action'],
+        }
+        for parsed, audited in zip(parsed_hands, analysis['audited_hand_details'], strict=True)
+    ]
+
+    return {
+        'filename': Path(filename).name,
+        'total_hands_analyzed': analysis['total_hands_analyzed'],
+        'total_mistakes_detected': analysis['total_mistakes_detected'],
+        'critical_blunders_count': analysis['critical_blunders_count'],
+        'leak_breakdown': analysis['leak_breakdown'],
+        'hands': hands,
+    }
+
+
 @app.post('/api/chat', response_model=ChatReply)
 async def chat(request: ChatRequest):
     key = os.getenv('GROQ_API_KEY', '').strip()
@@ -104,4 +164,3 @@ async def chat(request: ChatRequest):
     if not reply or not reply.strip():
         raise HTTPException(502, 'The coach returned an empty response. Please try again.')
     return ChatReply(reply=reply.strip())
-
