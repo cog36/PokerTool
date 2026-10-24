@@ -2,7 +2,7 @@
 import re
 
 RANKS = "23456789TJQKA"
-POSITIONS_6MAX = ["BTN", "SB", "BB", "UTG", "MP", "CO"]
+CHART_POSITION_ORDER = ["BTN", "SB", "BB", "EP1", "EP2", "EP3", "LJ", "HJ", "CO"]
 
 def convert_to_matrix_key(card_str: str) -> str:
     cards = card_str.strip().split()
@@ -24,7 +24,7 @@ def convert_to_matrix_key(card_str: str) -> str:
         return f"{r1}{r2}o"
 
 def get_player_positions(block: str) -> dict[str, str]:
-    """Determines table positions (BTN, SB, BB, UTG, MP, CO) for each player."""
+    """Determine player positions using the position names found in preflop charts."""
     btn_match = re.search(r"Seat #(\d+) is the button", block)
     if not btn_match:
         return {}
@@ -46,11 +46,22 @@ def get_player_positions(block: str) -> dict[str, str]:
     btn_idx = active_seats.index(btn_seat)
 
     positions = {}
+    if 3 <= num_players <= len(CHART_POSITION_ORDER):
+        positions_by_button = ["BTN", "SB", "BB"]
+        early_positions = CHART_POSITION_ORDER[3:]
+        early_position_count = num_players - 3
+        if early_position_count:
+            positions_by_button.extend(early_positions[-early_position_count:])
+    elif num_players == 2:
+        positions_by_button = ["BTN", "BB"]
+    else:
+        positions_by_button = []
+
     for idx, seat in enumerate(active_seats):
         player = seat_to_player[seat]
         pos_offset = (idx - btn_idx) % num_players
-        if num_players == 6:
-            positions[player] = POSITIONS_6MAX[pos_offset]
+        if positions_by_button:
+            positions[player] = positions_by_button[pos_offset]
         elif pos_offset == 0:
             positions[player] = "BTN"
         elif pos_offset == 1:

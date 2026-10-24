@@ -30,11 +30,16 @@ class AnalysisApiTests(unittest.TestCase):
         self.assertEqual(result['filename'], SAMPLE_FILE_PATH.name)
         self.assertGreater(result['total_hands_analyzed'], 0)
         self.assertEqual(result['total_hands_analyzed'], len(result['hands']))
+        self.assertEqual(result['decisions_scored'] + result['decisions_unscored'], result['total_hands_analyzed'])
+        self.assertIn('legacy_logic_hands', result)
         self.assertIn('played_weak_hands', result['leak_breakdown'])
         hand = result['hands'][0]
         self.assertTrue(hand['raw_cards'])
         self.assertIn('matrix_key', hand)
         self.assertIn('feedback', hand)
+        self.assertIn(hand['decision_assessment'], {'CORRECT', 'INCORRECT', 'UNASSESSED'})
+        self.assertIn(hand['analysis_source'], {'CHART', 'LEGACY_LOGIC'})
+        self.assertIn('chart_stack_bb', hand)
         self.assertIn('actions_before_hero', hand)
 
     def test_rejects_non_text_files(self):

@@ -133,6 +133,9 @@ async def analyze_hand_history(file: UploadFile = File(...)):
         'total_hands_analyzed': analysis['total_hands_analyzed'],
         'total_mistakes_detected': analysis['total_mistakes_detected'],
         'critical_blunders_count': analysis['critical_blunders_count'],
+        'decisions_scored': analysis['decisions_scored'],
+        'decisions_unscored': analysis['decisions_unscored'],
+        'legacy_logic_hands': analysis['legacy_logic_hands'],
         'leak_breakdown': analysis['leak_breakdown'],
         'hands': hands,
     }
