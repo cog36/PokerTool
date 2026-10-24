@@ -1,8 +1,9 @@
 import { spawn, spawnSync } from 'node:child_process';
 import { existsSync } from 'node:fs';
-import { resolve, join } from 'node:path';
+import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-const root = process.cwd();
+const root = fileURLToPath(new URL('../', import.meta.url));
 const windows = process.platform === 'win32';
 const python = windows
   ? join(root, '.venv', 'Scripts', 'python.exe')
@@ -27,6 +28,18 @@ if (pythonCheck.error || pythonCheck.status !== 0) {
     ? '.venv\\Scripts\\python.exe -m pip install -r backend\\requirements.txt'
     : '.venv/bin/python -m pip install -r backend/requirements.txt';
   console.error(`Python API dependencies are missing. Run: ${installCommand}`);
+  process.exit(1);
+}
+
+// Import the real app before starting either server. Dependencies alone do not
+// catch missing route imports, invalid annotations, or incomplete integrations.
+const appCheck = spawnSync(python, ['-c', 'from backend.main import app'], {
+  cwd: root,
+  stdio: ['ignore', 'ignore', 'inherit'],
+  timeout: 15000,
+});
+if (appCheck.error || appCheck.status !== 0) {
+  console.error('Python API could not load. Fix the error above, then run npm start again.');
   process.exit(1);
 }
 
@@ -56,9 +69,28 @@ function launch(command, args, label) {
   return child;
 }
 
-console.log('Starting Python API on http://127.0.0.1:8000 and frontend on http://127.0.0.1:5173/');
-launch(python, ['-m', 'uvicorn', 'backend.main:app', '--host', '127.0.0.1', '--port', '8000'], 'Python API');
-launch(process.execPath, [resolve(vite), '--host', '127.0.0.1'], 'Frontend');
-
 process.on('SIGINT', () => stop(130));
 process.on('SIGTERM', () => stop(143));
+
+// Only start the frontend once Python is actually serving health checks.
+async function waitForApi() {
+  const deadline = Date.now() + 15000;
+  while (!stopping && Date.now() < deadline) {
+    try {
+      const response = await fetch('http://127.0.0.1:8000/api/health', { signal: AbortSignal.timeout(800) });
+      if (response.ok && (await response.json()).status === 'ok') return true;
+    } catch {
+      // A refused connection is normal while Uvicorn is still booting.
+    }
+    await new Promise(resolve => setTimeout(resolve, 200));
+  }
+  if (!stopping) stop(1, 'Python API did not become ready on port 8000; shutting down.');
+  return false;
+}
+
+console.log('Starting Python API on http://127.0.0.1:8000…');
+launch(python, ['-m', 'uvicorn', 'backend.main:app', '--host', '127.0.0.1', '--port', '8000'], 'Python API');
+if (await waitForApi() && !stopping) {
+  console.log('Python API is ready. Starting frontend on http://127.0.0.1:5173/');
+  launch(process.execPath, [vite, '--host', '127.0.0.1', '--port', '5173', '--strictPort'], 'Frontend');
+}

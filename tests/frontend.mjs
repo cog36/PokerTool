@@ -64,12 +64,12 @@ try {
   await page.getByRole('button', { name: 'Delete note: React migration check' }).click();
   assert.equal(await page.locator('.saved-note').count(), 0);
 
-  // A fixed random source forces a full eight-opponent table for layout and gameplay checks.
+  // A fixed random source keeps the seven-opponent table reproducible for layout and gameplay checks.
   await page.addInitScript(() => { Math.random = () => .999; });
   await page.goto(`${baseUrl}/#arena`);
   await page.reload();
-  await expect(page.locator('.arena-bot')).toHaveCount(8);
-  await expect(page.locator('.speech-bubble')).toHaveCount(8);
+  await expect(page.locator('.arena-bot')).toHaveCount(7);
+  await expect(page.locator('.speech-bubble')).toHaveCount(7);
   await expect(page.locator('.arena-community .card')).toHaveCount(0);
   await expect(page.locator('.board-card-space')).toHaveCount(5);
   await expect(page.locator('.arena-streets [aria-current="step"]')).toHaveText('Preflop');
@@ -82,7 +82,7 @@ try {
   await waitForDecision();
   await expect(page.locator('.arena-community .card')).toHaveCount(0);
   await expect(page.locator('.arena-action-log')).toContainText('posts');
-  assert.equal(await page.locator('.archetype-tag').count(), 8);
+  assert.equal(await page.locator('.archetype-tag').count(), 7);
 
   let decisions = 0;
   while (!await page.locator('.arena-outcome').count()) {
@@ -108,15 +108,15 @@ try {
   await page.getByRole('button', { name: 'Mute table talk' }).click();
   await expect(page.locator('.speech-bubble')).toHaveCount(0);
   await page.getByRole('button', { name: 'Show table talk' }).click();
-  await expect(page.locator('.speech-bubble')).toHaveCount(8);
+  await expect(page.locator('.speech-bubble')).toHaveCount(7);
 
-  // A new random table can also be heads-up, without affecting the current hand's deck.
+  // A fresh roster still has eight total seats, regardless of the random source.
   await page.evaluate(() => { Math.random = () => .01; });
   await page.getByRole('button', { name: 'New random table', exact: true }).click();
-  await expect(page.locator('.arena-bot')).toHaveCount(1);
+  await expect(page.locator('.arena-bot')).toHaveCount(7);
   await waitForDecision();
   await expect(page.locator('.arena-community .card')).toHaveCount(0);
-  await expect(page.locator('.decision-context')).toContainText('BTN / SB');
+  await expect(page.locator('.decision-context')).toContainText('BTN');
   await page.getByRole('button', { name: 'Read the opponent', exact: false }).click();
   await page.getByRole('button', { name: 'Assume every bet is a bluff', exact: false }).click();
   await expect(page.locator('.read-game .answer-indicator.incorrect')).toBeVisible();
@@ -212,13 +212,25 @@ try {
       await page.locator(`#${route}`).waitFor({ state: 'visible' });
       if (route === 'coach') await page.screenshot({ path: `/tmp/pokerttool-coach-${width}.png`, fullPage: true, animations: 'disabled' });
       if (route === 'arena') await expect(page.locator('.arena-stage')).toHaveAttribute('data-dealing', 'false');
+      if (route === 'arena') {
+        await expect(page.locator('.arena-bot')).toHaveCount(7);
+        await expect(page.locator('.arena-hero')).toHaveCount(1);
+        const fits = await page.locator('.arena-stage').evaluate(stage => {
+          const table = stage.getBoundingClientRect();
+          return [...stage.querySelectorAll('.bot-avatar')].every(avatar => {
+            const seat = avatar.getBoundingClientRect();
+            return seat.left >= table.left - 1 && seat.right <= table.right + 1 && seat.top >= table.top - 1 && seat.bottom <= table.bottom + 1;
+          });
+        });
+        assert.ok(fits, `All seven opponent avatars fit the table at ${width}px`);
+      }
       if (route === 'arena') await page.screenshot({ path: `/tmp/pokerttool-arena-${width}.png`, fullPage: true, animations: 'disabled' });
       if (route === 'overview') await page.screenshot({ path: `/tmp/pokerttool-react-${width}.png`, fullPage: true, animations: 'disabled' });
       assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1), `Page overflows at ${width}px: ${route}`);
     }
   }
   assert.deepEqual(errors, []);
-  console.log('PASS: themes, range filters, keyboard scoring, shared session results, replays, notebook persistence, full preflop-to-river hands, 1–8 opponents, action history, speech bubbles, opponent quiz, chat history, provider errors, retry, both entry points, mobile layout, and no browser errors.');
+  console.log('PASS: themes, range filters, keyboard scoring, shared session results, replays, notebook persistence, full preflop-to-river hands, eight total seats, action history, speech bubbles, opponent quiz, chat history, provider errors, retry, both entry points, mobile layout, and no browser errors.');
 } finally {
   await browser.close();
 }

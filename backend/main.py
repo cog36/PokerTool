@@ -5,10 +5,19 @@ from pathlib import Path
 from typing import Literal
 
 from dotenv import dotenv_values
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, File, HTTPException, UploadFile
 from openai import AsyncOpenAI, APIConnectionError, APIStatusError, APITimeoutError
 from pydantic import BaseModel, ConfigDict, Field, field_validator, model_validator
 
+# Support both project-root startup and `cd backend && uvicorn main:app`.
+if __package__:
+    from .parser import parse_gg_hand_history
+    from .analyzer import analyze_session_hands
+else:
+    from parser import parse_gg_hand_history
+    from analyzer import analyze_session_hands
+
+MAX_HAND_HISTORY_BYTES = 10 * 1024 * 1024
 DEFAULT_MODEL = 'openai/gpt-oss-120b'
 BACKEND_DIR = Path(__file__).resolve().parent
 

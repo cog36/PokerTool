@@ -15,21 +15,20 @@ npm start
 ```
 
 Open `http://127.0.0.1:5173/`. Keep the terminal open while using the app; press Ctrl+C to stop both services.
-First-time setup:
+The launcher validates the Python app before starting either service, waits for the API to become ready, and stops both services together on Ctrl+C or a service failure. Port 5173 is fixed; if it is occupied, stop the earlier instance before starting another.
 
-```powershell
-python -m venv .venv
-.\.venv\Scripts\python.exe -m pip install -r backend\requirements.txt
-npm install
-```
-
-From the `Frontend/` folder, with Node.js 22.12+ (or 20.19+):
+First-time setup on macOS / Linux (from the project root):
 
 ```bash
-cd Frontend
+python3 -m venv .venv
+.venv/bin/python -m pip install -r backend/requirements.txt
 npm install
-npm run dev
+npm start
 ```
+
+On Windows, install Python dependencies with `.\.venv\Scripts\python.exe -m pip install -r backend\requirements.txt` (use `.venv`, not `venv`, for this project's environment).
+
+For the frontend alone, run `npm run dev` from the project root with Node.js 22.12+ (or 20.19+).
 
 Open the local URL printed by Vite (usually `http://127.0.0.1:5173`). Both `/` and `/doc.html` load the React app.
 Use Vite rather than opening the HTML file directly or using Live Server; JSX requires the build tool.

@@ -11,10 +11,7 @@ import Arena from './pages/Arena';
 import { initialSession, readStored, scoreAnswer, writeStored } from './model';
 
 const pages = { overview: ['Overview', '◫'], analysis: ['Session Analysis', '⌁'], ranges: ['Range Explorer', '▦'], practice: ['Practice Room', '◎'], arena: ['AI Arena', '♠'], hands: ['Hand Library', '♧'], notebook: ['Study Notebook', '▤'], coach: ['AI Coach', '✦'] };
-import Arena from './pages/Arena';
-import { initialSession, readStored, scoreAnswer, writeStored } from './model';
 
-const pages = { overview: ['Overview', '◫'], ranges: ['Range Explorer', '▦'], practice: ['Practice Room', '◎'], arena: ['AI Arena', '♠'], hands: ['Hand Library', '♧'], notebook: ['Study Notebook', '▤'], coach: ['AI Coach', '✦'] };
 function currentPage() {
   const name = location.hash.slice(1);
   return Object.hasOwn(pages, name) ? name : 'overview';
@@ -60,7 +57,6 @@ export default function App() {
         <div hidden={page !== 'hands'}><Hands /></div>
         <div hidden={page !== 'notebook'}><Notebook /></div>
         <div hidden={page !== 'coach'}><Coach /></div>
-        <div hidden={page !== 'arena'}><Arena active={page === 'arena'} /></div>
         <footer className="page-footer"><span>♠ PokerTool <span>Your edge starts with understanding.</span></span><span>Built for study · React edition</span></footer>
       </main>
     </div>

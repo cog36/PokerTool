@@ -242,3 +242,62 @@
   .eight-seat-room .skip-playback { font-size: 8px; }
   .arena-lounge > .arena-sidebar { grid-template-columns: 1fr; }
 }
+
+/* Preserve the bubble's centred anchor while it animates into view. */
+.eight-seat-room .holdem-table .speech-bubble { animation: club-bubble 240ms ease-out both; }
+@keyframes club-bubble {
+  from { opacity: 0; scale: .85; translate: -50% 6px; }
+  to { opacity: 1; scale: 1; translate: -50% 0; }
+}
+@media (max-width: 720px) {
+  .eight-seat-room .holdem-table .arena-bot[data-seat="2"] { left: 13%; }
+  .eight-seat-room .holdem-table .arena-bot[data-seat="6"] { left: 87%; }
+}
+@media (max-width: 400px) {
+  .eight-seat-room .holdem-table .arena-bot { width: 68px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .eight-seat-room .holdem-table .speech-bubble { animation: none; }
+}
+
+/* Keep room layout self-contained when other frontend sections change. */
+.eight-seat-room .arena-streets {
+  display: flex;
+  gap: 6px;
+  list-style: none;
+  padding: 0;
+}
+.eight-seat-room .arena-streets li { flex: 1; text-align: center; }
+.eight-seat-room .decision-context {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  border: 1px solid #3c2e4c;
+  border-radius: 9px;
+}
+.eight-seat-room .decision-context > span { font-size: 9px; }
+.eight-seat-room .decision-context strong { display: block; font-size: 12px; margin-top: 5px; }
+.eight-seat-room .skip-playback { margin-left: auto; border: 0; background: none; font-size: 9px; white-space: nowrap; padding: 4px; }
+.eight-seat-room .raise-sizing { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 12px; font-size: 10px; margin: 18px 0 12px; }
+.eight-seat-room .raise-sizing input[type="number"] { width: 85px; padding: 8px; border-radius: 5px; border-width: 1px; border-style: solid; }
+.eight-seat-room .raise-sizing input[type="range"] { max-width: 200px; }
+.eight-seat-room .holdem-controls > .caption { text-align: center; font-size: 9px; }
+.arena-lounge .arena-action-log { overflow-y: auto; }
+.arena-lounge .history-street { margin-top: 18px; }
+.arena-lounge .history-street h3 { font-size: 12px; color: var(--mint); padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+.arena-lounge .roster-guide summary { cursor: pointer; font-size: 12px; font-weight: 650; }
+.arena-lounge .roster-guide article { padding: 13px 0; border-bottom: 1px solid var(--border); }
+.arena-lounge .roster-guide article strong { font-size: 11px; }
+.arena-lounge .roster-guide article p { font-size: 10px; line-height: 1.8; color: var(--muted); margin-top: 5px; }
+@media (max-width: 720px) {
+  .eight-seat-room .decision-context { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .eight-seat-room .skip-playback { font-size: 8px; }
+}
+
+/* The north seat's action badge sits beside its avatar rather than above the rim. */
+.eight-seat-room .arena-bot[data-seat="4"] .seat-action { bottom: auto; top: 0; left: calc(50% + 34px); }
+.panel.eight-seat-room .arena-table-controls .button,
+.panel.eight-seat-room .arena-actions .button:not(.primary):not(.arena-fold) { background: #241c30; border-color: #49355b; color: #e1c9fb; }
+@media (max-width: 720px) {
+  .eight-seat-room .arena-bot[data-seat="4"] .seat-action { left: calc(50% + 20px); }
+}
