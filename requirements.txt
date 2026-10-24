@@ -13,3 +13,4 @@ pokerkit>=0.5.0
 
 # LLM / AI Chatbot Integration
 openai>=1.0.0
+python-dotenv>=1.0.0
