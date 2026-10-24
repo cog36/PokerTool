@@ -179,6 +179,15 @@ class HandHistoryOverviewTests(unittest.TestCase):
         self.assertGreaterEqual(overview["files_scanned"], 2)
         self.assertIn("GGPoker", overview["summary"]["rooms"])
         self.assertIn("PokerStars / Betfair", overview["summary"]["rooms"])
+        pokerstars_hands = [
+            hand for hand in overview["hands"]
+            if hand["room"] == "PokerStars / Betfair"
+        ]
+        self.assertEqual(len(pokerstars_hands), 734)
+        self.assertTrue(all(
+            hand["source_file"].replace("\\", "/").startswith("pokerstars/")
+            for hand in pokerstars_hands
+        ))
         self.assertIn("vpip_percent", overview["summary"])
         self.assertIn("three_bet_opportunities", overview["summary"])
         self.assertLess(overview["summary"]["showdown_hand_percent"], 20)

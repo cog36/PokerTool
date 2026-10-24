@@ -11,7 +11,15 @@ except ImportError:
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-SAMPLE_FILE_PATH = PROJECT_ROOT / 'hand_histories' / 'GG20261015-2250 - Daily Hyper 2.txt'
+SAMPLE_FILE_PATH = (
+    PROJECT_ROOT
+    / 'hand_histories'
+    / 'ggpoker'
+    / 'GG20261015-2250 - Daily Hyper 2.txt'
+)
+POKERSTARS_FILE_PATH = next(
+    (PROJECT_ROOT / 'hand_histories' / 'pokerstars').glob('*.txt')
+)
 
 
 class AnalysisApiTests(unittest.TestCase):
@@ -22,7 +30,13 @@ class AnalysisApiTests(unittest.TestCase):
         response = self.client.get('/api/hand-history-overview')
 
         self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.headers['cache-control'], 'no-store')
         result = response.json()
+        room_counts = {}
+        for hand in result['hands']:
+            room_counts[hand['room']] = room_counts.get(hand['room'], 0) + 1
+        self.assertEqual(room_counts['PokerStars / Betfair'], 734)
+        self.assertEqual(result['total_hands'], sum(room_counts.values()))
         hand_showdowns = sum(hand['showdown'] for hand in result['hands'])
         self.assertEqual(result['summary']['showdowns'], hand_showdowns)
         self.assertEqual(
@@ -62,6 +76,22 @@ class AnalysisApiTests(unittest.TestCase):
         self.assertIn(hand['analysis_source'], {'CHART', 'LEGACY_LOGIC'})
         self.assertIn('chart_stack_bb', hand)
         self.assertIn('actions_before_hero', hand)
+
+    def test_upload_analyzes_pokerstars_history(self):
+        with POKERSTARS_FILE_PATH.open('rb') as history:
+            response = self.client.post(
+                '/api/analyze',
+                files={'file': (POKERSTARS_FILE_PATH.name, history, 'text/plain')},
+            )
+
+        self.assertEqual(response.status_code, 200)
+        result = response.json()
+        self.assertEqual(result['room'], 'PokerStars / Betfair')
+        self.assertEqual(result['total_hands_analyzed'], 74)
+        self.assertEqual(result['total_hands_analyzed'], len(result['hands']))
+        self.assertIn(result['hands'][0]['position'], {'EP1', 'EP2', 'EP3', 'LJ', 'HJ', 'CO', 'BTN', 'SB', 'BB'})
+        self.assertEqual(result['hands'][0]['matrix_key'], 'ATs')
+        self.assertIn(result['hands'][0]['analysis_source'], {'CHART', 'LEGACY_LOGIC'})
 
     def test_rejects_non_text_files(self):
         response = self.client.post(

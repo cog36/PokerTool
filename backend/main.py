@@ -5,17 +5,17 @@ from pathlib import Path
 from typing import Literal
 
 from dotenv import dotenv_values
-from fastapi import FastAPI, File, HTTPException, UploadFile
+from fastapi import FastAPI, File, HTTPException, Response, UploadFile
 from openai import AsyncOpenAI, APIConnectionError, APIStatusError, APITimeoutError
 from pydantic import BaseModel, ConfigDict, Field, field_validator, model_validator
 
 # Support both project-root startup and `cd backend && uvicorn main:app`.
 if __package__:
-    from .parser import parse_gg_hand_history
+    from .parser import parse_hand_history
     from .analyzer import analyze_session_hands
     from .hand_history_overview import build_hand_history_overview
 else:
-    from parser import parse_gg_hand_history
+    from parser import parse_hand_history
     from analyzer import analyze_session_hands
     from hand_history_overview import build_hand_history_overview
 
@@ -89,7 +89,8 @@ def health():
 
 
 @app.get('/api/hand-history-overview')
-def hand_history_overview():
+def hand_history_overview(response: Response):
+    response.headers['Cache-Control'] = 'no-store'
     return build_hand_history_overview()
 
 
@@ -97,7 +98,7 @@ def hand_history_overview():
 async def analyze_hand_history(file: UploadFile = File(...)):
     filename = file.filename or ''
     if Path(filename).suffix.lower() != '.txt':
-        raise HTTPException(400, 'Upload a GG Poker hand-history .txt file.')
+        raise HTTPException(400, 'Upload a GG Poker or PokerStars/Betfair hand-history .txt file.')
 
     contents = await file.read(MAX_HAND_HISTORY_BYTES + 1)
     if len(contents) > MAX_HAND_HISTORY_BYTES:
@@ -111,13 +112,13 @@ async def analyze_hand_history(file: UploadFile = File(...)):
         raise HTTPException(400, 'The hand-history file must use UTF-8 text encoding.') from None
 
     try:
-        parsed_hands = parse_gg_hand_history(history)
+        room, parsed_hands = parse_hand_history(history)
     except ValueError:
-        raise HTTPException(400, 'The file could not be parsed as a GG Poker hand history.') from None
+        raise HTTPException(400, 'The file could not be parsed as a supported GG Poker or PokerStars/Betfair hand history.') from None
     if not parsed_hands:
         raise HTTPException(
             400,
-            'No supported hands were found. Upload a GG Poker hand history that includes Hero hole cards.',
+            'No supported hands were found. GG Poker histories must include Hero hole cards; PokerStars/Betfair histories must include bullets685 hole cards.',
         )
 
     analysis = analyze_session_hands(parsed_hands)
@@ -137,6 +138,7 @@ async def analyze_hand_history(file: UploadFile = File(...)):
 
     return {
         'filename': Path(filename).name,
+        'room': room,
         'total_hands_analyzed': analysis['total_hands_analyzed'],
         'total_mistakes_detected': analysis['total_mistakes_detected'],
         'critical_blunders_count': analysis['critical_blunders_count'],

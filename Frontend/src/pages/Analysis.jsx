@@ -83,14 +83,14 @@ export default function Analysis({ analysis: rawAnalysis, onAnalysis }) {
 
   return <section className="page" id="analysis">
     <div className="page-title">
-      <div><p className="eyebrow">TURN HAND HISTORIES INTO STUDY NOTES</p><h1>Session Analysis<span>.</span></h1><p>Upload a GG Poker hand-history text file to review parsed hands and heuristic feedback.</p></div>
-      <span className="pill outlined">GG Poker · .txt · up to 10 MB</span>
+      <div><p className="eyebrow">TURN HAND HISTORIES INTO STUDY NOTES</p><h1>Session Analysis<span>.</span></h1><p>Upload a GG Poker or PokerStars/Betfair hand-history text file to review parsed hands and heuristic feedback.</p></div>
+      <span className="pill outlined">GG Poker · PokerStars · .txt · up to 10 MB</span>
     </div>
 
     <section className="panel analysis-upload">
       <div className="panel-title"><div><h2>Analyze a hand-history file</h2><p className="caption">Files are processed in memory for this request and are not saved on the server.</p></div><span className="tag">LOCAL API</span></div>
       <form onSubmit={submit} className="analysis-upload-form">
-        <label className="field">Choose a GG Poker hand-history file
+        <label className="field">Choose a hand-history file
           <input type="file" accept=".txt,text/plain" onChange={event => { setFile(event.target.files?.[0] ?? null); setError(''); setStatus(''); }} />
         </label>
         <button className="button primary" type="submit" disabled={!file || busy}>{busy ? 'Analyzing…' : 'Analyze session ↗'}</button>
@@ -98,7 +98,7 @@ export default function Analysis({ analysis: rawAnalysis, onAnalysis }) {
       {file && <p className="caption selected-file">{file.name} · {(file.size / (1024 * 1024)).toFixed(2)} MB</p>}
       {error && <p className="analysis-message error" role="alert">{error}</p>}
       {status && <p className="analysis-message" role="status">{status}</p>}
-      <p className="caption">The current parser expects GG Poker histories with hands dealt to a player named Hero. Other room formats are not supported yet.</p>
+      <p className="caption">Supported formats: GG Poker histories dealt to Hero and PokerStars/Betfair histories dealt to bullets685. Files are analyzed in memory and are not saved.</p>
     </section>
 
     {!analysis ? <section className="analysis-empty panel"><span>♧</span><h2>Your session results will appear here.</h2><p>Upload a history file to see session totals, common leaks, and hand-by-hand feedback.</p></section> : <>
@@ -112,7 +112,7 @@ export default function Analysis({ analysis: rawAnalysis, onAnalysis }) {
       </div>
 
       <section className="panel analysis-leaks">
-        <div className="panel-title"><div><h2>Leak breakdown</h2><p className="caption">Incorrect decisions flagged against a chart-supported action.</p></div><span className="tag">{analysis.filename}</span></div>
+        <div className="panel-title"><div><h2>Leak breakdown</h2><p className="caption">Incorrect decisions flagged against a chart-supported action.</p></div><span className="tag">{analysis.room ? `${analysis.room} · ` : ''}{analysis.filename}</span></div>
         {leaks.map(([label, count]) => <div className="leak-row" key={label}>
           <span>{label}</span><div className="leak-track"><i style={{ width: `${(count ?? 0) / maxLeak * 100}%` }} /></div><strong>{count === null ? '—' : count.toLocaleString()}</strong>
         </div>)}

@@ -23,6 +23,87 @@ def convert_to_matrix_key(card_str: str) -> str:
     else:
         return f"{r1}{r2}o"
 
+
+def _hero_contribution(block: str, hero: str) -> float:
+    invested = 0.0
+    street_contribution = 0.0
+    for line in block.splitlines():
+        if line.startswith(("*** FLOP ***", "*** TURN ***", "*** RIVER ***")):
+            street_contribution = 0.0
+        action_match = re.match(r"^" + re.escape(hero) + r":\s*(.+)$", line)
+        if action_match:
+            action_text = action_match.group(1).strip()
+            amounts = re.findall(r"\d[\d,]*", action_text)
+            if not amounts:
+                continue
+            amount = float(amounts[0].replace(",", ""))
+            if action_text.startswith("posts the ante"):
+                invested += amount
+            elif action_text.startswith(("posts small blind", "posts big blind")):
+                invested += amount
+                street_contribution += amount
+            elif action_text.startswith(("calls", "bets")):
+                invested += amount
+                street_contribution += amount
+            elif action_text.startswith("raises"):
+                raise_to = re.search(r"\bto\s+([\d,]+)", action_text)
+                target = (
+                    float(raise_to.group(1).replace(",", ""))
+                    if raise_to
+                    else street_contribution + amount
+                )
+                invested += max(0.0, target - street_contribution)
+                street_contribution = max(street_contribution, target)
+        returned = re.match(
+            r"^Uncalled bet \(([\d,]+)\) returned to " + re.escape(hero) + r"\s*$",
+            line.strip(),
+            re.IGNORECASE,
+        )
+        if returned:
+            amount = float(returned.group(1).replace(",", ""))
+            invested -= amount
+            street_contribution = max(0.0, street_contribution - amount)
+    return max(invested, 0.0)
+
+
+def _hero_reached_showdown(block: str, hero: str) -> bool:
+    summary = block.split("*** SUMMARY ***")[-1]
+    hero_summary = re.search(
+        r"^\s*Seat \d+:\s*" + re.escape(hero) + r"(?=\s|$).*$",
+        summary,
+        re.MULTILINE | re.IGNORECASE,
+    )
+    return bool(
+        re.search(r"\*\*\* SHOW ?DOWN \*\*\*", block)
+        and hero_summary
+        and re.search(r"\b(?:showed|mucked)\b", hero_summary.group(0), re.IGNORECASE)
+    )
+
+
+def _hero_winnings(block: str, hero: str) -> float:
+    summary = block.split("*** SUMMARY ***")[-1] if "*** SUMMARY ***" in block else ""
+    hero_summary = re.search(
+        r"^\s*Seat \d+:\s*" + re.escape(hero) + r"(?=\s|$).*$",
+        summary,
+        re.MULTILINE | re.IGNORECASE,
+    )
+    if hero_summary:
+        amounts = re.findall(
+            r"\b(?:collected|won)\s*\(([\d,]+)\)",
+            hero_summary.group(0),
+            re.IGNORECASE,
+        )
+        if amounts:
+            return sum(float(amount.replace(",", "")) for amount in amounts)
+    showdown_text = block.split("*** SUMMARY ***")[0]
+    amounts = re.findall(
+        r"^" + re.escape(hero) + r" collected ([\d,]+) from pot",
+        showdown_text,
+        re.MULTILINE | re.IGNORECASE,
+    )
+    return sum(float(amount.replace(",", "")) for amount in amounts)
+
+
 def get_player_positions(block: str) -> dict[str, str]:
     """Determine player positions using the position names found in preflop charts."""
     btn_match = re.search(r"Seat #(\d+) is the button", block)
@@ -77,12 +158,16 @@ def get_player_positions(block: str) -> dict[str, str]:
 
     return positions
 
-def determine_hero_position(block: str) -> str:
+def determine_hero_position(block: str, hero: str = "Hero") -> str:
     """Convenience helper to extract Hero's position."""
     positions = get_player_positions(block)
-    return positions.get("Hero", "UNKNOWN")
+    return positions.get(hero, "UNKNOWN")
 
-def parse_preflop_actions(block: str, player_positions: dict[str, str]) -> dict:
+def parse_preflop_actions(
+    block: str,
+    player_positions: dict[str, str],
+    hero: str = "Hero",
+) -> dict:
     """
     Parses preflop action lines occurring before Hero acts.
     Determines whether Hero faces an unopened pot, a limp, an open raise,
@@ -104,7 +189,7 @@ def parse_preflop_actions(block: str, player_positions: dict[str, str]) -> dict:
 
     # preflop action is bounded by flop, showdown, or summary
     end_indices = [
-        block.find(marker) for marker in ("*** FLOP ***", "*** SHOWDOWN ***", "*** SUMMARY ***")
+        block.find(marker) for marker in ("*** FLOP ***", "*** SHOWDOWN ***", "*** SHOW DOWN ***", "*** SUMMARY ***")
         if block.find(marker) != -1
     ]
     end_idx = min(end_indices) if end_indices else len(block)
@@ -126,7 +211,7 @@ def parse_preflop_actions(block: str, player_positions: dict[str, str]) -> dict:
         player, act_text = match.group(1).strip(), match.group(2).strip()
 
         # stop when Hero acts for the first time
-        if player == "Hero":
+        if player == hero:
             if "folds" in act_text:
                 hero_first_action = "fold"
             elif "calls" in act_text:
@@ -198,9 +283,7 @@ def parse_preflop_actions(block: str, player_positions: dict[str, str]) -> dict:
     }
 
 def parse_gg_hand_history(text_content: str) -> list[dict]:
-    raw_hands = text_content.strip().split("\n\n\n")
-    if len(raw_hands) == 1:
-        raw_hands = re.split(r"(?=Poker Hand #)", text_content)
+    raw_hands = re.split(r"(?=^Poker Hand #)", text_content, flags=re.MULTILINE)
 
     parsed_hands = []
 
@@ -237,24 +320,11 @@ def parse_gg_hand_history(text_content: str) -> list[dict]:
         pot_match = re.search(r"Total pot (\d+[\d,]*)", block)
         total_pot = float(pot_match.group(1).replace(",", "")) if pot_match else 0.0
 
-        hero_win_match = re.search(r"Seat \d+: Hero .* collected \((\d+[\d,]*)\)", block) or \
-                         re.search(r"Seat \d+: Hero .* won \((\d+[\d,]*)\)", block) or \
-                         re.search(r"Hero collected (\d+[\d,]*) from pot", block)
-        
-        hero_invested = 0.0
-        for line in block.split("\n"):
-            if line.startswith("Hero:") or line.startswith("Hero posts"):
-                amounts = re.findall(r"(\d+[\d,]*)", line)
-                if amounts:
-                    hero_invested += float(amounts[-1].replace(",", ""))
+        win_amount = _hero_winnings(block, "Hero")
+        hero_invested = _hero_contribution(block, "Hero")
+        net_profit = win_amount - hero_invested
 
-        if hero_win_match:
-            win_amount = float(hero_win_match.group(1).replace(",", ""))
-            net_profit = win_amount - hero_invested
-        else:
-            net_profit = -hero_invested
-
-        hero_all_in = "and is all-in" in block and ("Hero: raises" in block or "Hero: calls" in block)
+        hero_all_in = preflop_info["hero_first_action_is_all_in"]
 
         parsed_hands.append({
             "hand_id": hand_id,
@@ -267,7 +337,8 @@ def parse_gg_hand_history(text_content: str) -> list[dict]:
             "total_pot": total_pot,
             "hero_invested": hero_invested,
             "net_profit": net_profit,
-            "saw_showdown": "*** SHOWDOWN ***" in block,
+            "voluntarily_played": preflop_info["hero_first_action"] in ("call", "raise", "bet"),
+            "saw_showdown": _hero_reached_showdown(block, "Hero"),
             "is_all_in": hero_all_in,
             "facing_action": preflop_info["facing_action"],
             "is_facing_raise": preflop_info["is_facing_raise"],
@@ -282,4 +353,88 @@ def parse_gg_hand_history(text_content: str) -> list[dict]:
 
     return parsed_hands
 
+
+def parse_pokerstars_hand_history(
+    text_content: str,
+    hero: str = "bullets685",
+) -> list[dict]:
+    """Parse PokerStars/Betfair text histories into the session analyzer schema."""
+    blocks = [
+        block.strip()
+        for block in re.split(r"(?=^(?:PokerStars|Betfair) Hand #)", text_content, flags=re.MULTILINE)
+        if re.match(r"^(?:PokerStars|Betfair) Hand #", block.strip())
+    ]
+    parsed_hands = []
+
+    for block in blocks:
+        hand_match = re.search(r"^(?:PokerStars|Betfair) Hand #([^:\s]+):", block, re.MULTILINE)
+        dealt_match = re.search(
+            r"^Dealt to " + re.escape(hero) + r" \[([2-9TJQKA][shdc] [2-9TJQKA][shdc])\]",
+            block,
+            re.MULTILINE | re.IGNORECASE,
+        )
+        if not hand_match or not dealt_match:
+            continue
+
+        header = block.splitlines()[0]
+        blind_match = re.search(r"\(([\d,]+)/([\d,]+)(?:/[\d,]+)?\)", header)
+        if not blind_match:
+            continue
+        small_blind = float(blind_match.group(1).replace(",", ""))
+        big_blind = float(blind_match.group(2).replace(",", ""))
+        if big_blind <= 0:
+            continue
+
+        hero_stack_match = re.search(
+            r"^Seat \d+:\s*" + re.escape(hero) + r"\s+\(([\d,]+) in chips\)",
+            block,
+            re.MULTILINE,
+        )
+        hero_stack = float(hero_stack_match.group(1).replace(",", "")) if hero_stack_match else 0.0
+        stack_depth_bb = round(hero_stack / big_blind, 1)
+        raw_cards = dealt_match.group(1)
+        positions = get_player_positions(block)
+        hero_position = positions.get(hero, determine_hero_position(block, hero))
+        preflop_info = parse_preflop_actions(block, positions, hero)
+
+        board_match = re.search(r"Board \[([^\]]+)\]", block)
+        total_pot_match = re.search(r"Total pot ([\d,]+)", block)
+        win_amount = _hero_winnings(block, hero)
+        hero_invested = _hero_contribution(block, hero)
+        net_profit = win_amount - hero_invested
+        hero_all_in = preflop_info["hero_first_action_is_all_in"]
+        parsed_hands.append({
+            "hand_id": hand_match.group(1),
+            "raw_cards": raw_cards,
+            "matrix_key": convert_to_matrix_key(raw_cards),
+            "position": hero_position,
+            "starting_stack_bb": stack_depth_bb,
+            "big_blind": big_blind,
+            "small_blind": small_blind,
+            "board": board_match.group(1) if board_match else "",
+            "total_pot": float(total_pot_match.group(1).replace(",", "")) if total_pot_match else 0.0,
+            "hero_invested": hero_invested,
+            "net_profit": net_profit,
+            "voluntarily_played": preflop_info["hero_first_action"] in ("call", "raise", "bet"),
+            "saw_showdown": _hero_reached_showdown(block, hero),
+            "is_all_in": hero_all_in,
+            "facing_action": preflop_info["facing_action"],
+            "is_facing_raise": preflop_info["is_facing_raise"],
+            "is_facing_all_in": preflop_info["is_facing_all_in"],
+            "opener_position": preflop_info["opener_position"],
+            "num_raises_before_hero": preflop_info["num_raises_before_hero"],
+            "num_callers_before_hero": preflop_info["num_callers_before_hero"],
+            "actions_before_hero": preflop_info["actions_before_hero"],
+            "hero_first_action": preflop_info["hero_first_action"],
+            "hero_first_action_is_all_in": preflop_info["hero_first_action_is_all_in"],
+        })
     return parsed_hands
+
+
+def parse_hand_history(text_content: str) -> tuple[str, list[dict]]:
+    """Detect the supported poker room and return its parsed hands."""
+    if re.search(r"^Poker Hand #", text_content, re.MULTILINE):
+        return "GGPoker", parse_gg_hand_history(text_content)
+    if re.search(r"^(?:PokerStars|Betfair) Hand #", text_content, re.MULTILINE):
+        return "PokerStars / Betfair", parse_pokerstars_hand_history(text_content)
+    raise ValueError("No supported GG Poker or PokerStars/Betfair hands were found.")

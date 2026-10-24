@@ -124,7 +124,10 @@ def _audit_with_legacy_logic(hand: dict) -> dict:
     opener_pos = _legacy_position(hand.get("opener_position") or "")
     num_raises = hand.get("num_raises_before_hero", 0)
     hero_first_act = hand.get("hero_first_action")
-    voluntarily_played = invested > big_blind * 1.1
+    voluntarily_played = hand.get(
+        "voluntarily_played",
+        invested > big_blind * 1.1,
+    )
 
     deviation = "Optimal Action"
     recommendation = "Played correctly according to situational ranges."

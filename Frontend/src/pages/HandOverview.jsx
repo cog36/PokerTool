@@ -19,7 +19,7 @@ export default function HandOverview({ active }) {
     const controller = new AbortController();
     setLoading(true);
     setError('');
-    fetch('/api/hand-history-overview', { signal: controller.signal })
+    fetch('/api/hand-history-overview', { cache: 'no-store', signal: controller.signal })
       .then(async response => {
         const result = await response.json().catch(() => null);
         if (!response.ok) {
@@ -57,6 +57,13 @@ export default function HandOverview({ active }) {
       hand.source_file,
     ].some(value => String(value ?? '').toLowerCase().includes(query)));
   }, [data, search]);
+  const roomCounts = useMemo(() => {
+    const counts = new Map();
+    for (const hand of data?.hands ?? []) {
+      counts.set(hand.room, (counts.get(hand.room) ?? 0) + 1);
+    }
+    return [...counts].sort(([roomA], [roomB]) => roomA.localeCompare(roomB));
+  }, [data]);
   const summary = data?.summary;
 
   return <section id="hand-overview" className="page">
@@ -79,7 +86,7 @@ export default function HandOverview({ active }) {
         Parsed {data.total_hands.toLocaleString()} unique hands from {data.source_files.toLocaleString()} file(s);
         {' '}{data.files_scanned.toLocaleString()} files scanned
         {summary.tournaments ? ` · ${summary.tournaments.toLocaleString()} tournaments` : ''}
-        {summary.rooms?.length ? ` · ${summary.rooms.join(', ')}` : ''}.
+        {roomCounts.length > 0 && <> · {roomCounts.map(([room, count]) => `${room}: ${count.toLocaleString()}`).join(' · ')}</>}.
         {data.errors.length > 0 && ` ${data.errors.length} file/parse error(s) reported below.`}
       </p>
 
