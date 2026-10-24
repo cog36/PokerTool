@@ -13,9 +13,9 @@ from pydantic import BaseModel, ConfigDict, Field, field_validator, model_valida
 load_dotenv(Path(__file__).resolve().parent / '.env')
 load_dotenv(Path(__file__).resolve().parent.parent / '.env')
 
-app = FastAPI(title='PokertTool Coaching API')
+app = FastAPI(title='PokerTool Coaching API')
 
-SYSTEM_PROMPT = """You are PokertTool's poker study coach. Discuss poker decisions and fundamentals.
+SYSTEM_PROMPT = """You are PokerTool's poker study coach. Discuss poker decisions and fundamentals.
 Ask for missing position, effective stacks, board, bet sizes and previous actions when relevant.
 Distinguish realised profit from expected value. You have no solver, hand-history parser,
 player statistics or live session access: never claim to have calculated GTO frequencies,

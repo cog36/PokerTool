@@ -74,7 +74,7 @@ export default function Coach() {
         <div className="panel-title"><h2>Your table-side study partner</h2><button type="button" className="button" disabled={busy || !messages.length} onClick={() => { setMessages([]); setError(''); }}>New chat ↻</button></div>
         <div className="coach-transcript" ref={transcript} role="log" aria-live="polite" aria-label="Coaching conversation">
           {!messages.length && <div className="coach-welcome"><span>✦</span><h2>What’s on your mind?</h2><p>Ask about a concept or describe a hand. Include positions, stack sizes, the board, and the action.</p><div className="coach-starters">{starters.map(text => <button key={text} type="button" disabled={busy} onClick={() => setDraft(text)}>{text}<span>↗</span></button>)}</div></div>}
-          {messages.map((message, index) => <article className={`coach-message ${message.role}`} key={index}><span>{message.role === 'user' ? 'YOU' : '✦ POKERTTOOL COACH'}</span><p>{message.content}</p></article>)}
+          {messages.map((message, index) => <article className={`coach-message ${message.role}`} key={index}><span>{message.role === 'user' ? 'YOU' : '✦ POKERTOOL COACH'}</span><p>{message.content}</p></article>)}
           {busy && <p className="coach-thinking" role="status">✦ Coach is thinking…</p>}
         </div>
         {error && <p className="coach-error" role="alert">{error}</p>}

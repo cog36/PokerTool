@@ -6,9 +6,10 @@ import Practice from './pages/Practice';
 import Hands from './pages/Hands';
 import Notebook from './pages/Notebook';
 import Coach from './pages/Coach';
+import Arena from './pages/Arena';
 import { initialSession, readStored, scoreAnswer, writeStored } from './model';
 
-const pages = { overview: ['Overview', '◫'], ranges: ['Range Explorer', '▦'], practice: ['Practice Room', '◎'], hands: ['Hand Library', '♧'], notebook: ['Study Notebook', '▤'], coach: ['AI Coach', '✦'] };
+const pages = { overview: ['Overview', '◫'], ranges: ['Range Explorer', '▦'], practice: ['Practice Room', '◎'], arena: ['AI Arena', '♠'], hands: ['Hand Library', '♧'], notebook: ['Study Notebook', '▤'], coach: ['AI Coach', '✦'] };
 function currentPage() {
   const name = location.hash.slice(1);
   return Object.hasOwn(pages, name) ? name : 'overview';
@@ -28,7 +29,7 @@ export default function App() {
     return () => window.removeEventListener('hashchange', navigate);
   }, []);
   useEffect(() => {
-    document.title = `${pages[page][0]} — PokertTool`;
+    document.title = `${pages[page][0]} — PokerTool`;
     window.scrollTo(0, 0);
   }, [page]);
   function toggleTask(name, checked) {
@@ -37,7 +38,7 @@ export default function App() {
     setTaskStatus(writeStored('river.tasks', next) ? '' : 'Checklist updated for this visit; browser storage is unavailable.');
   }
   return <>
-    <aside className="sidebar"><a href="#overview" className="brand" aria-label="PokertTool home"><span className="brand-mark">♠</span> PokertTool</a><div className="club-label">YOUR POKER STUDY CLUB</div>
+    <aside className="sidebar"><a href="#overview" className="brand" aria-label="PokerTool home"><span className="brand-mark">♠</span> PokerTool</a><div className="club-label">YOUR POKER STUDY CLUB</div>
       <nav aria-label="Main navigation">{Object.entries(pages).map(([key, [label, icon]]) => <a key={key} href={`#${key}`} className={page === key ? 'active' : ''} aria-current={page === key ? 'page' : undefined}><span className="nav-icon">{icon}</span>{label}{key === 'practice' && <span className="nav-badge">3</span>}</a>)}</nav>
       <div className="sidebar-tip"><span className="tiny-label">A GOOD HABIT</span><div className="tip-symbol">✳</div><h3>Study small.<br />Play smarter.</h3><p>One focused decision is worth more than a hundred rushed hands.</p><a href="#practice">Take a seat <span>↗</span></a></div>
       <div className="profile"><span className="avatar">YO</span><div><strong>Your study space</strong><span>Browser-only edition</span></div><span className="online-dot" /></div>
@@ -51,7 +52,8 @@ export default function App() {
         <div hidden={page !== 'hands'}><Hands /></div>
         <div hidden={page !== 'notebook'}><Notebook /></div>
         <div hidden={page !== 'coach'}><Coach /></div>
-        <footer className="page-footer"><span>♠ PokertTool <span>Your edge starts with understanding.</span></span><span>Built for study · React edition</span></footer>
+        <div hidden={page !== 'arena'}><Arena active={page === 'arena'} /></div>
+        <footer className="page-footer"><span>♠ PokerTool <span>Your edge starts with understanding.</span></span><span>Built for study · React edition</span></footer>
       </main>
     </div>
   </>;

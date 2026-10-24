@@ -37,6 +37,16 @@ Existing `river.notes`, `river.tasks`, and `pokerttool.theme` storage keys are r
 Browser storage is specific to the site origin; notes from a different port or a file URL remain on that origin.
 Practice scores last for the current visit; notes, checklist choices, and theme preferences persist locally.
 
+## Play the AI Arena
+
+Open **AI Arena** in the sidebar for two browser-only games:
+
+- **River showdown:** face Blaze (pressure player), Professor (patient thinker), and Mochi (curious caller). Check or bet, respond to an opponent bet, and watch the showdown. Stacks carry between hands; each player starts with 100 virtual bb. Each new river pot takes 3bb per player. If a stack cannot cover the next hand, the refill button starts a new match.
+- **Animated table flow:** the dealer distributes cards, action buttons unlock after the deal, opponents think and respond one at a time, chips move into the pot, and showdown cards flip before the pot is awarded. Cinematic / Quick play controls pacing; the device reduced-motion preference disables decorative motion and shortens waits. Leaving the Arena or switching games pauses playback.
+- **Read the opponent:** answer three personality-based strategy questions with immediate feedback.
+
+Opponents use local rules based on their own cards, the shared board, and a fixed per-hand random tendency. Their speech bubbles are fictional table talk, not an LLM's internal reasoning or reliable tells. No API call is needed. Showdowns rank the best five of seven cards and split tied pots. This is a simplified river variant with no raises, side pots, rake, or real-money play.
+
 ## Run the Python AI coach
 
 The AI Coach screen calls a FastAPI endpoint backed by Groq. Range and training screens still use sample data; the chatbot does not have a solver or automatic access to your notebook or practice results.

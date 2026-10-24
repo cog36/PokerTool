@@ -38,6 +38,15 @@ try {
   await page.getByRole('navigation').getByRole('link', { name: 'Overview', exact: false }).first().click();
   assert.equal(await page.locator('#overview-attempts').textContent(), '2');
   await page.getByRole('checkbox').first().check();
+  await page.getByRole('navigation').getByRole('link', { name: 'Practice Room' }).click();
+  await page.getByRole('button', { name: 'Next decision' }).click();
+  await page.getByRole('button', { name: '1 Fold' }).click();
+  await expect(page.locator('.answer-indicator.incorrect')).toHaveText(/Incorrect/);
+  await expect(page.locator('.action-buttons .chosen')).toHaveClass(/incorrect/);
+  assert.equal(await page.locator('.action-buttons .chosen').evaluate(element => getComputedStyle(element).backgroundColor), 'rgb(220, 53, 73)');
+  await page.getByRole('button', { name: 'Repeat the examples' }).click();
+  await expect(page.locator('.answer-indicator')).toHaveCount(0);
+
 
   await page.getByRole('navigation').getByRole('link', { name: 'Hand Library', exact: false }).click();
   await page.getByRole('button', { name: 'Next street' }).click();
@@ -54,6 +63,38 @@ try {
   await page.getByRole('heading', { name: 'React migration check' }).waitFor();
   await page.getByRole('button', { name: 'Delete note: React migration check' }).click();
   assert.equal(await page.locator('.saved-note').count(), 0);
+
+  await page.getByRole('navigation').getByRole('link', { name: 'AI Arena' }).click();
+  await expect(page.locator('.speech-bubble')).toHaveCount(3);
+  await expect(page.getByRole('button', { name: 'Bet 8 bb', exact: true })).toBeDisabled();
+  await expect(page.locator('.arena-community .card')).toHaveCount(5);
+  await expect(page.getByRole('button', { name: 'Bet 8 bb', exact: true })).toBeEnabled();
+  await page.getByRole('button', { name: 'Bet 8 bb', exact: true }).click();
+  await expect(page.locator('.arena-stage')).toHaveAttribute('data-playing', 'true');
+  await expect(page.locator('.arena-outcome')).toBeVisible({ timeout: 15000 });
+  await expect(page.locator('.arena-actions button')).toHaveText('Deal next hand →');
+  await page.getByRole('button', { name: 'Deal next hand' }).click();
+  await expect(page.locator('.arena-outcome')).toHaveCount(0);
+  await page.getByRole('navigation').getByRole('link', { name: 'Overview' }).first().click();
+  const pausedStatus = await page.locator('.dealer-status').textContent();
+  await page.waitForTimeout(400);
+  assert.equal(await page.locator('.dealer-status').textContent(), pausedStatus);
+  await page.getByRole('navigation').getByRole('link', { name: 'AI Arena' }).click();
+  await page.emulateMedia({ reducedMotion: 'reduce' });
+  await expect(page.locator('.arena-stage')).toHaveAttribute('data-dealing', 'false');
+  assert.equal(await page.locator('.arena-bot .bot-avatar').first().evaluate(element => getComputedStyle(element).animationName), 'none');
+  await page.emulateMedia({ reducedMotion: 'no-preference' });
+  await page.getByRole('button', { name: 'Cinematic play', exact: true }).click();
+  await expect(page.getByRole('button', { name: 'Quick play', exact: true })).toHaveAttribute('aria-pressed', 'true');
+  await page.getByRole('button', { name: 'Mute table talk' }).click();
+  await expect(page.locator('.speech-bubble')).toHaveCount(0);
+  await page.getByRole('button', { name: 'Show table talk' }).click();
+  await expect(page.locator('.speech-bubble')).toHaveCount(3);
+  await page.getByRole('button', { name: 'Read the opponent', exact: false }).click();
+  await page.getByRole('button', { name: 'Assume every bet is a bluff', exact: false }).click();
+  await expect(page.locator('.read-game .answer-indicator.incorrect')).toBeVisible();
+  await page.getByRole('button', { name: 'Next opponent' }).click();
+  await expect(page.locator('.read-game .answer-indicator')).toHaveCount(0);
 
   // Provider calls are mocked here; these checks do not consume API quota.
   await page.route('**/api/health', route => route.fulfill({ json: { status: 'ok', configured: true } }));
@@ -87,15 +128,17 @@ try {
 
   for (const width of [1440, 390]) {
     await page.setViewportSize({ width, height: 1000 });
-    for (const route of ['overview', 'ranges', 'practice', 'hands', 'notebook', 'coach']) {
+    for (const route of ['overview', 'ranges', 'practice', 'hands', 'notebook', 'coach', 'arena']) {
       await page.goto(`${baseUrl}/doc.html#${route}`);
       await page.locator(`#${route}`).waitFor({ state: 'visible' });
-      if (route === 'overview') await page.screenshot({ path: `/tmp/pokerttool-react-${width}.png`, fullPage: true });
+      if (route === 'arena') await expect(page.locator('.arena-stage')).toHaveAttribute('data-dealing', 'false');
+      if (route === 'arena') await page.screenshot({ path: `/tmp/pokerttool-arena-${width}.png`, fullPage: true, animations: 'disabled' });
+      if (route === 'overview') await page.screenshot({ path: `/tmp/pokerttool-react-${width}.png`, fullPage: true, animations: 'disabled' });
       assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1), `Page overflows at ${width}px: ${route}`);
     }
   }
   assert.deepEqual(errors, []);
-  console.log('PASS: themes, range filters, keyboard scoring, shared session results, replays, notebook persistence, chat history, provider errors, retry, both entry points, mobile layout, and no browser errors.');
+  console.log('PASS: themes, range filters, keyboard scoring, shared session results, replays, notebook persistence, arena showdown, speech bubbles, opponent quiz, chat history, provider errors, retry, both entry points, mobile layout, and no browser errors.');
 } finally {
   await browser.close();
 }
