@@ -1,0 +1,19 @@
+// These profiles drive heuristics, not just character labels. Thresholds are illustrative,
+// not solver ranges. All bots use the same legal-action rules and limited information.
+export const archetypes = [
+  { id: 'tag', label: 'TAG', name: 'Vera', avatar: '🐺', colour: 'teal', description: 'Tight-aggressive: selective, disciplined, and decisive.', threshold: .65, aggression: .75, stickiness: .45, bluff: .08, trap: .05, intro: 'Pick the spot. Then commit to it.' },
+  { id: 'lag', label: 'LAG', name: 'Blaze', avatar: '🦊', colour: 'orange', description: 'Loose-aggressive: wide ranges and frequent pressure.', threshold: .43, aggression: .85, stickiness: .65, bluff: .24, trap: .03, intro: 'Let’s give this table something to think about.' },
+  { id: 'tp', label: 'TP', name: 'Willow', avatar: '🦌', colour: 'purple', description: 'Tight-passive: selective, with more checks and calls.', threshold: .70, aggression: .12, stickiness: .45, bluff: .01, trap: .05, intro: 'I prefer a careful look before a big step.' },
+  { id: 'lp', label: 'LP', name: 'Mochi', avatar: '🐼', colour: 'teal', description: 'Loose-passive: enters many pots and rarely takes the initiative.', threshold: .36, aggression: .10, stickiness: .83, bluff: .01, trap: .02, intro: 'A few more cards couldn’t hurt.' },
+  { id: 'nit', label: 'Nit', name: 'Needle', avatar: '🦔', colour: 'purple', description: 'Extremely tight: premiums first, marginal spots last.', threshold: .88, aggression: .50, stickiness: .18, bluff: .005, trap: .02, intro: 'I can wait for a better hand.' },
+  { id: 'maniac', label: 'Maniac', name: 'Rocket', avatar: '🦈', colour: 'orange', description: 'Overly aggressive: frequent bluffs and weak-hand raises.', threshold: .22, aggression: .97, stickiness: .85, bluff: .48, trap: .01, intro: 'The raise button is my favourite button.' },
+  { id: 'station', label: 'Calling Station', name: 'Sunny', avatar: '🐶', colour: 'teal', description: 'Calls too often, rarely folds, and seldom bluffs.', threshold: .25, aggression: .05, stickiness: .97, bluff: .002, trap: .01, intro: 'I’d rather see it than wonder.' },
+  { id: 'rock', label: 'Rock', name: 'Granite', avatar: '🐢', colour: 'purple', description: 'Very tight and predictable; usually commits with strength.', threshold: .83, aggression: .43, stickiness: .22, bluff: .003, trap: .01, intro: 'If I put chips in, I usually mean it.' },
+  { id: 'fitfold', label: 'Fit-or-Fold', name: 'Scout', avatar: '🐨', colour: 'teal', description: 'Continues postflop mainly after connecting with the board.', threshold: .52, aggression: .32, stickiness: .35, bluff: .01, trap: .02, intro: 'Let’s see whether this board fits.' },
+  { id: 'abc', label: 'ABC Player', name: 'Atlas', avatar: '🦁', colour: 'orange', description: 'Straightforward, conventional value-focused poker.', threshold: .60, aggression: .60, stickiness: .45, bluff: .025, trap: .01, intro: 'Strong hands. Sensible bets. Simple plans.' },
+  { id: 'tricky', label: 'Tricky / Deceptive', name: 'Loki', avatar: '🐱', colour: 'purple', description: 'Traps, slow-plays, and unexpected bluffs disguise strength.', threshold: .48, aggression: .64, stickiness: .63, bluff: .27, trap: .64, intro: 'The obvious story isn’t always the whole story.' },
+  { id: 'exploit', label: 'Exploitative Regular', name: 'Raven', avatar: '🐦', colour: 'orange', description: 'Adapts to observed folds, calls, and aggression at the table.', threshold: .57, aggression: .70, stickiness: .50, bluff: .12, trap: .12, intro: 'I’m paying attention to what everyone actually does.' },
+  { id: 'gto', label: 'GTO-Oriented Regular', name: 'Sigma', avatar: '🦉', colour: 'teal', description: 'Mixes actions and seeks balance; this bot is not a GTO solver.', threshold: .59, aggression: .64, stickiness: .53, bluff: .13, trap: .14, intro: 'Same spot, more than one possible action.' },
+];
+
+export const profileFor = id => archetypes.find(profile => profile.id === id) || archetypes[0];

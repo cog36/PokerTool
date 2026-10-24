@@ -39,13 +39,17 @@ Practice scores last for the current visit; notes, checklist choices, and theme 
 
 ## Play the AI Arena
 
-Open **AI Arena** in the sidebar for two browser-only games:
+Open **AI Arena → Full-hand challenge**. Each new table randomly seats **1–8 opponents**, drawing distinct profiles from TAG, LAG, TP, LP, Nit, Maniac, Calling Station, Rock, Fit-or-Fold, ABC Player, Tricky / Deceptive, Exploitative Regular, and GTO-Oriented Regular.
 
-- **River showdown:** face Blaze (pressure player), Professor (patient thinker), and Mochi (curious caller). Check or bet, respond to an opponent bet, and watch the showdown. Stacks carry between hands; each player starts with 100 virtual bb. Each new river pot takes 3bb per player. If a stack cannot cover the next hand, the refill button starts a new match.
-- **Animated table flow:** the dealer distributes cards, action buttons unlock after the deal, opponents think and respond one at a time, chips move into the pot, and showdown cards flip before the pot is awarded. Cinematic / Quick play controls pacing; the device reduced-motion preference disables decorative motion and shortens waits. Leaving the Arena or switching games pauses playback.
-- **Read the opponent:** answer three personality-based strategy questions with immediate feedback.
+Every hand starts **preflop**, with 0.5bb / 1bb blinds and 100bb starting stacks. The button rotates between hands, and busted opponents sit out. Play continues through flop, turn, and river, or ends early when everyone else folds. The screen shows positions, the current bet, chips already committed, the call amount, and a full action history grouped by street.
 
-Opponents use local rules based on their own cards, the shared board, and a fixed per-hand random tendency. Their speech bubbles are fictional table talk, not an LLM's internal reasoning or reliable tells. No API call is needed. Showdowns rank the best five of seven cards and split tied pots. This is a simplified river variant with no raises, side pots, rake, or real-money play.
+Use Fold, Check / Call, a custom Bet / Raise-to size, or All-in when legal. The engine tracks minimum raises, short all-ins and reopening, main / side pots, refunds of uncalled bets, and split pots. Amounts are accounted for in integer half-bb chips; odd chips go clockwise from the button. Betting and split-pot behaviour follow the relevant [Poker TDA rules](https://www.pokertda.com/view-poker-tda-rules/). Stacks carry between hands. New random table resets the match and draws a new opponent count and roster.
+
+Archetypes affect entry thresholds, aggression, calling persistence, bluffs and traps. The exploitative bot adjusts to observed action frequencies; the GTO-oriented bot mixes heuristic actions and **does not solve GTO**. Bots use their own hole cards and public information, with no access to opponents' cards or future streets. Speech bubbles are fictional table talk, not reliable tells or private model reasoning. No API calls or real money are involved.
+
+Dealer animations, thinking bubbles, chip movements and showdown reveals are retained. Cinematic / Quick play and Skip animations control pacing. Leaving the Arena pauses playback; reduced-motion preferences disable decorative movement. Mobile tables let you swipe through the opponents without squeezing the board.
+
+The **Read the opponent** quiz remains available as the second game.
 
 ## Run the Python AI coach
 

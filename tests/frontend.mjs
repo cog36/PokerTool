@@ -64,37 +64,65 @@ try {
   await page.getByRole('button', { name: 'Delete note: React migration check' }).click();
   assert.equal(await page.locator('.saved-note').count(), 0);
 
-  await page.getByRole('navigation').getByRole('link', { name: 'AI Arena' }).click();
-  await expect(page.locator('.speech-bubble')).toHaveCount(3);
-  await expect(page.getByRole('button', { name: 'Bet 8 bb', exact: true })).toBeDisabled();
+  // A fixed random source forces a full eight-opponent table for layout and gameplay checks.
+  await page.addInitScript(() => { Math.random = () => .999; });
+  await page.goto(`${baseUrl}/#arena`);
+  await page.reload();
+  await expect(page.locator('.arena-bot')).toHaveCount(8);
+  await expect(page.locator('.speech-bubble')).toHaveCount(8);
+  await expect(page.locator('.arena-community .card')).toHaveCount(0);
+  await expect(page.locator('.board-card-space')).toHaveCount(5);
+  await expect(page.locator('.arena-streets [aria-current="step"]')).toHaveText('Preflop');
+  await page.getByRole('button', { name: 'Cinematic play', exact: true }).click();
+  async function waitForDecision() {
+    await expect(page.locator('.arena-stage')).toHaveAttribute('data-dealing', 'false', { timeout: 15000 });
+    await expect(page.locator('.arena-stage')).toHaveAttribute('data-playing', 'false', { timeout: 20000 });
+    await expect(page.locator('.skip-playback')).toHaveCount(0, { timeout: 20000 });
+  }
+  await waitForDecision();
+  await expect(page.locator('.arena-community .card')).toHaveCount(0);
+  await expect(page.locator('.arena-action-log')).toContainText('posts');
+  assert.equal(await page.locator('.archetype-tag').count(), 8);
+
+  let decisions = 0;
+  while (!await page.locator('.arena-outcome').count()) {
+    assert.ok(++decisions < 80, 'The hand should finish');
+    await page.locator('.arena-actions').getByRole('button', { name: /^(Check|Call )/ }).click();
+    await waitForDecision();
+  }
   await expect(page.locator('.arena-community .card')).toHaveCount(5);
-  await expect(page.getByRole('button', { name: 'Bet 8 bb', exact: true })).toBeEnabled();
-  await page.getByRole('button', { name: 'Bet 8 bb', exact: true }).click();
-  await expect(page.locator('.arena-stage')).toHaveAttribute('data-playing', 'true');
-  await expect(page.locator('.arena-outcome')).toBeVisible({ timeout: 15000 });
-  await expect(page.locator('.arena-actions button')).toHaveText('Deal next hand →');
-  await page.getByRole('button', { name: 'Deal next hand' }).click();
-  await expect(page.locator('.arena-outcome')).toHaveCount(0);
+  for (const street of ['Preflop', 'Flop', 'Turn', 'River']) {
+    await expect(page.locator('.history-street').getByRole('heading', { name: street, exact: true })).toHaveCount(1);
+  }
+  await expect(page.locator('.arena-sidebar .practice-metrics strong').first()).toHaveText('1');
+  await page.locator('.arena-actions').getByRole('button').click();
+  await expect(page.locator('.arena-community .card')).toHaveCount(0);
   await page.getByRole('navigation').getByRole('link', { name: 'Overview' }).first().click();
   const pausedStatus = await page.locator('.dealer-status').textContent();
   await page.waitForTimeout(400);
   assert.equal(await page.locator('.dealer-status').textContent(), pausedStatus);
   await page.getByRole('navigation').getByRole('link', { name: 'AI Arena' }).click();
   await page.emulateMedia({ reducedMotion: 'reduce' });
-  await expect(page.locator('.arena-stage')).toHaveAttribute('data-dealing', 'false');
+  await waitForDecision();
   assert.equal(await page.locator('.arena-bot .bot-avatar').first().evaluate(element => getComputedStyle(element).animationName), 'none');
-  await page.emulateMedia({ reducedMotion: 'no-preference' });
-  await page.getByRole('button', { name: 'Cinematic play', exact: true }).click();
-  await expect(page.getByRole('button', { name: 'Quick play', exact: true })).toHaveAttribute('aria-pressed', 'true');
   await page.getByRole('button', { name: 'Mute table talk' }).click();
   await expect(page.locator('.speech-bubble')).toHaveCount(0);
   await page.getByRole('button', { name: 'Show table talk' }).click();
-  await expect(page.locator('.speech-bubble')).toHaveCount(3);
+  await expect(page.locator('.speech-bubble')).toHaveCount(8);
+
+  // A new random table can also be heads-up, without affecting the current hand's deck.
+  await page.evaluate(() => { Math.random = () => .01; });
+  await page.getByRole('button', { name: 'New random table', exact: true }).click();
+  await expect(page.locator('.arena-bot')).toHaveCount(1);
+  await waitForDecision();
+  await expect(page.locator('.arena-community .card')).toHaveCount(0);
+  await expect(page.locator('.decision-context')).toContainText('BTN / SB');
   await page.getByRole('button', { name: 'Read the opponent', exact: false }).click();
   await page.getByRole('button', { name: 'Assume every bet is a bluff', exact: false }).click();
   await expect(page.locator('.read-game .answer-indicator.incorrect')).toBeVisible();
   await page.getByRole('button', { name: 'Next opponent' }).click();
   await expect(page.locator('.read-game .answer-indicator')).toHaveCount(0);
+  await page.emulateMedia({ reducedMotion: 'no-preference' });
 
   // Provider calls are mocked here; these checks do not consume API quota.
   await page.route('**/api/health', route => route.fulfill({ json: { status: 'ok', configured: true } }));
@@ -138,7 +166,7 @@ try {
     }
   }
   assert.deepEqual(errors, []);
-  console.log('PASS: themes, range filters, keyboard scoring, shared session results, replays, notebook persistence, arena showdown, speech bubbles, opponent quiz, chat history, provider errors, retry, both entry points, mobile layout, and no browser errors.');
+  console.log('PASS: themes, range filters, keyboard scoring, shared session results, replays, notebook persistence, full preflop-to-river hands, 1–8 opponents, action history, speech bubbles, opponent quiz, chat history, provider errors, retry, both entry points, mobile layout, and no browser errors.');
 } finally {
   await browser.close();
 }

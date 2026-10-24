@@ -2703,3 +2703,51 @@ h1>span {
   .animated-table *, .animated-table *::before, .animated-table *::after { animation: none !important; transition: none !important; }
   .flying-deal-card, .travelling-chips, .pot-award, .winner-sparks { display: none; }
 }
+
+/* Full-hand tables grow to eight opponents without squeezing the board or controls. */
+.holdem-table { overflow: hidden; display: flex; flex-direction: column; align-items: center; min-height: 0; padding: 8px 6px 18px; }
+.holdem-table .arena-felt { inset: 100px 0 50px; border-radius: 35%; }
+.holdem-table .arena-seats { display: grid; grid-template-columns: repeat(var(--seat-count), minmax(0, 1fr)); position: relative; width: 100%; gap: 24px 10px; padding: 0; }
+.holdem-table .arena-bot:first-child, .holdem-table .arena-bot:last-child { padding-top: 0; }
+.holdem-table .bot-avatar { width: 48px; height: 48px; font-size: 29px; }
+.holdem-table .speech-bubble { min-height: 85px; margin-bottom: 13px; }
+.holdem-table .speech-bubble p { font-size: 10px; }
+.holdem-table .arena-bot h3 { font-size: 12px; }
+.archetype-tag { color: #f2e8b2; font-size: 8px; background: #263e2f; border-radius: 4px; padding: 2px 5px; text-align: center; }
+.holdem-table .arena-community { position: relative; top: auto; margin: 27px 0; }
+.holdem-table .arena-hero { position: relative; left: auto; bottom: auto; translate: none; margin-top: 5px; }
+.holdem-table .arena-wordmark { top: 68%; }
+.holdem-table .dealer-deck { top: auto; bottom: 175px; left: 5px; }
+.holdem-table .winner-sparks { bottom: 65px; }
+.holdem-table .quiet-table .arena-seats, .holdem-table.quiet-table .arena-seats { padding-top: 8px; }
+.mobile-seat-hint { display: none; }
+.arena-streets { display: flex; gap: 6px; padding: 0; list-style: none; margin: 0 0 16px; }
+.arena-streets li { flex: 1; padding: 7px 4px; text-align: center; border: 1px solid var(--border); border-radius: 5px; font-size: 10px; color: var(--muted); }
+.arena-streets .reached { color: var(--mint); border-color: var(--green); }
+.arena-streets [aria-current="step"] { box-shadow: inset 0 -2px var(--green); font-weight: 700; }
+.decision-context { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; border: 1px solid var(--border); border-radius: 8px; padding: 14px; background: var(--bg); margin-top: 12px; }
+.decision-context > span { font-size: 9px; color: var(--muted); }
+.decision-context strong { display: block; font-size: 12px; color: var(--text); margin-top: 4px; }
+.raise-sizing { display: flex; align-items: center; flex-wrap: wrap; justify-content: center; gap: 12px; color: var(--muted); font-size: 10px; margin: 17px 0 10px; }
+.raise-sizing input[type="number"] { width: 85px; background: var(--bg); color: var(--text); border: 1px solid var(--border); padding: 8px; border-radius: 5px; }
+.raise-sizing input[type="range"] { max-width: 200px; accent-color: var(--green); }
+.holdem-controls > .caption { text-align: center; margin-top: 10px; }
+.skip-playback { margin-left: auto; padding: 4px; border: 0; background: none; color: var(--mint); font-size: 9px; white-space: nowrap; }
+.history-street { margin-top: 18px; }
+.history-street h3 { font-size: 12px; color: var(--mint); border-bottom: 1px solid var(--border); padding-bottom: 7px; }
+.arena-action-log { max-height: 650px; overflow-y: auto; }
+.roster-guide summary { cursor: pointer; font-size: 13px; font-weight: 650; }
+.roster-guide article { padding: 13px 0; border-bottom: 1px solid var(--border); }
+.roster-guide strong { font-size: 11px; }
+.roster-guide p { font-size: 10px; color: var(--muted); margin-top: 5px; line-height: 1.8; }
+@keyframes dealer-flight { from { left: var(--origin-x); top: var(--origin-y); opacity: .8; transform: rotate(-35deg) scale(.8); } to { left: var(--target-x); top: var(--target-y); opacity: 1; transform: translateX(-50%) rotate(7deg); } }
+@media (max-width: 720px) {
+  .holdem-table .arena-seats { display: flex; overflow-x: auto; scroll-snap-type: x proximity; padding: 5px 5px 20px; gap: 15px; }
+  .holdem-table .arena-bot { flex: 0 0 140px; scroll-snap-align: center; }
+  .holdem-table .speech-bubble { min-height: 85px; }
+  .mobile-seat-hint { display: block; color: var(--muted); font-size: 9px; margin: 5px 0; }
+  .holdem-table .arena-community { margin: 22px 0; }
+  .holdem-table .arena-felt { border-radius: 25%; }
+  .decision-context { grid-template-columns: 1fr 1fr; }
+  .arena-streets li { font-size: 9px; }
+}
