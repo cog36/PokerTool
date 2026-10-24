@@ -1,0 +1,1809 @@
+﻿Betfair Hand #262487316259: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/23 18:35:46 CUST [2026/10/23 13:35:46 ET]
+Table '4041923986 1' 9-max Seat #1 is the button
+Seat 1: pauloprcds (1500 in chips) 
+Seat 2: bullets685 (1500 in chips) 
+Seat 3: maximpps (1500 in chips) 
+Seat 4: hyde O´C (1500 in chips) 
+Seat 5: Jarllar (1500 in chips) 
+Seat 6: pfiff51 (1500 in chips) 
+Seat 7: Ego&PokerEgoBrk (1500 in chips) 
+Seat 8: Xamps99 (1500 in chips) is sitting out
+Seat 9: Slplsss (1500 in chips) 
+pauloprcds: posts the ante 3
+bullets685: posts the ante 3
+maximpps: posts the ante 3
+hyde O´C: posts the ante 3
+Jarllar: posts the ante 3
+pfiff51: posts the ante 3
+Ego&PokerEgoBrk: posts the ante 3
+Xamps99: posts the ante 3
+Slplsss: posts the ante 3
+bullets685: posts small blind 10
+maximpps: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [8s 6d]
+Xamps99 is disconnected 
+Xamps99 has returned
+hyde O´C: folds 
+Jarllar: folds 
+pfiff51: raises 40 to 60
+Ego&PokerEgoBrk: folds 
+Xamps99: folds 
+Slplsss: calls 60
+pauloprcds: folds 
+bullets685: folds 
+maximpps: folds 
+*** FLOP *** [Kh 9h Jh]
+pfiff51: bets 20
+Slplsss: calls 20
+*** TURN *** [Kh 9h Jh] [2d]
+pfiff51: bets 60
+Slplsss: calls 60
+*** RIVER *** [Kh 9h Jh 2d] [8d]
+pfiff51: bets 120
+Slplsss: folds 
+Uncalled bet (120) returned to pfiff51
+pfiff51 collected 337 from pot
+pfiff51: doesn't show hand 
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Board [Kh 9h Jh 2d 8d]
+Seat 1: pauloprcds (button) folded before Flop (didn't bet)
+Seat 2: bullets685 (small blind) folded before Flop
+Seat 3: maximpps (big blind) folded before Flop
+Seat 4: hyde O´C folded before Flop (didn't bet)
+Seat 5: Jarllar folded before Flop (didn't bet)
+Seat 6: pfiff51 collected (337)
+Seat 7: Ego&PokerEgoBrk folded before Flop (didn't bet)
+Seat 8: Xamps99 folded before Flop (didn't bet)
+Seat 9: Slplsss folded on the River
+
+
+
+Betfair Hand #262487327132: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/23 18:36:44 CUST [2026/10/23 13:36:44 ET]
+Table '4041923986 1' 9-max Seat #2 is the button
+Seat 1: pauloprcds (1497 in chips) 
+Seat 2: bullets685 (1487 in chips) 
+Seat 3: maximpps (1477 in chips) 
+Seat 4: hyde O´C (1497 in chips) 
+Seat 5: Jarllar (1497 in chips) 
+Seat 6: pfiff51 (1694 in chips) 
+Seat 7: Ego&PokerEgoBrk (1497 in chips) 
+Seat 8: Xamps99 (1497 in chips) 
+Seat 9: Slplsss (1357 in chips) 
+pauloprcds: posts the ante 3
+bullets685: posts the ante 3
+maximpps: posts the ante 3
+hyde O´C: posts the ante 3
+Jarllar: posts the ante 3
+pfiff51: posts the ante 3
+Ego&PokerEgoBrk: posts the ante 3
+Xamps99: posts the ante 3
+Slplsss: posts the ante 3
+maximpps: posts small blind 10
+hyde O´C: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [Th Js]
+Jarllar: folds 
+pfiff51: raises 40 to 60
+Ego&PokerEgoBrk: folds 
+Xamps99: folds 
+Slplsss: folds 
+pauloprcds: folds 
+bullets685: calls 60
+maximpps: folds 
+hyde O´C: raises 160 to 220
+pfiff51: calls 160
+bullets685: calls 160
+*** FLOP *** [Jh 4c 8c]
+hyde O´C: checks 
+pfiff51: bets 60
+bullets685: raises 340 to 400
+hyde O´C: folds 
+pfiff51: calls 340
+*** TURN *** [Jh 4c 8c] [6d]
+pfiff51: checks 
+bullets685: bets 864 and is all-in
+pfiff51: folds 
+Uncalled bet (864) returned to bullets685
+bullets685 collected 1497 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1497 | Rake 0 
+Board [Jh 4c 8c 6d]
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 (button) collected (1497)
+Seat 3: maximpps (small blind) folded before Flop
+Seat 4: hyde O´C (big blind) folded on the Flop
+Seat 5: Jarllar folded before Flop (didn't bet)
+Seat 6: pfiff51 folded on the Turn
+Seat 7: Ego&PokerEgoBrk folded before Flop (didn't bet)
+Seat 8: Xamps99 folded before Flop (didn't bet)
+Seat 9: Slplsss folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487341512: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/23 18:38:02 CUST [2026/10/23 13:38:02 ET]
+Table '4041923986 1' 9-max Seat #3 is the button
+Seat 1: pauloprcds (1494 in chips) 
+Seat 2: bullets685 (2361 in chips) 
+Seat 3: maximpps (1464 in chips) 
+Seat 4: hyde O´C (1274 in chips) 
+Seat 5: Jarllar (1494 in chips) 
+Seat 6: pfiff51 (1071 in chips) 
+Seat 7: Ego&PokerEgoBrk (1494 in chips) 
+Seat 8: Xamps99 (1494 in chips) 
+Seat 9: Slplsss (1354 in chips) 
+pauloprcds: posts the ante 3
+bullets685: posts the ante 3
+maximpps: posts the ante 3
+hyde O´C: posts the ante 3
+Jarllar: posts the ante 3
+pfiff51: posts the ante 3
+Ego&PokerEgoBrk: posts the ante 3
+Xamps99: posts the ante 3
+Slplsss: posts the ante 3
+hyde O´C: posts small blind 10
+Jarllar: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [4h Th]
+pfiff51: folds 
+Ego&PokerEgoBrk: folds 
+Xamps99: folds 
+Slplsss: calls 20
+pauloprcds: folds 
+bullets685: folds 
+maximpps: calls 20
+hyde O´C: calls 10
+Jarllar: checks 
+*** FLOP *** [Ah Tc 5h]
+hyde O´C: checks 
+Jarllar: checks 
+Slplsss: bets 72
+maximpps: folds 
+hyde O´C: calls 72
+Jarllar: folds 
+*** TURN *** [Ah Tc 5h] [2c]
+hyde O´C: checks 
+Slplsss: checks 
+*** RIVER *** [Ah Tc 5h 2c] [7c]
+hyde O´C: checks 
+Slplsss: bets 83
+hyde O´C: folds 
+Uncalled bet (83) returned to Slplsss
+Slplsss collected 251 from pot
+Slplsss: doesn't show hand 
+*** SUMMARY ***
+Total pot 251 | Rake 0 
+Board [Ah Tc 5h 2c 7c]
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: maximpps (button) folded on the Flop
+Seat 4: hyde O´C (small blind) folded on the River
+Seat 5: Jarllar (big blind) folded on the Flop
+Seat 6: pfiff51 folded before Flop (didn't bet)
+Seat 7: Ego&PokerEgoBrk folded before Flop (didn't bet)
+Seat 8: Xamps99 folded before Flop (didn't bet)
+Seat 9: Slplsss collected (251)
+
+
+
+Betfair Hand #262487360376: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/23 18:39:44 CUST [2026/10/23 13:39:44 ET]
+Table '4041923986 1' 9-max Seat #4 is the button
+Seat 1: pauloprcds (1491 in chips) 
+Seat 2: bullets685 (2358 in chips) 
+Seat 3: maximpps (1441 in chips) 
+Seat 4: hyde O´C (1179 in chips) 
+Seat 5: Jarllar (1471 in chips) 
+Seat 6: pfiff51 (1068 in chips) 
+Seat 7: Ego&PokerEgoBrk (1491 in chips) 
+Seat 8: Xamps99 (1491 in chips) 
+Seat 9: Slplsss (1510 in chips) 
+pauloprcds: posts the ante 3
+bullets685: posts the ante 3
+maximpps: posts the ante 3
+hyde O´C: posts the ante 3
+Jarllar: posts the ante 3
+pfiff51: posts the ante 3
+Ego&PokerEgoBrk: posts the ante 3
+Xamps99: posts the ante 3
+Slplsss: posts the ante 3
+Jarllar: posts small blind 10
+pfiff51: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [Ac 8s]
+Ego&PokerEgoBrk: raises 20 to 40
+Xamps99: folds 
+Slplsss: folds 
+pauloprcds: calls 40
+bullets685: raises 80 to 120
+maximpps: folds 
+hyde O´C: folds 
+Jarllar: raises 180 to 300
+pfiff51: calls 280
+Ego&PokerEgoBrk: folds 
+pauloprcds: folds 
+bullets685: folds 
+*** FLOP *** [5s Jd Js]
+Jarllar: bets 248
+pfiff51: raises 517 to 765 and is all-in
+Jarllar: calls 517
+*** TURN *** [5s Jd Js] [Kc]
+*** RIVER *** [5s Jd Js Kc] [3c]
+*** SHOW DOWN ***
+Jarllar: shows [As Kh] (two pair, Kings and Jacks)
+pfiff51: shows [9d 9s] (two pair, Jacks and Nines)
+Jarllar collected 2357 from pot
+pfiff51 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 2357 | Rake 0 
+Board [5s Jd Js Kc 3c]
+Seat 1: pauloprcds folded before Flop
+Seat 2: bullets685 folded before Flop
+Seat 3: maximpps folded before Flop (didn't bet)
+Seat 4: hyde O´C (button) folded before Flop (didn't bet)
+Seat 5: Jarllar (small blind) showed [As Kh] and won (2357) with two pair, Kings and Jacks
+Seat 6: pfiff51 (big blind) showed [9d 9s] and lost with two pair, Jacks and Nines
+Seat 7: Ego&PokerEgoBrk folded before Flop
+Seat 8: Xamps99 folded before Flop (didn't bet)
+Seat 9: Slplsss folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487375300: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/23 18:41:04 CUST [2026/10/23 13:41:04 ET]
+Table '4041923986 1' 9-max Seat #5 is the button
+Seat 1: pauloprcds (1448 in chips) 
+Seat 2: bullets685 (2235 in chips) 
+Seat 3: maximpps (1438 in chips) 
+Seat 4: hyde O´C (1176 in chips) 
+Seat 5: Jarllar (2760 in chips) 
+Seat 7: Ego&PokerEgoBrk (1448 in chips) 
+Seat 8: Xamps99 (1488 in chips) 
+Seat 9: Slplsss (1507 in chips) 
+pauloprcds: posts the ante 4
+bullets685: posts the ante 4
+maximpps: posts the ante 4
+hyde O´C: posts the ante 4
+Jarllar: posts the ante 4
+Ego&PokerEgoBrk: posts the ante 4
+Xamps99: posts the ante 4
+Slplsss: posts the ante 4
+Ego&PokerEgoBrk: posts small blind 15
+Xamps99: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Td 5s]
+Slplsss: folds 
+pauloprcds: folds 
+bullets685: folds 
+maximpps: folds 
+hyde O´C: folds 
+Jarllar: raises 45 to 75
+Ego&PokerEgoBrk: raises 165 to 240
+Xamps99: folds 
+Jarllar: calls 165
+*** FLOP *** [9h Tc 2h]
+Ego&PokerEgoBrk: bets 271
+Jarllar: calls 271
+*** TURN *** [9h Tc 2h] [Kc]
+Ego&PokerEgoBrk: checks 
+Jarllar: bets 536
+Ego&PokerEgoBrk: calls 536
+*** RIVER *** [9h Tc 2h Kc] [7c]
+Ego&PokerEgoBrk: checks 
+Jarllar: bets 1709 and is all-in
+Ego&PokerEgoBrk: calls 397 and is all-in
+Uncalled bet (1312) returned to Jarllar
+*** SHOW DOWN ***
+Jarllar: shows [8s 6c] (a straight, Six to Ten)
+Ego&PokerEgoBrk: shows [Ts As] (a pair of Tens)
+Jarllar collected 2950 from pot
+Ego&PokerEgoBrk finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 2950 | Rake 0 
+Board [9h Tc 2h Kc 7c]
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: maximpps folded before Flop (didn't bet)
+Seat 4: hyde O´C folded before Flop (didn't bet)
+Seat 5: Jarllar (button) showed [8s 6c] and won (2950) with a straight, Six to Ten
+Seat 7: Ego&PokerEgoBrk (small blind) showed [Ts As] and lost with a pair of Tens
+Seat 8: Xamps99 (big blind) folded before Flop
+Seat 9: Slplsss folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487396467: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/23 18:42:58 CUST [2026/10/23 13:42:58 ET]
+Table '4041923986 1' 9-max Seat #8 is the button
+Seat 1: pauloprcds (1444 in chips) 
+Seat 2: bullets685 (2231 in chips) 
+Seat 3: maximpps (1434 in chips) 
+Seat 4: hyde O´C (1172 in chips) 
+Seat 5: Jarllar (4262 in chips) 
+Seat 8: Xamps99 (1454 in chips) 
+Seat 9: Slplsss (1503 in chips) 
+pauloprcds: posts the ante 4
+bullets685: posts the ante 4
+maximpps: posts the ante 4
+hyde O´C: posts the ante 4
+Jarllar: posts the ante 4
+Xamps99: posts the ante 4
+Slplsss: posts the ante 4
+Slplsss: posts small blind 15
+pauloprcds: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [5s 5d]
+bullets685: raises 54 to 84
+maximpps: folds 
+hyde O´C: folds 
+Jarllar: raises 96 to 180
+Xamps99: folds 
+Slplsss: folds 
+pauloprcds: folds 
+bullets685: calls 96
+*** FLOP *** [Th 9d 8c]
+bullets685: checks 
+Jarllar: bets 238
+bullets685: folds 
+Uncalled bet (238) returned to Jarllar
+Jarllar collected 433 from pot
+Jarllar: doesn't show hand 
+*** SUMMARY ***
+Total pot 433 | Rake 0 
+Board [Th 9d 8c]
+Seat 1: pauloprcds (big blind) folded before Flop
+Seat 2: bullets685 folded on the Flop
+Seat 3: maximpps folded before Flop (didn't bet)
+Seat 4: hyde O´C folded before Flop (didn't bet)
+Seat 5: Jarllar collected (433)
+Seat 8: Xamps99 (button) folded before Flop (didn't bet)
+Seat 9: Slplsss (small blind) folded before Flop
+
+
+
+Betfair Hand #262487404761: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/23 18:43:43 CUST [2026/10/23 13:43:43 ET]
+Table '4041923986 1' 9-max Seat #9 is the button
+Seat 1: pauloprcds (1410 in chips) 
+Seat 2: bullets685 (2047 in chips) 
+Seat 3: maximpps (1430 in chips) 
+Seat 4: hyde O´C (1168 in chips) 
+Seat 5: Jarllar (4511 in chips) 
+Seat 8: Xamps99 (1450 in chips) 
+Seat 9: Slplsss (1484 in chips) 
+pauloprcds: posts the ante 4
+bullets685: posts the ante 4
+maximpps: posts the ante 4
+hyde O´C: posts the ante 4
+Jarllar: posts the ante 4
+Xamps99: posts the ante 4
+Slplsss: posts the ante 4
+pauloprcds: posts small blind 15
+bullets685: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [4h 5h]
+maximpps: folds 
+hyde O´C: folds 
+Jarllar: folds 
+Xamps99: folds 
+Slplsss: calls 30
+pauloprcds: folds 
+bullets685: checks 
+*** FLOP *** [9d Qc Kc]
+bullets685: checks 
+Slplsss: bets 45
+bullets685: folds 
+Uncalled bet (45) returned to Slplsss
+Slplsss collected 103 from pot
+Slplsss: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Board [9d Qc Kc]
+Seat 1: pauloprcds (small blind) folded before Flop
+Seat 2: bullets685 (big blind) folded on the Flop
+Seat 3: maximpps folded before Flop (didn't bet)
+Seat 4: hyde O´C folded before Flop (didn't bet)
+Seat 5: Jarllar folded before Flop (didn't bet)
+Seat 8: Xamps99 folded before Flop (didn't bet)
+Seat 9: Slplsss (button) collected (103)
+
+
+
+Betfair Hand #262487409344: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/23 18:44:06 CUST [2026/10/23 13:44:06 ET]
+Table '4041923986 1' 9-max Seat #1 is the button
+Seat 1: pauloprcds (1391 in chips) 
+Seat 2: bullets685 (2013 in chips) 
+Seat 3: maximpps (1426 in chips) 
+Seat 4: hyde O´C (1164 in chips) 
+Seat 5: Jarllar (4507 in chips) 
+Seat 8: Xamps99 (1446 in chips) 
+Seat 9: Slplsss (1553 in chips) 
+pauloprcds: posts the ante 4
+bullets685: posts the ante 4
+maximpps: posts the ante 4
+hyde O´C: posts the ante 4
+Jarllar: posts the ante 4
+Xamps99: posts the ante 4
+Slplsss: posts the ante 4
+bullets685: posts small blind 15
+maximpps: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc 4c]
+hyde O´C: folds 
+Jarllar: folds 
+Xamps99: raises 30 to 60
+Slplsss: folds 
+pauloprcds: calls 60
+bullets685: calls 45
+maximpps: folds 
+*** FLOP *** [9d 9h 7d]
+bullets685: checks 
+Xamps99: checks 
+pauloprcds: checks 
+*** TURN *** [9d 9h 7d] [3c]
+bullets685: checks 
+Xamps99: bets 130
+pauloprcds: folds 
+bullets685: folds 
+Uncalled bet (130) returned to Xamps99
+Xamps99 collected 238 from pot
+Xamps99: doesn't show hand 
+*** SUMMARY ***
+Total pot 238 | Rake 0 
+Board [9d 9h 7d 3c]
+Seat 1: pauloprcds (button) folded on the Turn
+Seat 2: bullets685 (small blind) folded on the Turn
+Seat 3: maximpps (big blind) folded before Flop
+Seat 4: hyde O´C folded before Flop (didn't bet)
+Seat 5: Jarllar folded before Flop (didn't bet)
+Seat 8: Xamps99 collected (238)
+Seat 9: Slplsss folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487422047: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/23 18:45:14 CUST [2026/10/23 13:45:14 ET]
+Table '4041923986 1' 9-max Seat #2 is the button
+Seat 1: pauloprcds (1327 in chips) 
+Seat 2: bullets685 (1949 in chips) 
+Seat 3: maximpps (1392 in chips) 
+Seat 4: hyde O´C (1160 in chips) 
+Seat 5: Jarllar (4503 in chips) 
+Seat 8: Xamps99 (1620 in chips) 
+Seat 9: Slplsss (1549 in chips) 
+pauloprcds: posts the ante 4
+bullets685: posts the ante 4
+maximpps: posts the ante 4
+hyde O´C: posts the ante 4
+Jarllar: posts the ante 4
+Xamps99: posts the ante 4
+Slplsss: posts the ante 4
+maximpps: posts small blind 15
+hyde O´C: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [6c Ks]
+Jarllar: folds 
+Xamps99: folds 
+Slplsss: folds 
+pauloprcds: folds 
+bullets685: folds 
+maximpps: folds 
+Uncalled bet (15) returned to hyde O´C
+hyde O´C collected 58 from pot
+*** SUMMARY ***
+Total pot 58 | Rake 0 
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 (button) folded before Flop (didn't bet)
+Seat 3: maximpps (small blind) folded before Flop
+Seat 4: hyde O´C (big blind) collected (58)
+Seat 5: Jarllar folded before Flop (didn't bet)
+Seat 8: Xamps99 folded before Flop (didn't bet)
+Seat 9: Slplsss folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487425764: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/23 18:45:34 CUST [2026/10/23 13:45:34 ET]
+Table '4041923986 1' 9-max Seat #3 is the button
+Seat 1: pauloprcds (1323 in chips) 
+Seat 2: bullets685 (1945 in chips) 
+Seat 3: maximpps (1373 in chips) 
+Seat 4: hyde O´C (1199 in chips) 
+Seat 5: Jarllar (4499 in chips) 
+Seat 8: Xamps99 (1616 in chips) 
+Seat 9: Slplsss (1545 in chips) 
+pauloprcds: posts the ante 4
+bullets685: posts the ante 4
+maximpps: posts the ante 4
+hyde O´C: posts the ante 4
+Jarllar: posts the ante 4
+Xamps99: posts the ante 4
+Slplsss: posts the ante 4
+hyde O´C: posts small blind 15
+Jarllar: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [7s 4h]
+Xamps99: folds 
+Slplsss: folds 
+pauloprcds: raises 37 to 67
+bullets685: folds 
+maximpps: folds 
+hyde O´C: folds 
+Jarllar: calls 37
+*** FLOP *** [Ad Kc Kd]
+Jarllar: checks 
+pauloprcds: bets 57
+Jarllar: folds 
+Uncalled bet (57) returned to pauloprcds
+pauloprcds collected 177 from pot
+pauloprcds: doesn't show hand 
+*** SUMMARY ***
+Total pot 177 | Rake 0 
+Board [Ad Kc Kd]
+Seat 1: pauloprcds collected (177)
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: maximpps (button) folded before Flop (didn't bet)
+Seat 4: hyde O´C (small blind) folded before Flop
+Seat 5: Jarllar (big blind) folded on the Flop
+Seat 8: Xamps99 folded before Flop (didn't bet)
+Seat 9: Slplsss folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487433156: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 18:46:15 CUST [2026/10/23 13:46:15 ET]
+Table '4041923986 1' 9-max Seat #4 is the button
+Seat 1: pauloprcds (1429 in chips) 
+Seat 2: bullets685 (1941 in chips) 
+Seat 3: maximpps (1369 in chips) 
+Seat 4: hyde O´C (1180 in chips) 
+Seat 5: Jarllar (4428 in chips) 
+Seat 8: Xamps99 (1612 in chips) 
+Seat 9: Slplsss (1541 in chips) 
+pauloprcds: posts the ante 6
+bullets685: posts the ante 6
+maximpps: posts the ante 6
+hyde O´C: posts the ante 6
+Jarllar: posts the ante 6
+Xamps99: posts the ante 6
+Slplsss: posts the ante 6
+Jarllar: posts small blind 25
+Xamps99: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [4d 9h]
+Slplsss: folds 
+pauloprcds: folds 
+bullets685: folds 
+maximpps: folds 
+hyde O´C: folds 
+Jarllar: folds 
+Uncalled bet (25) returned to Xamps99
+Xamps99 collected 92 from pot
+Xamps99: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: maximpps folded before Flop (didn't bet)
+Seat 4: hyde O´C (button) folded before Flop (didn't bet)
+Seat 5: Jarllar (small blind) folded before Flop
+Seat 8: Xamps99 (big blind) collected (92)
+Seat 9: Slplsss folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487436393: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 18:46:33 CUST [2026/10/23 13:46:33 ET]
+Table '4041923986 1' 9-max Seat #5 is the button
+Seat 1: pauloprcds (1423 in chips) 
+Seat 2: bullets685 (1935 in chips) 
+Seat 3: maximpps (1363 in chips) 
+Seat 4: hyde O´C (1174 in chips) 
+Seat 5: Jarllar (4397 in chips) 
+Seat 8: Xamps99 (1673 in chips) 
+Seat 9: Slplsss (1535 in chips) 
+pauloprcds: posts the ante 6
+bullets685: posts the ante 6
+maximpps: posts the ante 6
+hyde O´C: posts the ante 6
+Jarllar: posts the ante 6
+Xamps99: posts the ante 6
+Slplsss: posts the ante 6
+Xamps99: posts small blind 25
+Slplsss: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Qs 3h]
+pauloprcds: folds 
+bullets685: folds 
+maximpps: folds 
+hyde O´C: folds 
+Jarllar: folds 
+Xamps99: raises 100 to 150
+Slplsss: folds 
+Uncalled bet (100) returned to Xamps99
+Xamps99 collected 142 from pot
+Xamps99: doesn't show hand 
+*** SUMMARY ***
+Total pot 142 | Rake 0 
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: maximpps folded before Flop (didn't bet)
+Seat 4: hyde O´C folded before Flop (didn't bet)
+Seat 5: Jarllar (button) folded before Flop (didn't bet)
+Seat 8: Xamps99 (small blind) collected (142)
+Seat 9: Slplsss (big blind) folded before Flop
+
+
+
+Betfair Hand #262487441430: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 18:46:59 CUST [2026/10/23 13:46:59 ET]
+Table '4041923986 1' 9-max Seat #8 is the button
+Seat 1: pauloprcds (1417 in chips) 
+Seat 2: bullets685 (1929 in chips) 
+Seat 3: maximpps (1357 in chips) 
+Seat 4: hyde O´C (1168 in chips) 
+Seat 5: Jarllar (4391 in chips) 
+Seat 8: Xamps99 (1759 in chips) 
+Seat 9: Slplsss (1479 in chips) 
+pauloprcds: posts the ante 6
+bullets685: posts the ante 6
+maximpps: posts the ante 6
+hyde O´C: posts the ante 6
+Jarllar: posts the ante 6
+Xamps99: posts the ante 6
+Slplsss: posts the ante 6
+Slplsss: posts small blind 25
+pauloprcds: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 7c]
+bullets685: folds 
+maximpps: folds 
+hyde O´C: folds 
+Jarllar: folds 
+Xamps99: raises 50 to 100
+Slplsss: folds 
+pauloprcds: calls 50
+*** FLOP *** [8h Jc 3h]
+pauloprcds: checks 
+Xamps99: bets 88
+pauloprcds: folds 
+Uncalled bet (88) returned to Xamps99
+Xamps99 collected 267 from pot
+*** SUMMARY ***
+Total pot 267 | Rake 0 
+Board [8h Jc 3h]
+Seat 1: pauloprcds (big blind) folded on the Flop
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: maximpps folded before Flop (didn't bet)
+Seat 4: hyde O´C folded before Flop (didn't bet)
+Seat 5: Jarllar folded before Flop (didn't bet)
+Seat 8: Xamps99 (button) collected (267)
+Seat 9: Slplsss (small blind) folded before Flop
+
+
+
+Betfair Hand #262487453702: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 18:48:05 CUST [2026/10/23 13:48:05 ET]
+Table '4041923986 1' 9-max Seat #9 is the button
+Seat 1: pauloprcds (1311 in chips) 
+Seat 2: bullets685 (1923 in chips) 
+Seat 3: maximpps (1351 in chips) 
+Seat 4: hyde O´C (1162 in chips) 
+Seat 5: Jarllar (4385 in chips) 
+Seat 8: Xamps99 (1920 in chips) 
+Seat 9: Slplsss (1448 in chips) 
+pauloprcds: posts the ante 6
+bullets685: posts the ante 6
+maximpps: posts the ante 6
+hyde O´C: posts the ante 6
+Jarllar: posts the ante 6
+Xamps99: posts the ante 6
+Slplsss: posts the ante 6
+pauloprcds: posts small blind 25
+bullets685: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc 6h]
+maximpps: raises 50 to 100
+hyde O´C: folds 
+Jarllar: calls 100
+Xamps99: folds 
+Slplsss: folds 
+pauloprcds: folds 
+bullets685: folds 
+*** FLOP *** [Ks 7d 8c]
+maximpps: bets 317
+Jarllar: folds 
+Uncalled bet (317) returned to maximpps
+maximpps collected 317 from pot
+maximpps: doesn't show hand 
+*** SUMMARY ***
+Total pot 317 | Rake 0 
+Board [Ks 7d 8c]
+Seat 1: pauloprcds (small blind) folded before Flop
+Seat 2: bullets685 (big blind) folded before Flop
+Seat 3: maximpps collected (317)
+Seat 4: hyde O´C folded before Flop (didn't bet)
+Seat 5: Jarllar folded on the Flop
+Seat 8: Xamps99 folded before Flop (didn't bet)
+Seat 9: Slplsss (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487462600: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 18:48:53 CUST [2026/10/23 13:48:53 ET]
+Table '4041923986 1' 9-max Seat #1 is the button
+Seat 1: pauloprcds (1280 in chips) 
+Seat 2: bullets685 (1867 in chips) 
+Seat 3: maximpps (1562 in chips) 
+Seat 4: hyde O´C (1156 in chips) 
+Seat 5: Jarllar (4279 in chips) 
+Seat 8: Xamps99 (1914 in chips) 
+Seat 9: Slplsss (1442 in chips) 
+pauloprcds: posts the ante 6
+bullets685: posts the ante 6
+maximpps: posts the ante 6
+hyde O´C: posts the ante 6
+Jarllar: posts the ante 6
+Xamps99: posts the ante 6
+Slplsss: posts the ante 6
+bullets685: posts small blind 25
+maximpps: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [2s Qc]
+hyde O´C: folds 
+Jarllar: folds 
+Xamps99: folds 
+Slplsss: folds 
+pauloprcds: folds 
+bullets685: raises 75 to 125
+maximpps: folds 
+Uncalled bet (75) returned to bullets685
+bullets685 collected 142 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 142 | Rake 0 
+Seat 1: pauloprcds (button) folded before Flop (didn't bet)
+Seat 2: bullets685 (small blind) collected (142)
+Seat 3: maximpps (big blind) folded before Flop
+Seat 4: hyde O´C folded before Flop (didn't bet)
+Seat 5: Jarllar folded before Flop (didn't bet)
+Seat 8: Xamps99 folded before Flop (didn't bet)
+Seat 9: Slplsss folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487467809: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 18:49:22 CUST [2026/10/23 13:49:22 ET]
+Table '4041923986 1' 9-max Seat #2 is the button
+Seat 1: pauloprcds (1274 in chips) 
+Seat 2: bullets685 (1953 in chips) 
+Seat 3: maximpps (1506 in chips) 
+Seat 4: hyde O´C (1150 in chips) 
+Seat 5: Jarllar (4273 in chips) 
+Seat 8: Xamps99 (1908 in chips) 
+Seat 9: Slplsss (1436 in chips) 
+pauloprcds: posts the ante 6
+bullets685: posts the ante 6
+maximpps: posts the ante 6
+hyde O´C: posts the ante 6
+Jarllar: posts the ante 6
+Xamps99: posts the ante 6
+Slplsss: posts the ante 6
+maximpps: posts small blind 25
+hyde O´C: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [8d Qd]
+Jarllar: folds 
+Xamps99: raises 50 to 100
+Slplsss: calls 100
+pauloprcds: folds 
+bullets685: calls 100
+maximpps: folds 
+hyde O´C: folds 
+*** FLOP *** [3s 4c Kh]
+Xamps99: bets 229
+Slplsss: calls 229
+bullets685: folds 
+*** TURN *** [3s 4c Kh] [Jc]
+Xamps99: bets 481
+Slplsss: calls 481
+*** RIVER *** [3s 4c Kh Jc] [Jh]
+Xamps99: bets 1092 and is all-in
+Slplsss: calls 620 and is all-in
+Uncalled bet (472) returned to Xamps99
+*** SHOW DOWN ***
+Xamps99: shows [Ah Ac] (two pair, Aces and Jacks)
+Slplsss: shows [Ks Qh] (two pair, Kings and Jacks)
+Xamps99 collected 3077 from pot
+Slplsss finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 3077 | Rake 0 
+Board [3s 4c Kh Jc Jh]
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 (button) folded on the Flop
+Seat 3: maximpps (small blind) folded before Flop
+Seat 4: hyde O´C (big blind) folded before Flop
+Seat 5: Jarllar folded before Flop (didn't bet)
+Seat 8: Xamps99 showed [Ah Ac] and won (3077) with two pair, Aces and Jacks
+Seat 9: Slplsss showed [Ks Qh] and lost with two pair, Kings and Jacks
+
+
+
+Betfair Hand #262487482439: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 18:50:41 CUST [2026/10/23 13:50:41 ET]
+Table '4041923986 1' 9-max Seat #3 is the button
+Seat 1: pauloprcds (1268 in chips) 
+Seat 2: bullets685 (1847 in chips) 
+Seat 3: maximpps (1475 in chips) 
+Seat 4: hyde O´C (1094 in chips) 
+Seat 5: Jarllar (4267 in chips) 
+Seat 8: Xamps99 (3549 in chips) 
+pauloprcds: posts the ante 6
+bullets685: posts the ante 6
+maximpps: posts the ante 6
+hyde O´C: posts the ante 6
+Jarllar: posts the ante 6
+Xamps99: posts the ante 6
+hyde O´C: posts small blind 25
+Jarllar: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Qs 8c]
+Xamps99: folds 
+pauloprcds: folds 
+bullets685: folds 
+maximpps: raises 55 to 105
+hyde O´C: folds 
+Jarllar: calls 55
+*** FLOP *** [Js 2c 8h]
+Jarllar: checks 
+maximpps: bets 136
+Jarllar: folds 
+Uncalled bet (136) returned to maximpps
+maximpps collected 271 from pot
+maximpps: doesn't show hand 
+*** SUMMARY ***
+Total pot 271 | Rake 0 
+Board [Js 2c 8h]
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: maximpps (button) collected (271)
+Seat 4: hyde O´C (small blind) folded before Flop
+Seat 5: Jarllar (big blind) folded on the Flop
+Seat 8: Xamps99 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487489486: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 18:51:19 CUST [2026/10/23 13:51:19 ET]
+Table '4041923986 1' 9-max Seat #4 is the button
+Seat 1: pauloprcds (1262 in chips) 
+Seat 2: bullets685 (1841 in chips) 
+Seat 3: maximpps (1635 in chips) 
+Seat 4: hyde O´C (1063 in chips) 
+Seat 5: Jarllar (4156 in chips) 
+Seat 8: Xamps99 (3543 in chips) 
+pauloprcds: posts the ante 10
+bullets685: posts the ante 10
+maximpps: posts the ante 10
+hyde O´C: posts the ante 10
+Jarllar: posts the ante 10
+Xamps99: posts the ante 10
+Jarllar: posts small blind 40
+Xamps99: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [5s 9c]
+pauloprcds: folds 
+bullets685: folds 
+maximpps: folds 
+hyde O´C: raises 973 to 1053 and is all-in
+Jarllar: folds 
+Xamps99: folds 
+Uncalled bet (973) returned to hyde O´C
+hyde O´C collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: maximpps folded before Flop (didn't bet)
+Seat 4: hyde O´C (button) collected (260)
+Seat 5: Jarllar (small blind) folded before Flop
+Seat 8: Xamps99 (big blind) folded before Flop
+
+
+
+Betfair Hand #262487492472: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 18:51:35 CUST [2026/10/23 13:51:35 ET]
+Table '4041923986 1' 9-max Seat #5 is the button
+Seat 1: pauloprcds (1252 in chips) 
+Seat 2: bullets685 (1831 in chips) 
+Seat 3: maximpps (1625 in chips) 
+Seat 4: hyde O´C (1233 in chips) 
+Seat 5: Jarllar (4106 in chips) 
+Seat 8: Xamps99 (3453 in chips) 
+pauloprcds: posts the ante 10
+bullets685: posts the ante 10
+maximpps: posts the ante 10
+hyde O´C: posts the ante 10
+Jarllar: posts the ante 10
+Xamps99: posts the ante 10
+Xamps99: posts small blind 40
+pauloprcds: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [9s 3d]
+bullets685: folds 
+maximpps: raises 80 to 160
+hyde O´C: folds 
+Jarllar: folds 
+Xamps99: folds 
+pauloprcds: folds 
+Uncalled bet (80) returned to maximpps
+maximpps collected 260 from pot
+maximpps: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 1: pauloprcds (big blind) folded before Flop
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: maximpps collected (260)
+Seat 4: hyde O´C folded before Flop (didn't bet)
+Seat 5: Jarllar (button) folded before Flop (didn't bet)
+Seat 8: Xamps99 (small blind) folded before Flop
+
+
+
+Betfair Hand #262487496420: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 18:51:56 CUST [2026/10/23 13:51:56 ET]
+Table '4041923986 1' 9-max Seat #8 is the button
+Seat 1: pauloprcds (1162 in chips) 
+Seat 2: bullets685 (1821 in chips) 
+Seat 3: maximpps (1795 in chips) 
+Seat 4: hyde O´C (1223 in chips) 
+Seat 5: Jarllar (4096 in chips) 
+Seat 8: Xamps99 (3403 in chips) 
+pauloprcds: posts the ante 10
+bullets685: posts the ante 10
+maximpps: posts the ante 10
+hyde O´C: posts the ante 10
+Jarllar: posts the ante 10
+Xamps99: posts the ante 10
+pauloprcds: posts small blind 40
+bullets685: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah Qc]
+maximpps: folds 
+hyde O´C: folds 
+Jarllar: folds 
+Xamps99: raises 80 to 160
+pauloprcds: folds 
+bullets685: raises 160 to 320
+Xamps99: folds 
+Uncalled bet (160) returned to bullets685
+bullets685 collected 420 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: pauloprcds (small blind) folded before Flop
+Seat 2: bullets685 (big blind) collected (420)
+Seat 3: maximpps folded before Flop (didn't bet)
+Seat 4: hyde O´C folded before Flop (didn't bet)
+Seat 5: Jarllar folded before Flop (didn't bet)
+Seat 8: Xamps99 (button) folded before Flop
+
+
+
+Betfair Hand #262487499649: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 18:52:15 CUST [2026/10/23 13:52:15 ET]
+Table '4041923986 1' 9-max Seat #1 is the button
+Seat 1: pauloprcds (1112 in chips) 
+Seat 2: bullets685 (2071 in chips) 
+Seat 3: maximpps (1785 in chips) 
+Seat 4: hyde O´C (1213 in chips) 
+Seat 5: Jarllar (4086 in chips) 
+Seat 8: Xamps99 (3233 in chips) 
+pauloprcds: posts the ante 10
+bullets685: posts the ante 10
+maximpps: posts the ante 10
+hyde O´C: posts the ante 10
+Jarllar: posts the ante 10
+Xamps99: posts the ante 10
+bullets685: posts small blind 40
+maximpps: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah 7d]
+hyde O´C: raises 1123 to 1203 and is all-in
+Jarllar: folds 
+Xamps99: folds 
+pauloprcds: folds 
+bullets685: folds 
+maximpps: folds 
+Uncalled bet (1123) returned to hyde O´C
+hyde O´C collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 1: pauloprcds (button) folded before Flop (didn't bet)
+Seat 2: bullets685 (small blind) folded before Flop
+Seat 3: maximpps (big blind) folded before Flop
+Seat 4: hyde O´C collected (260)
+Seat 5: Jarllar folded before Flop (didn't bet)
+Seat 8: Xamps99 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487503094: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 18:52:33 CUST [2026/10/23 13:52:33 ET]
+Table '4041923986 1' 9-max Seat #2 is the button
+Seat 1: pauloprcds (1102 in chips) 
+Seat 2: bullets685 (2021 in chips) 
+Seat 3: maximpps (1695 in chips) 
+Seat 4: hyde O´C (1383 in chips) 
+Seat 5: Jarllar (4076 in chips) 
+Seat 8: Xamps99 (3223 in chips) 
+pauloprcds: posts the ante 10
+bullets685: posts the ante 10
+maximpps: posts the ante 10
+hyde O´C: posts the ante 10
+Jarllar: posts the ante 10
+Xamps99: posts the ante 10
+maximpps: posts small blind 40
+hyde O´C: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [9d 2h]
+Jarllar: folds 
+Xamps99: raises 80 to 160
+pauloprcds: folds 
+bullets685: folds 
+maximpps: folds 
+hyde O´C: folds 
+Uncalled bet (80) returned to Xamps99
+Xamps99 collected 260 from pot
+Xamps99: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 (button) folded before Flop (didn't bet)
+Seat 3: maximpps (small blind) folded before Flop
+Seat 4: hyde O´C (big blind) folded before Flop
+Seat 5: Jarllar folded before Flop (didn't bet)
+Seat 8: Xamps99 collected (260)
+
+
+
+Betfair Hand #262487508261: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 18:53:01 CUST [2026/10/23 13:53:01 ET]
+Table '4041923986 1' 9-max Seat #3 is the button
+Seat 1: pauloprcds (1092 in chips) 
+Seat 2: bullets685 (2011 in chips) 
+Seat 3: maximpps (1645 in chips) 
+Seat 4: hyde O´C (1293 in chips) 
+Seat 5: Jarllar (4066 in chips) 
+Seat 8: Xamps99 (3393 in chips) 
+pauloprcds: posts the ante 10
+bullets685: posts the ante 10
+maximpps: posts the ante 10
+hyde O´C: posts the ante 10
+Jarllar: posts the ante 10
+Xamps99: posts the ante 10
+hyde O´C: posts small blind 40
+Jarllar: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [4c 3c]
+Xamps99: raises 80 to 160
+pauloprcds: folds 
+bullets685: calls 160
+maximpps: folds 
+hyde O´C: folds 
+Jarllar: calls 80
+*** FLOP *** [6c 7s 5h]
+Jarllar: checks 
+Xamps99: bets 319
+bullets685: calls 319
+Jarllar: folds 
+*** TURN *** [6c 7s 5h] [Td]
+Xamps99: bets 668
+bullets685: raises 854 to 1522 and is all-in
+Xamps99: calls 854
+*** RIVER *** [6c 7s 5h Td] [Ad]
+*** SHOW DOWN ***
+Xamps99: shows [Th Tc] (three of a kind, Tens)
+bullets685: shows [4c 3c] (a straight, Three to Seven)
+bullets685 collected 4262 from pot
+*** SUMMARY ***
+Total pot 4262 | Rake 0 
+Board [6c 7s 5h Td Ad]
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 showed [4c 3c] and won (4262) with a straight, Three to Seven
+Seat 3: maximpps (button) folded before Flop (didn't bet)
+Seat 4: hyde O´C (small blind) folded before Flop
+Seat 5: Jarllar (big blind) folded on the Flop
+Seat 8: Xamps99 showed [Th Tc] and lost with three of a kind, Tens
+
+
+
+Betfair Hand #262487522050: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 18:54:17 CUST [2026/10/23 13:54:17 ET]
+Table '4041923986 1' 9-max Seat #4 is the button
+Seat 1: pauloprcds (1082 in chips) 
+Seat 2: bullets685 (4262 in chips) 
+Seat 3: maximpps (1635 in chips) 
+Seat 4: hyde O´C (1243 in chips) 
+Seat 5: Jarllar (3896 in chips) 
+Seat 8: Xamps99 (1382 in chips) 
+pauloprcds: posts the ante 10
+bullets685: posts the ante 10
+maximpps: posts the ante 10
+hyde O´C: posts the ante 10
+Jarllar: posts the ante 10
+Xamps99: posts the ante 10
+Jarllar: posts small blind 40
+Xamps99: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah 6d]
+pauloprcds: folds 
+bullets685: folds 
+maximpps: folds 
+hyde O´C: folds 
+Jarllar: folds 
+Uncalled bet (40) returned to Xamps99
+Xamps99 collected 140 from pot
+Xamps99: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: maximpps folded before Flop (didn't bet)
+Seat 4: hyde O´C (button) folded before Flop (didn't bet)
+Seat 5: Jarllar (small blind) folded before Flop
+Seat 8: Xamps99 (big blind) collected (140)
+
+
+
+Betfair Hand #262487525581: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 18:54:37 CUST [2026/10/23 13:54:37 ET]
+Table '4041923986 1' 9-max Seat #5 is the button
+Seat 1: pauloprcds (1072 in chips) 
+Seat 2: bullets685 (4252 in chips) 
+Seat 3: maximpps (1625 in chips) 
+Seat 4: hyde O´C (1233 in chips) 
+Seat 5: Jarllar (3846 in chips) 
+Seat 8: Xamps99 (1472 in chips) 
+pauloprcds: posts the ante 10
+bullets685: posts the ante 10
+maximpps: posts the ante 10
+hyde O´C: posts the ante 10
+Jarllar: posts the ante 10
+Xamps99: posts the ante 10
+Xamps99: posts small blind 40
+pauloprcds: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [3d As]
+bullets685: folds 
+maximpps: folds 
+hyde O´C: folds 
+Jarllar: folds 
+Xamps99: raises 1382 to 1462 and is all-in
+pauloprcds: calls 982 and is all-in
+Uncalled bet (400) returned to Xamps99
+*** FLOP *** [9c Jc 7d]
+*** TURN *** [9c Jc 7d] [2s]
+*** RIVER *** [9c Jc 7d 2s] [6d]
+*** SHOW DOWN ***
+Xamps99: shows [Ac Qc] (high card Ace)
+pauloprcds: shows [Kd 9d] (a pair of Nines)
+pauloprcds collected 2184 from pot
+*** SUMMARY ***
+Total pot 2184 | Rake 0 
+Board [9c Jc 7d 2s 6d]
+Seat 1: pauloprcds (big blind) showed [Kd 9d] and won (2184) with a pair of Nines
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: maximpps folded before Flop (didn't bet)
+Seat 4: hyde O´C folded before Flop (didn't bet)
+Seat 5: Jarllar (button) folded before Flop (didn't bet)
+Seat 8: Xamps99 (small blind) showed [Ac Qc] and lost with high card Ace
+
+
+
+Betfair Hand #262487530003: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 18:55:02 CUST [2026/10/23 13:55:02 ET]
+Table '4041923986 1' 9-max Seat #8 is the button
+Seat 1: pauloprcds (2184 in chips) 
+Seat 2: bullets685 (4242 in chips) 
+Seat 3: maximpps (1615 in chips) 
+Seat 4: hyde O´C (1223 in chips) 
+Seat 5: Jarllar (3836 in chips) 
+Seat 8: Xamps99 (400 in chips) 
+pauloprcds: posts the ante 10
+bullets685: posts the ante 10
+maximpps: posts the ante 10
+hyde O´C: posts the ante 10
+Jarllar: posts the ante 10
+Xamps99: posts the ante 10
+pauloprcds: posts small blind 40
+bullets685: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc Js]
+maximpps: folds 
+hyde O´C: raises 80 to 160
+Jarllar: folds 
+Xamps99: raises 230 to 390 and is all-in
+pauloprcds: folds 
+bullets685: calls 310
+hyde O´C: folds 
+*** FLOP *** [2s Jc 3h]
+*** TURN *** [2s Jc 3h] [6c]
+*** RIVER *** [2s Jc 3h 6c] [7c]
+*** SHOW DOWN ***
+bullets685: shows [Qc Js] (a pair of Jacks)
+Xamps99: shows [2h Ah] (a pair of Deuces)
+bullets685 collected 1040 from pot
+Xamps99 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [2s Jc 3h 6c 7c]
+Seat 1: pauloprcds (small blind) folded before Flop
+Seat 2: bullets685 (big blind) showed [Qc Js] and won (1040) with a pair of Jacks
+Seat 3: maximpps folded before Flop (didn't bet)
+Seat 4: hyde O´C folded before Flop
+Seat 5: Jarllar folded before Flop (didn't bet)
+Seat 8: Xamps99 (button) showed [2h Ah] and lost with a pair of Deuces
+
+
+
+Betfair Hand #262487534546: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 18:55:38 CUST [2026/10/23 13:55:38 ET]
+Table '4041923986 1' 9-max Seat #1 is the button
+Seat 1: pauloprcds (2134 in chips) 
+Seat 2: bullets685 (4882 in chips) 
+Seat 3: maximpps (1605 in chips) 
+Seat 4: hyde O´C (1053 in chips) 
+Seat 5: Jarllar (3826 in chips) 
+pauloprcds: posts the ante 10
+bullets685: posts the ante 10
+maximpps: posts the ante 10
+hyde O´C: posts the ante 10
+Jarllar: posts the ante 10
+bullets685: posts small blind 40
+maximpps: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [9c 7h]
+hyde O´C: folds 
+Jarllar: raises 80 to 160
+pauloprcds: folds 
+bullets685: calls 120
+maximpps: folds 
+*** FLOP *** [Tc 8s Ac]
+bullets685: bets 225
+Jarllar: raises 495 to 720
+bullets685: calls 495
+*** TURN *** [Tc 8s Ac] [Js]
+bullets685: checks 
+Jarllar: bets 1600
+bullets685: raises 2392 to 3992 and is all-in
+Jarllar: calls 1336 and is all-in
+Uncalled bet (1056) returned to bullets685
+*** RIVER *** [Tc 8s Ac Js] [5s]
+*** SHOW DOWN ***
+bullets685: shows [9c 7h] (a straight, Seven to Jack)
+Jarllar: shows [Ad As] (three of a kind, Aces)
+bullets685 collected 7762 from pot
+Jarllar finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 7762 | Rake 0 
+Board [Tc 8s Ac Js 5s]
+Seat 1: pauloprcds (button) folded before Flop (didn't bet)
+Seat 2: bullets685 (small blind) showed [9c 7h] and won (7762) with a straight, Seven to Jack
+Seat 3: maximpps (big blind) folded before Flop
+Seat 4: hyde O´C folded before Flop (didn't bet)
+Seat 5: Jarllar showed [Ad As] and lost with three of a kind, Aces
+
+
+
+Betfair Hand #262487543917: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 18:56:56 CUST [2026/10/23 13:56:56 ET]
+Table '4041923986 1' 9-max Seat #2 is the button
+Seat 1: pauloprcds (2124 in chips) 
+Seat 2: bullets685 (8818 in chips) 
+Seat 3: maximpps (1515 in chips) 
+Seat 4: hyde O´C (1043 in chips) 
+pauloprcds: posts the ante 15
+bullets685: posts the ante 15
+maximpps: posts the ante 15
+hyde O´C: posts the ante 15
+maximpps: posts small blind 60
+hyde O´C: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [6h 7c]
+pauloprcds: folds 
+bullets685: folds 
+maximpps: raises 1380 to 1500 and is all-in
+hyde O´C: folds 
+Uncalled bet (1380) returned to maximpps
+maximpps collected 300 from pot
+maximpps: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 (button) folded before Flop (didn't bet)
+Seat 3: maximpps (small blind) collected (300)
+Seat 4: hyde O´C (big blind) folded before Flop
+
+
+
+Betfair Hand #262487546432: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 18:57:17 CUST [2026/10/23 13:57:17 ET]
+Table '4041923986 1' 9-max Seat #3 is the button
+Seat 1: pauloprcds (2109 in chips) 
+Seat 2: bullets685 (8803 in chips) 
+Seat 3: maximpps (1680 in chips) 
+Seat 4: hyde O´C (908 in chips) 
+pauloprcds: posts the ante 15
+bullets685: posts the ante 15
+maximpps: posts the ante 15
+hyde O´C: posts the ante 15
+hyde O´C: posts small blind 60
+pauloprcds: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [4s 2c]
+bullets685: folds 
+maximpps: folds 
+hyde O´C: folds 
+Uncalled bet (60) returned to pauloprcds
+pauloprcds collected 180 from pot
+pauloprcds: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Seat 1: pauloprcds (big blind) collected (180)
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: maximpps (button) folded before Flop (didn't bet)
+Seat 4: hyde O´C (small blind) folded before Flop
+
+
+
+Betfair Hand #262487548249: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 18:57:32 CUST [2026/10/23 13:57:32 ET]
+Table '4041923986 1' 9-max Seat #4 is the button
+Seat 1: pauloprcds (2214 in chips) 
+Seat 2: bullets685 (8788 in chips) 
+Seat 3: maximpps (1665 in chips) 
+Seat 4: hyde O´C (833 in chips) 
+pauloprcds: posts the ante 15
+bullets685: posts the ante 15
+maximpps: posts the ante 15
+hyde O´C: posts the ante 15
+pauloprcds: posts small blind 60
+bullets685: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd As]
+maximpps: folds 
+hyde O´C: folds 
+pauloprcds: folds 
+Uncalled bet (60) returned to bullets685
+bullets685 collected 180 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Seat 1: pauloprcds (small blind) folded before Flop
+Seat 2: bullets685 (big blind) collected (180)
+Seat 3: maximpps folded before Flop (didn't bet)
+Seat 4: hyde O´C (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487549730: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 18:57:44 CUST [2026/10/23 13:57:44 ET]
+Table '4041923986 1' 9-max Seat #1 is the button
+Seat 1: pauloprcds (2139 in chips) 
+Seat 2: bullets685 (8893 in chips) 
+Seat 3: maximpps (1650 in chips) 
+Seat 4: hyde O´C (818 in chips) 
+pauloprcds: posts the ante 15
+bullets685: posts the ante 15
+maximpps: posts the ante 15
+hyde O´C: posts the ante 15
+bullets685: posts small blind 60
+maximpps: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [6s 5c]
+hyde O´C: folds 
+pauloprcds: raises 2004 to 2124 and is all-in
+bullets685: folds 
+maximpps: folds 
+Uncalled bet (2004) returned to pauloprcds
+pauloprcds collected 360 from pot
+pauloprcds: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 1: pauloprcds (button) collected (360)
+Seat 2: bullets685 (small blind) folded before Flop
+Seat 3: maximpps (big blind) folded before Flop
+Seat 4: hyde O´C folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487551954: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 18:58:02 CUST [2026/10/23 13:58:02 ET]
+Table '4041923986 1' 9-max Seat #2 is the button
+Seat 1: pauloprcds (2364 in chips) 
+Seat 2: bullets685 (8818 in chips) 
+Seat 3: maximpps (1515 in chips) 
+Seat 4: hyde O´C (803 in chips) 
+pauloprcds: posts the ante 15
+bullets685: posts the ante 15
+maximpps: posts the ante 15
+hyde O´C: posts the ante 15
+maximpps: posts small blind 60
+hyde O´C: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Td Kc]
+pauloprcds: folds 
+bullets685: raises 120 to 240
+maximpps: raises 1260 to 1500 and is all-in
+hyde O´C: folds 
+bullets685: calls 1260
+*** FLOP *** [8d Ac 6c]
+*** TURN *** [8d Ac 6c] [7c]
+*** RIVER *** [8d Ac 6c 7c] [8c]
+*** SHOW DOWN ***
+maximpps: shows [Qh Qs] (two pair, Queens and Eights)
+bullets685: shows [Td Kc] (a flush, Ace high)
+bullets685 collected 3180 from pot
+maximpps finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 3180 | Rake 0 
+Board [8d Ac 6c 7c 8c]
+Seat 1: pauloprcds folded before Flop (didn't bet)
+Seat 2: bullets685 (button) showed [Td Kc] and won (3180) with a flush, Ace high
+Seat 3: maximpps (small blind) showed [Qh Qs] and lost with two pair, Queens and Eights
+Seat 4: hyde O´C (big blind) folded before Flop
+
+
+
+Betfair Hand #262487554794: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 18:58:25 CUST [2026/10/23 13:58:25 ET]
+Table '4041923986 1' 9-max Seat #4 is the button
+Seat 1: pauloprcds (2349 in chips) 
+Seat 2: bullets685 (10483 in chips) 
+Seat 4: hyde O´C (668 in chips) 
+pauloprcds: posts the ante 15
+bullets685: posts the ante 15
+hyde O´C: posts the ante 15
+pauloprcds: posts small blind 60
+bullets685: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [9c 7c]
+hyde O´C: folds 
+pauloprcds: calls 60
+bullets685: checks 
+*** FLOP *** [6c 8h As]
+pauloprcds: bets 120
+bullets685: calls 120
+*** TURN *** [6c 8h As] [5s]
+pauloprcds: bets 373
+bullets685: raises 636 to 1009
+pauloprcds: raises 1085 to 2094 and is all-in
+bullets685: calls 1085
+*** RIVER *** [6c 8h As 5s] [Qd]
+*** SHOW DOWN ***
+pauloprcds: shows [5c 8c] (two pair, Eights and Fives)
+bullets685: shows [9c 7c] (a straight, Five to Nine)
+bullets685 collected 4713 from pot
+pauloprcds finished the tournament in 3rd place and received $7.92.
+*** SUMMARY ***
+Total pot 4713 | Rake 0 
+Board [6c 8h As 5s Qd]
+Seat 1: pauloprcds (small blind) showed [5c 8c] and lost with two pair, Eights and Fives
+Seat 2: bullets685 (big blind) showed [9c 7c] and won (4713) with a straight, Five to Nine
+Seat 4: hyde O´C (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262487563683: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 18:59:39 CUST [2026/10/23 13:59:39 ET]
+Table '4041923986 1' 9-max Seat #2 is the button
+Seat 2: bullets685 (12847 in chips) 
+Seat 4: hyde O´C (653 in chips) 
+bullets685: posts the ante 15
+hyde O´C: posts the ante 15
+bullets685: posts small blind 60
+hyde O´C: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks Qs]
+bullets685: raises 120 to 240
+hyde O´C: folds 
+Uncalled bet (120) returned to bullets685
+bullets685 collected 270 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 2: bullets685 (button) (small blind) collected (270)
+Seat 4: hyde O´C (big blind) folded before Flop
+
+
+
+Betfair Hand #262487564978: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 18:59:49 CUST [2026/10/23 13:59:49 ET]
+Table '4041923986 1' 9-max Seat #4 is the button
+Seat 2: bullets685 (12982 in chips) 
+Seat 4: hyde O´C (518 in chips) 
+bullets685: posts the ante 15
+hyde O´C: posts the ante 15
+hyde O´C: posts small blind 60
+bullets685: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc 7d]
+hyde O´C: raises 383 to 503 and is all-in
+bullets685: calls 383
+*** FLOP *** [6h 6d 3h]
+*** TURN *** [6h 6d 3h] [9h]
+*** RIVER *** [6h 6d 3h 9h] [Tc]
+*** SHOW DOWN ***
+bullets685: shows [Qc 7d] (a pair of Sixes)
+hyde O´C: shows [7s 6c] (three of a kind, Sixes)
+hyde O´C collected 1036 from pot
+*** SUMMARY ***
+Total pot 1036 | Rake 0 
+Board [6h 6d 3h 9h Tc]
+Seat 2: bullets685 (big blind) showed [Qc 7d] and lost with a pair of Sixes
+Seat 4: hyde O´C (button) (small blind) showed [7s 6c] and won (1036) with three of a kind, Sixes
+
+
+
+Betfair Hand #262487567502: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 19:00:08 CUST [2026/10/23 14:00:08 ET]
+Table '4041923986 1' 9-max Seat #2 is the button
+Seat 2: bullets685 (12464 in chips) 
+Seat 4: hyde O´C (1036 in chips) 
+bullets685: posts the ante 15
+hyde O´C: posts the ante 15
+bullets685: posts small blind 60
+hyde O´C: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Jd 8h]
+bullets685: raises 120 to 240
+hyde O´C: raises 781 to 1021 and is all-in
+bullets685: calls 781
+*** FLOP *** [4c Td 4d]
+*** TURN *** [4c Td 4d] [9d]
+*** RIVER *** [4c Td 4d 9d] [Ah]
+*** SHOW DOWN ***
+hyde O´C: shows [Kh 5d] (a pair of Fours)
+bullets685: shows [Jd 8h] (a pair of Fours - lower kicker)
+hyde O´C collected 2072 from pot
+*** SUMMARY ***
+Total pot 2072 | Rake 0 
+Board [4c Td 4d 9d Ah]
+Seat 2: bullets685 (button) (small blind) showed [Jd 8h] and lost with a pair of Fours
+Seat 4: hyde O´C (big blind) showed [Kh 5d] and won (2072) with a pair of Fours
+
+
+
+Betfair Hand #262487570423: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 19:00:30 CUST [2026/10/23 14:00:30 ET]
+Table '4041923986 1' 9-max Seat #4 is the button
+Seat 2: bullets685 (11428 in chips) 
+Seat 4: hyde O´C (2072 in chips) 
+bullets685: posts the ante 15
+hyde O´C: posts the ante 15
+hyde O´C: posts small blind 60
+bullets685: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [9c 9s]
+hyde O´C: calls 60
+bullets685: raises 120 to 240
+hyde O´C: calls 120
+*** FLOP *** [9h 5h Js]
+bullets685: bets 255
+hyde O´C: folds 
+Uncalled bet (255) returned to bullets685
+bullets685 collected 510 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [9h 5h Js]
+Seat 2: bullets685 (big blind) collected (510)
+Seat 4: hyde O´C (button) (small blind) folded on the Flop
+
+
+
+Betfair Hand #262487576549: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 19:01:08 CUST [2026/10/23 14:01:08 ET]
+Table '4041923986 1' 9-max Seat #2 is the button
+Seat 2: bullets685 (11683 in chips) 
+Seat 4: hyde O´C (1817 in chips) 
+bullets685: posts the ante 20
+hyde O´C: posts the ante 20
+bullets685: posts small blind 80
+hyde O´C: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [7c 8c]
+bullets685: raises 160 to 320
+hyde O´C: folds 
+Uncalled bet (160) returned to bullets685
+bullets685 collected 360 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 2: bullets685 (button) (small blind) collected (360)
+Seat 4: hyde O´C (big blind) folded before Flop
+
+
+
+Betfair Hand #262487578006: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 19:01:17 CUST [2026/10/23 14:01:17 ET]
+Table '4041923986 1' 9-max Seat #4 is the button
+Seat 2: bullets685 (11863 in chips) 
+Seat 4: hyde O´C (1637 in chips) 
+bullets685: posts the ante 20
+hyde O´C: posts the ante 20
+hyde O´C: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc Jd]
+hyde O´C: raises 1457 to 1617 and is all-in
+bullets685: calls 1457
+*** FLOP *** [Ac As 8c]
+*** TURN *** [Ac As 8c] [Tc]
+*** RIVER *** [Ac As 8c Tc] [Th]
+*** SHOW DOWN ***
+bullets685: shows [Jc Jd] (two pair, Aces and Jacks)
+hyde O´C: shows [Td 9d] (a full house, Tens full of Aces)
+hyde O´C collected 3274 from pot
+*** SUMMARY ***
+Total pot 3274 | Rake 0 
+Board [Ac As 8c Tc Th]
+Seat 2: bullets685 (big blind) showed [Jc Jd] and lost with two pair, Aces and Jacks
+Seat 4: hyde O´C (button) (small blind) showed [Td 9d] and won (3274) with a full house, Tens full of Aces
+
+
+
+Betfair Hand #262487580471: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 19:01:31 CUST [2026/10/23 14:01:31 ET]
+Table '4041923986 1' 9-max Seat #2 is the button
+Seat 2: bullets685 (10226 in chips) 
+Seat 4: hyde O´C (3274 in chips) 
+bullets685: posts the ante 20
+hyde O´C: posts the ante 20
+bullets685: posts small blind 80
+hyde O´C: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [3d 5c]
+bullets685: raises 160 to 320
+hyde O´C: calls 160
+*** FLOP *** [8d 6h 8c]
+hyde O´C: checks 
+bullets685: checks 
+*** TURN *** [8d 6h 8c] [2s]
+hyde O´C: bets 306
+bullets685: calls 306
+*** RIVER *** [8d 6h 8c 2s] [4h]
+hyde O´C: checks 
+bullets685: bets 646
+hyde O´C: calls 646
+*** SHOW DOWN ***
+bullets685: shows [3d 5c] (a straight, Deuce to Six)
+hyde O´C: mucks hand 
+bullets685 collected 2584 from pot
+*** SUMMARY ***
+Total pot 2584 | Rake 0 
+Board [8d 6h 8c 2s 4h]
+Seat 2: bullets685 (button) (small blind) showed [3d 5c] and won (2584) with a straight, Deuce to Six
+Seat 4: hyde O´C (big blind) mucked [3c 2d]
+
+
+
+Betfair Hand #262487589421: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 19:02:19 CUST [2026/10/23 14:02:19 ET]
+Table '4041923986 1' 9-max Seat #4 is the button
+Seat 2: bullets685 (11518 in chips) 
+Seat 4: hyde O´C (1982 in chips) 
+bullets685: posts the ante 20
+hyde O´C: posts the ante 20
+hyde O´C: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [5c Jc]
+hyde O´C: raises 1802 to 1962 and is all-in
+bullets685: folds 
+Uncalled bet (1802) returned to hyde O´C
+hyde O´C collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 2: bullets685 (big blind) folded before Flop
+Seat 4: hyde O´C (button) (small blind) collected (360)
+
+
+
+Betfair Hand #262487591444: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 19:02:30 CUST [2026/10/23 14:02:30 ET]
+Table '4041923986 1' 9-max Seat #2 is the button
+Seat 2: bullets685 (11338 in chips) 
+Seat 4: hyde O´C (2162 in chips) 
+bullets685: posts the ante 20
+hyde O´C: posts the ante 20
+bullets685: posts small blind 80
+hyde O´C: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks 2h]
+bullets685: raises 160 to 320
+hyde O´C: raises 1822 to 2142 and is all-in
+bullets685: folds 
+Uncalled bet (1822) returned to hyde O´C
+hyde O´C collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Seat 2: bullets685 (button) (small blind) folded before Flop
+Seat 4: hyde O´C (big blind) collected (680)
+
+
+
+Betfair Hand #262487593499: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 19:02:41 CUST [2026/10/23 14:02:41 ET]
+Table '4041923986 1' 9-max Seat #4 is the button
+Seat 2: bullets685 (10998 in chips) 
+Seat 4: hyde O´C (2502 in chips) 
+bullets685: posts the ante 20
+hyde O´C: posts the ante 20
+hyde O´C: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc 8d]
+hyde O´C: calls 80
+bullets685: checks 
+*** FLOP *** [4d 6d 3h]
+bullets685: checks 
+hyde O´C: bets 160
+bullets685: calls 160
+*** TURN *** [4d 6d 3h] [7s]
+bullets685: checks 
+hyde O´C: bets 408
+bullets685: folds 
+Uncalled bet (408) returned to hyde O´C
+hyde O´C collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [4d 6d 3h 7s]
+Seat 2: bullets685 (big blind) folded on the Turn
+Seat 4: hyde O´C (button) (small blind) collected (680)
+
+
+
+Betfair Hand #262487603265: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 19:03:32 CUST [2026/10/23 14:03:32 ET]
+Table '4041923986 1' 9-max Seat #2 is the button
+Seat 2: bullets685 (10658 in chips) 
+Seat 4: hyde O´C (2842 in chips) 
+bullets685: posts the ante 20
+hyde O´C: posts the ante 20
+bullets685: posts small blind 80
+hyde O´C: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [8d Qh]
+bullets685: raises 160 to 320
+hyde O´C: raises 2502 to 2822 and is all-in
+bullets685: folds 
+Uncalled bet (2502) returned to hyde O´C
+hyde O´C collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Seat 2: bullets685 (button) (small blind) folded before Flop
+Seat 4: hyde O´C (big blind) collected (680)
+
+
+
+Betfair Hand #262487605868: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 19:03:46 CUST [2026/10/23 14:03:46 ET]
+Table '4041923986 1' 9-max Seat #4 is the button
+Seat 2: bullets685 (10318 in chips) 
+Seat 4: hyde O´C (3182 in chips) 
+bullets685: posts the ante 20
+hyde O´C: posts the ante 20
+hyde O´C: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Kd Qh]
+hyde O´C: calls 80
+bullets685: raises 160 to 320
+hyde O´C: calls 160
+*** FLOP *** [2h Jd Qs]
+bullets685: bets 340
+hyde O´C: folds 
+Uncalled bet (340) returned to bullets685
+bullets685 collected 680 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [2h Jd Qs]
+Seat 2: bullets685 (big blind) collected (680)
+Seat 4: hyde O´C (button) (small blind) folded on the Flop
+
+
+
+Betfair Hand #262487609068: Tournament #4041923986, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 19:04:02 CUST [2026/10/23 14:04:02 ET]
+Table '4041923986 1' 9-max Seat #2 is the button
+Seat 2: bullets685 (10658 in chips) 
+Seat 4: hyde O´C (2842 in chips) 
+bullets685: posts the ante 20
+hyde O´C: posts the ante 20
+bullets685: posts small blind 80
+hyde O´C: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [9c 8c]
+bullets685: raises 160 to 320
+hyde O´C: raises 2502 to 2822 and is all-in
+bullets685: calls 2502
+*** FLOP *** [Js 3h 8s]
+*** TURN *** [Js 3h 8s] [8h]
+*** RIVER *** [Js 3h 8s 8h] [6h]
+*** SHOW DOWN ***
+hyde O´C: shows [Ts Qh] (a pair of Eights)
+bullets685: shows [9c 8c] (three of a kind, Eights)
+bullets685 collected 5684 from pot
+hyde O´C finished the tournament in 2nd place and received $11.88.
+bullets685 wins the tournament and receives $19.80 - congratulations!
+*** SUMMARY ***
+Total pot 5684 | Rake 0 
+Board [Js 3h 8s 8h 6h]
+Seat 2: bullets685 (button) (small blind) showed [9c 8c] and won (5684) with three of a kind, Eights
+Seat 4: hyde O´C (big blind) showed [Ts Qh] and lost with a pair of Eights
+
+
+

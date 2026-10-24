@@ -1,0 +1,4527 @@
+﻿Betfair Hand #262458322901: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level I (50/100) - 2026/10/20 19:04:59 CUST [2026/10/20 14:04:59 ET]
+Table '4040099787 5' 8-max Seat #1 is the button
+Seat 1: dudo565 (10000 in chips) 
+Seat 2: suovattu (10000 in chips) 
+Seat 3: andreaskrutsch (10000 in chips) is sitting out
+Seat 4: Damien204 (10000 in chips) 
+Seat 6: kaue4e20 (10000 in chips) is sitting out
+Seat 7: bullets685 (10000 in chips) 
+Seat 8: viceen7 (10000 in chips) 
+dudo565: posts the ante 10
+suovattu: posts the ante 10
+andreaskrutsch: posts the ante 10
+Damien204: posts the ante 10
+kaue4e20: posts the ante 10
+bullets685: posts the ante 10
+viceen7: posts the ante 10
+suovattu: posts small blind 50
+andreaskrutsch: posts big blind 100
+*** HOLE CARDS ***
+Dealt to bullets685 [Kc 6s]
+Damien204: calls 100
+kaue4e20: folds 
+bullets685: folds 
+viceen7: folds 
+dudo565: calls 100
+suovattu: raises 9890 to 9990 and is all-in
+andreaskrutsch: folds 
+Damien204: folds 
+Saoirse2 is disconnected 
+dudo565: calls 9890 and is all-in
+*** FLOP *** [9c 3h 7h]
+*** TURN *** [9c 3h 7h] [5h]
+*** RIVER *** [9c 3h 7h 5h] [8s]
+*** SHOW DOWN ***
+suovattu: shows [As Jh] (high card Ace)
+dudo565: shows [4d Jd] (high card Jack)
+suovattu collected 20250 from pot
+dudo565 finished the tournament
+*** SUMMARY ***
+Total pot 20250 | Rake 0 
+Board [9c 3h 7h 5h 8s]
+Seat 1: dudo565 (button) showed [4d Jd] and lost with high card Jack
+Seat 2: suovattu (small blind) showed [As Jh] and won (20250) with high card Ace
+Seat 3: andreaskrutsch (big blind) folded before Flop
+Seat 4: Damien204 folded before Flop
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: viceen7 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458330435: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level I (50/100) - 2026/10/20 19:05:41 CUST [2026/10/20 14:05:41 ET]
+Table '4040099787 5' 8-max Seat #2 is the button
+Seat 2: suovattu (20250 in chips) 
+Seat 3: andreaskrutsch (9890 in chips) is sitting out
+Seat 5: Saoirse2 (10000 in chips) 
+Seat 6: kaue4e20 (9990 in chips) is sitting out
+Seat 7: bullets685 (9990 in chips) 
+Seat 8: viceen7 (9990 in chips) 
+suovattu: posts the ante 10
+andreaskrutsch: posts the ante 10
+Saoirse2: posts the ante 10
+kaue4e20: posts the ante 10
+bullets685: posts the ante 10
+viceen7: posts the ante 10
+andreaskrutsch: posts small blind 50
+Saoirse2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc 5s]
+kaue4e20: folds 
+bullets685: folds 
+noplom is disconnected 
+viceen7: folds 
+suovattu: folds 
+andreaskrutsch: folds 
+Uncalled bet (50) returned to Saoirse2
+Saoirse2 collected 160 from pot
+Saoirse2: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: suovattu (button) folded before Flop (didn't bet)
+Seat 3: andreaskrutsch (small blind) folded before Flop
+Seat 5: Saoirse2 (big blind) collected (160)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: viceen7 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458336340: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level I (50/100) - 2026/10/20 19:06:14 CUST [2026/10/20 14:06:14 ET]
+Table '4040099787 5' 8-max Seat #3 is the button
+Seat 1: noplom (9980 in chips) 
+Seat 2: suovattu (20240 in chips) 
+Seat 3: andreaskrutsch (9830 in chips) is sitting out
+Seat 5: Saoirse2 (10100 in chips) 
+Seat 6: kaue4e20 (9980 in chips) is sitting out
+Seat 7: bullets685 (9980 in chips) 
+Seat 8: viceen7 (9980 in chips) 
+noplom: posts the ante 10
+suovattu: posts the ante 10
+andreaskrutsch: posts the ante 10
+Saoirse2: posts the ante 10
+kaue4e20: posts the ante 10
+bullets685: posts the ante 10
+viceen7: posts the ante 10
+Saoirse2: posts small blind 50
+kaue4e20: posts big blind 100
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah 4c]
+bullets685: folds 
+viceen7 has timed out
+viceen7: folds 
+viceen7 is sitting out
+viceen7 has returned
+noplom: raises 100 to 200
+suovattu: folds 
+andreaskrutsch: folds 
+Saoirse2: calls 150
+kaue4e20: folds 
+*** FLOP *** [4s Kd Qc]
+Saoirse2: checks 
+noplom: bets 200
+Saoirse2: calls 200
+*** TURN *** [4s Kd Qc] [4d]
+Saoirse2: checks 
+noplom: checks 
+*** RIVER *** [4s Kd Qc 4d] [Th]
+Saoirse2: bets 970
+noplom: folds 
+Uncalled bet (970) returned to Saoirse2
+Saoirse2 collected 970 from pot
+Saoirse2: doesn't show hand 
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [4s Kd Qc 4d Th]
+Seat 1: noplom folded on the River
+Seat 2: suovattu folded before Flop (didn't bet)
+Seat 3: andreaskrutsch (button) folded before Flop (didn't bet)
+Seat 5: Saoirse2 (small blind) collected (970)
+Seat 6: kaue4e20 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: viceen7 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458347835: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level I (50/100) - 2026/10/20 19:07:18 CUST [2026/10/20 14:07:18 ET]
+Table '4040099787 5' 8-max Seat #5 is the button
+Seat 1: noplom (9570 in chips) 
+Seat 2: suovattu (20230 in chips) 
+Seat 3: andreaskrutsch (9820 in chips) is sitting out
+Seat 4: Marlow6292 (10000 in chips) 
+Seat 5: Saoirse2 (10660 in chips) 
+Seat 6: kaue4e20 (9870 in chips) is sitting out
+Seat 7: bullets685 (9970 in chips) 
+noplom: posts the ante 10
+suovattu: posts the ante 10
+andreaskrutsch: posts the ante 10
+Marlow6292: posts the ante 10
+Saoirse2: posts the ante 10
+kaue4e20: posts the ante 10
+bullets685: posts the ante 10
+kaue4e20: posts small blind 50
+bullets685: posts big blind 100
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts Ac]
+noplom: folds 
+suovattu: folds 
+andreaskrutsch: folds 
+Marlow6292: raises 200 to 300
+Saoirse2: folds 
+kaue4e20: folds 
+bullets685: calls 200
+*** FLOP *** [8c 4c 6h]
+bullets685: bets 400
+TopSpinWilly is disconnected 
+Marlow6292: folds 
+Uncalled bet (400) returned to bullets685
+bullets685 collected 720 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [8c 4c 6h]
+Seat 1: noplom folded before Flop (didn't bet)
+Seat 2: suovattu folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded on the Flop
+Seat 5: Saoirse2 (button) folded before Flop (didn't bet)
+Seat 6: kaue4e20 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) collected (720)
+
+
+
+Betfair Hand #262458351413: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level I (50/100) - 2026/10/20 19:07:39 CUST [2026/10/20 14:07:39 ET]
+Table '4040099787 5' 8-max Seat #6 is the button
+Seat 2: suovattu (20220 in chips) 
+Seat 3: andreaskrutsch (9810 in chips) is sitting out
+Seat 4: Marlow6292 (9690 in chips) 
+Seat 5: Saoirse2 (10650 in chips) 
+Seat 6: kaue4e20 (9810 in chips) is sitting out
+Seat 7: bullets685 (10380 in chips) 
+Seat 8: TopSpinWilly (10000 in chips) 
+suovattu: posts the ante 10
+andreaskrutsch: posts the ante 10
+Marlow6292: posts the ante 10
+Saoirse2: posts the ante 10
+kaue4e20: posts the ante 10
+bullets685: posts the ante 10
+TopSpinWilly: posts the ante 10
+bullets685: posts small blind 50
+TopSpinWilly: posts big blind 100
+*** HOLE CARDS ***
+Dealt to bullets685 [4h 9s]
+suovattu: folds 
+andreaskrutsch: folds 
+Marlow6292: raises 200 to 300
+Saoirse2: folds 
+kaue4e20: folds 
+bullets685: folds 
+TopSpinWilly: folds 
+Uncalled bet (200) returned to Marlow6292
+Marlow6292 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 2: suovattu folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 collected (320)
+Seat 5: Saoirse2 folded before Flop (didn't bet)
+Seat 6: kaue4e20 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: TopSpinWilly (big blind) folded before Flop
+
+
+
+Betfair Hand #262458354992: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level I (50/100) - 2026/10/20 19:07:58 CUST [2026/10/20 14:07:58 ET]
+Table '4040099787 5' 8-max Seat #7 is the button
+Seat 2: suovattu (20210 in chips) 
+Seat 3: andreaskrutsch (9800 in chips) is sitting out
+Seat 4: Marlow6292 (9900 in chips) 
+Seat 5: Saoirse2 (10640 in chips) 
+Seat 6: kaue4e20 (9800 in chips) is sitting out
+Seat 7: bullets685 (10320 in chips) 
+Seat 8: TopSpinWilly (9890 in chips) 
+suovattu: posts the ante 10
+andreaskrutsch: posts the ante 10
+Marlow6292: posts the ante 10
+Saoirse2: posts the ante 10
+kaue4e20: posts the ante 10
+bullets685: posts the ante 10
+TopSpinWilly: posts the ante 10
+TopSpinWilly: posts small blind 50
+suovattu: posts big blind 100
+*** HOLE CARDS ***
+Dealt to bullets685 [9h 3c]
+andreaskrutsch: folds 
+Marlow6292: folds 
+Saoirse2: folds 
+kaue4e20: folds 
+bullets685: folds 
+TopSpinWilly: raises 200 to 300
+suovattu: folds 
+Uncalled bet (200) returned to TopSpinWilly
+FunPokerIs is disconnected 
+TopSpinWilly collected 270 from pot
+TopSpinWilly: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 2: suovattu (big blind) folded before Flop
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: Saoirse2 folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: TopSpinWilly (small blind) collected (270)
+
+
+
+Betfair Hand #262458358744: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level II (75/150) - 2026/10/20 19:08:19 CUST [2026/10/20 14:08:19 ET]
+Table '4040099787 5' 8-max Seat #8 is the button
+Seat 1: FunPokerIs (10000 in chips) out of hand (moved from another table into small blind)
+Seat 2: suovattu (20100 in chips) 
+Seat 3: andreaskrutsch (9790 in chips) is sitting out
+Seat 4: Marlow6292 (9890 in chips) 
+Seat 5: Saoirse2 (10630 in chips) 
+Seat 6: kaue4e20 (9790 in chips) is sitting out
+Seat 7: bullets685 (10310 in chips) 
+Seat 8: TopSpinWilly (10050 in chips) 
+FunPokerIs will be allowed to play after the button
+suovattu: posts the ante 15
+andreaskrutsch: posts the ante 15
+Marlow6292: posts the ante 15
+Saoirse2: posts the ante 15
+kaue4e20: posts the ante 15
+bullets685: posts the ante 15
+TopSpinWilly: posts the ante 15
+suovattu: posts small blind 75
+andreaskrutsch: posts big blind 150
+*** HOLE CARDS ***
+Dealt to bullets685 [2d Jc]
+Marlow6292: folds 
+Saoirse2: folds 
+kaue4e20: folds 
+bullets685: folds 
+TopSpinWilly: folds 
+suovattu: calls 75
+andreaskrutsch: folds 
+suovattu collected 405 from pot
+suovattu: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 2: suovattu (small blind) collected (405)
+Seat 3: andreaskrutsch (big blind) folded before Flop
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: Saoirse2 folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: TopSpinWilly (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458361522: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level II (75/150) - 2026/10/20 19:08:35 CUST [2026/10/20 14:08:35 ET]
+Table '4040099787 5' 8-max Seat #2 is the button
+Seat 1: FunPokerIs (10000 in chips) 
+Seat 2: suovattu (20340 in chips) 
+Seat 3: andreaskrutsch (9625 in chips) is sitting out
+Seat 4: Marlow6292 (9875 in chips) 
+Seat 6: kaue4e20 (9775 in chips) is sitting out
+Seat 7: bullets685 (10295 in chips) 
+Seat 8: TopSpinWilly (10035 in chips) 
+FunPokerIs: posts the ante 15
+suovattu: posts the ante 15
+andreaskrutsch: posts the ante 15
+Marlow6292: posts the ante 15
+kaue4e20: posts the ante 15
+bullets685: posts the ante 15
+TopSpinWilly: posts the ante 15
+andreaskrutsch: posts small blind 75
+Marlow6292: posts big blind 150
+*** HOLE CARDS ***
+Dealt to bullets685 [6d 9h]
+kaue4e20: folds 
+bullets685: folds 
+TopSpinWilly: raises 150 to 300
+FunPokerIs: folds 
+suovattu: folds 
+andreaskrutsch: folds 
+Marlow6292: calls 150
+*** FLOP *** [Ts 3h 5h]
+Marlow6292: checks 
+TopSpinWilly: bets 450
+Marlow6292: raises 600 to 1050
+TopSpinWilly: calls 600
+*** TURN *** [Ts 3h 5h] [Jc]
+Marlow6292: checks 
+TopSpinWilly: checks 
+*** RIVER *** [Ts 3h 5h Jc] [4d]
+Marlow6292: bets 1440
+TopSpinWilly: raises 1440 to 2880
+Marlow6292: calls 1440
+*** SHOW DOWN ***
+TopSpinWilly: shows [4c 3c] (two pair, Fours and Threes)
+Marlow6292: mucks hand 
+TopSpinWilly collected 8640 from pot
+*** SUMMARY ***
+Total pot 8640 | Rake 0 
+Board [Ts 3h 5h Jc 4d]
+Seat 1: FunPokerIs folded before Flop (didn't bet)
+Seat 2: suovattu (button) folded before Flop (didn't bet)
+Seat 3: andreaskrutsch (small blind) folded before Flop
+Seat 4: Marlow6292 (big blind) mucked [Tc Ks]
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: TopSpinWilly showed [4c 3c] and won (8640) with two pair, Fours and Threes
+
+
+
+Betfair Hand #262458373323: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level II (75/150) - 2026/10/20 19:09:41 CUST [2026/10/20 14:09:41 ET]
+Table '4040099787 5' 8-max Seat #3 is the button
+Seat 1: FunPokerIs (9985 in chips) 
+Seat 2: suovattu (20325 in chips) 
+Seat 3: andreaskrutsch (9535 in chips) is sitting out
+Seat 4: Marlow6292 (5630 in chips) 
+Seat 5: Norbert974 (10000 in chips) 
+Seat 6: kaue4e20 (9760 in chips) is sitting out
+Seat 7: bullets685 (10280 in chips) 
+Seat 8: TopSpinWilly (14430 in chips) 
+FunPokerIs: posts the ante 15
+suovattu: posts the ante 15
+andreaskrutsch: posts the ante 15
+Marlow6292: posts the ante 15
+Norbert974: posts the ante 15
+kaue4e20: posts the ante 15
+bullets685: posts the ante 15
+TopSpinWilly: posts the ante 15
+Marlow6292: posts small blind 75
+Norbert974: posts big blind 150
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc Kc]
+kaue4e20: folds 
+bullets685: raises 262 to 412
+TopSpinWilly: folds 
+FunPokerIs: calls 412
+suovattu: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+Norbert974: folds 
+*** FLOP *** [Js 6d 5h]
+bullets685: bets 585
+FunPokerIs: folds 
+Uncalled bet (585) returned to bullets685
+bullets685 collected 1169 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1169 | Rake 0 
+Board [Js 6d 5h]
+Seat 1: FunPokerIs folded on the Flop
+Seat 2: suovattu folded before Flop (didn't bet)
+Seat 3: andreaskrutsch (button) folded before Flop (didn't bet)
+Seat 4: Marlow6292 (small blind) folded before Flop
+Seat 5: Norbert974 (big blind) folded before Flop
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 collected (1169)
+Seat 8: TopSpinWilly folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458380652: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level II (75/150) - 2026/10/20 19:10:23 CUST [2026/10/20 14:10:23 ET]
+Table '4040099787 5' 8-max Seat #4 is the button
+Seat 2: suovattu (20310 in chips) 
+Seat 3: andreaskrutsch (9520 in chips) is sitting out
+Seat 4: Marlow6292 (5540 in chips) 
+Seat 5: Norbert974 (9835 in chips) 
+Seat 6: kaue4e20 (9745 in chips) is sitting out
+Seat 7: bullets685 (11022 in chips) 
+Seat 8: TopSpinWilly (14415 in chips) 
+suovattu: posts the ante 15
+andreaskrutsch: posts the ante 15
+Marlow6292: posts the ante 15
+Norbert974: posts the ante 15
+kaue4e20: posts the ante 15
+bullets685: posts the ante 15
+TopSpinWilly: posts the ante 15
+Norbert974: posts small blind 75
+kaue4e20: posts big blind 150
+*** HOLE CARDS ***
+Dealt to bullets685 [Kc 7c]
+bullets685: folds 
+TopSpinWilly: folds 
+suovattu: folds 
+andreaskrutsch: folds 
+Marlow6292: raises 300 to 450
+Norbert974: folds 
+kaue4e20: folds 
+Uncalled bet (300) returned to Marlow6292
+Marlow6292 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 2: suovattu folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 (button) collected (480)
+Seat 5: Norbert974 (small blind) folded before Flop
+Seat 6: kaue4e20 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: TopSpinWilly folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458384225: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level II (75/150) - 2026/10/20 19:10:42 CUST [2026/10/20 14:10:42 ET]
+Table '4040099787 5' 8-max Seat #5 is the button
+Seat 2: suovattu (20295 in chips) 
+Seat 3: andreaskrutsch (9505 in chips) is sitting out
+Seat 4: Marlow6292 (5855 in chips) 
+Seat 5: Norbert974 (9745 in chips) 
+Seat 6: kaue4e20 (9580 in chips) is sitting out
+Seat 7: bullets685 (11007 in chips) 
+Seat 8: TopSpinWilly (14400 in chips) 
+suovattu: posts the ante 15
+andreaskrutsch: posts the ante 15
+Marlow6292: posts the ante 15
+Norbert974: posts the ante 15
+kaue4e20: posts the ante 15
+bullets685: posts the ante 15
+TopSpinWilly: posts the ante 15
+kaue4e20: posts small blind 75
+bullets685: posts big blind 150
+*** HOLE CARDS ***
+Dealt to bullets685 [As 7h]
+TopSpinWilly: folds 
+suovattu: folds 
+andreaskrutsch: folds 
+Marlow6292: raises 300 to 450
+Norbert974: folds 
+kaue4e20: folds 
+bullets685: calls 300
+*** FLOP *** [7s Ts 9c]
+bullets685: checks 
+Marlow6292: bets 1080
+bullets685: raises 1080 to 2160
+Marlow6292: raises 3230 to 5390 and is all-in
+bullets685: calls 3230
+*** TURN *** [7s Ts 9c] [8d]
+*** RIVER *** [7s Ts 9c 8d] [6s]
+*** SHOW DOWN ***
+bullets685: shows [As 7h] (a straight, Six to Ten)
+Marlow6292: shows [Qc Tc] (a straight, Six to Ten)
+bullets685 collected 5930 from pot
+Marlow6292 collected 5930 from pot
+*** SUMMARY ***
+Total pot 11860 | Rake 0 
+Board [7s Ts 9c 8d 6s]
+Seat 2: suovattu folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 showed [Qc Tc] and won (5930) with a straight, Six to Ten
+Seat 5: Norbert974 (button) folded before Flop (didn't bet)
+Seat 6: kaue4e20 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) showed [As 7h] and won (5930) with a straight, Six to Ten
+Seat 8: TopSpinWilly folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458390346: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level III (100/200) - 2026/10/20 19:11:16 CUST [2026/10/20 14:11:16 ET]
+Table '4040099787 5' 8-max Seat #6 is the button
+Seat 2: suovattu (20280 in chips) 
+Seat 3: andreaskrutsch (9490 in chips) is sitting out
+Seat 4: Marlow6292 (5930 in chips) 
+Seat 5: Norbert974 (9730 in chips) 
+Seat 6: kaue4e20 (9490 in chips) is sitting out
+Seat 7: bullets685 (11082 in chips) 
+Seat 8: TopSpinWilly (14385 in chips) 
+suovattu: posts the ante 20
+andreaskrutsch: posts the ante 20
+Marlow6292: posts the ante 20
+Norbert974: posts the ante 20
+kaue4e20: posts the ante 20
+bullets685: posts the ante 20
+TopSpinWilly: posts the ante 20
+bullets685: posts small blind 100
+TopSpinWilly: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [8h 4h]
+suovattu: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+Norbert974: folds 
+kaue4e20: folds 
+bullets685: folds 
+Uncalled bet (100) returned to TopSpinWilly
+TopSpinWilly collected 340 from pot
+TopSpinWilly: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Seat 2: suovattu folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: Norbert974 folded before Flop (didn't bet)
+Seat 6: kaue4e20 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: TopSpinWilly (big blind) collected (340)
+
+
+
+Betfair Hand #262458391640: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level III (100/200) - 2026/10/20 19:11:23 CUST [2026/10/20 14:11:23 ET]
+Table '4040099787 5' 8-max Seat #7 is the button
+Seat 2: suovattu (20260 in chips) 
+Seat 3: andreaskrutsch (9470 in chips) is sitting out
+Seat 4: Marlow6292 (5910 in chips) 
+Seat 5: Norbert974 (9710 in chips) 
+Seat 6: kaue4e20 (9470 in chips) is sitting out
+Seat 7: bullets685 (10962 in chips) 
+Seat 8: TopSpinWilly (14605 in chips) 
+suovattu: posts the ante 20
+andreaskrutsch: posts the ante 20
+Marlow6292: posts the ante 20
+Norbert974: posts the ante 20
+kaue4e20: posts the ante 20
+bullets685: posts the ante 20
+TopSpinWilly: posts the ante 20
+TopSpinWilly: posts small blind 100
+suovattu: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [2h Jc]
+andreaskrutsch: folds 
+Marlow6292: raises 400 to 600
+Norbert974: calls 600
+kaue4e20: folds 
+bullets685: folds 
+TopSpinWilly: folds 
+suovattu: folds 
+*** FLOP *** [Qd 9c 8h]
+Marlow6292: checks 
+Norbert974: bets 600
+Marlow6292: calls 600
+*** TURN *** [Qd 9c 8h] [Kh]
+Marlow6292: checks 
+Norbert974: checks 
+*** RIVER *** [Qd 9c 8h Kh] [7h]
+Marlow6292: bets 2840
+Norbert974: folds 
+Uncalled bet (2840) returned to Marlow6292
+Marlow6292 collected 2840 from pot
+*** SUMMARY ***
+Total pot 2840 | Rake 0 
+Board [Qd 9c 8h Kh 7h]
+Seat 2: suovattu (big blind) folded before Flop
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 collected (2840)
+Seat 5: Norbert974 folded on the River
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: TopSpinWilly (small blind) folded before Flop
+
+
+
+Betfair Hand #262458399854: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level III (100/200) - 2026/10/20 19:12:09 CUST [2026/10/20 14:12:09 ET]
+Table '4040099787 5' 8-max Seat #8 is the button
+Seat 2: suovattu (20040 in chips) 
+Seat 3: andreaskrutsch (9450 in chips) is sitting out
+Seat 4: Marlow6292 (7530 in chips) 
+Seat 5: Norbert974 (8490 in chips) 
+Seat 6: kaue4e20 (9450 in chips) is sitting out
+Seat 7: bullets685 (10942 in chips) 
+Seat 8: TopSpinWilly (14485 in chips) 
+suovattu: posts the ante 20
+andreaskrutsch: posts the ante 20
+Marlow6292: posts the ante 20
+Norbert974: posts the ante 20
+kaue4e20: posts the ante 20
+bullets685: posts the ante 20
+TopSpinWilly: posts the ante 20
+suovattu: posts small blind 100
+andreaskrutsch: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [2h 4c]
+Marlow6292: folds 
+Norbert974: raises 200 to 400
+kaue4e20: folds 
+bullets685: folds 
+TopSpinWilly: calls 400
+suovattu: calls 300
+andreaskrutsch: folds 
+*** FLOP *** [9c 7c Ac]
+suovattu: checks 
+Norbert974: bets 770
+TopSpinWilly: folds 
+suovattu: calls 770
+*** TURN *** [9c 7c Ac] [Kd]
+suovattu: checks 
+Norbert974: bets 1540
+suovattu: raises 17310 to 18850 and is all-in
+Norbert974: folds 
+Uncalled bet (17310) returned to suovattu
+suovattu collected 6160 from pot
+suovattu: doesn't show hand 
+*** SUMMARY ***
+Total pot 6160 | Rake 0 
+Board [9c 7c Ac Kd]
+Seat 2: suovattu (small blind) collected (6160)
+Seat 3: andreaskrutsch (big blind) folded before Flop
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: Norbert974 folded on the Turn
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: TopSpinWilly (button) folded on the Flop
+
+
+
+Betfair Hand #262458413310: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level III (100/200) - 2026/10/20 19:13:24 CUST [2026/10/20 14:13:24 ET]
+Table '4040099787 5' 8-max Seat #2 is the button
+Seat 1: papilogenflugi (10000 in chips) 
+Seat 2: suovattu (23470 in chips) 
+Seat 3: andreaskrutsch (9230 in chips) is sitting out
+Seat 4: Marlow6292 (7510 in chips) 
+Seat 5: Norbert974 (5760 in chips) 
+Seat 6: kaue4e20 (9430 in chips) is sitting out
+Seat 7: bullets685 (10922 in chips) 
+Seat 8: TopSpinWilly (14065 in chips) 
+papilogenflugi: posts the ante 20
+suovattu: posts the ante 20
+andreaskrutsch: posts the ante 20
+Marlow6292: posts the ante 20
+Norbert974: posts the ante 20
+kaue4e20: posts the ante 20
+bullets685: posts the ante 20
+TopSpinWilly: posts the ante 20
+andreaskrutsch: posts small blind 100
+Marlow6292: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [9s Th]
+Norbert974: calls 200
+kaue4e20: folds 
+bullets685: folds 
+TopSpinWilly: folds 
+papilogenflugi: folds 
+suovattu: folds 
+andreaskrutsch: folds 
+Marlow6292: checks 
+*** FLOP *** [Ts 7s 3c]
+Marlow6292: checks 
+Norbert974: bets 330
+Marlow6292: folds 
+Uncalled bet (330) returned to Norbert974
+Norbert974 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [Ts 7s 3c]
+Seat 1: papilogenflugi folded before Flop (didn't bet)
+Seat 2: suovattu (button) folded before Flop (didn't bet)
+Seat 3: andreaskrutsch (small blind) folded before Flop
+Seat 4: Marlow6292 (big blind) folded on the Flop
+Seat 5: Norbert974 collected (660)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: TopSpinWilly folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458419659: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level III (100/200) - 2026/10/20 19:13:59 CUST [2026/10/20 14:13:59 ET]
+Table '4040099787 5' 8-max Seat #3 is the button
+Seat 1: papilogenflugi (9980 in chips) 
+Seat 2: suovattu (23450 in chips) 
+Seat 3: andreaskrutsch (9110 in chips) is sitting out
+Seat 4: Marlow6292 (7290 in chips) 
+Seat 5: Norbert974 (6200 in chips) 
+Seat 6: kaue4e20 (9410 in chips) is sitting out
+Seat 7: bullets685 (10902 in chips) 
+Seat 8: TopSpinWilly (14045 in chips) 
+papilogenflugi: posts the ante 20
+suovattu: posts the ante 20
+andreaskrutsch: posts the ante 20
+Marlow6292: posts the ante 20
+Norbert974: posts the ante 20
+kaue4e20: posts the ante 20
+bullets685: posts the ante 20
+TopSpinWilly: posts the ante 20
+Marlow6292: posts small blind 100
+Norbert974: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Jd 8s]
+kaue4e20: folds 
+bullets685: folds 
+TopSpinWilly: raises 300 to 500
+papilogenflugi: calls 500
+suovattu: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+Norbert974: calls 300
+*** FLOP *** [Td 6c Kc]
+Norbert974: checks 
+TopSpinWilly: bets 1760
+papilogenflugi: calls 1760
+Norbert974: folds 
+*** TURN *** [Td 6c Kc] [Ts]
+TopSpinWilly: checks 
+papilogenflugi: bets 800
+TopSpinWilly: raises 1200 to 2000
+papilogenflugi: calls 1200
+*** RIVER *** [Td 6c Kc Ts] [2h]
+TopSpinWilly: checks 
+papilogenflugi: bets 1400
+TopSpinWilly: calls 1400
+*** SHOW DOWN ***
+papilogenflugi: shows [6s Ks] (two pair, Kings and Tens)
+TopSpinWilly: shows [Kh 4h] (two pair, Kings and Tens)
+TopSpinWilly collected 6040 from pot
+papilogenflugi collected 6040 from pot
+*** SUMMARY ***
+Total pot 12080 | Rake 0 
+Board [Td 6c Kc Ts 2h]
+Seat 1: papilogenflugi showed [6s Ks] and won (6040) with two pair, Kings and Tens
+Seat 2: suovattu folded before Flop (didn't bet)
+Seat 3: andreaskrutsch (button) folded before Flop (didn't bet)
+Seat 4: Marlow6292 (small blind) folded before Flop
+Seat 5: Norbert974 (big blind) folded on the Flop
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: TopSpinWilly showed [Kh 4h] and won (6040) with two pair, Kings and Tens
+
+
+
+Betfair Hand #262458432073: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level IV (150/300) - 2026/10/20 19:15:08 CUST [2026/10/20 14:15:08 ET]
+Table '4040099787 5' 8-max Seat #4 is the button
+Seat 1: papilogenflugi (10340 in chips) 
+Seat 2: suovattu (23430 in chips) 
+Seat 3: andreaskrutsch (9090 in chips) is sitting out
+Seat 4: Marlow6292 (7170 in chips) 
+Seat 5: Norbert974 (5680 in chips) 
+Seat 6: kaue4e20 (9390 in chips) is sitting out
+Seat 7: bullets685 (10882 in chips) 
+Seat 8: TopSpinWilly (14405 in chips) 
+papilogenflugi: posts the ante 30
+suovattu: posts the ante 30
+andreaskrutsch: posts the ante 30
+Marlow6292: posts the ante 30
+Norbert974: posts the ante 30
+kaue4e20: posts the ante 30
+bullets685: posts the ante 30
+TopSpinWilly: posts the ante 30
+Norbert974: posts small blind 150
+kaue4e20: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [7c 8s]
+bullets685: folds 
+TopSpinWilly: raises 600 to 900
+papilogenflugi: folds 
+suovattu: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+Norbert974: raises 4750 to 5650 and is all-in
+kaue4e20: folds 
+TopSpinWilly: calls 4750
+*** FLOP *** [Ts 6s 6h]
+*** TURN *** [Ts 6s 6h] [4d]
+*** RIVER *** [Ts 6s 6h 4d] [2d]
+*** SHOW DOWN ***
+Norbert974: shows [Ac 6d] (three of a kind, Sixes)
+TopSpinWilly: shows [Ah Qd] (a pair of Sixes)
+Norbert974 collected 11840 from pot
+*** SUMMARY ***
+Total pot 11840 | Rake 0 
+Board [Ts 6s 6h 4d 2d]
+Seat 1: papilogenflugi folded before Flop (didn't bet)
+Seat 2: suovattu folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 (button) folded before Flop (didn't bet)
+Seat 5: Norbert974 (small blind) showed [Ac 6d] and won (11840) with three of a kind, Sixes
+Seat 6: kaue4e20 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: TopSpinWilly showed [Ah Qd] and lost with a pair of Sixes
+
+
+
+Betfair Hand #262458438493: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level IV (150/300) - 2026/10/20 19:15:44 CUST [2026/10/20 14:15:44 ET]
+Table '4040099787 5' 8-max Seat #5 is the button
+Seat 1: papilogenflugi (10310 in chips) 
+Seat 2: suovattu (23400 in chips) 
+Seat 3: andreaskrutsch (9060 in chips) is sitting out
+Seat 4: Marlow6292 (7140 in chips) 
+Seat 5: Norbert974 (11840 in chips) 
+Seat 6: kaue4e20 (9060 in chips) is sitting out
+Seat 7: bullets685 (10852 in chips) 
+Seat 8: TopSpinWilly (8725 in chips) 
+papilogenflugi: posts the ante 30
+suovattu: posts the ante 30
+andreaskrutsch: posts the ante 30
+Marlow6292: posts the ante 30
+Norbert974: posts the ante 30
+kaue4e20: posts the ante 30
+bullets685: posts the ante 30
+TopSpinWilly: posts the ante 30
+kaue4e20: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [8c Ac]
+TopSpinWilly: raises 600 to 900
+papilogenflugi has timed out
+papilogenflugi: folds 
+papilogenflugi is sitting out
+suovattu: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+Norbert974: folds 
+kaue4e20: folds 
+bullets685: raises 1800 to 2700
+papilogenflugi has returned
+TopSpinWilly: calls 1800
+*** FLOP *** [4d 5h Ah]
+bullets685: bets 3600
+TopSpinWilly: folds 
+Uncalled bet (3600) returned to bullets685
+bullets685 collected 5790 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 5790 | Rake 0 
+Board [4d 5h Ah]
+Seat 1: papilogenflugi folded before Flop (didn't bet)
+Seat 2: suovattu folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: Norbert974 (button) folded before Flop (didn't bet)
+Seat 6: kaue4e20 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) collected (5790)
+Seat 8: TopSpinWilly folded on the Flop
+
+
+
+Betfair Hand #262458454767: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level V (200/400) - 2026/10/20 19:17:13 CUST [2026/10/20 14:17:13 ET]
+Table '4040099787 5' 8-max Seat #6 is the button
+Seat 1: papilogenflugi (10280 in chips) 
+Seat 2: suovattu (23370 in chips) 
+Seat 3: andreaskrutsch (9030 in chips) is sitting out
+Seat 4: Marlow6292 (7110 in chips) 
+Seat 5: Norbert974 (11810 in chips) 
+Seat 6: kaue4e20 (8880 in chips) is sitting out
+Seat 7: bullets685 (13912 in chips) 
+papilogenflugi: posts the ante 40
+suovattu: posts the ante 40
+andreaskrutsch: posts the ante 40
+Marlow6292: posts the ante 40
+Norbert974: posts the ante 40
+kaue4e20: posts the ante 40
+bullets685: posts the ante 40
+bullets685: posts small blind 200
+papilogenflugi: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [9h Qd]
+suovattu: folds 
+andreaskrutsch: folds 
+pag1818 is disconnected 
+Marlow6292: folds 
+Norbert974: raises 400 to 800
+kaue4e20: folds 
+bullets685: folds 
+papilogenflugi: raises 400 to 1200
+Norbert974: calls 400
+*** FLOP *** [6d 8c Jh]
+papilogenflugi: checks 
+Norbert974: bets 800
+papilogenflugi: calls 800
+*** TURN *** [6d 8c Jh] [9d]
+papilogenflugi: checks 
+Norbert974: bets 1200
+papilogenflugi: folds 
+Uncalled bet (1200) returned to Norbert974
+Norbert974 collected 4480 from pot
+*** SUMMARY ***
+Total pot 4480 | Rake 0 
+Board [6d 8c Jh 9d]
+Seat 1: papilogenflugi (big blind) folded on the Turn
+Seat 2: suovattu folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: Norbert974 collected (4480)
+Seat 6: kaue4e20 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+
+
+
+Betfair Hand #262458463674: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level V (200/400) - 2026/10/20 19:18:02 CUST [2026/10/20 14:18:02 ET]
+Table '4040099787 5' 8-max Seat #7 is the button
+Seat 1: papilogenflugi (8240 in chips) 
+Seat 3: andreaskrutsch (8990 in chips) is sitting out
+Seat 4: Marlow6292 (7070 in chips) 
+Seat 5: Norbert974 (14250 in chips) 
+Seat 6: kaue4e20 (8840 in chips) is sitting out
+Seat 7: bullets685 (13672 in chips) 
+Seat 8: pag1818 (10000 in chips) out of hand (moved from another table into small blind)
+pag1818 will be allowed to play after the button
+papilogenflugi: posts the ante 40
+andreaskrutsch: posts the ante 40
+Marlow6292: posts the ante 40
+Norbert974: posts the ante 40
+kaue4e20: posts the ante 40
+bullets685: posts the ante 40
+papilogenflugi: posts small blind 200
+andreaskrutsch: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [3h Jh]
+Marlow6292: folds 
+Norbert974: folds 
+kaue4e20: folds 
+bullets685: raises 600 to 1000
+papilogenflugi: calls 800
+andreaskrutsch: folds 
+*** FLOP *** [Ks 5d Js]
+papilogenflugi: checks 
+bullets685: bets 1320
+papilogenflugi: calls 1320
+*** TURN *** [Ks 5d Js] [7c]
+papilogenflugi: checks 
+bullets685: checks 
+*** RIVER *** [Ks 5d Js 7c] [4c]
+papilogenflugi: bets 2000
+bullets685: calls 2000
+*** SHOW DOWN ***
+papilogenflugi: shows [Kc 4s] (two pair, Kings and Fours)
+bullets685: mucks hand 
+papilogenflugi collected 9280 from pot
+*** SUMMARY ***
+Total pot 9280 | Rake 0 
+Board [Ks 5d Js 7c 4c]
+Seat 1: papilogenflugi (small blind) showed [Kc 4s] and won (9280) with two pair, Kings and Fours
+Seat 3: andreaskrutsch (big blind) folded before Flop
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: Norbert974 folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) mucked [3h Jh]
+
+
+
+Betfair Hand #262458469029: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level V (200/400) - 2026/10/20 19:18:33 CUST [2026/10/20 14:18:33 ET]
+Table '4040099787 5' 8-max Seat #1 is the button
+Seat 1: papilogenflugi (13160 in chips) 
+Seat 3: andreaskrutsch (8550 in chips) is sitting out
+Seat 4: Marlow6292 (7030 in chips) 
+Seat 5: Norbert974 (14210 in chips) 
+Seat 6: kaue4e20 (8800 in chips) is sitting out
+Seat 7: bullets685 (9312 in chips) 
+Seat 8: pag1818 (10000 in chips) 
+papilogenflugi: posts the ante 40
+andreaskrutsch: posts the ante 40
+Marlow6292: posts the ante 40
+Norbert974: posts the ante 40
+kaue4e20: posts the ante 40
+bullets685: posts the ante 40
+pag1818: posts the ante 40
+andreaskrutsch: posts small blind 200
+Marlow6292: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [6h 4d]
+Norbert974: calls 400
+kaue4e20: folds 
+bullets685: folds 
+pag1818: folds 
+papilogenflugi: folds 
+andreaskrutsch: folds 
+Marlow6292: raises 6590 to 6990 and is all-in
+Norbert974: calls 6590
+*** FLOP *** [3h As 7h]
+*** TURN *** [3h As 7h] [5s]
+*** RIVER *** [3h As 7h 5s] [Jd]
+*** SHOW DOWN ***
+Marlow6292: shows [Td Tc] (a pair of Tens)
+Norbert974: shows [2c 2h] (a pair of Deuces)
+Marlow6292 collected 14460 from pot
+*** SUMMARY ***
+Total pot 14460 | Rake 0 
+Board [3h As 7h 5s Jd]
+Seat 1: papilogenflugi (button) folded before Flop (didn't bet)
+Seat 3: andreaskrutsch (small blind) folded before Flop
+Seat 4: Marlow6292 (big blind) showed [Td Tc] and won (14460) with a pair of Tens
+Seat 5: Norbert974 showed [2c 2h] and lost with a pair of Deuces
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458473356: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level V (200/400) - 2026/10/20 19:18:57 CUST [2026/10/20 14:18:57 ET]
+Table '4040099787 5' 8-max Seat #3 is the button
+Seat 1: papilogenflugi (13120 in chips) 
+Seat 3: andreaskrutsch (8310 in chips) is sitting out
+Seat 4: Marlow6292 (14460 in chips) 
+Seat 5: Norbert974 (7180 in chips) 
+Seat 6: kaue4e20 (8760 in chips) is sitting out
+Seat 7: bullets685 (9272 in chips) 
+Seat 8: pag1818 (9960 in chips) 
+papilogenflugi: posts the ante 40
+andreaskrutsch: posts the ante 40
+Marlow6292: posts the ante 40
+Norbert974: posts the ante 40
+kaue4e20: posts the ante 40
+bullets685: posts the ante 40
+pag1818: posts the ante 40
+Marlow6292: posts small blind 200
+Norbert974: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [7s 9s]
+kaue4e20: folds 
+bullets685: raises 400 to 800
+pag1818: folds 
+papilogenflugi: calls 800
+andreaskrutsch: folds 
+Marlow6292: folds 
+Norbert974: calls 400
+*** FLOP *** [Ac 9h 5h]
+Norbert974: checks 
+bullets685: checks 
+papilogenflugi: checks 
+*** TURN *** [Ac 9h 5h] [Qh]
+Norbert974: checks 
+bullets685: bets 800
+papilogenflugi: folds 
+Norbert974: folds 
+Uncalled bet (800) returned to bullets685
+bullets685 collected 2880 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 2880 | Rake 0 
+Board [Ac 9h 5h Qh]
+Seat 1: papilogenflugi folded on the Turn
+Seat 3: andreaskrutsch (button) folded before Flop (didn't bet)
+Seat 4: Marlow6292 (small blind) folded before Flop
+Seat 5: Norbert974 (big blind) folded on the Turn
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 collected (2880)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458480849: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level V (200/400) - 2026/10/20 19:19:38 CUST [2026/10/20 14:19:38 ET]
+Table '4040099787 5' 8-max Seat #4 is the button
+Seat 1: papilogenflugi (12280 in chips) 
+Seat 3: andreaskrutsch (8270 in chips) is sitting out
+Seat 4: Marlow6292 (14220 in chips) 
+Seat 5: Norbert974 (6340 in chips) 
+Seat 6: kaue4e20 (8720 in chips) is sitting out
+Seat 7: bullets685 (11312 in chips) 
+Seat 8: pag1818 (9920 in chips) 
+papilogenflugi: posts the ante 40
+andreaskrutsch: posts the ante 40
+Marlow6292: posts the ante 40
+Norbert974: posts the ante 40
+kaue4e20: posts the ante 40
+bullets685: posts the ante 40
+pag1818: posts the ante 40
+Norbert974: posts small blind 200
+kaue4e20: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [3h Kd]
+bullets685: folds 
+pag1818: folds 
+papilogenflugi: calls 400
+andreaskrutsch: folds 
+Marlow6292: folds 
+Norbert974: calls 200
+kaue4e20: folds 
+*** FLOP *** [5c 5h 5d]
+Norbert974: checks 
+papilogenflugi: checks 
+*** TURN *** [5c 5h 5d] [As]
+Norbert974: checks 
+papilogenflugi: checks 
+*** RIVER *** [5c 5h 5d As] [Tc]
+Norbert974: bets 800
+papilogenflugi: folds 
+Uncalled bet (800) returned to Norbert974
+Norbert974 collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Board [5c 5h 5d As Tc]
+Seat 1: papilogenflugi folded on the River
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 (button) folded before Flop (didn't bet)
+Seat 5: Norbert974 (small blind) collected (1480)
+Seat 6: kaue4e20 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458487477: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VI (250/500) - 2026/10/20 19:20:15 CUST [2026/10/20 14:20:15 ET]
+Table '4040099787 5' 8-max Seat #5 is the button
+Seat 1: papilogenflugi (11840 in chips) 
+Seat 3: andreaskrutsch (8230 in chips) is sitting out
+Seat 4: Marlow6292 (14180 in chips) 
+Seat 5: Norbert974 (7380 in chips) 
+Seat 6: kaue4e20 (8280 in chips) is sitting out
+Seat 7: bullets685 (11272 in chips) 
+Seat 8: pag1818 (9880 in chips) 
+papilogenflugi: posts the ante 50
+andreaskrutsch: posts the ante 50
+Marlow6292: posts the ante 50
+Norbert974: posts the ante 50
+kaue4e20: posts the ante 50
+bullets685: posts the ante 50
+pag1818: posts the ante 50
+kaue4e20: posts small blind 250
+bullets685: posts big blind 500
+*** HOLE CARDS ***
+Dealt to bullets685 [Kh 4h]
+pag1818: folds 
+papilogenflugi: calls 500
+andreaskrutsch: folds 
+Marlow6292: folds 
+Norbert974: folds 
+kaue4e20: folds 
+bullets685: checks 
+*** FLOP *** [Tc 3s 2h]
+bullets685: checks 
+papilogenflugi: checks 
+*** TURN *** [Tc 3s 2h] [Ad]
+bullets685: checks 
+papilogenflugi: checks 
+*** RIVER *** [Tc 3s 2h Ad] [Kd]
+bullets685: bets 1600
+papilogenflugi: folds 
+Uncalled bet (1600) returned to bullets685
+bullets685 collected 1600 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [Tc 3s 2h Ad Kd]
+Seat 1: papilogenflugi folded on the River
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: Norbert974 (button) folded before Flop (didn't bet)
+Seat 6: kaue4e20 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) collected (1600)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458494324: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VI (250/500) - 2026/10/20 19:20:52 CUST [2026/10/20 14:20:52 ET]
+Table '4040099787 5' 8-max Seat #6 is the button
+Seat 1: papilogenflugi (11290 in chips) 
+Seat 3: andreaskrutsch (8180 in chips) is sitting out
+Seat 4: Marlow6292 (14130 in chips) 
+Seat 5: Norbert974 (7330 in chips) 
+Seat 6: kaue4e20 (7980 in chips) is sitting out
+Seat 7: bullets685 (12322 in chips) 
+Seat 8: pag1818 (9830 in chips) 
+papilogenflugi: posts the ante 50
+andreaskrutsch: posts the ante 50
+Marlow6292: posts the ante 50
+Norbert974: posts the ante 50
+kaue4e20: posts the ante 50
+bullets685: posts the ante 50
+pag1818: posts the ante 50
+bullets685: posts small blind 250
+pag1818: posts big blind 500
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 8c]
+papilogenflugi: raises 500 to 1000
+andreaskrutsch: folds 
+Marlow6292: folds 
+Norbert974: folds 
+kaue4e20: folds 
+bullets685: folds 
+pag1818: folds 
+Uncalled bet (500) returned to papilogenflugi
+papilogenflugi collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Seat 1: papilogenflugi collected (1600)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: Norbert974 folded before Flop (didn't bet)
+Seat 6: kaue4e20 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: pag1818 (big blind) folded before Flop
+
+
+
+Betfair Hand #262458496267: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VI (250/500) - 2026/10/20 19:21:03 CUST [2026/10/20 14:21:03 ET]
+Table '4040099787 5' 8-max Seat #7 is the button
+Seat 1: papilogenflugi (12340 in chips) 
+Seat 3: andreaskrutsch (8130 in chips) is sitting out
+Seat 4: Marlow6292 (14080 in chips) 
+Seat 5: Norbert974 (7280 in chips) 
+Seat 6: kaue4e20 (7930 in chips) is sitting out
+Seat 7: bullets685 (12022 in chips) 
+Seat 8: pag1818 (9280 in chips) 
+papilogenflugi: posts the ante 50
+andreaskrutsch: posts the ante 50
+Marlow6292: posts the ante 50
+Norbert974: posts the ante 50
+kaue4e20: posts the ante 50
+bullets685: posts the ante 50
+pag1818: posts the ante 50
+pag1818: posts small blind 250
+papilogenflugi: posts big blind 500
+*** HOLE CARDS ***
+Dealt to bullets685 [7c 7s]
+andreaskrutsch: folds 
+Marlow6292: folds 
+Norbert974: folds 
+kaue4e20: folds 
+bullets685: raises 500 to 1000
+pag1818: folds 
+papilogenflugi: raises 500 to 1500
+bullets685: calls 500
+*** FLOP *** [Jh 7h Ad]
+papilogenflugi: bets 500
+bullets685: raises 1500 to 2000
+papilogenflugi: calls 1500
+*** TURN *** [Jh 7h Ad] [7d]
+papilogenflugi: checks 
+bullets685: bets 3800
+papilogenflugi: calls 3800
+*** RIVER *** [Jh 7h Ad 7d] [Js]
+papilogenflugi: checks 
+bullets685: bets 4672 and is all-in
+papilogenflugi: folds 
+Uncalled bet (4672) returned to bullets685
+bullets685 collected 15200 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 15200 | Rake 0 
+Board [Jh 7h Ad 7d Js]
+Seat 1: papilogenflugi (big blind) folded on the River
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: Norbert974 folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) collected (15200)
+Seat 8: pag1818 (small blind) folded before Flop
+
+
+
+Betfair Hand #262458502807: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VI (250/500) - 2026/10/20 19:21:39 CUST [2026/10/20 14:21:39 ET]
+Table '4040099787 5' 8-max Seat #8 is the button
+Seat 1: papilogenflugi (4990 in chips) 
+Seat 3: andreaskrutsch (8080 in chips) is sitting out
+Seat 4: Marlow6292 (14030 in chips) 
+Seat 5: Norbert974 (7230 in chips) 
+Seat 6: kaue4e20 (7880 in chips) is sitting out
+Seat 7: bullets685 (19872 in chips) 
+Seat 8: pag1818 (8980 in chips) 
+papilogenflugi: posts the ante 50
+andreaskrutsch: posts the ante 50
+Marlow6292: posts the ante 50
+Norbert974: posts the ante 50
+kaue4e20: posts the ante 50
+bullets685: posts the ante 50
+pag1818: posts the ante 50
+papilogenflugi: posts small blind 250
+andreaskrutsch: posts big blind 500
+*** HOLE CARDS ***
+Dealt to bullets685 [3c Ad]
+Marlow6292: folds 
+Norbert974: raises 500 to 1000
+kaue4e20: folds 
+bullets685: folds 
+pag1818: raises 3100 to 4100
+papilogenflugi: folds 
+andreaskrutsch: folds 
+Norbert974: raises 3080 to 7180 and is all-in
+pag1818: calls 3080
+*** FLOP *** [Js 9d 4d]
+*** TURN *** [Js 9d 4d] [7d]
+*** RIVER *** [Js 9d 4d 7d] [2s]
+*** SHOW DOWN ***
+Norbert974: shows [Qh Ks] (high card King)
+pag1818: shows [Ah Qs] (high card Ace)
+pag1818 collected 15460 from pot
+Norbert974 finished the tournament
+*** SUMMARY ***
+Total pot 15460 | Rake 0 
+Board [Js 9d 4d 7d 2s]
+Seat 1: papilogenflugi (small blind) folded before Flop
+Seat 3: andreaskrutsch (big blind) folded before Flop
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: Norbert974 showed [Qh Ks] and lost with high card King
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 (button) showed [Ah Qs] and won (15460) with high card Ace
+
+
+
+Betfair Hand #262458507732: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VI (250/500) - 2026/10/20 19:22:06 CUST [2026/10/20 14:22:06 ET]
+Table '4040099787 5' 8-max Seat #1 is the button
+Seat 1: papilogenflugi (4690 in chips) 
+Seat 3: andreaskrutsch (7530 in chips) is sitting out
+Seat 4: Marlow6292 (13980 in chips) 
+Seat 6: kaue4e20 (7830 in chips) is sitting out
+Seat 7: bullets685 (19822 in chips) 
+Seat 8: pag1818 (17210 in chips) 
+papilogenflugi: posts the ante 50
+andreaskrutsch: posts the ante 50
+Marlow6292: posts the ante 50
+kaue4e20: posts the ante 50
+bullets685: posts the ante 50
+pag1818: posts the ante 50
+andreaskrutsch: posts small blind 250
+Marlow6292: posts big blind 500
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc Js]
+kaue4e20: folds 
+yanyshivskyi is disconnected 
+bullets685: raises 500 to 1000
+pag1818: folds 
+papilogenflugi: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+Uncalled bet (500) returned to bullets685
+bullets685 collected 1550 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1550 | Rake 0 
+Seat 1: papilogenflugi (button) folded before Flop (didn't bet)
+Seat 3: andreaskrutsch (small blind) folded before Flop
+Seat 4: Marlow6292 (big blind) folded before Flop
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 collected (1550)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458510451: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VI (250/500) - 2026/10/20 19:22:21 CUST [2026/10/20 14:22:21 ET]
+Table '4040099787 5' 8-max Seat #3 is the button
+Seat 1: papilogenflugi (4640 in chips) 
+Seat 3: andreaskrutsch (7230 in chips) is sitting out
+Seat 4: Marlow6292 (13430 in chips) 
+Seat 5: yanyshivskyi (11940 in chips) 
+Seat 6: kaue4e20 (7780 in chips) is sitting out
+Seat 7: bullets685 (20822 in chips) 
+Seat 8: pag1818 (17160 in chips) 
+papilogenflugi: posts the ante 50
+andreaskrutsch: posts the ante 50
+Marlow6292: posts the ante 50
+yanyshivskyi: posts the ante 50
+kaue4e20: posts the ante 50
+bullets685: posts the ante 50
+pag1818: posts the ante 50
+Marlow6292: posts small blind 250
+yanyshivskyi: posts big blind 500
+*** HOLE CARDS ***
+Dealt to bullets685 [6h 5c]
+kaue4e20: folds 
+bullets685: folds 
+pag1818: raises 500 to 1000
+papilogenflugi: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: calls 500
+*** FLOP *** [5s Qc 9s]
+IamZen69 is disconnected 
+yanyshivskyi: checks 
+pag1818: checks 
+*** TURN *** [5s Qc 9s] [3d]
+yanyshivskyi: bets 1250
+pag1818: calls 1250
+*** RIVER *** [5s Qc 9s 3d] [8h]
+yanyshivskyi: bets 5500
+pag1818: folds 
+Uncalled bet (5500) returned to yanyshivskyi
+yanyshivskyi collected 5100 from pot
+yanyshivskyi: doesn't show hand 
+*** SUMMARY ***
+Total pot 5100 | Rake 0 
+Board [5s Qc 9s 3d 8h]
+Seat 1: papilogenflugi folded before Flop (didn't bet)
+Seat 3: andreaskrutsch (button) folded before Flop (didn't bet)
+Seat 4: Marlow6292 (small blind) folded before Flop
+Seat 5: yanyshivskyi (big blind) collected (5100)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded on the River
+
+
+
+Betfair Hand #262458518842: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VII (300/600) - 2026/10/20 19:23:07 CUST [2026/10/20 14:23:07 ET]
+Table '4040099787 5' 8-max Seat #4 is the button
+Seat 1: papilogenflugi (4590 in chips) 
+Seat 2: IamZen69 (10000 in chips) 
+Seat 3: andreaskrutsch (7180 in chips) is sitting out
+Seat 4: Marlow6292 (13130 in chips) 
+Seat 5: yanyshivskyi (14740 in chips) 
+Seat 6: kaue4e20 (7730 in chips) is sitting out
+Seat 7: bullets685 (20772 in chips) 
+Seat 8: pag1818 (14860 in chips) 
+papilogenflugi: posts the ante 60
+IamZen69: posts the ante 60
+andreaskrutsch: posts the ante 60
+Marlow6292: posts the ante 60
+yanyshivskyi: posts the ante 60
+kaue4e20: posts the ante 60
+bullets685: posts the ante 60
+pag1818: posts the ante 60
+yanyshivskyi: posts small blind 300
+kaue4e20: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [3d 2s]
+bullets685: folds 
+pag1818: folds 
+papilogenflugi: calls 600
+IamZen69: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: raises 14080 to 14680 and is all-in
+kaue4e20: folds 
+papilogenflugi: calls 3930 and is all-in
+Uncalled bet (10150) returned to yanyshivskyi
+*** FLOP *** [Ah Ac 6c]
+*** TURN *** [Ah Ac 6c] [Tc]
+*** RIVER *** [Ah Ac 6c Tc] [9h]
+*** SHOW DOWN ***
+yanyshivskyi: shows [Ad Th] (a full house, Aces full of Tens)
+papilogenflugi: shows [8s Kh] (a pair of Aces)
+yanyshivskyi collected 10140 from pot
+papilogenflugi finished the tournament
+*** SUMMARY ***
+Total pot 10140 | Rake 0 
+Board [Ah Ac 6c Tc 9h]
+Seat 1: papilogenflugi showed [8s Kh] and lost with a pair of Aces
+Seat 2: IamZen69 folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 (button) folded before Flop (didn't bet)
+Seat 5: yanyshivskyi (small blind) showed [Ad Th] and won (10140) with a full house, Aces full of Tens
+Seat 6: kaue4e20 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458523871: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VII (300/600) - 2026/10/20 19:23:34 CUST [2026/10/20 14:23:34 ET]
+Table '4040099787 5' 8-max Seat #5 is the button
+Seat 2: IamZen69 (9940 in chips) 
+Seat 3: andreaskrutsch (7120 in chips) is sitting out
+Seat 4: Marlow6292 (13070 in chips) 
+Seat 5: yanyshivskyi (20290 in chips) 
+Seat 6: kaue4e20 (7070 in chips) is sitting out
+Seat 7: bullets685 (20712 in chips) 
+Seat 8: pag1818 (14800 in chips) 
+IamZen69: posts the ante 60
+andreaskrutsch: posts the ante 60
+Marlow6292: posts the ante 60
+yanyshivskyi: posts the ante 60
+kaue4e20: posts the ante 60
+bullets685: posts the ante 60
+pag1818: posts the ante 60
+kaue4e20: posts small blind 300
+bullets685: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [7s Qh]
+pag1818: folds 
+IamZen69: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: raises 600 to 1200
+kaue4e20: folds 
+bullets685: folds 
+Uncalled bet (600) returned to yanyshivskyi
+yanyshivskyi collected 1920 from pot
+yanyshivskyi: doesn't show hand 
+*** SUMMARY ***
+Total pot 1920 | Rake 0 
+Seat 2: IamZen69 folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi (button) collected (1920)
+Seat 6: kaue4e20 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458526225: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VII (300/600) - 2026/10/20 19:23:47 CUST [2026/10/20 14:23:47 ET]
+Table '4040099787 5' 8-max Seat #6 is the button
+Seat 2: IamZen69 (9880 in chips) 
+Seat 3: andreaskrutsch (7060 in chips) is sitting out
+Seat 4: Marlow6292 (13010 in chips) 
+Seat 5: yanyshivskyi (21550 in chips) 
+Seat 6: kaue4e20 (6710 in chips) is sitting out
+Seat 7: bullets685 (20052 in chips) 
+Seat 8: pag1818 (14740 in chips) 
+IamZen69: posts the ante 60
+andreaskrutsch: posts the ante 60
+Marlow6292: posts the ante 60
+yanyshivskyi: posts the ante 60
+kaue4e20: posts the ante 60
+bullets685: posts the ante 60
+pag1818: posts the ante 60
+bullets685: posts small blind 300
+pag1818: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [9h 6s]
+IamZen69: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: raises 600 to 1200
+kaue4e20: folds 
+bullets685: folds 
+pag1818: raises 4200 to 5400
+yanyshivskyi: raises 16090 to 21490 and is all-in
+pag1818: calls 9280 and is all-in
+Uncalled bet (6810) returned to yanyshivskyi
+*** FLOP *** [4c 6h 2h]
+*** TURN *** [4c 6h 2h] [9d]
+*** RIVER *** [4c 6h 2h 9d] [8c]
+*** SHOW DOWN ***
+pag1818: shows [Kc As] (high card Ace)
+yanyshivskyi: shows [Kh Jd] (high card King)
+pag1818 collected 30080 from pot
+*** SUMMARY ***
+Total pot 30080 | Rake 0 
+Board [4c 6h 2h 9d 8c]
+Seat 2: IamZen69 folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi showed [Kh Jd] and lost with high card King
+Seat 6: kaue4e20 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: pag1818 (big blind) showed [Kc As] and won (30080) with high card Ace
+
+
+
+Betfair Hand #262458532664: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VII (300/600) - 2026/10/20 19:24:22 CUST [2026/10/20 14:24:22 ET]
+Table '4040099787 5' 8-max Seat #7 is the button
+Seat 2: IamZen69 (9820 in chips) 
+Seat 3: andreaskrutsch (7000 in chips) is sitting out
+Seat 4: Marlow6292 (12950 in chips) 
+Seat 5: yanyshivskyi (6810 in chips) 
+Seat 6: kaue4e20 (6650 in chips) is sitting out
+Seat 7: bullets685 (19692 in chips) 
+Seat 8: pag1818 (30080 in chips) 
+IamZen69: posts the ante 60
+andreaskrutsch: posts the ante 60
+Marlow6292: posts the ante 60
+yanyshivskyi: posts the ante 60
+kaue4e20: posts the ante 60
+bullets685: posts the ante 60
+pag1818: posts the ante 60
+pag1818: posts small blind 300
+IamZen69: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [2c 4s]
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: folds 
+kaue4e20: folds 
+bullets685: folds 
+pag1818: folds 
+Uncalled bet (300) returned to IamZen69
+IamZen69 collected 1020 from pot
+IamZen69: doesn't show hand 
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Seat 2: IamZen69 (big blind) collected (1020)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: pag1818 (small blind) folded before Flop
+
+
+
+Betfair Hand #262458534404: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VII (300/600) - 2026/10/20 19:24:32 CUST [2026/10/20 14:24:32 ET]
+Table '4040099787 5' 8-max Seat #8 is the button
+Seat 2: IamZen69 (10480 in chips) 
+Seat 3: andreaskrutsch (6940 in chips) is sitting out
+Seat 4: Marlow6292 (12890 in chips) 
+Seat 5: yanyshivskyi (6750 in chips) 
+Seat 6: kaue4e20 (6590 in chips) is sitting out
+Seat 7: bullets685 (19632 in chips) 
+Seat 8: pag1818 (29720 in chips) 
+IamZen69: posts the ante 60
+andreaskrutsch: posts the ante 60
+Marlow6292: posts the ante 60
+yanyshivskyi: posts the ante 60
+kaue4e20: posts the ante 60
+bullets685: posts the ante 60
+pag1818: posts the ante 60
+IamZen69: posts small blind 300
+andreaskrutsch: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [Ac Jc]
+Marlow6292: folds 
+yanyshivskyi: folds 
+kaue4e20: folds 
+bullets685: raises 780 to 1380
+pag1818: calls 1380
+IamZen69: calls 1080
+andreaskrutsch: folds 
+*** FLOP *** [Jd 7c 4c]
+IamZen69: checks 
+bullets685: bets 2580
+pag1818: calls 2580
+IamZen69: folds 
+*** TURN *** [Jd 7c 4c] [5s]
+bullets685: bets 5160
+Leeroyflash is disconnected 
+pag1818: calls 5160
+*** RIVER *** [Jd 7c 4c 5s] [Js]
+bullets685: bets 10452 and is all-in
+pag1818: calls 10452
+*** SHOW DOWN ***
+bullets685: shows [Ac Jc] (three of a kind, Jacks)
+pag1818: shows [Jh Kh] (three of a kind, Jacks - lower kicker)
+bullets685 collected 41544 from pot
+*** SUMMARY ***
+Total pot 41544 | Rake 0 
+Board [Jd 7c 4c 5s Js]
+Seat 2: IamZen69 (small blind) folded on the Flop
+Seat 3: andreaskrutsch (big blind) folded before Flop
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 showed [Ac Jc] and won (41544) with three of a kind, Jacks
+Seat 8: pag1818 (button) showed [Jh Kh] and lost with three of a kind, Jacks
+
+
+
+Betfair Hand #262458542678: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VII (300/600) - 2026/10/20 19:25:17 CUST [2026/10/20 14:25:17 ET]
+Table '4040099787 5' 8-max Seat #2 is the button
+Seat 1: Leeroyflash (10000 in chips) 
+Seat 2: IamZen69 (9040 in chips) 
+Seat 3: andreaskrutsch (6280 in chips) is sitting out
+Seat 4: Marlow6292 (12830 in chips) 
+Seat 5: yanyshivskyi (6690 in chips) 
+Seat 6: kaue4e20 (6530 in chips) is sitting out
+Seat 7: bullets685 (41544 in chips) 
+Seat 8: pag1818 (10088 in chips) 
+Leeroyflash: posts the ante 60
+IamZen69: posts the ante 60
+andreaskrutsch: posts the ante 60
+Marlow6292: posts the ante 60
+yanyshivskyi: posts the ante 60
+kaue4e20: posts the ante 60
+bullets685: posts the ante 60
+pag1818: posts the ante 60
+andreaskrutsch: posts small blind 300
+Marlow6292: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [8s 7h]
+yanyshivskyi: folds 
+kaue4e20: folds 
+bullets685: folds 
+pag1818: folds 
+Leeroyflash: folds 
+IamZen69: raises 8380 to 8980 and is all-in
+andreaskrutsch: folds 
+Marlow6292: folds 
+Uncalled bet (8380) returned to IamZen69
+IamZen69 collected 1980 from pot
+IamZen69: doesn't show hand 
+*** SUMMARY ***
+Total pot 1980 | Rake 0 
+Seat 1: Leeroyflash folded before Flop (didn't bet)
+Seat 2: IamZen69 (button) collected (1980)
+Seat 3: andreaskrutsch (small blind) folded before Flop
+Seat 4: Marlow6292 (big blind) folded before Flop
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458545360: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VII (300/600) - 2026/10/20 19:25:32 CUST [2026/10/20 14:25:32 ET]
+Table '4040099787 5' 8-max Seat #3 is the button
+Seat 1: Leeroyflash (9940 in chips) 
+Seat 2: IamZen69 (10360 in chips) 
+Seat 3: andreaskrutsch (5920 in chips) is sitting out
+Seat 4: Marlow6292 (12170 in chips) 
+Seat 5: yanyshivskyi (6630 in chips) 
+Seat 6: kaue4e20 (6470 in chips) is sitting out
+Seat 7: bullets685 (41484 in chips) 
+Seat 8: pag1818 (10028 in chips) 
+Leeroyflash: posts the ante 60
+IamZen69: posts the ante 60
+andreaskrutsch: posts the ante 60
+Marlow6292: posts the ante 60
+yanyshivskyi: posts the ante 60
+kaue4e20: posts the ante 60
+bullets685: posts the ante 60
+pag1818: posts the ante 60
+Marlow6292: posts small blind 300
+yanyshivskyi: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh 4h]
+kaue4e20: folds 
+bullets685: folds 
+pag1818: raises 9368 to 9968 and is all-in
+Leeroyflash: folds 
+IamZen69: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: folds 
+Uncalled bet (9368) returned to pag1818
+pag1818 collected 1980 from pot
+pag1818: doesn't show hand 
+*** SUMMARY ***
+Total pot 1980 | Rake 0 
+Seat 1: Leeroyflash folded before Flop (didn't bet)
+Seat 2: IamZen69 folded before Flop (didn't bet)
+Seat 3: andreaskrutsch (button) folded before Flop (didn't bet)
+Seat 4: Marlow6292 (small blind) folded before Flop
+Seat 5: yanyshivskyi (big blind) folded before Flop
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 collected (1980)
+
+
+
+Betfair Hand #262458551612: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VIII (350/700) - 2026/10/20 19:26:07 CUST [2026/10/20 14:26:07 ET]
+Table '4040099787 5' 8-max Seat #4 is the button
+Seat 1: Leeroyflash (9880 in chips) 
+Seat 2: IamZen69 (10300 in chips) 
+Seat 3: andreaskrutsch (5860 in chips) is sitting out
+Seat 4: Marlow6292 (11810 in chips) 
+Seat 5: yanyshivskyi (5970 in chips) 
+Seat 6: kaue4e20 (6410 in chips) is sitting out
+Seat 7: bullets685 (41424 in chips) 
+Seat 8: pag1818 (11348 in chips) 
+Leeroyflash: posts the ante 70
+IamZen69: posts the ante 70
+andreaskrutsch: posts the ante 70
+Marlow6292: posts the ante 70
+yanyshivskyi: posts the ante 70
+kaue4e20: posts the ante 70
+bullets685: posts the ante 70
+pag1818: posts the ante 70
+yanyshivskyi: posts small blind 350
+kaue4e20: posts big blind 700
+*** HOLE CARDS ***
+Dealt to bullets685 [5d 3s]
+bullets685: folds 
+pag1818: folds 
+Leeroyflash: folds 
+IamZen69: raises 9530 to 10230 and is all-in
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: folds 
+kaue4e20: folds 
+Uncalled bet (9530) returned to IamZen69
+IamZen69 collected 2310 from pot
+IamZen69: doesn't show hand 
+*** SUMMARY ***
+Total pot 2310 | Rake 0 
+Seat 1: Leeroyflash folded before Flop (didn't bet)
+Seat 2: IamZen69 collected (2310)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 (button) folded before Flop (didn't bet)
+Seat 5: yanyshivskyi (small blind) folded before Flop
+Seat 6: kaue4e20 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458555195: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VIII (350/700) - 2026/10/20 19:26:27 CUST [2026/10/20 14:26:27 ET]
+Table '4040099787 5' 8-max Seat #5 is the button
+Seat 1: Leeroyflash (9810 in chips) 
+Seat 2: IamZen69 (11840 in chips) 
+Seat 3: andreaskrutsch (5790 in chips) is sitting out
+Seat 4: Marlow6292 (11740 in chips) 
+Seat 5: yanyshivskyi (5550 in chips) 
+Seat 6: kaue4e20 (5640 in chips) is sitting out
+Seat 7: bullets685 (41354 in chips) 
+Seat 8: pag1818 (11278 in chips) 
+Leeroyflash: posts the ante 70
+IamZen69: posts the ante 70
+andreaskrutsch: posts the ante 70
+Marlow6292: posts the ante 70
+yanyshivskyi: posts the ante 70
+kaue4e20: posts the ante 70
+bullets685: posts the ante 70
+pag1818: posts the ante 70
+kaue4e20: posts small blind 350
+bullets685: posts big blind 700
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 5s]
+pag1818: raises 700 to 1400
+Leeroyflash: folds 
+IamZen69: calls 1400
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: raises 4080 to 5480 and is all-in
+kaue4e20: folds 
+bullets685: folds 
+pag1818: calls 4080
+IamZen69: calls 4080
+*** FLOP *** [2s Kd 6h]
+pag1818: checks 
+IamZen69: checks 
+*** TURN *** [2s Kd 6h] [6d]
+pag1818: bets 5728 and is all-in
+IamZen69: folds 
+Uncalled bet (5728) returned to pag1818
+*** RIVER *** [2s Kd 6h 6d] [8d]
+*** SHOW DOWN ***
+pag1818: shows [7c 7d] (two pair, Sevens and Sixes)
+yanyshivskyi: shows [Ah Kc] (two pair, Kings and Sixes)
+yanyshivskyi collected 18050 from pot
+*** SUMMARY ***
+Total pot 18050 | Rake 0 
+Board [2s Kd 6h 6d 8d]
+Seat 1: Leeroyflash folded before Flop (didn't bet)
+Seat 2: IamZen69 folded on the Turn
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi (button) showed [Ah Kc] and won (18050) with two pair, Kings and Sixes
+Seat 6: kaue4e20 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: pag1818 showed [7c 7d] and lost with two pair, Sevens and Sixes
+
+
+
+Betfair Hand #262458564248: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VIII (350/700) - 2026/10/20 19:27:17 CUST [2026/10/20 14:27:17 ET]
+Table '4040099787 5' 8-max Seat #6 is the button
+Seat 1: Leeroyflash (9740 in chips) 
+Seat 3: andreaskrutsch (5720 in chips) is sitting out
+Seat 4: Marlow6292 (11670 in chips) 
+Seat 5: yanyshivskyi (18050 in chips) 
+Seat 6: kaue4e20 (5220 in chips) is sitting out
+Seat 7: bullets685 (40584 in chips) 
+Seat 8: pag1818 (5728 in chips) 
+Leeroyflash: posts the ante 70
+andreaskrutsch: posts the ante 70
+Marlow6292: posts the ante 70
+yanyshivskyi: posts the ante 70
+kaue4e20: posts the ante 70
+bullets685: posts the ante 70
+pag1818: posts the ante 70
+bullets685: posts small blind 350
+pag1818: posts big blind 700
+*** HOLE CARDS ***
+Dealt to bullets685 [7h 4h]
+Leeroyflash: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: folds 
+kaue4e20: folds 
+bullets685: folds 
+Uncalled bet (350) returned to pag1818
+pag1818 collected 1190 from pot
+pag1818: doesn't show hand 
+*** SUMMARY ***
+Total pot 1190 | Rake 0 
+Seat 1: Leeroyflash folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: kaue4e20 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: pag1818 (big blind) collected (1190)
+
+
+
+Betfair Hand #262458566079: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VIII (350/700) - 2026/10/20 19:27:27 CUST [2026/10/20 14:27:27 ET]
+Table '4040099787 5' 8-max Seat #7 is the button
+Seat 1: Leeroyflash (9670 in chips) 
+Seat 2: XchefkuX (10000 in chips) 
+Seat 3: andreaskrutsch (5650 in chips) is sitting out
+Seat 4: Marlow6292 (11600 in chips) 
+Seat 5: yanyshivskyi (17980 in chips) 
+Seat 6: kaue4e20 (5150 in chips) is sitting out
+Seat 7: bullets685 (40164 in chips) 
+Seat 8: pag1818 (6498 in chips) 
+Leeroyflash: posts the ante 70
+XchefkuX: posts the ante 70
+andreaskrutsch: posts the ante 70
+Marlow6292: posts the ante 70
+yanyshivskyi: posts the ante 70
+kaue4e20: posts the ante 70
+bullets685: posts the ante 70
+pag1818: posts the ante 70
+pag1818: posts small blind 350
+Leeroyflash: posts big blind 700
+*** HOLE CARDS ***
+Dealt to bullets685 [5d 9s]
+XchefkuX: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: raises 700 to 1400
+kaue4e20: folds 
+bullets685: folds 
+pag1818: folds 
+Leeroyflash: calls 700
+*** FLOP *** [2d 5h Ac]
+Leeroyflash: checks 
+yanyshivskyi: bets 700
+Leeroyflash: folds 
+Uncalled bet (700) returned to yanyshivskyi
+yanyshivskyi collected 3710 from pot
+yanyshivskyi: doesn't show hand 
+*** SUMMARY ***
+Total pot 3710 | Rake 0 
+Board [2d 5h Ac]
+Seat 1: Leeroyflash (big blind) folded on the Flop
+Seat 2: XchefkuX folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi collected (3710)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: pag1818 (small blind) folded before Flop
+
+
+
+Betfair Hand #262458571472: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VIII (350/700) - 2026/10/20 19:27:56 CUST [2026/10/20 14:27:56 ET]
+Table '4040099787 5' 8-max Seat #8 is the button
+Seat 1: Leeroyflash (8200 in chips) 
+Seat 2: XchefkuX (9930 in chips) 
+Seat 3: andreaskrutsch (5580 in chips) is sitting out
+Seat 4: Marlow6292 (11530 in chips) 
+Seat 5: yanyshivskyi (20220 in chips) 
+Seat 6: kaue4e20 (5080 in chips) is sitting out
+Seat 7: bullets685 (40094 in chips) 
+Seat 8: pag1818 (6078 in chips) 
+Leeroyflash: posts the ante 70
+XchefkuX: posts the ante 70
+andreaskrutsch: posts the ante 70
+Marlow6292: posts the ante 70
+yanyshivskyi: posts the ante 70
+kaue4e20: posts the ante 70
+bullets685: posts the ante 70
+pag1818: posts the ante 70
+Leeroyflash: posts small blind 350
+XchefkuX: posts big blind 700
+*** HOLE CARDS ***
+Dealt to bullets685 [9d 5s]
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: folds 
+kaue4e20: folds 
+bullets685: folds 
+pag1818: raises 5308 to 6008 and is all-in
+Leeroyflash: folds 
+XchefkuX: folds 
+Uncalled bet (5308) returned to pag1818
+pag1818 collected 2310 from pot
+pag1818: doesn't show hand 
+*** SUMMARY ***
+Total pot 2310 | Rake 0 
+Seat 1: Leeroyflash (small blind) folded before Flop
+Seat 2: XchefkuX (big blind) folded before Flop
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 (button) collected (2310)
+
+
+
+Betfair Hand #262458574251: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level VIII (350/700) - 2026/10/20 19:28:12 CUST [2026/10/20 14:28:12 ET]
+Table '4040099787 5' 8-max Seat #1 is the button
+Seat 1: Leeroyflash (7780 in chips) 
+Seat 2: XchefkuX (9160 in chips) 
+Seat 3: andreaskrutsch (5510 in chips) is sitting out
+Seat 4: Marlow6292 (11460 in chips) 
+Seat 5: yanyshivskyi (20150 in chips) 
+Seat 6: kaue4e20 (5010 in chips) is sitting out
+Seat 7: bullets685 (40024 in chips) 
+Seat 8: pag1818 (7618 in chips) 
+Leeroyflash: posts the ante 70
+XchefkuX: posts the ante 70
+andreaskrutsch: posts the ante 70
+Marlow6292: posts the ante 70
+yanyshivskyi: posts the ante 70
+kaue4e20: posts the ante 70
+bullets685: posts the ante 70
+pag1818: posts the ante 70
+XchefkuX: posts small blind 350
+andreaskrutsch: posts big blind 700
+*** HOLE CARDS ***
+Dealt to bullets685 [4h Ah]
+Marlow6292: folds 
+yanyshivskyi: raises 700 to 1400
+kaue4e20: folds 
+bullets685: calls 1400
+pag1818: folds 
+Leeroyflash: folds 
+XchefkuX: folds 
+andreaskrutsch: folds 
+*** FLOP *** [Ac 4c 2c]
+yanyshivskyi: checks 
+bullets685: bets 2205
+yanyshivskyi: folds 
+Uncalled bet (2205) returned to bullets685
+bullets685 collected 4410 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 4410 | Rake 0 
+Board [Ac 4c 2c]
+Seat 1: Leeroyflash (button) folded before Flop (didn't bet)
+Seat 2: XchefkuX (small blind) folded before Flop
+Seat 3: andreaskrutsch (big blind) folded before Flop
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi folded on the Flop
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 collected (4410)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458586135: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level IX (400/800) - 2026/10/20 19:29:19 CUST [2026/10/20 14:29:19 ET]
+Table '4040099787 5' 8-max Seat #2 is the button
+Seat 2: XchefkuX (8740 in chips) 
+Seat 3: andreaskrutsch (4740 in chips) is sitting out
+Seat 4: Marlow6292 (11390 in chips) 
+Seat 5: yanyshivskyi (18680 in chips) 
+Seat 6: kaue4e20 (4940 in chips) is sitting out
+Seat 7: bullets685 (42964 in chips) 
+Seat 8: pag1818 (7548 in chips) 
+XchefkuX: posts the ante 80
+andreaskrutsch: posts the ante 80
+Marlow6292: posts the ante 80
+yanyshivskyi: posts the ante 80
+kaue4e20: posts the ante 80
+bullets685: posts the ante 80
+pag1818: posts the ante 80
+andreaskrutsch: posts small blind 400
+Marlow6292: posts big blind 800
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd 9d]
+yanyshivskyi: folds 
+kaue4e20: folds 
+bullets685: folds 
+pag1818: raises 6668 to 7468 and is all-in
+XchefkuX: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+Uncalled bet (6668) returned to pag1818
+pag1818 collected 2560 from pot
+pag1818: doesn't show hand 
+*** SUMMARY ***
+Total pot 2560 | Rake 0 
+Seat 2: XchefkuX (button) folded before Flop (didn't bet)
+Seat 3: andreaskrutsch (small blind) folded before Flop
+Seat 4: Marlow6292 (big blind) folded before Flop
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 collected (2560)
+
+
+
+Betfair Hand #262458588781: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level IX (400/800) - 2026/10/20 19:29:33 CUST [2026/10/20 14:29:33 ET]
+Table '4040099787 5' 8-max Seat #3 is the button
+Seat 2: XchefkuX (8660 in chips) 
+Seat 3: andreaskrutsch (4260 in chips) is sitting out
+Seat 4: Marlow6292 (10510 in chips) 
+Seat 5: yanyshivskyi (18600 in chips) 
+Seat 6: kaue4e20 (4860 in chips) is sitting out
+Seat 7: bullets685 (42884 in chips) 
+Seat 8: pag1818 (9228 in chips) 
+XchefkuX: posts the ante 80
+andreaskrutsch: posts the ante 80
+Marlow6292: posts the ante 80
+yanyshivskyi: posts the ante 80
+kaue4e20: posts the ante 80
+bullets685: posts the ante 80
+pag1818: posts the ante 80
+Marlow6292: posts small blind 400
+yanyshivskyi: posts big blind 800
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc Jd]
+kaue4e20: folds 
+bullets685: folds 
+pag1818: folds 
+XchefkuX: folds 
+andreaskrutsch: folds 
+Marlow6292: raises 9630 to 10430 and is all-in
+yanyshivskyi: folds 
+Uncalled bet (9630) returned to Marlow6292
+Marlow6292 collected 2160 from pot
+*** SUMMARY ***
+Total pot 2160 | Rake 0 
+Seat 2: XchefkuX folded before Flop (didn't bet)
+Seat 3: andreaskrutsch (button) folded before Flop (didn't bet)
+Seat 4: Marlow6292 (small blind) collected (2160)
+Seat 5: yanyshivskyi (big blind) folded before Flop
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458592105: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level IX (400/800) - 2026/10/20 19:29:52 CUST [2026/10/20 14:29:52 ET]
+Table '4040099787 5' 8-max Seat #4 is the button
+Seat 2: XchefkuX (8580 in chips) 
+Seat 3: andreaskrutsch (4180 in chips) is sitting out
+Seat 4: Marlow6292 (11790 in chips) 
+Seat 5: yanyshivskyi (17720 in chips) 
+Seat 6: kaue4e20 (4780 in chips) is sitting out
+Seat 7: bullets685 (42804 in chips) 
+Seat 8: pag1818 (9148 in chips) 
+XchefkuX: posts the ante 80
+andreaskrutsch: posts the ante 80
+Marlow6292: posts the ante 80
+yanyshivskyi: posts the ante 80
+kaue4e20: posts the ante 80
+bullets685: posts the ante 80
+pag1818: posts the ante 80
+yanyshivskyi: posts small blind 400
+kaue4e20: posts big blind 800
+*** HOLE CARDS ***
+Dealt to bullets685 [5c 3h]
+bullets685: folds 
+pag1818: folds 
+XchefkuX: raises 7700 to 8500 and is all-in
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: calls 8100
+kaue4e20: folds 
+*** FLOP *** [8h 8c Ks]
+*** TURN *** [8h 8c Ks] [4c]
+*** RIVER *** [8h 8c Ks 4c] [6c]
+Apple Dumpling is disconnected 
+*** SHOW DOWN ***
+yanyshivskyi: shows [As 8d] (three of a kind, Eights)
+XchefkuX: shows [Ts Qh] (a pair of Eights)
+yanyshivskyi collected 18360 from pot
+XchefkuX finished the tournament
+*** SUMMARY ***
+Total pot 18360 | Rake 0 
+Board [8h 8c Ks 4c 6c]
+Seat 2: XchefkuX showed [Ts Qh] and lost with a pair of Eights
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 (button) folded before Flop (didn't bet)
+Seat 5: yanyshivskyi (small blind) showed [As 8d] and won (18360) with three of a kind, Eights
+Seat 6: kaue4e20 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458596330: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level IX (400/800) - 2026/10/20 19:30:14 CUST [2026/10/20 14:30:14 ET]
+Table '4040099787 5' 8-max Seat #5 is the button
+Seat 1: Apple Dumpling (1040 in chips) 
+Seat 3: andreaskrutsch (4100 in chips) is sitting out
+Seat 4: Marlow6292 (11710 in chips) 
+Seat 5: yanyshivskyi (27500 in chips) 
+Seat 6: kaue4e20 (3900 in chips) is sitting out
+Seat 7: bullets685 (42724 in chips) 
+Seat 8: pag1818 (9068 in chips) 
+Apple Dumpling: posts the ante 80
+andreaskrutsch: posts the ante 80
+Marlow6292: posts the ante 80
+yanyshivskyi: posts the ante 80
+kaue4e20: posts the ante 80
+bullets685: posts the ante 80
+pag1818: posts the ante 80
+kaue4e20: posts small blind 400
+bullets685: posts big blind 800
+*** HOLE CARDS ***
+Dealt to bullets685 [3c Jd]
+pag1818: folds 
+Apple Dumpling: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: raises 800 to 1600
+kaue4e20: folds 
+bullets685: folds 
+Uncalled bet (800) returned to yanyshivskyi
+yanyshivskyi collected 2560 from pot
+yanyshivskyi: doesn't show hand 
+*** SUMMARY ***
+Total pot 2560 | Rake 0 
+Seat 1: Apple Dumpling folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi (button) collected (2560)
+Seat 6: kaue4e20 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458598737: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level IX (400/800) - 2026/10/20 19:30:27 CUST [2026/10/20 14:30:27 ET]
+Table '4040099787 5' 8-max Seat #6 is the button
+Seat 1: Apple Dumpling (960 in chips) 
+Seat 3: andreaskrutsch (4020 in chips) is sitting out
+Seat 4: Marlow6292 (11630 in chips) 
+Seat 5: yanyshivskyi (29180 in chips) 
+Seat 6: kaue4e20 (3420 in chips) is sitting out
+Seat 7: bullets685 (41844 in chips) 
+Seat 8: pag1818 (8988 in chips) 
+Apple Dumpling: posts the ante 80
+andreaskrutsch: posts the ante 80
+Marlow6292: posts the ante 80
+yanyshivskyi: posts the ante 80
+kaue4e20: posts the ante 80
+bullets685: posts the ante 80
+pag1818: posts the ante 80
+bullets685: posts small blind 400
+pag1818: posts big blind 800
+*** HOLE CARDS ***
+Dealt to bullets685 [9h Th]
+Apple Dumpling: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: raises 800 to 1600
+kaue4e20: folds 
+bullets685: calls 1200
+pag1818: calls 800
+*** FLOP *** [3s 9d 6c]
+bullets685: checks 
+viceen7 is disconnected 
+pag1818: checks 
+yanyshivskyi: bets 2680
+bullets685: raises 2680 to 5360
+pag1818: folds 
+yanyshivskyi: raises 2680 to 8040
+bullets685: calls 2680
+*** TURN *** [3s 9d 6c] [Ks]
+bullets685: checks 
+yanyshivskyi: bets 19460 and is all-in
+bullets685: folds 
+Uncalled bet (19460) returned to yanyshivskyi
+yanyshivskyi collected 21440 from pot
+yanyshivskyi: doesn't show hand 
+*** SUMMARY ***
+Total pot 21440 | Rake 0 
+Board [3s 9d 6c Ks]
+Seat 1: Apple Dumpling folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi collected (21440)
+Seat 6: kaue4e20 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded on the Turn
+Seat 8: pag1818 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262458608142: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level IX (400/800) - 2026/10/20 19:31:18 CUST [2026/10/20 14:31:18 ET]
+Table '4040099787 5' 8-max Seat #7 is the button
+Seat 1: Apple Dumpling (880 in chips) 
+Seat 2: viceen7 (50125 in chips) 
+Seat 3: andreaskrutsch (3940 in chips) is sitting out
+Seat 4: Marlow6292 (11550 in chips) 
+Seat 5: yanyshivskyi (40900 in chips) 
+Seat 6: kaue4e20 (3340 in chips) is sitting out
+Seat 7: bullets685 (32124 in chips) 
+Seat 8: pag1818 (7308 in chips) 
+Apple Dumpling: posts the ante 80
+viceen7: posts the ante 80
+andreaskrutsch: posts the ante 80
+Marlow6292: posts the ante 80
+yanyshivskyi: posts the ante 80
+kaue4e20: posts the ante 80
+bullets685: posts the ante 80
+pag1818: posts the ante 80
+pag1818: posts small blind 400
+Apple Dumpling: posts big blind 800 and is all-in
+*** HOLE CARDS ***
+Dealt to bullets685 [2d As]
+viceen7: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: folds 
+kaue4e20: folds 
+bullets685: raises 800 to 1600
+pag1818: folds 
+Uncalled bet (800) returned to bullets685
+*** FLOP *** [6s 9s Tc]
+*** TURN *** [6s 9s Tc] [8d]
+*** RIVER *** [6s 9s Tc 8d] [Ts]
+*** SHOW DOWN ***
+Apple Dumpling: shows [4s Qc] (a pair of Tens)
+bullets685: shows [2d As] (a pair of Tens - Ace kicker)
+bullets685 collected 2640 from pot
+Apple Dumpling finished the tournament in 159th place
+*** SUMMARY ***
+Total pot 2640 | Rake 0 
+Board [6s 9s Tc 8d Ts]
+Seat 1: Apple Dumpling (big blind) showed [4s Qc] and lost with a pair of Tens
+Seat 2: viceen7 folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) showed [2d As] and won (2640) with a pair of Tens
+Seat 8: pag1818 (small blind) folded before Flop
+
+
+
+Betfair Hand #262458611445: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level IX (400/800) - 2026/10/20 19:31:36 CUST [2026/10/20 14:31:36 ET]
+Table '4040099787 5' 8-max Seat #8 is the button
+Seat 2: viceen7 (50045 in chips) 
+Seat 3: andreaskrutsch (3860 in chips) is sitting out
+Seat 4: Marlow6292 (11470 in chips) 
+Seat 5: yanyshivskyi (40820 in chips) 
+Seat 6: kaue4e20 (3260 in chips) is sitting out
+Seat 7: bullets685 (33884 in chips) 
+Seat 8: pag1818 (6828 in chips) 
+viceen7: posts the ante 80
+andreaskrutsch: posts the ante 80
+Marlow6292: posts the ante 80
+yanyshivskyi: posts the ante 80
+kaue4e20: posts the ante 80
+bullets685: posts the ante 80
+pag1818: posts the ante 80
+viceen7: posts small blind 400
+andreaskrutsch: posts big blind 800
+*** HOLE CARDS ***
+Dealt to bullets685 [3h Td]
+Marlow6292: folds 
+yanyshivskyi: folds 
+kaue4e20: folds 
+bullets685: folds 
+pag1818: folds 
+viceen7: raises 800 to 1600
+andreaskrutsch: folds 
+Uncalled bet (800) returned to viceen7
+viceen7 collected 2160 from pot
+viceen7: doesn't show hand 
+*** SUMMARY ***
+Total pot 2160 | Rake 0 
+Seat 2: viceen7 (small blind) collected (2160)
+Seat 3: andreaskrutsch (big blind) folded before Flop
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458613800: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level IX (400/800) - 2026/10/20 19:31:49 CUST [2026/10/20 14:31:49 ET]
+Table '4040099787 5' 8-max Seat #2 is the button
+Seat 2: viceen7 (51325 in chips) 
+Seat 3: andreaskrutsch (2980 in chips) is sitting out
+Seat 4: Marlow6292 (11390 in chips) 
+Seat 5: yanyshivskyi (40740 in chips) 
+Seat 6: kaue4e20 (3180 in chips) is sitting out
+Seat 7: bullets685 (33804 in chips) 
+Seat 8: pag1818 (6748 in chips) 
+viceen7: posts the ante 80
+andreaskrutsch: posts the ante 80
+Marlow6292: posts the ante 80
+yanyshivskyi: posts the ante 80
+kaue4e20: posts the ante 80
+bullets685: posts the ante 80
+pag1818: posts the ante 80
+andreaskrutsch: posts small blind 400
+Marlow6292: posts big blind 800
+*** HOLE CARDS ***
+Dealt to bullets685 [8d 5c]
+yanyshivskyi: folds 
+kaue4e20: folds 
+bullets685: folds 
+pag1818: folds 
+viceen7: raises 50445 to 51245 and is all-in
+andreaskrutsch: folds 
+Marlow6292: calls 10510 and is all-in
+Uncalled bet (39935) returned to viceen7
+*** FLOP *** [Qd 2c Kh]
+n1ghtm4res_4U is disconnected 
+*** TURN *** [Qd 2c Kh] [9h]
+*** RIVER *** [Qd 2c Kh 9h] [6d]
+*** SHOW DOWN ***
+Marlow6292: shows [Kd Qh] (two pair, Kings and Queens)
+viceen7: shows [4d 4h] (a pair of Fours)
+Marlow6292 collected 23580 from pot
+*** SUMMARY ***
+Total pot 23580 | Rake 0 
+Board [Qd 2c Kh 9h 6d]
+Seat 2: viceen7 (button) showed [4d 4h] and lost with a pair of Fours
+Seat 3: andreaskrutsch (small blind) folded before Flop
+Seat 4: Marlow6292 (big blind) showed [Kd Qh] and won (23580) with two pair, Kings and Queens
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458618114: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level X (500/1000) - 2026/10/20 19:32:13 CUST [2026/10/20 14:32:13 ET]
+Table '4040099787 5' 8-max Seat #3 is the button
+Seat 1: n1ghtm4res_4U (15610 in chips) 
+Seat 2: viceen7 (39935 in chips) 
+Seat 3: andreaskrutsch (2500 in chips) is sitting out
+Seat 4: Marlow6292 (23580 in chips) 
+Seat 5: yanyshivskyi (40660 in chips) 
+Seat 6: kaue4e20 (3100 in chips) is sitting out
+Seat 7: bullets685 (33724 in chips) 
+Seat 8: pag1818 (6668 in chips) 
+n1ghtm4res_4U: posts the ante 100
+viceen7: posts the ante 100
+andreaskrutsch: posts the ante 100
+Marlow6292: posts the ante 100
+yanyshivskyi: posts the ante 100
+kaue4e20: posts the ante 100
+bullets685: posts the ante 100
+pag1818: posts the ante 100
+Marlow6292: posts small blind 500
+yanyshivskyi: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to bullets685 [Kc Ac]
+kaue4e20: folds 
+bullets685: raises 1000 to 2000
+pag1818: folds 
+n1ghtm4res_4U: folds 
+viceen7: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: calls 1000
+*** FLOP *** [2c 3s 6s]
+yanyshivskyi: checks 
+bullets685: bets 2000
+yanyshivskyi: calls 2000
+*** TURN *** [2c 3s 6s] [3c]
+yanyshivskyi: checks 
+bullets685: checks 
+*** RIVER *** [2c 3s 6s 3c] [5c]
+yanyshivskyi: checks 
+bullets685: bets 9300
+yanyshivskyi: folds 
+Uncalled bet (9300) returned to bullets685
+bullets685 collected 9300 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 9300 | Rake 0 
+Board [2c 3s 6s 3c 5c]
+Seat 1: n1ghtm4res_4U folded before Flop (didn't bet)
+Seat 2: viceen7 folded before Flop (didn't bet)
+Seat 3: andreaskrutsch (button) folded before Flop (didn't bet)
+Seat 4: Marlow6292 (small blind) folded before Flop
+Seat 5: yanyshivskyi (big blind) folded on the River
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 collected (9300)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458624646: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level X (500/1000) - 2026/10/20 19:32:49 CUST [2026/10/20 14:32:49 ET]
+Table '4040099787 5' 8-max Seat #4 is the button
+Seat 1: n1ghtm4res_4U (15510 in chips) 
+Seat 2: viceen7 (39835 in chips) 
+Seat 3: andreaskrutsch (2400 in chips) is sitting out
+Seat 4: Marlow6292 (22980 in chips) 
+Seat 5: yanyshivskyi (36560 in chips) 
+Seat 6: kaue4e20 (3000 in chips) is sitting out
+Seat 7: bullets685 (38924 in chips) 
+Seat 8: pag1818 (6568 in chips) 
+n1ghtm4res_4U: posts the ante 100
+viceen7: posts the ante 100
+andreaskrutsch: posts the ante 100
+Marlow6292: posts the ante 100
+yanyshivskyi: posts the ante 100
+kaue4e20: posts the ante 100
+bullets685: posts the ante 100
+pag1818: posts the ante 100
+yanyshivskyi: posts small blind 500
+kaue4e20: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd Ac]
+bullets685: raises 1000 to 2000
+pag1818: folds 
+n1ghtm4res_4U: folds 
+viceen7: folds 
+andreaskrutsch: folds 
+Marlow6292: calls 2000
+yanyshivskyi: calls 1500
+kaue4e20: folds 
+*** FLOP *** [Kc Qs 3h]
+yanyshivskyi: checks 
+bullets685: bets 3900
+Marlow6292: folds 
+yanyshivskyi: calls 3900
+*** TURN *** [Kc Qs 3h] [2c]
+yanyshivskyi: checks 
+bullets685: checks 
+*** RIVER *** [Kc Qs 3h 2c] [5s]
+yanyshivskyi: bets 6000
+bullets685: calls 6000
+*** SHOW DOWN ***
+yanyshivskyi: shows [7s Ks] (a pair of Kings)
+bullets685: mucks hand 
+yanyshivskyi collected 27600 from pot
+*** SUMMARY ***
+Total pot 27600 | Rake 0 
+Board [Kc Qs 3h 2c 5s]
+Seat 1: n1ghtm4res_4U folded before Flop (didn't bet)
+Seat 2: viceen7 folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 (button) folded on the Flop
+Seat 5: yanyshivskyi (small blind) showed [7s Ks] and won (27600) with a pair of Kings
+Seat 6: kaue4e20 (big blind) folded before Flop
+Seat 7: bullets685 mucked [Qd Ac]
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458637468: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level X (500/1000) - 2026/10/20 19:33:59 CUST [2026/10/20 14:33:59 ET]
+Table '4040099787 5' 8-max Seat #5 is the button
+Seat 1: n1ghtm4res_4U (15410 in chips) 
+Seat 2: viceen7 (39735 in chips) 
+Seat 3: andreaskrutsch (2300 in chips) is sitting out
+Seat 4: Marlow6292 (20880 in chips) 
+Seat 5: yanyshivskyi (52160 in chips) 
+Seat 6: kaue4e20 (1900 in chips) is sitting out
+Seat 7: bullets685 (26924 in chips) 
+Seat 8: pag1818 (6468 in chips) 
+n1ghtm4res_4U: posts the ante 100
+viceen7: posts the ante 100
+andreaskrutsch: posts the ante 100
+Marlow6292: posts the ante 100
+yanyshivskyi: posts the ante 100
+kaue4e20: posts the ante 100
+bullets685: posts the ante 100
+pag1818: posts the ante 100
+kaue4e20: posts small blind 500
+bullets685: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 4d]
+pag1818: raises 5368 to 6368 and is all-in
+n1ghtm4res_4U: raises 8942 to 15310 and is all-in
+viceen7: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: folds 
+kaue4e20: folds 
+bullets685: folds 
+Uncalled bet (8942) returned to n1ghtm4res_4U
+*** FLOP *** [9c 7d 3c]
+*** TURN *** [9c 7d 3c] [5c]
+*** RIVER *** [9c 7d 3c 5c] [Qc]
+*** SHOW DOWN ***
+pag1818: shows [Ah 9d] (a pair of Nines)
+n1ghtm4res_4U: shows [Ad Td] (high card Ace)
+pag1818 collected 15036 from pot
+*** SUMMARY ***
+Total pot 15036 | Rake 0 
+Board [9c 7d 3c 5c Qc]
+Seat 1: n1ghtm4res_4U showed [Ad Td] and lost with high card Ace
+Seat 2: viceen7 folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi (button) folded before Flop (didn't bet)
+Seat 6: kaue4e20 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: pag1818 showed [Ah 9d] and won (15036) with a pair of Nines
+
+
+
+Betfair Hand #262458641403: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level X (500/1000) - 2026/10/20 19:34:21 CUST [2026/10/20 14:34:21 ET]
+Table '4040099787 5' 8-max Seat #6 is the button
+Seat 1: n1ghtm4res_4U (8942 in chips) 
+Seat 2: viceen7 (39635 in chips) 
+Seat 3: andreaskrutsch (2200 in chips) is sitting out
+Seat 4: Marlow6292 (20780 in chips) 
+Seat 5: yanyshivskyi (52060 in chips) 
+Seat 6: kaue4e20 (1300 in chips) is sitting out
+Seat 7: bullets685 (25824 in chips) 
+Seat 8: pag1818 (15036 in chips) 
+n1ghtm4res_4U: posts the ante 100
+viceen7: posts the ante 100
+andreaskrutsch: posts the ante 100
+Marlow6292: posts the ante 100
+yanyshivskyi: posts the ante 100
+kaue4e20: posts the ante 100
+bullets685: posts the ante 100
+pag1818: posts the ante 100
+bullets685: posts small blind 500
+pag1818: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to bullets685 [As Kc]
+n1ghtm4res_4U: folds 
+viceen7: folds 
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: raises 1000 to 2000
+kaue4e20: folds 
+bullets685: raises 4000 to 6000
+pag1818: folds 
+yanyshivskyi: folds 
+Uncalled bet (4000) returned to bullets685
+bullets685 collected 5800 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 5800 | Rake 0 
+Seat 1: n1ghtm4res_4U folded before Flop (didn't bet)
+Seat 2: viceen7 folded before Flop (didn't bet)
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi folded before Flop
+Seat 6: kaue4e20 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) collected (5800)
+Seat 8: pag1818 (big blind) folded before Flop
+
+
+
+Betfair Hand #262458645077: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level X (500/1000) - 2026/10/20 19:34:41 CUST [2026/10/20 14:34:41 ET]
+Table '4040099787 5' 8-max Seat #7 is the button
+Seat 1: n1ghtm4res_4U (8842 in chips) 
+Seat 2: viceen7 (39535 in chips) 
+Seat 3: andreaskrutsch (2100 in chips) is sitting out
+Seat 4: Marlow6292 (20680 in chips) 
+Seat 5: yanyshivskyi (49960 in chips) 
+Seat 6: kaue4e20 (1200 in chips) is sitting out
+Seat 7: bullets685 (29524 in chips) 
+Seat 8: pag1818 (13936 in chips) 
+n1ghtm4res_4U: posts the ante 100
+viceen7: posts the ante 100
+andreaskrutsch: posts the ante 100
+Marlow6292: posts the ante 100
+yanyshivskyi: posts the ante 100
+kaue4e20: posts the ante 100
+bullets685: posts the ante 100
+pag1818: posts the ante 100
+pag1818: posts small blind 500
+n1ghtm4res_4U: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to bullets685 [Kc Qh]
+viceen7: raises 1000 to 2000
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: folds 
+kaue4e20: folds 
+bullets685: calls 2000
+pag1818: folds 
+n1ghtm4res_4U: raises 6742 to 8742 and is all-in
+viceen7: folds 
+bullets685: calls 6742
+*** FLOP *** [8h 7c Jh]
+*** TURN *** [8h 7c Jh] [6s]
+*** RIVER *** [8h 7c Jh 6s] [2s]
+*** SHOW DOWN ***
+n1ghtm4res_4U: shows [As Ks] (high card Ace)
+bullets685: shows [Kc Qh] (high card King)
+n1ghtm4res_4U collected 20784 from pot
+*** SUMMARY ***
+Total pot 20784 | Rake 0 
+Board [8h 7c Jh 6s 2s]
+Seat 1: n1ghtm4res_4U (big blind) showed [As Ks] and won (20784) with high card Ace
+Seat 2: viceen7 folded before Flop
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) showed [Kc Qh] and lost with high card King
+Seat 8: pag1818 (small blind) folded before Flop
+
+
+
+Betfair Hand #262458651024: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XI (600/1200) - 2026/10/20 19:35:14 CUST [2026/10/20 14:35:14 ET]
+Table '4040099787 5' 8-max Seat #8 is the button
+Seat 1: n1ghtm4res_4U (20784 in chips) 
+Seat 2: viceen7 (37435 in chips) 
+Seat 3: andreaskrutsch (2000 in chips) is sitting out
+Seat 4: Marlow6292 (20580 in chips) 
+Seat 5: yanyshivskyi (49860 in chips) 
+Seat 6: kaue4e20 (1100 in chips) is sitting out
+Seat 7: bullets685 (20682 in chips) 
+Seat 8: pag1818 (13336 in chips) 
+n1ghtm4res_4U: posts the ante 120
+viceen7: posts the ante 120
+andreaskrutsch: posts the ante 120
+Marlow6292: posts the ante 120
+yanyshivskyi: posts the ante 120
+kaue4e20: posts the ante 120
+bullets685: posts the ante 120
+pag1818: posts the ante 120
+n1ghtm4res_4U: posts small blind 600
+viceen7: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks 6h]
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: raises 1200 to 2400
+kaue4e20: folds 
+bullets685: folds 
+pag1818: folds 
+n1ghtm4res_4U: folds 
+viceen7: calls 1200
+*** FLOP *** [6d 7c Jc]
+viceen7: checks 
+yanyshivskyi: bets 2100
+viceen7: calls 2100
+*** TURN *** [6d 7c Jc] [2c]
+viceen7: checks 
+yanyshivskyi: bets 3480
+viceen7: folds 
+Uncalled bet (3480) returned to yanyshivskyi
+yanyshivskyi collected 10560 from pot
+yanyshivskyi: doesn't show hand 
+*** SUMMARY ***
+Total pot 10560 | Rake 0 
+Board [6d 7c Jc 2c]
+Seat 1: n1ghtm4res_4U (small blind) folded before Flop
+Seat 2: viceen7 (big blind) folded on the Turn
+Seat 3: andreaskrutsch folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi collected (10560)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458656841: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XI (600/1200) - 2026/10/20 19:35:47 CUST [2026/10/20 14:35:47 ET]
+Table '4040099787 5' 8-max Seat #1 is the button
+Seat 1: n1ghtm4res_4U (20064 in chips) 
+Seat 2: viceen7 (32815 in chips) 
+Seat 3: andreaskrutsch (1880 in chips) is sitting out
+Seat 4: Marlow6292 (20460 in chips) 
+Seat 5: yanyshivskyi (55800 in chips) 
+Seat 6: kaue4e20 (980 in chips) is sitting out
+Seat 7: bullets685 (20562 in chips) 
+Seat 8: pag1818 (13216 in chips) 
+n1ghtm4res_4U: posts the ante 120
+viceen7: posts the ante 120
+andreaskrutsch: posts the ante 120
+Marlow6292: posts the ante 120
+yanyshivskyi: posts the ante 120
+kaue4e20: posts the ante 120
+bullets685: posts the ante 120
+pag1818: posts the ante 120
+viceen7: posts small blind 600
+andreaskrutsch: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to bullets685 [4d Ks]
+Marlow6292: folds 
+yanyshivskyi: folds 
+kaue4e20: folds 
+bullets685: folds 
+pag1818: folds 
+n1ghtm4res_4U: folds 
+viceen7: raises 1200 to 2400
+andreaskrutsch: folds 
+Uncalled bet (1200) returned to viceen7
+viceen7 collected 3360 from pot
+viceen7: doesn't show hand 
+*** SUMMARY ***
+Total pot 3360 | Rake 0 
+Seat 1: n1ghtm4res_4U (button) folded before Flop (didn't bet)
+Seat 2: viceen7 (small blind) collected (3360)
+Seat 3: andreaskrutsch (big blind) folded before Flop
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458659855: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XI (600/1200) - 2026/10/20 19:36:03 CUST [2026/10/20 14:36:03 ET]
+Table '4040099787 5' 8-max Seat #2 is the button
+Seat 1: n1ghtm4res_4U (19944 in chips) 
+Seat 2: viceen7 (34855 in chips) 
+Seat 3: andreaskrutsch (560 in chips) is sitting out
+Seat 4: Marlow6292 (20340 in chips) 
+Seat 5: yanyshivskyi (55680 in chips) 
+Seat 6: kaue4e20 (860 in chips) is sitting out
+Seat 7: bullets685 (20442 in chips) 
+Seat 8: pag1818 (13096 in chips) 
+n1ghtm4res_4U: posts the ante 120
+viceen7: posts the ante 120
+andreaskrutsch: posts the ante 120
+Marlow6292: posts the ante 120
+yanyshivskyi: posts the ante 120
+kaue4e20: posts the ante 120
+bullets685: posts the ante 120
+pag1818: posts the ante 120
+andreaskrutsch: posts small blind 440 and is all-in
+Marlow6292: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to bullets685 [2c Qh]
+yanyshivskyi: raises 1200 to 2400
+kaue4e20: folds 
+bullets685: folds 
+pag1818: folds 
+n1ghtm4res_4U: folds 
+viceen7: raises 4200 to 6600
+andreaskrutsch: folds 
+Marlow6292: folds 
+yanyshivskyi: folds 
+Uncalled bet (4200) returned to viceen7
+viceen7 collected 7400 from pot
+andreaskrutsch finished the tournament in 132nd place
+viceen7: doesn't show hand 
+*** SUMMARY ***
+Total pot 7400 | Rake 0 
+Seat 1: n1ghtm4res_4U folded before Flop (didn't bet)
+Seat 2: viceen7 (button) collected (7400)
+Seat 3: andreaskrutsch (small blind) folded before Flop
+Seat 4: Marlow6292 (big blind) folded before Flop
+Seat 5: yanyshivskyi folded before Flop
+Seat 6: kaue4e20 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458664657: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XI (600/1200) - 2026/10/20 19:36:30 CUST [2026/10/20 14:36:30 ET]
+Table '4040099787 5' 8-max Seat #4 is the button
+Seat 1: n1ghtm4res_4U (19824 in chips) 
+Seat 2: viceen7 (39735 in chips) 
+Seat 4: Marlow6292 (19020 in chips) 
+Seat 5: yanyshivskyi (53160 in chips) 
+Seat 6: kaue4e20 (740 in chips) is sitting out
+Seat 7: bullets685 (20322 in chips) 
+Seat 8: pag1818 (12976 in chips) 
+n1ghtm4res_4U: posts the ante 120
+viceen7: posts the ante 120
+Marlow6292: posts the ante 120
+yanyshivskyi: posts the ante 120
+kaue4e20: posts the ante 120
+bullets685: posts the ante 120
+pag1818: posts the ante 120
+yanyshivskyi: posts small blind 600
+kaue4e20: posts big blind 620 and is all-in
+*** HOLE CARDS ***
+Dealt to bullets685 [6c 4c]
+bullets685: raises 1780 to 2400
+pag1818: folds 
+n1ghtm4res_4U: folds 
+viceen7: folds 
+IgorMV85 is disconnected 
+Marlow6292: calls 2400
+yanyshivskyi: folds 
+kaue4e20: folds 
+*** FLOP *** [Qc Qh Ah]
+bullets685: bets 2400
+Marlow6292: folds 
+Uncalled bet (2400) returned to bullets685
+bullets685 collected 6860 from pot
+kaue4e20 finished the tournament in 123rd place
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 6860 | Rake 0 
+Board [Qc Qh Ah]
+Seat 1: n1ghtm4res_4U folded before Flop (didn't bet)
+Seat 2: viceen7 folded before Flop (didn't bet)
+Seat 4: Marlow6292 (button) folded on the Flop
+Seat 5: yanyshivskyi (small blind) folded before Flop
+Seat 6: kaue4e20 (big blind) folded before Flop
+Seat 7: bullets685 collected (6860)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458672919: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XI (600/1200) - 2026/10/20 19:37:15 CUST [2026/10/20 14:37:15 ET]
+Table '4040099787 5' 8-max Seat #5 is the button
+Seat 1: n1ghtm4res_4U (19704 in chips) 
+Seat 2: viceen7 (39615 in chips) 
+Seat 3: IgorMV85 (12552 in chips) 
+Seat 4: Marlow6292 (16500 in chips) 
+Seat 5: yanyshivskyi (52440 in chips) 
+Seat 7: bullets685 (24662 in chips) 
+Seat 8: pag1818 (12856 in chips) 
+n1ghtm4res_4U: posts the ante 120
+viceen7: posts the ante 120
+IgorMV85: posts the ante 120
+Marlow6292: posts the ante 120
+yanyshivskyi: posts the ante 120
+bullets685: posts the ante 120
+pag1818: posts the ante 120
+bullets685: posts small blind 600
+pag1818: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to bullets685 [4d Ks]
+n1ghtm4res_4U: folds 
+viceen7: raises 1200 to 2400
+IgorMV85: folds 
+Marlow6292: folds 
+yanyshivskyi: folds 
+bullets685: folds 
+pag1818: folds 
+Uncalled bet (1200) returned to viceen7
+viceen7 collected 3840 from pot
+viceen7: doesn't show hand 
+*** SUMMARY ***
+Total pot 3840 | Rake 0 
+Seat 1: n1ghtm4res_4U folded before Flop (didn't bet)
+Seat 2: viceen7 collected (3840)
+Seat 3: IgorMV85 folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: pag1818 (big blind) folded before Flop
+
+
+
+Betfair Hand #262458676502: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XI (600/1200) - 2026/10/20 19:37:35 CUST [2026/10/20 14:37:35 ET]
+Table '4040099787 5' 8-max Seat #7 is the button
+Seat 1: n1ghtm4res_4U (19584 in chips) 
+Seat 2: viceen7 (42135 in chips) 
+Seat 3: IgorMV85 (12432 in chips) 
+Seat 4: Marlow6292 (16380 in chips) 
+Seat 5: yanyshivskyi (52320 in chips) 
+Seat 6: Sidsross (55219 in chips) 
+Seat 7: bullets685 (23942 in chips) 
+Seat 8: pag1818 (11536 in chips) 
+n1ghtm4res_4U: posts the ante 120
+viceen7: posts the ante 120
+IgorMV85: posts the ante 120
+Marlow6292: posts the ante 120
+yanyshivskyi: posts the ante 120
+Sidsross: posts the ante 120
+bullets685: posts the ante 120
+pag1818: posts the ante 120
+pag1818: posts small blind 600
+n1ghtm4res_4U: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to bullets685 [2d Jd]
+viceen7: folds 
+IgorMV85: folds 
+Marlow6292: folds 
+yanyshivskyi: folds 
+Sidsross: calls 1200
+bullets685: folds 
+pag1818: folds 
+n1ghtm4res_4U: checks 
+*** FLOP *** [9h 6d 8h]
+n1ghtm4res_4U: bets 2970
+Sidsross: calls 2970
+*** TURN *** [9h 6d 8h] [5c]
+n1ghtm4res_4U: bets 9900
+Sidsross: folds 
+Uncalled bet (9900) returned to n1ghtm4res_4U
+n1ghtm4res_4U collected 9900 from pot
+n1ghtm4res_4U: doesn't show hand 
+*** SUMMARY ***
+Total pot 9900 | Rake 0 
+Board [9h 6d 8h 5c]
+Seat 1: n1ghtm4res_4U (big blind) collected (9900)
+Seat 2: viceen7 folded before Flop (didn't bet)
+Seat 3: IgorMV85 folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: Sidsross folded on the Turn
+Seat 7: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: pag1818 (small blind) folded before Flop
+
+
+
+Betfair Hand #262458684451: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XII (800/1600) - 2026/10/20 19:38:19 CUST [2026/10/20 14:38:19 ET]
+Table '4040099787 5' 8-max Seat #8 is the button
+Seat 1: n1ghtm4res_4U (25194 in chips) 
+Seat 2: viceen7 (42015 in chips) 
+Seat 3: IgorMV85 (12312 in chips) 
+Seat 4: Marlow6292 (16260 in chips) 
+Seat 5: yanyshivskyi (52200 in chips) 
+Seat 6: Sidsross (50929 in chips) 
+Seat 7: bullets685 (23822 in chips) 
+Seat 8: pag1818 (10816 in chips) 
+n1ghtm4res_4U: posts the ante 160
+viceen7: posts the ante 160
+IgorMV85: posts the ante 160
+Marlow6292: posts the ante 160
+yanyshivskyi: posts the ante 160
+Sidsross: posts the ante 160
+bullets685: posts the ante 160
+pag1818: posts the ante 160
+n1ghtm4res_4U: posts small blind 800
+viceen7: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 8d]
+IgorMV85: folds 
+Marlow6292: folds 
+yanyshivskyi: raises 1600 to 3200
+Sidsross: calls 3200
+bullets685: folds 
+pag1818: folds 
+n1ghtm4res_4U: folds 
+viceen7: folds 
+*** FLOP *** [Js 7s 7h]
+yanyshivskyi: checks 
+Sidsross: checks 
+*** TURN *** [Js 7s 7h] [7d]
+yanyshivskyi: bets 5040
+Sidsross: folds 
+Uncalled bet (5040) returned to yanyshivskyi
+yanyshivskyi collected 10080 from pot
+yanyshivskyi: doesn't show hand 
+*** SUMMARY ***
+Total pot 10080 | Rake 0 
+Board [Js 7s 7h 7d]
+Seat 1: n1ghtm4res_4U (small blind) folded before Flop
+Seat 2: viceen7 (big blind) folded before Flop
+Seat 3: IgorMV85 folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi collected (10080)
+Seat 6: Sidsross folded on the Turn
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458692464: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XII (800/1600) - 2026/10/20 19:39:03 CUST [2026/10/20 14:39:03 ET]
+Table '4040099787 5' 8-max Seat #1 is the button
+Seat 1: n1ghtm4res_4U (24234 in chips) 
+Seat 2: viceen7 (40255 in chips) 
+Seat 3: IgorMV85 (12152 in chips) 
+Seat 4: Marlow6292 (16100 in chips) 
+Seat 5: yanyshivskyi (58920 in chips) 
+Seat 6: Sidsross (47569 in chips) 
+Seat 7: bullets685 (23662 in chips) 
+Seat 8: pag1818 (10656 in chips) 
+n1ghtm4res_4U: posts the ante 160
+viceen7: posts the ante 160
+IgorMV85: posts the ante 160
+Marlow6292: posts the ante 160
+yanyshivskyi: posts the ante 160
+Sidsross: posts the ante 160
+bullets685: posts the ante 160
+pag1818: posts the ante 160
+viceen7: posts small blind 800
+IgorMV85: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc 2s]
+Marlow6292: folds 
+yanyshivskyi: folds 
+Sidsross: folds 
+bullets685: folds 
+pag1818: folds 
+n1ghtm4res_4U: folds 
+viceen7: folds 
+Uncalled bet (800) returned to IgorMV85
+IgorMV85 collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | Rake 0 
+Seat 1: n1ghtm4res_4U (button) folded before Flop (didn't bet)
+Seat 2: viceen7 (small blind) folded before Flop
+Seat 3: IgorMV85 (big blind) collected (2880)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: Sidsross folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458695411: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XII (800/1600) - 2026/10/20 19:39:19 CUST [2026/10/20 14:39:19 ET]
+Table '4040099787 5' 8-max Seat #2 is the button
+Seat 1: n1ghtm4res_4U (24074 in chips) 
+Seat 2: viceen7 (39295 in chips) 
+Seat 3: IgorMV85 (14072 in chips) 
+Seat 4: Marlow6292 (15940 in chips) 
+Seat 5: yanyshivskyi (58760 in chips) 
+Seat 6: Sidsross (47409 in chips) 
+Seat 7: bullets685 (23502 in chips) 
+Seat 8: pag1818 (10496 in chips) 
+n1ghtm4res_4U: posts the ante 160
+viceen7: posts the ante 160
+IgorMV85: posts the ante 160
+Marlow6292: posts the ante 160
+yanyshivskyi: posts the ante 160
+Sidsross: posts the ante 160
+bullets685: posts the ante 160
+pag1818: posts the ante 160
+IgorMV85: posts small blind 800
+Marlow6292: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts 8c]
+yanyshivskyi: folds 
+Sidsross: folds 
+bullets685: folds 
+pag1818: raises 8736 to 10336 and is all-in
+n1ghtm4res_4U: folds 
+viceen7: folds 
+IgorMV85 has timed out
+IgorMV85: folds 
+IgorMV85 is sitting out
+Marlow6292: folds 
+Uncalled bet (8736) returned to pag1818
+pag1818 collected 5280 from pot
+pag1818: doesn't show hand 
+*** SUMMARY ***
+Total pot 5280 | Rake 0 
+Seat 1: n1ghtm4res_4U folded before Flop (didn't bet)
+Seat 2: viceen7 (button) folded before Flop (didn't bet)
+Seat 3: IgorMV85 (small blind) folded before Flop
+Seat 4: Marlow6292 (big blind) folded before Flop
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: Sidsross folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 collected (5280)
+
+
+
+Betfair Hand #262458700208: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XII (800/1600) - 2026/10/20 19:39:46 CUST [2026/10/20 14:39:46 ET]
+Table '4040099787 5' 8-max Seat #3 is the button
+Seat 1: n1ghtm4res_4U (23914 in chips) 
+Seat 2: viceen7 (39135 in chips) 
+Seat 3: IgorMV85 (13112 in chips) is sitting out
+Seat 4: Marlow6292 (14180 in chips) 
+Seat 5: yanyshivskyi (58600 in chips) 
+Seat 6: Sidsross (47249 in chips) 
+Seat 7: bullets685 (23342 in chips) 
+Seat 8: pag1818 (14016 in chips) 
+n1ghtm4res_4U: posts the ante 160
+viceen7: posts the ante 160
+IgorMV85: posts the ante 160
+Marlow6292: posts the ante 160
+yanyshivskyi: posts the ante 160
+Sidsross: posts the ante 160
+bullets685: posts the ante 160
+pag1818: posts the ante 160
+Marlow6292: posts small blind 800
+yanyshivskyi: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts 6c]
+IgorMV85 has returned
+Sidsross: folds 
+bullets685: folds 
+pag1818: folds 
+n1ghtm4res_4U: folds 
+viceen7: folds 
+IgorMV85: raises 11200 to 12800
+Marlow6292: folds 
+yanyshivskyi: folds 
+Uncalled bet (11200) returned to IgorMV85
+IgorMV85 collected 5280 from pot
+*** SUMMARY ***
+Total pot 5280 | Rake 0 
+Seat 1: n1ghtm4res_4U folded before Flop (didn't bet)
+Seat 2: viceen7 folded before Flop (didn't bet)
+Seat 3: IgorMV85 (button) collected (5280)
+Seat 4: Marlow6292 (small blind) folded before Flop
+Seat 5: yanyshivskyi (big blind) folded before Flop
+Seat 6: Sidsross folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458707129: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XII (800/1600) - 2026/10/20 19:40:25 CUST [2026/10/20 14:40:25 ET]
+Table '4040099787 5' 8-max Seat #4 is the button
+Seat 1: n1ghtm4res_4U (23754 in chips) 
+Seat 2: viceen7 (38975 in chips) 
+Seat 3: IgorMV85 (16632 in chips) 
+Seat 4: Marlow6292 (13220 in chips) 
+Seat 5: yanyshivskyi (56840 in chips) 
+Seat 6: Sidsross (47089 in chips) 
+Seat 7: bullets685 (23182 in chips) 
+Seat 8: pag1818 (13856 in chips) 
+n1ghtm4res_4U: posts the ante 160
+viceen7: posts the ante 160
+IgorMV85: posts the ante 160
+Marlow6292: posts the ante 160
+yanyshivskyi: posts the ante 160
+Sidsross: posts the ante 160
+bullets685: posts the ante 160
+pag1818: posts the ante 160
+yanyshivskyi: posts small blind 800
+Sidsross: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 3d]
+bullets685: folds 
+pag1818: folds 
+n1ghtm4res_4U: folds 
+viceen7: folds 
+IgorMV85 has timed out
+IgorMV85: folds 
+IgorMV85 is sitting out
+Marlow6292: folds 
+IgorMV85 has returned
+yanyshivskyi: raises 2400 to 4000
+Sidsross: folds 
+Uncalled bet (2400) returned to yanyshivskyi
+yanyshivskyi collected 4480 from pot
+yanyshivskyi: doesn't show hand 
+*** SUMMARY ***
+Total pot 4480 | Rake 0 
+Seat 1: n1ghtm4res_4U folded before Flop (didn't bet)
+Seat 2: viceen7 folded before Flop (didn't bet)
+Seat 3: IgorMV85 folded before Flop (didn't bet)
+Seat 4: Marlow6292 (button) folded before Flop (didn't bet)
+Seat 5: yanyshivskyi (small blind) collected (4480)
+Seat 6: Sidsross (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: pag1818 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458715071: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XIII (1000/2000) - 2026/10/20 19:41:09 CUST [2026/10/20 14:41:09 ET]
+Table '4040099787 5' 8-max Seat #5 is the button
+Seat 1: n1ghtm4res_4U (23594 in chips) 
+Seat 2: viceen7 (38815 in chips) 
+Seat 3: IgorMV85 (16472 in chips) 
+Seat 4: Marlow6292 (13060 in chips) 
+Seat 5: yanyshivskyi (59560 in chips) 
+Seat 6: Sidsross (45329 in chips) 
+Seat 7: bullets685 (23022 in chips) 
+Seat 8: pag1818 (13696 in chips) 
+n1ghtm4res_4U: posts the ante 200
+viceen7: posts the ante 200
+IgorMV85: posts the ante 200
+Marlow6292: posts the ante 200
+yanyshivskyi: posts the ante 200
+Sidsross: posts the ante 200
+bullets685: posts the ante 200
+pag1818: posts the ante 200
+Sidsross: posts small blind 1000
+bullets685: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to bullets685 [7d 3d]
+pag1818: raises 11496 to 13496 and is all-in
+n1ghtm4res_4U: folds 
+viceen7: folds 
+IgorMV85 has timed out
+IgorMV85: folds 
+IgorMV85 is sitting out
+Marlow6292: folds 
+IgorMV85 has returned
+yanyshivskyi: folds 
+Sidsross: folds 
+bullets685: folds 
+Uncalled bet (11496) returned to pag1818
+pag1818 collected 6600 from pot
+pag1818: doesn't show hand 
+*** SUMMARY ***
+Total pot 6600 | Rake 0 
+Seat 1: n1ghtm4res_4U folded before Flop (didn't bet)
+Seat 2: viceen7 folded before Flop (didn't bet)
+Seat 3: IgorMV85 folded before Flop (didn't bet)
+Seat 4: Marlow6292 folded before Flop (didn't bet)
+Seat 5: yanyshivskyi (button) folded before Flop (didn't bet)
+Seat 6: Sidsross (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: pag1818 collected (6600)
+
+
+
+Betfair Hand #262458721843: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XIII (1000/2000) - 2026/10/20 19:41:47 CUST [2026/10/20 14:41:47 ET]
+Table '4040099787 5' 8-max Seat #6 is the button
+Seat 1: n1ghtm4res_4U (23394 in chips) 
+Seat 2: viceen7 (38615 in chips) 
+Seat 3: IgorMV85 (16272 in chips) 
+Seat 4: Marlow6292 (12860 in chips) 
+Seat 5: yanyshivskyi (59360 in chips) 
+Seat 6: Sidsross (44129 in chips) 
+Seat 7: bullets685 (20822 in chips) 
+Seat 8: pag1818 (18096 in chips) 
+n1ghtm4res_4U: posts the ante 200
+viceen7: posts the ante 200
+IgorMV85: posts the ante 200
+Marlow6292: posts the ante 200
+yanyshivskyi: posts the ante 200
+Sidsross: posts the ante 200
+bullets685: posts the ante 200
+pag1818: posts the ante 200
+bullets685: posts small blind 1000
+pag1818: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 2c]
+n1ghtm4res_4U: folds 
+viceen7: raises 2000 to 4000
+IgorMV85 has timed out
+IgorMV85: folds 
+IgorMV85 is sitting out
+Marlow6292: raises 8660 to 12660 and is all-in
+IgorMV85 has returned
+yanyshivskyi: folds 
+Sidsross: folds 
+bullets685: folds 
+pag1818: folds 
+viceen7: calls 8660
+*** FLOP *** [2s Kc Ah]
+*** TURN *** [2s Kc Ah] [3c]
+*** RIVER *** [2s Kc Ah 3c] [9d]
+*** SHOW DOWN ***
+viceen7: shows [Jh Jd] (a pair of Jacks)
+Marlow6292: shows [7s 7h] (a pair of Sevens)
+viceen7 collected 29920 from pot
+Marlow6292 finished the tournament in 97th place
+*** SUMMARY ***
+Total pot 29920 | Rake 0 
+Board [2s Kc Ah 3c 9d]
+Seat 1: n1ghtm4res_4U folded before Flop (didn't bet)
+Seat 2: viceen7 showed [Jh Jd] and won (29920) with a pair of Jacks
+Seat 3: IgorMV85 folded before Flop (didn't bet)
+Seat 4: Marlow6292 showed [7s 7h] and lost with a pair of Sevens
+Seat 5: yanyshivskyi folded before Flop (didn't bet)
+Seat 6: Sidsross (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: pag1818 (big blind) folded before Flop
+
+
+
+Betfair Hand #262458734810: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XIII (1000/2000) - 2026/10/20 19:42:58 CUST [2026/10/20 14:42:58 ET]
+Table '4040099787 9' 8-max Seat #1 is the button
+Seat 1: grin4eg (38505 in chips) 
+Seat 3: AdmiralRD (35740 in chips) 
+Seat 4: maccon98 (11445 in chips) 
+Seat 5: vb11011983 (26133 in chips) 
+Seat 6: ArnorM (9700 in chips) 
+Seat 7: bullets685 (19622 in chips) 
+Seat 8: Napoletian (34204 in chips) 
+grin4eg: posts the ante 200
+AdmiralRD: posts the ante 200
+maccon98: posts the ante 200
+vb11011983: posts the ante 200
+ArnorM: posts the ante 200
+bullets685: posts the ante 200
+Napoletian: posts the ante 200
+AdmiralRD: posts small blind 1000
+maccon98: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc 5s]
+vb11011983: folds 
+ArnorM: folds 
+bullets685: folds 
+Napoletian: raises 6400 to 8400
+grin4eg: folds 
+AdmiralRD: folds 
+maccon98: folds 
+Uncalled bet (6400) returned to Napoletian
+Napoletian collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | Rake 0 
+Seat 1: grin4eg (button) folded before Flop (didn't bet)
+Seat 3: AdmiralRD (small blind) folded before Flop
+Seat 4: maccon98 (big blind) folded before Flop
+Seat 5: vb11011983 folded before Flop (didn't bet)
+Seat 6: ArnorM folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Napoletian collected (6400)
+
+
+
+Betfair Hand #262458740194: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XIII (1000/2000) - 2026/10/20 19:43:28 CUST [2026/10/20 14:43:28 ET]
+Table '4040099787 9' 8-max Seat #3 is the button
+Seat 1: grin4eg (38305 in chips) 
+Seat 3: AdmiralRD (34540 in chips) 
+Seat 4: maccon98 (9245 in chips) 
+Seat 5: vb11011983 (25933 in chips) 
+Seat 6: ArnorM (9500 in chips) 
+Seat 7: bullets685 (19422 in chips) 
+Seat 8: Napoletian (38404 in chips) 
+grin4eg: posts the ante 200
+AdmiralRD: posts the ante 200
+maccon98: posts the ante 200
+vb11011983: posts the ante 200
+ArnorM: posts the ante 200
+bullets685: posts the ante 200
+Napoletian: posts the ante 200
+maccon98: posts small blind 1000
+vb11011983: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to bullets685 [3d 9c]
+ArnorM: folds 
+bullets685: folds 
+Napoletian: folds 
+rigel_poker is disconnected 
+grin4eg: folds 
+AdmiralRD: folds 
+maccon98: raises 7045 to 9045 and is all-in
+vb11011983: calls 7045
+*** FLOP *** [7c Ts Ah]
+*** TURN *** [7c Ts Ah] [Kh]
+*** RIVER *** [7c Ts Ah Kh] [Js]
+*** SHOW DOWN ***
+maccon98: shows [4s Qs] (a straight, Ten to Ace)
+vb11011983: shows [2s Ac] (a pair of Aces)
+maccon98 collected 19490 from pot
+*** SUMMARY ***
+Total pot 19490 | Rake 0 
+Board [7c Ts Ah Kh Js]
+Seat 1: grin4eg folded before Flop (didn't bet)
+Seat 3: AdmiralRD (button) folded before Flop (didn't bet)
+Seat 4: maccon98 (small blind) showed [4s Qs] and won (19490) with a straight, Ten to Ace
+Seat 5: vb11011983 (big blind) showed [2s Ac] and lost with a pair of Aces
+Seat 6: ArnorM folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Napoletian folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458747470: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XIV (1500/3000) - 2026/10/20 19:44:08 CUST [2026/10/20 14:44:08 ET]
+Table '4040099787 9' 8-max Seat #4 is the button
+Seat 1: grin4eg (38105 in chips) 
+Seat 2: rigel_poker (49150 in chips) 
+Seat 3: AdmiralRD (34340 in chips) 
+Seat 4: maccon98 (19490 in chips) 
+Seat 5: vb11011983 (16688 in chips) 
+Seat 6: ArnorM (9300 in chips) 
+Seat 7: bullets685 (19222 in chips) 
+Seat 8: Napoletian (38204 in chips) 
+grin4eg: posts the ante 300
+rigel_poker: posts the ante 300
+AdmiralRD: posts the ante 300
+maccon98: posts the ante 300
+vb11011983: posts the ante 300
+ArnorM: posts the ante 300
+bullets685: posts the ante 300
+Napoletian: posts the ante 300
+vb11011983: posts small blind 1500
+ArnorM: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc 7s]
+bullets685: folds 
+Napoletian: folds 
+grin4eg: raises 4500 to 7500
+rigel_poker: raises 41350 to 48850 and is all-in
+AdmiralRD: folds 
+maccon98: folds 
+vb11011983: folds 
+ArnorM: calls 6000 and is all-in
+grin4eg: folds 
+Uncalled bet (39850) returned to rigel_poker
+*** FLOP *** [Ks Kh 3h]
+*** TURN *** [Ks Kh 3h] [3s]
+*** RIVER *** [Ks Kh 3h 3s] [6h]
+*** SHOW DOWN ***
+ArnorM: shows [Td Kd] (a full house, Kings full of Threes)
+rigel_poker: shows [Ts Th] (two pair, Kings and Tens)
+ArnorM collected 29400 from pot
+*** SUMMARY ***
+Total pot 29400 | Rake 0 
+Board [Ks Kh 3h 3s 6h]
+Seat 1: grin4eg folded before Flop
+Seat 2: rigel_poker showed [Ts Th] and lost with two pair, Kings and Tens
+Seat 3: AdmiralRD folded before Flop (didn't bet)
+Seat 4: maccon98 (button) folded before Flop (didn't bet)
+Seat 5: vb11011983 (small blind) folded before Flop
+Seat 6: ArnorM (big blind) showed [Td Kd] and won (29400) with a full house, Kings full of Threes
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Napoletian folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458756499: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XIV (1500/3000) - 2026/10/20 19:44:58 CUST [2026/10/20 14:44:58 ET]
+Table '4040099787 9' 8-max Seat #5 is the button
+Seat 1: grin4eg (30305 in chips) 
+Seat 2: rigel_poker (39850 in chips) 
+Seat 3: AdmiralRD (34040 in chips) 
+Seat 5: vb11011983 (14888 in chips) 
+Seat 6: ArnorM (29400 in chips) 
+Seat 7: bullets685 (18922 in chips) 
+Seat 8: Napoletian (37904 in chips) 
+grin4eg: posts the ante 300
+rigel_poker: posts the ante 300
+AdmiralRD: posts the ante 300
+vb11011983: posts the ante 300
+ArnorM: posts the ante 300
+bullets685: posts the ante 300
+Napoletian: posts the ante 300
+ArnorM: posts small blind 1500
+bullets685: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to bullets685 [8s 4c]
+Napoletian: folds 
+grin4eg: folds 
+rigel_poker: folds 
+AdmiralRD: calls 3000
+vb11011983: folds 
+noplom is disconnected 
+ArnorM: calls 1500
+bullets685: checks 
+*** FLOP *** [8h Ac Th]
+ArnorM: checks 
+bullets685: checks 
+AdmiralRD: checks 
+*** TURN *** [8h Ac Th] [9c]
+ArnorM: checks 
+bullets685: checks 
+AdmiralRD: checks 
+*** RIVER *** [8h Ac Th 9c] [3d]
+ArnorM: checks 
+bullets685: bets 15622 and is all-in
+AdmiralRD: folds 
+ArnorM: folds 
+Uncalled bet (15622) returned to bullets685
+bullets685 collected 11100 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 11100 | Rake 0 
+Board [8h Ac Th 9c 3d]
+Seat 1: grin4eg folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: AdmiralRD folded on the River
+Seat 5: vb11011983 (button) folded before Flop (didn't bet)
+Seat 6: ArnorM (small blind) folded on the River
+Seat 7: bullets685 (big blind) collected (11100)
+Seat 8: Napoletian folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458767529: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XIV (1500/3000) - 2026/10/20 19:45:58 CUST [2026/10/20 14:45:58 ET]
+Table '4040099787 9' 8-max Seat #6 is the button
+Seat 1: grin4eg (30005 in chips) 
+Seat 2: rigel_poker (39550 in chips) 
+Seat 3: AdmiralRD (30740 in chips) 
+Seat 4: noplom (4520 in chips) 
+Seat 5: vb11011983 (14588 in chips) 
+Seat 6: ArnorM (26100 in chips) 
+Seat 7: bullets685 (26722 in chips) 
+Seat 8: Napoletian (37604 in chips) 
+grin4eg: posts the ante 300
+rigel_poker: posts the ante 300
+AdmiralRD: posts the ante 300
+noplom: posts the ante 300
+vb11011983: posts the ante 300
+ArnorM: posts the ante 300
+bullets685: posts the ante 300
+Napoletian: posts the ante 300
+bullets685: posts small blind 1500
+Napoletian: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to bullets685 [Qs Tc]
+grin4eg: folds 
+rigel_poker: folds 
+AdmiralRD: folds 
+noplom: raises 1220 to 4220 and is all-in
+vb11011983: folds 
+ArnorM: calls 4220
+bullets685: folds 
+Napoletian: folds 
+*** FLOP *** [4d 9s Kc]
+*** TURN *** [4d 9s Kc] [9d]
+*** RIVER *** [4d 9s Kc 9d] [8s]
+*** SHOW DOWN ***
+noplom: shows [Th Kh] (two pair, Kings and Nines)
+ArnorM: shows [7s 7h] (two pair, Nines and Sevens)
+noplom collected 15340 from pot
+*** SUMMARY ***
+Total pot 15340 | Rake 0 
+Board [4d 9s Kc 9d 8s]
+Seat 1: grin4eg folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: AdmiralRD folded before Flop (didn't bet)
+Seat 4: noplom showed [Th Kh] and won (15340) with two pair, Kings and Nines
+Seat 5: vb11011983 folded before Flop (didn't bet)
+Seat 6: ArnorM (button) showed [7s 7h] and lost with two pair, Nines and Sevens
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: Napoletian (big blind) folded before Flop
+
+
+
+Betfair Hand #262458773054: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XIV (1500/3000) - 2026/10/20 19:46:28 CUST [2026/10/20 14:46:28 ET]
+Table '4040099787 9' 8-max Seat #7 is the button
+Seat 1: grin4eg (29705 in chips) 
+Seat 2: rigel_poker (39250 in chips) 
+Seat 3: AdmiralRD (30440 in chips) 
+Seat 4: noplom (15340 in chips) 
+Seat 5: vb11011983 (14288 in chips) 
+Seat 6: ArnorM (21580 in chips) 
+Seat 7: bullets685 (24922 in chips) 
+Seat 8: Napoletian (34304 in chips) 
+grin4eg: posts the ante 300
+rigel_poker: posts the ante 300
+AdmiralRD: posts the ante 300
+noplom: posts the ante 300
+vb11011983: posts the ante 300
+ArnorM: posts the ante 300
+bullets685: posts the ante 300
+Napoletian: posts the ante 300
+Napoletian: posts small blind 1500
+grin4eg: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to bullets685 [3s Jh]
+rigel_poker: folds 
+AdmiralRD: folds 
+noplom: folds 
+vb11011983: folds 
+ArnorM: folds 
+bullets685: raises 3000 to 6000
+Napoletian: folds 
+grin4eg: calls 3000
+*** FLOP *** [Jd 6s 9c]
+grin4eg: checks 
+bullets685: bets 18622 and is all-in
+grin4eg: calls 18622
+*** TURN *** [Jd 6s 9c] [9d]
+*** RIVER *** [Jd 6s 9c 9d] [4s]
+*** SHOW DOWN ***
+grin4eg: shows [Th Qd] (a pair of Nines)
+bullets685: shows [3s Jh] (two pair, Jacks and Nines)
+bullets685 collected 53144 from pot
+*** SUMMARY ***
+Total pot 53144 | Rake 0 
+Board [Jd 6s 9c 9d 4s]
+Seat 1: grin4eg (big blind) showed [Th Qd] and lost with a pair of Nines
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: AdmiralRD folded before Flop (didn't bet)
+Seat 4: noplom folded before Flop (didn't bet)
+Seat 5: vb11011983 folded before Flop (didn't bet)
+Seat 6: ArnorM folded before Flop (didn't bet)
+Seat 7: bullets685 (button) showed [3s Jh] and won (53144) with two pair, Jacks and Nines
+Seat 8: Napoletian (small blind) folded before Flop
+
+
+
+Betfair Hand #262458784313: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XV (2000/4000) - 2026/10/20 19:47:30 CUST [2026/10/20 14:47:30 ET]
+Table '4040099787 9' 8-max Seat #8 is the button
+Seat 1: grin4eg (4783 in chips) 
+Seat 2: rigel_poker (38950 in chips) 
+Seat 3: AdmiralRD (30140 in chips) 
+Seat 4: noplom (15040 in chips) 
+Seat 5: vb11011983 (13988 in chips) 
+Seat 7: bullets685 (53144 in chips) 
+Seat 8: Napoletian (32504 in chips) 
+grin4eg: posts the ante 400
+rigel_poker: posts the ante 400
+AdmiralRD: posts the ante 400
+noplom: posts the ante 400
+vb11011983: posts the ante 400
+bullets685: posts the ante 400
+Napoletian: posts the ante 400
+grin4eg: posts small blind 2000
+rigel_poker: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 4h]
+AdmiralRD: folds 
+noplom: folds 
+vb11011983: folds 
+bullets685: folds 
+Napoletian: calls 4000
+grin4eg: folds 
+rigel_poker: checks 
+*** FLOP *** [5c 8d 2h]
+rigel_poker: checks 
+Napoletian: bets 8000
+rigel_poker: calls 8000
+*** TURN *** [5c 8d 2h] [9s]
+rigel_poker: checks 
+Napoletian: checks 
+*** RIVER *** [5c 8d 2h 9s] [7d]
+rigel_poker: checks 
+Napoletian: bets 20104 and is all-in
+rigel_poker: folds 
+Uncalled bet (20104) returned to Napoletian
+Napoletian collected 28800 from pot
+*** SUMMARY ***
+Total pot 28800 | Rake 0 
+Board [5c 8d 2h 9s 7d]
+Seat 1: grin4eg (small blind) folded before Flop
+Seat 2: rigel_poker (big blind) folded on the River
+Seat 3: AdmiralRD folded before Flop (didn't bet)
+Seat 4: noplom folded before Flop (didn't bet)
+Seat 5: vb11011983 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Napoletian (button) collected (28800)
+
+
+
+Betfair Hand #262458794175: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XV (2000/4000) - 2026/10/20 19:48:23 CUST [2026/10/20 14:48:23 ET]
+Table '4040099787 9' 8-max Seat #2 is the button
+Seat 2: rigel_poker (26550 in chips) 
+Seat 3: AdmiralRD (29740 in chips) 
+Seat 4: noplom (14640 in chips) 
+Seat 5: vb11011983 (13588 in chips) 
+Seat 6: Monkiboy79 (80258 in chips) 
+Seat 7: bullets685 (52744 in chips) 
+Seat 8: Napoletian (48904 in chips) 
+rigel_poker: posts the ante 400
+AdmiralRD: posts the ante 400
+noplom: posts the ante 400
+vb11011983: posts the ante 400
+Monkiboy79: posts the ante 400
+bullets685: posts the ante 400
+Napoletian: posts the ante 400
+AdmiralRD: posts small blind 2000
+noplom: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to bullets685 [2s Ac]
+vilasss is disconnected 
+vb11011983: folds 
+Monkiboy79: folds 
+bullets685: folds 
+Napoletian: folds 
+rigel_poker: folds 
+AdmiralRD: calls 2000
+noplom: checks 
+*** FLOP *** [2d 5h 7s]
+AdmiralRD: bets 10800
+noplom: folds 
+Uncalled bet (10800) returned to AdmiralRD
+AdmiralRD collected 10800 from pot
+AdmiralRD: doesn't show hand 
+*** SUMMARY ***
+Total pot 10800 | Rake 0 
+Board [2d 5h 7s]
+Seat 2: rigel_poker (button) folded before Flop (didn't bet)
+Seat 3: AdmiralRD (small blind) collected (10800)
+Seat 4: noplom (big blind) folded on the Flop
+Seat 5: vb11011983 folded before Flop (didn't bet)
+Seat 6: Monkiboy79 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Napoletian folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458800034: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XV (2000/4000) - 2026/10/20 19:48:55 CUST [2026/10/20 14:48:55 ET]
+Table '4040099787 9' 8-max Seat #3 is the button
+Seat 1: vilasss (36480 in chips) 
+Seat 2: rigel_poker (26150 in chips) 
+Seat 3: AdmiralRD (36140 in chips) 
+Seat 4: noplom (10240 in chips) 
+Seat 5: vb11011983 (13188 in chips) 
+Seat 6: Monkiboy79 (79858 in chips) 
+Seat 7: bullets685 (52344 in chips) 
+Seat 8: Napoletian (48504 in chips) 
+vilasss: posts the ante 400
+rigel_poker: posts the ante 400
+AdmiralRD: posts the ante 400
+noplom: posts the ante 400
+vb11011983: posts the ante 400
+Monkiboy79: posts the ante 400
+bullets685: posts the ante 400
+Napoletian: posts the ante 400
+noplom: posts small blind 2000
+vb11011983: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to bullets685 [3h 6c]
+Monkiboy79: folds 
+bullets685: folds 
+Napoletian: folds 
+vilasss: folds 
+rigel_poker: folds 
+AdmiralRD: calls 4000
+noplom: folds 
+vb11011983: checks 
+*** FLOP *** [5d Jd 4h]
+vb11011983: bets 8788 and is all-in
+AdmiralRD: folds 
+Uncalled bet (8788) returned to vb11011983
+vb11011983 collected 13200 from pot
+vb11011983: doesn't show hand 
+*** SUMMARY ***
+Total pot 13200 | Rake 0 
+Board [5d Jd 4h]
+Seat 1: vilasss folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: AdmiralRD (button) folded on the Flop
+Seat 4: noplom (small blind) folded before Flop
+Seat 5: vb11011983 (big blind) collected (13200)
+Seat 6: Monkiboy79 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Napoletian folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458812132: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XV (2000/4000) - 2026/10/20 19:50:01 CUST [2026/10/20 14:50:01 ET]
+Table '4040099787 9' 8-max Seat #4 is the button
+Seat 1: vilasss (36080 in chips) 
+Seat 2: rigel_poker (25750 in chips) 
+Seat 3: AdmiralRD (31740 in chips) 
+Seat 4: noplom (7840 in chips) 
+Seat 5: vb11011983 (21988 in chips) 
+Seat 6: Monkiboy79 (79458 in chips) 
+Seat 7: bullets685 (51944 in chips) 
+Seat 8: Napoletian (48104 in chips) 
+vilasss: posts the ante 400
+rigel_poker: posts the ante 400
+AdmiralRD: posts the ante 400
+noplom: posts the ante 400
+vb11011983: posts the ante 400
+Monkiboy79: posts the ante 400
+bullets685: posts the ante 400
+Napoletian: posts the ante 400
+vb11011983: posts small blind 2000
+Monkiboy79: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to bullets685 [3s 7h]
+bullets685: folds 
+Napoletian: folds 
+vilasss: folds 
+rigel_poker: folds 
+AdmiralRD: folds 
+noplom: raises 3440 to 7440 and is all-in
+vb11011983: folds 
+Monkiboy79: calls 3440
+*** FLOP *** [Th Js 2d]
+*** TURN *** [Th Js 2d] [5h]
+*** RIVER *** [Th Js 2d 5h] [2c]
+*** SHOW DOWN ***
+Monkiboy79: shows [Jd Kd] (two pair, Jacks and Deuces)
+noplom: shows [Qh Ts] (two pair, Tens and Deuces)
+Monkiboy79 collected 20080 from pot
+noplom finished the tournament in 58th place
+*** SUMMARY ***
+Total pot 20080 | Rake 0 
+Board [Th Js 2d 5h 2c]
+Seat 1: vilasss folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: AdmiralRD folded before Flop (didn't bet)
+Seat 4: noplom (button) showed [Qh Ts] and lost with two pair, Tens and Deuces
+Seat 5: vb11011983 (small blind) folded before Flop
+Seat 6: Monkiboy79 (big blind) showed [Jd Kd] and won (20080) with two pair, Jacks and Deuces
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Napoletian folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458822100: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XVI (3000/6000) - 2026/10/20 19:50:56 CUST [2026/10/20 14:50:56 ET]
+Table '4040099787 9' 8-max Seat #5 is the button
+Seat 1: vilasss (35680 in chips) 
+Seat 2: rigel_poker (25350 in chips) 
+Seat 3: AdmiralRD (31340 in chips) 
+Seat 5: vb11011983 (19588 in chips) 
+Seat 6: Monkiboy79 (91698 in chips) 
+Seat 7: bullets685 (51544 in chips) 
+Seat 8: Napoletian (47704 in chips) 
+vilasss: posts the ante 600
+rigel_poker: posts the ante 600
+AdmiralRD: posts the ante 600
+vb11011983: posts the ante 600
+Monkiboy79: posts the ante 600
+bullets685: posts the ante 600
+Napoletian: posts the ante 600
+Monkiboy79: posts small blind 3000
+bullets685: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to bullets685 [5d Qd]
+Napoletian: folds 
+vilasss: raises 29080 to 35080 and is all-in
+rigel_poker: folds 
+AdmiralRD: folds 
+vb11011983: folds 
+Monkiboy79: folds 
+bullets685: folds 
+Uncalled bet (29080) returned to vilasss
+vilasss collected 19200 from pot
+*** SUMMARY ***
+Total pot 19200 | Rake 0 
+Seat 1: vilasss collected (19200)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: AdmiralRD folded before Flop (didn't bet)
+Seat 5: vb11011983 (button) folded before Flop (didn't bet)
+Seat 6: Monkiboy79 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: Napoletian folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458828360: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XVI (3000/6000) - 2026/10/20 19:51:30 CUST [2026/10/20 14:51:30 ET]
+Table '4040099787 9' 8-max Seat #6 is the button
+Seat 1: vilasss (48280 in chips) 
+Seat 2: rigel_poker (24750 in chips) 
+Seat 3: AdmiralRD (30740 in chips) 
+Seat 4: Tyler94876 (113870 in chips) 
+Seat 5: vb11011983 (18988 in chips) 
+Seat 6: Monkiboy79 (88098 in chips) 
+Seat 7: bullets685 (44944 in chips) 
+Seat 8: Napoletian (47104 in chips) 
+vilasss: posts the ante 600
+rigel_poker: posts the ante 600
+AdmiralRD: posts the ante 600
+Tyler94876: posts the ante 600
+vb11011983: posts the ante 600
+Monkiboy79: posts the ante 600
+bullets685: posts the ante 600
+Napoletian: posts the ante 600
+bullets685: posts small blind 3000
+Napoletian: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh Kc]
+vilasss: folds 
+rigel_poker: folds 
+AdmiralRD: folds 
+Tyler94876: calls 6000
+vb11011983: folds 
+Monkiboy79: folds 
+bullets685: raises 38344 to 44344 and is all-in
+Napoletian: folds 
+Tyler94876: folds 
+Uncalled bet (38344) returned to bullets685
+bullets685 collected 22800 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 22800 | Rake 0 
+Seat 1: vilasss folded before Flop (didn't bet)
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: AdmiralRD folded before Flop (didn't bet)
+Seat 4: Tyler94876 folded before Flop
+Seat 5: vb11011983 folded before Flop (didn't bet)
+Seat 6: Monkiboy79 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) collected (22800)
+Seat 8: Napoletian (big blind) folded before Flop
+
+
+
+Betfair Hand #262458838065: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XVI (3000/6000) - 2026/10/20 19:52:22 CUST [2026/10/20 14:52:22 ET]
+Table '4040099787 9' 8-max Seat #7 is the button
+Seat 1: vilasss (47680 in chips) 
+Seat 2: rigel_poker (24150 in chips) 
+Seat 3: AdmiralRD (30140 in chips) 
+Seat 4: Tyler94876 (107270 in chips) 
+Seat 5: vb11011983 (18388 in chips) 
+Seat 6: Monkiboy79 (87498 in chips) 
+Seat 7: bullets685 (61144 in chips) 
+Seat 8: Napoletian (40504 in chips) 
+vilasss: posts the ante 600
+rigel_poker: posts the ante 600
+AdmiralRD: posts the ante 600
+Tyler94876: posts the ante 600
+vb11011983: posts the ante 600
+Monkiboy79: posts the ante 600
+bullets685: posts the ante 600
+Napoletian: posts the ante 600
+Napoletian: posts small blind 3000
+vilasss: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to bullets685 [6d Jd]
+rigel_poker: folds 
+AdmiralRD: folds 
+Tyler94876: folds 
+vb11011983: folds 
+Monkiboy79: folds 
+bullets685: raises 6000 to 12000
+Napoletian: folds 
+vilasss: folds 
+Uncalled bet (6000) returned to bullets685
+bullets685 collected 19800 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 19800 | Rake 0 
+Seat 1: vilasss (big blind) folded before Flop
+Seat 2: rigel_poker folded before Flop (didn't bet)
+Seat 3: AdmiralRD folded before Flop (didn't bet)
+Seat 4: Tyler94876 folded before Flop (didn't bet)
+Seat 5: vb11011983 folded before Flop (didn't bet)
+Seat 6: Monkiboy79 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) collected (19800)
+Seat 8: Napoletian (small blind) folded before Flop
+
+
+
+Betfair Hand #262458845720: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XVII (4000/8000) - 2026/10/20 19:53:05 CUST [2026/10/20 14:53:05 ET]
+Table '4040099787 9' 8-max Seat #8 is the button
+Seat 1: vilasss (41080 in chips) 
+Seat 2: rigel_poker (23550 in chips) 
+Seat 3: AdmiralRD (29540 in chips) 
+Seat 4: Tyler94876 (106670 in chips) 
+Seat 5: vb11011983 (17788 in chips) 
+Seat 6: Monkiboy79 (86898 in chips) 
+Seat 7: bullets685 (74344 in chips) 
+Seat 8: Napoletian (36904 in chips) 
+vilasss: posts the ante 800
+rigel_poker: posts the ante 800
+AdmiralRD: posts the ante 800
+Tyler94876: posts the ante 800
+vb11011983: posts the ante 800
+Monkiboy79: posts the ante 800
+bullets685: posts the ante 800
+Napoletian: posts the ante 800
+vilasss: posts small blind 4000
+rigel_poker: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to bullets685 [8s Ad]
+AdmiralRD: folds 
+Tyler94876: folds 
+vb11011983: folds 
+Monkiboy79: folds 
+bullets685: raises 65544 to 73544 and is all-in
+Napoletian: folds 
+vilasss: folds 
+rigel_poker: calls 14750 and is all-in
+Uncalled bet (50794) returned to bullets685
+*** FLOP *** [6c 6h Ah]
+*** TURN *** [6c 6h Ah] [9h]
+*** RIVER *** [6c 6h Ah 9h] [4d]
+*** SHOW DOWN ***
+rigel_poker: shows [8d 9d] (two pair, Nines and Sixes)
+bullets685: shows [8s Ad] (two pair, Aces and Sixes)
+bullets685 collected 55900 from pot
+rigel_poker finished the tournament in 51st place
+*** SUMMARY ***
+Total pot 55900 | Rake 0 
+Board [6c 6h Ah 9h 4d]
+Seat 1: vilasss (small blind) folded before Flop
+Seat 2: rigel_poker (big blind) showed [8d 9d] and lost with two pair, Nines and Sixes
+Seat 3: AdmiralRD folded before Flop (didn't bet)
+Seat 4: Tyler94876 folded before Flop (didn't bet)
+Seat 5: vb11011983 folded before Flop (didn't bet)
+Seat 6: Monkiboy79 folded before Flop (didn't bet)
+Seat 7: bullets685 showed [8s Ad] and won (55900) with two pair, Aces and Sixes
+Seat 8: Napoletian (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458852476: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XVII (4000/8000) - 2026/10/20 19:53:44 CUST [2026/10/20 14:53:44 ET]
+Table '4040099787 9' 8-max Seat #1 is the button
+Seat 1: vilasss (36280 in chips) 
+Seat 3: AdmiralRD (28740 in chips) 
+Seat 4: Tyler94876 (105870 in chips) 
+Seat 5: vb11011983 (16988 in chips) 
+Seat 6: Monkiboy79 (86098 in chips) 
+Seat 7: bullets685 (106694 in chips) 
+Seat 8: Napoletian (36104 in chips) 
+vilasss: posts the ante 800
+AdmiralRD: posts the ante 800
+Tyler94876: posts the ante 800
+vb11011983: posts the ante 800
+Monkiboy79: posts the ante 800
+bullets685: posts the ante 800
+Napoletian: posts the ante 800
+AdmiralRD: posts small blind 4000
+Tyler94876: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to bullets685 [8d As]
+vb11011983: folds 
+Monkiboy79: folds 
+bullets685: folds 
+Napoletian: folds 
+vilasss: raises 27480 to 35480 and is all-in
+AdmiralRD: folds 
+Tyler94876: folds 
+Uncalled bet (27480) returned to vilasss
+vilasss collected 25600 from pot
+*** SUMMARY ***
+Total pot 25600 | Rake 0 
+Seat 1: vilasss (button) collected (25600)
+Seat 3: AdmiralRD (small blind) folded before Flop
+Seat 4: Tyler94876 (big blind) folded before Flop
+Seat 5: vb11011983 folded before Flop (didn't bet)
+Seat 6: Monkiboy79 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Napoletian folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458859607: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XVII (4000/8000) - 2026/10/20 19:54:22 CUST [2026/10/20 14:54:22 ET]
+Table '4040099787 9' 8-max Seat #3 is the button
+Seat 1: vilasss (53080 in chips) 
+Seat 3: AdmiralRD (23940 in chips) 
+Seat 4: Tyler94876 (97070 in chips) 
+Seat 5: vb11011983 (16188 in chips) 
+Seat 6: Monkiboy79 (85298 in chips) 
+Seat 7: bullets685 (105894 in chips) 
+Seat 8: Napoletian (35304 in chips) 
+vilasss: posts the ante 800
+AdmiralRD: posts the ante 800
+Tyler94876: posts the ante 800
+vb11011983: posts the ante 800
+Monkiboy79: posts the ante 800
+bullets685: posts the ante 800
+Napoletian: posts the ante 800
+Tyler94876: posts small blind 4000
+vb11011983: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah Kd]
+Monkiboy79: folds 
+bullets685: raises 97094 to 105094 and is all-in
+Napoletian: folds 
+vilasss: folds 
+AdmiralRD: calls 23140 and is all-in
+Tyler94876: folds 
+vb11011983: folds 
+Uncalled bet (81954) returned to bullets685
+*** FLOP *** [2d Ac 8d]
+*** TURN *** [2d Ac 8d] [3h]
+*** RIVER *** [2d Ac 8d 3h] [Jd]
+*** SHOW DOWN ***
+bullets685: shows [Ah Kd] (a pair of Aces)
+AdmiralRD: shows [Qc As] (a pair of Aces - lower kicker)
+bullets685 collected 63880 from pot
+AdmiralRD finished the tournament in 49th place
+*** SUMMARY ***
+Total pot 63880 | Rake 0 
+Board [2d Ac 8d 3h Jd]
+Seat 1: vilasss folded before Flop (didn't bet)
+Seat 3: AdmiralRD (button) showed [Qc As] and lost with a pair of Aces
+Seat 4: Tyler94876 (small blind) folded before Flop
+Seat 5: vb11011983 (big blind) folded before Flop
+Seat 6: Monkiboy79 folded before Flop (didn't bet)
+Seat 7: bullets685 showed [Ah Kd] and won (63880) with a pair of Aces
+Seat 8: Napoletian folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458911453: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XVII (4000/8000) - 2026/10/20 20:00:57 CUST [2026/10/20 15:00:57 ET]
+Table '4040099787 4' 8-max Seat #1 is the button
+Seat 1: Null1997 (101640 in chips) 
+Seat 2: mypokeraces (36885 in chips) 
+Seat 3: bullets685 (145834 in chips) 
+Seat 4: cholo214 (72343 in chips) 
+Seat 5: shure180 (35155 in chips) 
+Seat 6: NZOG (56106 in chips) 
+Seat 7: mr.kralle (53090 in chips) 
+Seat 8: Hubafisk (28070 in chips) 
+Null1997: posts the ante 800
+mypokeraces: posts the ante 800
+bullets685: posts the ante 800
+cholo214: posts the ante 800
+shure180: posts the ante 800
+NZOG: posts the ante 800
+mr.kralle: posts the ante 800
+Hubafisk: posts the ante 800
+mypokeraces: posts small blind 4000
+bullets685: posts big blind 8000
+*** HOLE CARDS ***
+Dealt to bullets685 [2s 3c]
+cholo214: folds 
+shure180: folds 
+NZOG: folds 
+mr.kralle is disconnected 
+mr.kralle is connected 
+mr.kralle: folds 
+Hubafisk: raises 19270 to 27270 and is all-in
+Null1997: folds 
+mypokeraces: folds 
+bullets685: calls 19270
+*** FLOP *** [5s Td 4c]
+*** TURN *** [5s Td 4c] [3s]
+*** RIVER *** [5s Td 4c 3s] [Th]
+*** SHOW DOWN ***
+bullets685: shows [2s 3c] (two pair, Tens and Threes)
+Hubafisk: shows [Kh As] (a pair of Tens)
+bullets685 collected 64940 from pot
+Hubafisk finished the tournament in 47th place
+*** SUMMARY ***
+Total pot 64940 | Rake 0 
+Board [5s Td 4c 3s Th]
+Seat 1: Null1997 (button) folded before Flop (didn't bet)
+Seat 2: mypokeraces (small blind) folded before Flop
+Seat 3: bullets685 (big blind) showed [2s 3c] and won (64940) with two pair, Tens and Threes
+Seat 4: cholo214 folded before Flop (didn't bet)
+Seat 5: shure180 folded before Flop (didn't bet)
+Seat 6: NZOG folded before Flop (didn't bet)
+Seat 7: mr.kralle folded before Flop (didn't bet)
+Seat 8: Hubafisk showed [Kh As] and lost with a pair of Tens
+
+
+
+Betfair Hand #262458921467: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XVIII (5000/10000) - 2026/10/20 20:01:59 CUST [2026/10/20 15:01:59 ET]
+Table '4040099787 4' 8-max Seat #2 is the button
+Seat 1: Null1997 (100840 in chips) 
+Seat 2: mypokeraces (32085 in chips) 
+Seat 3: bullets685 (182704 in chips) 
+Seat 4: cholo214 (71543 in chips) 
+Seat 5: shure180 (34355 in chips) 
+Seat 6: NZOG (55306 in chips) 
+Seat 7: mr.kralle (52290 in chips) 
+Null1997: posts the ante 1000
+mypokeraces: posts the ante 1000
+bullets685: posts the ante 1000
+cholo214: posts the ante 1000
+shure180: posts the ante 1000
+NZOG: posts the ante 1000
+mr.kralle: posts the ante 1000
+bullets685: posts small blind 5000
+cholo214: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to bullets685 [3c 3d]
+shure180: folds 
+NZOG: folds 
+mr.kralle: folds 
+Null1997: folds 
+mypokeraces: folds 
+bullets685: raises 171704 to 181704 and is all-in
+cholo214: folds 
+Uncalled bet (171704) returned to bullets685
+bullets685 collected 27000 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 27000 | Rake 0 
+Seat 1: Null1997 folded before Flop (didn't bet)
+Seat 2: mypokeraces (button) folded before Flop (didn't bet)
+Seat 3: bullets685 (small blind) collected (27000)
+Seat 4: cholo214 (big blind) folded before Flop
+Seat 5: shure180 folded before Flop (didn't bet)
+Seat 6: NZOG folded before Flop (didn't bet)
+Seat 7: mr.kralle folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458929220: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XVIII (5000/10000) - 2026/10/20 20:02:44 CUST [2026/10/20 15:02:44 ET]
+Table '4040099787 4' 8-max Seat #3 is the button
+Seat 1: Null1997 (99840 in chips) 
+Seat 2: mypokeraces (31085 in chips) 
+Seat 3: bullets685 (198704 in chips) 
+Seat 4: cholo214 (60543 in chips) 
+Seat 5: shure180 (33355 in chips) 
+Seat 6: NZOG (54306 in chips) 
+Seat 7: mr.kralle (51290 in chips) 
+Null1997: posts the ante 1000
+mypokeraces: posts the ante 1000
+bullets685: posts the ante 1000
+cholo214: posts the ante 1000
+shure180: posts the ante 1000
+NZOG: posts the ante 1000
+mr.kralle: posts the ante 1000
+cholo214: posts small blind 5000
+shure180: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to bullets685 [7d Ts]
+NZOG: folds 
+mr.kralle: folds 
+Null1997: folds 
+mypokeraces: raises 20085 to 30085 and is all-in
+bullets685: folds 
+cholo214: folds 
+shure180: folds 
+Uncalled bet (20085) returned to mypokeraces
+mypokeraces collected 32000 from pot
+mypokeraces: doesn't show hand 
+*** SUMMARY ***
+Total pot 32000 | Rake 0 
+Seat 1: Null1997 folded before Flop (didn't bet)
+Seat 2: mypokeraces collected (32000)
+Seat 3: bullets685 (button) folded before Flop (didn't bet)
+Seat 4: cholo214 (small blind) folded before Flop
+Seat 5: shure180 (big blind) folded before Flop
+Seat 6: NZOG folded before Flop (didn't bet)
+Seat 7: mr.kralle folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458939137: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XVIII (5000/10000) - 2026/10/20 20:03:40 CUST [2026/10/20 15:03:40 ET]
+Table '4040099787 4' 8-max Seat #4 is the button
+Seat 1: Null1997 (98840 in chips) 
+Seat 2: mypokeraces (52085 in chips) 
+Seat 3: bullets685 (197704 in chips) 
+Seat 4: cholo214 (54543 in chips) 
+Seat 5: shure180 (22355 in chips) 
+Seat 6: NZOG (53306 in chips) 
+Seat 7: mr.kralle (50290 in chips) 
+Null1997: posts the ante 1000
+mypokeraces: posts the ante 1000
+bullets685: posts the ante 1000
+cholo214: posts the ante 1000
+shure180: posts the ante 1000
+NZOG: posts the ante 1000
+mr.kralle: posts the ante 1000
+shure180: posts small blind 5000
+NZOG: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to bullets685 [6s 4d]
+mr.kralle: folds 
+Null1997: folds 
+mypokeraces: folds 
+bullets685: folds 
+cholo214: folds 
+shure180: folds 
+Uncalled bet (5000) returned to NZOG
+NZOG collected 17000 from pot
+*** SUMMARY ***
+Total pot 17000 | Rake 0 
+Seat 1: Null1997 folded before Flop (didn't bet)
+Seat 2: mypokeraces folded before Flop (didn't bet)
+Seat 3: bullets685 folded before Flop (didn't bet)
+Seat 4: cholo214 (button) folded before Flop (didn't bet)
+Seat 5: shure180 (small blind) folded before Flop
+Seat 6: NZOG (big blind) collected (17000)
+Seat 7: mr.kralle folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458948418: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XVIII (5000/10000) - 2026/10/20 20:04:32 CUST [2026/10/20 15:04:32 ET]
+Table '4040099787 4' 8-max Seat #5 is the button
+Seat 1: Null1997 (97840 in chips) 
+Seat 2: mypokeraces (51085 in chips) 
+Seat 3: bullets685 (196704 in chips) 
+Seat 4: cholo214 (53543 in chips) 
+Seat 5: shure180 (16355 in chips) 
+Seat 6: NZOG (64306 in chips) 
+Seat 7: mr.kralle (49290 in chips) 
+Null1997: posts the ante 1000
+mypokeraces: posts the ante 1000
+bullets685: posts the ante 1000
+cholo214: posts the ante 1000
+shure180: posts the ante 1000
+NZOG: posts the ante 1000
+mr.kralle: posts the ante 1000
+NZOG: posts small blind 5000
+mr.kralle: posts big blind 10000
+*** HOLE CARDS ***
+Dealt to bullets685 [7s 9c]
+Null1997: calls 10000
+mypokeraces: folds 
+bullets685: folds 
+cholo214: folds 
+shure180: folds 
+NZOG: calls 5000
+mr.kralle: checks 
+*** FLOP *** [Kh Ah Ts]
+NZOG: bets 53306 and is all-in
+mr.kralle: folds 
+Null1997: calls 53306
+*** TURN *** [Kh Ah Ts] [5h]
+*** RIVER *** [Kh Ah Ts 5h] [Ac]
+*** SHOW DOWN ***
+NZOG: shows [Ad Qh] (three of a kind, Aces)
+Null1997: shows [Jc Ks] (two pair, Aces and Kings)
+NZOG collected 143612 from pot
+*** SUMMARY ***
+Total pot 143612 | Rake 0 
+Board [Kh Ah Ts 5h Ac]
+Seat 1: Null1997 showed [Jc Ks] and lost with two pair, Aces and Kings
+Seat 2: mypokeraces folded before Flop (didn't bet)
+Seat 3: bullets685 folded before Flop (didn't bet)
+Seat 4: cholo214 folded before Flop (didn't bet)
+Seat 5: shure180 (button) folded before Flop (didn't bet)
+Seat 6: NZOG (small blind) showed [Ad Qh] and won (143612) with three of a kind, Aces
+Seat 7: mr.kralle (big blind) folded on the Flop
+
+
+
+Betfair Hand #262458960042: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XIX (6000/12000) - 2026/10/20 20:05:36 CUST [2026/10/20 15:05:36 ET]
+Table '4040099787 4' 8-max Seat #6 is the button
+Seat 1: Null1997 (33534 in chips) 
+Seat 2: mypokeraces (50085 in chips) 
+Seat 3: bullets685 (195704 in chips) 
+Seat 4: cholo214 (52543 in chips) 
+Seat 5: shure180 (15355 in chips) 
+Seat 6: NZOG (143612 in chips) 
+Seat 7: mr.kralle (38290 in chips) 
+Null1997: posts the ante 1200
+mypokeraces: posts the ante 1200
+bullets685: posts the ante 1200
+cholo214: posts the ante 1200
+shure180: posts the ante 1200
+NZOG: posts the ante 1200
+mr.kralle: posts the ante 1200
+mr.kralle: posts small blind 6000
+Null1997: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 9d]
+mypokeraces: folds 
+bullets685: raises 12000 to 24000
+cholo214: folds 
+shure180: folds 
+NZOG: folds 
+mr.kralle: folds 
+Null1997: folds 
+Uncalled bet (12000) returned to bullets685
+bullets685 collected 38400 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 38400 | Rake 0 
+Seat 1: Null1997 (big blind) folded before Flop
+Seat 2: mypokeraces folded before Flop (didn't bet)
+Seat 3: bullets685 collected (38400)
+Seat 4: cholo214 folded before Flop (didn't bet)
+Seat 5: shure180 folded before Flop (didn't bet)
+Seat 6: NZOG (button) folded before Flop (didn't bet)
+Seat 7: mr.kralle (small blind) folded before Flop
+
+
+
+Betfair Hand #262458968866: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XIX (6000/12000) - 2026/10/20 20:06:23 CUST [2026/10/20 15:06:23 ET]
+Table '4040099787 4' 8-max Seat #7 is the button
+Seat 1: Null1997 (20334 in chips) 
+Seat 2: mypokeraces (48885 in chips) 
+Seat 3: bullets685 (220904 in chips) 
+Seat 4: cholo214 (51343 in chips) 
+Seat 5: shure180 (14155 in chips) 
+Seat 6: NZOG (142412 in chips) 
+Seat 7: mr.kralle (31090 in chips) 
+Null1997: posts the ante 1200
+mypokeraces: posts the ante 1200
+bullets685: posts the ante 1200
+cholo214: posts the ante 1200
+shure180: posts the ante 1200
+NZOG: posts the ante 1200
+mr.kralle: posts the ante 1200
+Null1997: posts small blind 6000
+mypokeraces: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to bullets685 [7s 9c]
+bullets685: folds 
+cholo214: folds 
+shure180: folds 
+NZOG: folds 
+mr.kralle has timed out
+mr.kralle: folds 
+mr.kralle is sitting out
+Null1997: folds 
+Uncalled bet (6000) returned to mypokeraces
+mypokeraces collected 20400 from pot
+mypokeraces: doesn't show hand 
+*** SUMMARY ***
+Total pot 20400 | Rake 0 
+Seat 1: Null1997 (small blind) folded before Flop
+Seat 2: mypokeraces (big blind) collected (20400)
+Seat 3: bullets685 folded before Flop (didn't bet)
+Seat 4: cholo214 folded before Flop (didn't bet)
+Seat 5: shure180 folded before Flop (didn't bet)
+Seat 6: NZOG folded before Flop (didn't bet)
+Seat 7: mr.kralle (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458977574: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XIX (6000/12000) - 2026/10/20 20:07:10 CUST [2026/10/20 15:07:10 ET]
+Table '4040099787 4' 8-max Seat #1 is the button
+Seat 1: Null1997 (13134 in chips) 
+Seat 2: mypokeraces (62085 in chips) 
+Seat 3: bullets685 (219704 in chips) 
+Seat 4: cholo214 (50143 in chips) 
+Seat 5: shure180 (12955 in chips) 
+Seat 6: NZOG (141212 in chips) 
+Seat 7: mr.kralle (29890 in chips) is sitting out
+Null1997: posts the ante 1200
+mypokeraces: posts the ante 1200
+bullets685: posts the ante 1200
+cholo214: posts the ante 1200
+shure180: posts the ante 1200
+NZOG: posts the ante 1200
+mr.kralle: posts the ante 1200
+mypokeraces: posts small blind 6000
+bullets685: posts big blind 12000
+*** HOLE CARDS ***
+Dealt to bullets685 [4h 4s]
+cholo214: folds 
+mr.kralle has returned
+shure180: folds 
+NZOG: folds 
+mr.kralle: folds 
+Null1997: folds 
+mypokeraces: folds 
+Uncalled bet (6000) returned to bullets685
+bullets685 collected 20400 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 20400 | Rake 0 
+Seat 1: Null1997 (button) folded before Flop (didn't bet)
+Seat 2: mypokeraces (small blind) folded before Flop
+Seat 3: bullets685 (big blind) collected (20400)
+Seat 4: cholo214 folded before Flop (didn't bet)
+Seat 5: shure180 folded before Flop (didn't bet)
+Seat 6: NZOG folded before Flop (didn't bet)
+Seat 7: mr.kralle folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458986258: Tournament #4040099787, $1.40+$0.10 USD Hold'em No Limit - Level XX (8000/16000) - 2026/10/20 20:07:57 CUST [2026/10/20 15:07:57 ET]
+Table '4040099787 4' 8-max Seat #2 is the button
+Seat 1: Null1997 (11934 in chips) 
+Seat 2: mypokeraces (54885 in chips) 
+Seat 3: bullets685 (232904 in chips) 
+Seat 4: cholo214 (48943 in chips) 
+Seat 5: shure180 (11755 in chips) 
+Seat 6: NZOG (140012 in chips) 
+Seat 7: mr.kralle (28690 in chips) 
+Null1997: posts the ante 1600
+mypokeraces: posts the ante 1600
+bullets685: posts the ante 1600
+cholo214: posts the ante 1600
+shure180: posts the ante 1600
+NZOG: posts the ante 1600
+mr.kralle: posts the ante 1600
+bullets685: posts small blind 8000
+cholo214: posts big blind 16000
+*** HOLE CARDS ***
+Dealt to bullets685 [4c 3h]
+shure180: calls 10155 and is all-in
+NZOG: folds 
+mr.kralle has timed out
+mr.kralle: folds 
+mr.kralle is sitting out
+mr.kralle has returned
+Null1997: folds 
+mypokeraces: folds 
+bullets685: raises 32000 to 48000
+cholo214: folds 
+Uncalled bet (32000) returned to bullets685
+*** FLOP *** [2d 3c 9c]
+*** TURN *** [2d 3c 9c] [8d]
+*** RIVER *** [2d 3c 9c 8d] [5c]
+*** SHOW DOWN ***
+bullets685: shows [4c 3h] (a pair of Threes)
+bullets685 collected 11690 from side pot
+shure180: shows [Kh Jc] (high card King)
+bullets685 collected 41665 from main pot
+*** SUMMARY ***
+Total pot 53355 Main pot 41665. Side pot 11690. | Rake 0 
+Board [2d 3c 9c 8d 5c]
+Seat 1: Null1997 folded before Flop (didn't bet)
+Seat 2: mypokeraces (button) folded before Flop (didn't bet)
+Seat 3: bullets685 (small blind) showed [4c 3h] and won (53355) with a pair of Threes
+Seat 4: cholo214 (big blind) folded before Flop
+Seat 5: shure180 showed [Kh Jc] and lost with high card King
+Seat 6: NZOG folded before Flop (didn't bet)
+Seat 7: mr.kralle folded before Flop (didn't bet)
+
+
+

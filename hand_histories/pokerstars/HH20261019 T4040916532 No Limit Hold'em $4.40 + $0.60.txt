@@ -1,0 +1,3133 @@
+﻿Betfair Hand #262447485184: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/19 17:32:26 CUST [2026/10/19 12:32:26 ET]
+Table '4040916532 1' 9-max Seat #1 is the button
+Seat 1: regeki504 (1500 in chips) 
+Seat 2: Hejsa99 (1500 in chips) 
+Seat 3: 1o0qnov7 (1500 in chips) 
+Seat 4: donkbet87 (1500 in chips) 
+Seat 5: balchikbul (1500 in chips) 
+Seat 6: shakaa01 (1500 in chips) 
+Seat 7: bullets685 (1500 in chips) 
+Seat 8: LASIUD (1500 in chips) 
+Seat 9: CADILLACJET (1500 in chips) 
+regeki504: posts the ante 3
+Hejsa99: posts the ante 3
+1o0qnov7: posts the ante 3
+donkbet87: posts the ante 3
+balchikbul: posts the ante 3
+shakaa01: posts the ante 3
+bullets685: posts the ante 3
+LASIUD: posts the ante 3
+CADILLACJET: posts the ante 3
+Hejsa99: posts small blind 10
+1o0qnov7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [Kh 9c]
+donkbet87: calls 20
+balchikbul: folds 
+shakaa01: folds 
+bullets685: raises 35 to 55
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: calls 45
+1o0qnov7: folds 
+donkbet87: calls 35
+*** FLOP *** [Ks 9s 7c]
+Hejsa99: checks 
+donkbet87: checks 
+bullets685: bets 140
+Hejsa99: folds 
+donkbet87: folds 
+Uncalled bet (140) returned to bullets685
+bullets685 collected 212 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 212 | Rake 0 
+Board [Ks 9s 7c]
+Seat 1: regeki504 (button) folded before Flop (didn't bet)
+Seat 2: Hejsa99 (small blind) folded on the Flop
+Seat 3: 1o0qnov7 (big blind) folded before Flop
+Seat 4: donkbet87 folded on the Flop
+Seat 5: balchikbul folded before Flop (didn't bet)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 collected (212)
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447498852: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/19 17:33:44 CUST [2026/10/19 12:33:44 ET]
+Table '4040916532 1' 9-max Seat #2 is the button
+Seat 1: regeki504 (1497 in chips) 
+Seat 2: Hejsa99 (1442 in chips) 
+Seat 3: 1o0qnov7 (1477 in chips) 
+Seat 4: donkbet87 (1442 in chips) 
+Seat 5: balchikbul (1497 in chips) 
+Seat 6: shakaa01 (1497 in chips) 
+Seat 7: bullets685 (1654 in chips) 
+Seat 8: LASIUD (1497 in chips) 
+Seat 9: CADILLACJET (1497 in chips) 
+regeki504: posts the ante 3
+Hejsa99: posts the ante 3
+1o0qnov7: posts the ante 3
+donkbet87: posts the ante 3
+balchikbul: posts the ante 3
+shakaa01: posts the ante 3
+bullets685: posts the ante 3
+LASIUD: posts the ante 3
+CADILLACJET: posts the ante 3
+1o0qnov7: posts small blind 10
+donkbet87: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [9h 3h]
+balchikbul: raises 20 to 40
+shakaa01: folds 
+bullets685: folds 
+LASIUD: calls 40
+CADILLACJET: folds 
+regeki504: raises 80 to 120
+Hejsa99: calls 120
+1o0qnov7: raises 220 to 340
+donkbet87: folds 
+balchikbul: folds 
+LASIUD: folds 
+regeki504: calls 220
+Hejsa99: calls 220
+*** FLOP *** [2s Th 7d]
+1o0qnov7: bets 287
+regeki504: folds 
+Hejsa99: folds 
+Uncalled bet (287) returned to 1o0qnov7
+1o0qnov7 collected 1147 from pot
+1o0qnov7: doesn't show hand 
+*** SUMMARY ***
+Total pot 1147 | Rake 0 
+Board [2s Th 7d]
+Seat 1: regeki504 folded on the Flop
+Seat 2: Hejsa99 (button) folded on the Flop
+Seat 3: 1o0qnov7 (small blind) collected (1147)
+Seat 4: donkbet87 (big blind) folded before Flop
+Seat 5: balchikbul folded before Flop
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD folded before Flop
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447514208: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/19 17:35:11 CUST [2026/10/19 12:35:11 ET]
+Table '4040916532 1' 9-max Seat #3 is the button
+Seat 1: regeki504 (1154 in chips) 
+Seat 2: Hejsa99 (1099 in chips) 
+Seat 3: 1o0qnov7 (2281 in chips) 
+Seat 4: donkbet87 (1419 in chips) 
+Seat 5: balchikbul (1454 in chips) 
+Seat 6: shakaa01 (1494 in chips) 
+Seat 7: bullets685 (1651 in chips) 
+Seat 8: LASIUD (1454 in chips) 
+Seat 9: CADILLACJET (1494 in chips) 
+regeki504: posts the ante 3
+Hejsa99: posts the ante 3
+1o0qnov7: posts the ante 3
+donkbet87: posts the ante 3
+balchikbul: posts the ante 3
+shakaa01: posts the ante 3
+bullets685: posts the ante 3
+LASIUD: posts the ante 3
+CADILLACJET: posts the ante 3
+donkbet87: posts small blind 10
+balchikbul: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [4h 7s]
+shakaa01: folds 
+bullets685: folds 
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: folds 
+1o0qnov7: folds 
+donkbet87: calls 10
+balchikbul: checks 
+*** FLOP *** [7d Kd Td]
+donkbet87: bets 20
+balchikbul: folds 
+Uncalled bet (20) returned to donkbet87
+donkbet87 collected 67 from pot
+*** SUMMARY ***
+Total pot 67 | Rake 0 
+Board [7d Kd Td]
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 (button) folded before Flop (didn't bet)
+Seat 4: donkbet87 (small blind) collected (67)
+Seat 5: balchikbul (big blind) folded on the Flop
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447522565: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/19 17:35:58 CUST [2026/10/19 12:35:58 ET]
+Table '4040916532 1' 9-max Seat #4 is the button
+Seat 1: regeki504 (1151 in chips) 
+Seat 2: Hejsa99 (1096 in chips) 
+Seat 3: 1o0qnov7 (2278 in chips) 
+Seat 4: donkbet87 (1463 in chips) 
+Seat 5: balchikbul (1431 in chips) 
+Seat 6: shakaa01 (1491 in chips) 
+Seat 7: bullets685 (1648 in chips) 
+Seat 8: LASIUD (1451 in chips) 
+Seat 9: CADILLACJET (1491 in chips) 
+regeki504: posts the ante 3
+Hejsa99: posts the ante 3
+1o0qnov7: posts the ante 3
+donkbet87: posts the ante 3
+balchikbul: posts the ante 3
+shakaa01: posts the ante 3
+bullets685: posts the ante 3
+LASIUD: posts the ante 3
+CADILLACJET: posts the ante 3
+balchikbul: posts small blind 10
+shakaa01: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [4s 9h]
+bullets685: folds 
+LASIUD: calls 20
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: folds 
+1o0qnov7: raises 60 to 80
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: folds 
+LASIUD: calls 60
+*** FLOP *** [6d Jc 8c]
+LASIUD: checks 
+1o0qnov7: bets 70
+LASIUD: calls 70
+*** TURN *** [6d Jc 8c] [Qd]
+LASIUD: checks 
+1o0qnov7: checks 
+*** RIVER *** [6d Jc 8c Qd] [As]
+LASIUD: checks 
+1o0qnov7: bets 239
+LASIUD: folds 
+Uncalled bet (239) returned to 1o0qnov7
+1o0qnov7 collected 357 from pot
+1o0qnov7: doesn't show hand 
+*** SUMMARY ***
+Total pot 357 | Rake 0 
+Board [6d Jc 8c Qd As]
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 collected (357)
+Seat 4: donkbet87 (button) folded before Flop (didn't bet)
+Seat 5: balchikbul (small blind) folded before Flop
+Seat 6: shakaa01 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD folded on the River
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447536844: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/19 17:37:22 CUST [2026/10/19 12:37:22 ET]
+Table '4040916532 1' 9-max Seat #5 is the button
+Seat 1: regeki504 (1148 in chips) 
+Seat 2: Hejsa99 (1093 in chips) 
+Seat 3: 1o0qnov7 (2482 in chips) 
+Seat 4: donkbet87 (1460 in chips) 
+Seat 5: balchikbul (1418 in chips) 
+Seat 6: shakaa01 (1468 in chips) 
+Seat 7: bullets685 (1645 in chips) 
+Seat 8: LASIUD (1298 in chips) 
+Seat 9: CADILLACJET (1488 in chips) 
+regeki504: posts the ante 3
+Hejsa99: posts the ante 3
+1o0qnov7: posts the ante 3
+donkbet87: posts the ante 3
+balchikbul: posts the ante 3
+shakaa01: posts the ante 3
+bullets685: posts the ante 3
+LASIUD: posts the ante 3
+CADILLACJET: posts the ante 3
+shakaa01: posts small blind 10
+bullets685: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [3h 5c]
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: raises 100 to 120
+Hejsa99: folds 
+1o0qnov7: folds 
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: folds 
+bullets685: folds 
+Uncalled bet (100) returned to regeki504
+regeki504 collected 77 from pot
+regeki504: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: regeki504 collected (77)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 5: balchikbul (button) folded before Flop (didn't bet)
+Seat 6: shakaa01 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447542467: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/19 17:37:54 CUST [2026/10/19 12:37:54 ET]
+Table '4040916532 1' 9-max Seat #6 is the button
+Seat 1: regeki504 (1202 in chips) 
+Seat 2: Hejsa99 (1090 in chips) 
+Seat 3: 1o0qnov7 (2479 in chips) 
+Seat 4: donkbet87 (1457 in chips) 
+Seat 5: balchikbul (1415 in chips) 
+Seat 6: shakaa01 (1455 in chips) 
+Seat 7: bullets685 (1622 in chips) 
+Seat 8: LASIUD (1295 in chips) 
+Seat 9: CADILLACJET (1485 in chips) 
+regeki504: posts the ante 4
+Hejsa99: posts the ante 4
+1o0qnov7: posts the ante 4
+donkbet87: posts the ante 4
+balchikbul: posts the ante 4
+shakaa01: posts the ante 4
+bullets685: posts the ante 4
+LASIUD: posts the ante 4
+CADILLACJET: posts the ante 4
+bullets685: posts small blind 15
+LASIUD: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [8d Kc]
+CADILLACJET: folds 
+regeki504: raises 57 to 87
+Hejsa99: folds 
+1o0qnov7: folds 
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: folds 
+bullets685: folds 
+LASIUD: calls 57
+*** FLOP *** [6c 7c 5s]
+LASIUD: checks 
+regeki504: bets 30
+LASIUD: folds 
+Uncalled bet (30) returned to regeki504
+regeki504 collected 225 from pot
+regeki504: doesn't show hand 
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Board [6c 7c 5s]
+Seat 1: regeki504 collected (225)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 5: balchikbul folded before Flop (didn't bet)
+Seat 6: shakaa01 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: LASIUD (big blind) folded on the Flop
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447549704: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/19 17:38:37 CUST [2026/10/19 12:38:37 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 1: regeki504 (1336 in chips) 
+Seat 2: Hejsa99 (1086 in chips) 
+Seat 3: 1o0qnov7 (2475 in chips) 
+Seat 4: donkbet87 (1453 in chips) 
+Seat 5: balchikbul (1411 in chips) 
+Seat 6: shakaa01 (1451 in chips) 
+Seat 7: bullets685 (1603 in chips) 
+Seat 8: LASIUD (1204 in chips) 
+Seat 9: CADILLACJET (1481 in chips) 
+regeki504: posts the ante 4
+Hejsa99: posts the ante 4
+1o0qnov7: posts the ante 4
+donkbet87: posts the ante 4
+balchikbul: posts the ante 4
+shakaa01: posts the ante 4
+bullets685: posts the ante 4
+LASIUD: posts the ante 4
+CADILLACJET: posts the ante 4
+LASIUD: posts small blind 15
+CADILLACJET: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc Jd]
+regeki504: folds 
+Hejsa99: folds 
+1o0qnov7: folds 
+donkbet87: folds 
+balchikbul: raises 30 to 60
+shakaa01: raises 75 to 135
+bullets685: calls 135
+LASIUD: folds 
+CADILLACJET: folds 
+balchikbul: calls 75
+*** FLOP *** [7h 2h 4s]
+balchikbul: checks 
+shakaa01: bets 243
+bullets685: calls 243
+balchikbul: folds 
+*** TURN *** [7h 2h 4s] [Ah]
+shakaa01: checks 
+bullets685: bets 300
+shakaa01: calls 300
+*** RIVER *** [7h 2h 4s Ah] [3d]
+shakaa01: checks 
+bullets685: checks 
+*** SHOW DOWN ***
+shakaa01: shows [Ts Th] (a pair of Tens)
+bullets685: shows [Jc Jd] (a pair of Jacks)
+bullets685 collected 1572 from pot
+*** SUMMARY ***
+Total pot 1572 | Rake 0 
+Board [7h 2h 4s Ah 3d]
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 5: balchikbul folded on the Flop
+Seat 6: shakaa01 showed [Ts Th] and lost with a pair of Tens
+Seat 7: bullets685 (button) showed [Jc Jd] and won (1572) with a pair of Jacks
+Seat 8: LASIUD (small blind) folded before Flop
+Seat 9: CADILLACJET (big blind) folded before Flop
+
+
+
+Betfair Hand #262447560238: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/19 17:39:40 CUST [2026/10/19 12:39:40 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 1: regeki504 (1332 in chips) 
+Seat 2: Hejsa99 (1082 in chips) 
+Seat 3: 1o0qnov7 (2471 in chips) 
+Seat 4: donkbet87 (1449 in chips) 
+Seat 5: balchikbul (1272 in chips) 
+Seat 6: shakaa01 (769 in chips) 
+Seat 7: bullets685 (2493 in chips) 
+Seat 8: LASIUD (1185 in chips) 
+Seat 9: CADILLACJET (1447 in chips) 
+regeki504: posts the ante 4
+Hejsa99: posts the ante 4
+1o0qnov7: posts the ante 4
+donkbet87: posts the ante 4
+balchikbul: posts the ante 4
+shakaa01: posts the ante 4
+bullets685: posts the ante 4
+LASIUD: posts the ante 4
+CADILLACJET: posts the ante 4
+CADILLACJET: posts small blind 15
+regeki504: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [3c 3s]
+Hejsa99: folds 
+1o0qnov7: raises 39 to 69
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: folds 
+bullets685: calls 69
+LASIUD: calls 69
+CADILLACJET: calls 54
+regeki504: calls 39
+*** FLOP *** [9d Qs 4c]
+CADILLACJET: checks 
+regeki504: bets 150
+1o0qnov7: calls 150
+bullets685: folds 
+LASIUD: folds 
+CADILLACJET: folds 
+*** TURN *** [9d Qs 4c] [2h]
+regeki504: bets 270
+1o0qnov7: folds 
+Uncalled bet (270) returned to regeki504
+regeki504 collected 681 from pot
+regeki504: doesn't show hand 
+*** SUMMARY ***
+Total pot 681 | Rake 0 
+Board [9d Qs 4c 2h]
+Seat 1: regeki504 (big blind) collected (681)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 folded on the Turn
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 5: balchikbul folded before Flop (didn't bet)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 folded on the Flop
+Seat 8: LASIUD (button) folded on the Flop
+Seat 9: CADILLACJET (small blind) folded on the Flop
+
+
+
+Betfair Hand #262447571285: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/19 17:40:46 CUST [2026/10/19 12:40:46 ET]
+Table '4040916532 1' 9-max Seat #9 is the button
+Seat 1: regeki504 (1790 in chips) 
+Seat 2: Hejsa99 (1078 in chips) 
+Seat 3: 1o0qnov7 (2248 in chips) 
+Seat 4: donkbet87 (1445 in chips) 
+Seat 5: balchikbul (1268 in chips) 
+Seat 6: shakaa01 (765 in chips) 
+Seat 7: bullets685 (2420 in chips) 
+Seat 8: LASIUD (1112 in chips) 
+Seat 9: CADILLACJET (1374 in chips) 
+regeki504: posts the ante 4
+Hejsa99: posts the ante 4
+1o0qnov7: posts the ante 4
+donkbet87: posts the ante 4
+balchikbul: posts the ante 4
+shakaa01: posts the ante 4
+bullets685: posts the ante 4
+LASIUD: posts the ante 4
+CADILLACJET: posts the ante 4
+regeki504: posts small blind 15
+Hejsa99: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [8d Ks]
+1o0qnov7: folds 
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: folds 
+bullets685: folds 
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: raises 45 to 75
+Hejsa99: folds 
+Uncalled bet (45) returned to regeki504
+regeki504 collected 96 from pot
+regeki504: doesn't show hand 
+*** SUMMARY ***
+Total pot 96 | Rake 0 
+Seat 1: regeki504 (small blind) collected (96)
+Seat 2: Hejsa99 (big blind) folded before Flop
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 5: balchikbul folded before Flop (didn't bet)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447576538: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/19 17:41:17 CUST [2026/10/19 12:41:17 ET]
+Table '4040916532 1' 9-max Seat #1 is the button
+Seat 1: regeki504 (1852 in chips) 
+Seat 2: Hejsa99 (1044 in chips) 
+Seat 3: 1o0qnov7 (2244 in chips) 
+Seat 4: donkbet87 (1441 in chips) 
+Seat 5: balchikbul (1264 in chips) 
+Seat 6: shakaa01 (761 in chips) 
+Seat 7: bullets685 (2416 in chips) 
+Seat 8: LASIUD (1108 in chips) 
+Seat 9: CADILLACJET (1370 in chips) 
+regeki504: posts the ante 4
+Hejsa99: posts the ante 4
+1o0qnov7: posts the ante 4
+donkbet87: posts the ante 4
+balchikbul: posts the ante 4
+shakaa01: posts the ante 4
+bullets685: posts the ante 4
+LASIUD: posts the ante 4
+CADILLACJET: posts the ante 4
+Hejsa99: posts small blind 15
+1o0qnov7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [6s 3d]
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: folds 
+bullets685: folds 
+LASIUD: folds 
+CADILLACJET: raises 45 to 75
+regeki504: folds 
+Hejsa99: folds 
+1o0qnov7: raises 195 to 270
+CADILLACJET: folds 
+Uncalled bet (195) returned to 1o0qnov7
+1o0qnov7 collected 201 from pot
+1o0qnov7: doesn't show hand 
+*** SUMMARY ***
+Total pot 201 | Rake 0 
+Seat 1: regeki504 (button) folded before Flop (didn't bet)
+Seat 2: Hejsa99 (small blind) folded before Flop
+Seat 3: 1o0qnov7 (big blind) collected (201)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 5: balchikbul folded before Flop (didn't bet)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET folded before Flop
+
+
+
+Betfair Hand #262447585260: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/19 17:42:09 CUST [2026/10/19 12:42:09 ET]
+Table '4040916532 1' 9-max Seat #2 is the button
+Seat 1: regeki504 (1848 in chips) 
+Seat 2: Hejsa99 (1025 in chips) 
+Seat 3: 1o0qnov7 (2366 in chips) 
+Seat 4: donkbet87 (1437 in chips) 
+Seat 5: balchikbul (1260 in chips) 
+Seat 6: shakaa01 (757 in chips) 
+Seat 7: bullets685 (2412 in chips) 
+Seat 8: LASIUD (1104 in chips) 
+Seat 9: CADILLACJET (1291 in chips) 
+regeki504: posts the ante 4
+Hejsa99: posts the ante 4
+1o0qnov7: posts the ante 4
+donkbet87: posts the ante 4
+balchikbul: posts the ante 4
+shakaa01: posts the ante 4
+bullets685: posts the ante 4
+LASIUD: posts the ante 4
+CADILLACJET: posts the ante 4
+1o0qnov7: posts small blind 15
+donkbet87: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc Qc]
+balchikbul: folds 
+shakaa01: folds 
+bullets685: raises 52 to 82
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: raises 82 to 164
+Hejsa99: folds 
+1o0qnov7: folds 
+donkbet87: folds 
+bullets685: calls 82
+*** FLOP *** [3h 8h Kh]
+bullets685: checks 
+regeki504: checks 
+*** TURN *** [3h 8h Kh] [9h]
+bullets685: bets 210
+regeki504: calls 210
+*** RIVER *** [3h 8h Kh 9h] [8c]
+bullets685: bets 510
+regeki504: raises 510 to 1020
+bullets685: folds 
+Uncalled bet (510) returned to regeki504
+regeki504 collected 1849 from pot
+regeki504: doesn't show hand 
+*** SUMMARY ***
+Total pot 1849 | Rake 0 
+Board [3h 8h Kh 9h 8c]
+Seat 1: regeki504 collected (1849)
+Seat 2: Hejsa99 (button) folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 (small blind) folded before Flop
+Seat 4: donkbet87 (big blind) folded before Flop
+Seat 5: balchikbul folded before Flop (didn't bet)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 folded on the River
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447598939: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/19 17:43:30 CUST [2026/10/19 12:43:30 ET]
+Table '4040916532 1' 9-max Seat #3 is the button
+Seat 1: regeki504 (2809 in chips) 
+Seat 2: Hejsa99 (1021 in chips) 
+Seat 3: 1o0qnov7 (2347 in chips) 
+Seat 4: donkbet87 (1403 in chips) 
+Seat 5: balchikbul (1256 in chips) 
+Seat 6: shakaa01 (753 in chips) 
+Seat 7: bullets685 (1524 in chips) 
+Seat 8: LASIUD (1100 in chips) 
+Seat 9: CADILLACJET (1287 in chips) 
+regeki504: posts the ante 6
+Hejsa99: posts the ante 6
+1o0qnov7: posts the ante 6
+donkbet87: posts the ante 6
+balchikbul: posts the ante 6
+shakaa01: posts the ante 6
+bullets685: posts the ante 6
+LASIUD: posts the ante 6
+CADILLACJET: posts the ante 6
+donkbet87: posts small blind 25
+balchikbul: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [5s Ad]
+shakaa01: folds 
+bullets685: folds 
+LASIUD: raises 50 to 100
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: folds 
+1o0qnov7: folds 
+donkbet87: folds 
+balchikbul: folds 
+Uncalled bet (50) returned to LASIUD
+LASIUD collected 179 from pot
+LASIUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 (button) folded before Flop (didn't bet)
+Seat 4: donkbet87 (small blind) folded before Flop
+Seat 5: balchikbul (big blind) folded before Flop
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD collected (179)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447603871: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/19 17:43:59 CUST [2026/10/19 12:43:59 ET]
+Table '4040916532 1' 9-max Seat #4 is the button
+Seat 1: regeki504 (2803 in chips) 
+Seat 2: Hejsa99 (1015 in chips) 
+Seat 3: 1o0qnov7 (2341 in chips) 
+Seat 4: donkbet87 (1372 in chips) 
+Seat 5: balchikbul (1200 in chips) 
+Seat 6: shakaa01 (747 in chips) 
+Seat 7: bullets685 (1518 in chips) 
+Seat 8: LASIUD (1223 in chips) 
+Seat 9: CADILLACJET (1281 in chips) 
+regeki504: posts the ante 6
+Hejsa99: posts the ante 6
+1o0qnov7: posts the ante 6
+donkbet87: posts the ante 6
+balchikbul: posts the ante 6
+shakaa01: posts the ante 6
+bullets685: posts the ante 6
+LASIUD: posts the ante 6
+CADILLACJET: posts the ante 6
+balchikbul: posts small blind 25
+shakaa01: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [4s 3d]
+bullets685: folds 
+LASIUD: folds 
+CADILLACJET: raises 50 to 100
+regeki504: folds 
+Hejsa99: folds 
+1o0qnov7: folds 
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: folds 
+Uncalled bet (50) returned to CADILLACJET
+CADILLACJET collected 179 from pot
+CADILLACJET: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 (button) folded before Flop (didn't bet)
+Seat 5: balchikbul (small blind) folded before Flop
+Seat 6: shakaa01 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET collected (179)
+
+
+
+Betfair Hand #262447610738: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/19 17:44:41 CUST [2026/10/19 12:44:41 ET]
+Table '4040916532 1' 9-max Seat #5 is the button
+Seat 1: regeki504 (2797 in chips) 
+Seat 2: Hejsa99 (1009 in chips) 
+Seat 3: 1o0qnov7 (2335 in chips) 
+Seat 4: donkbet87 (1366 in chips) 
+Seat 5: balchikbul (1169 in chips) 
+Seat 6: shakaa01 (691 in chips) 
+Seat 7: bullets685 (1512 in chips) 
+Seat 8: LASIUD (1217 in chips) 
+Seat 9: CADILLACJET (1404 in chips) 
+regeki504: posts the ante 6
+Hejsa99: posts the ante 6
+1o0qnov7: posts the ante 6
+donkbet87: posts the ante 6
+balchikbul: posts the ante 6
+shakaa01: posts the ante 6
+bullets685: posts the ante 6
+LASIUD: posts the ante 6
+CADILLACJET: posts the ante 6
+shakaa01: posts small blind 25
+bullets685: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc 7d]
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: folds 
+1o0qnov7: folds 
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: calls 25
+bullets685: checks 
+*** FLOP *** [9h 4c 7c]
+shakaa01: checks 
+bullets685: bets 100
+shakaa01: folds 
+Uncalled bet (100) returned to bullets685
+bullets685 collected 154 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 154 | Rake 0 
+Board [9h 4c 7c]
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 5: balchikbul (button) folded before Flop (didn't bet)
+Seat 6: shakaa01 (small blind) folded on the Flop
+Seat 7: bullets685 (big blind) collected (154)
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447619374: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/19 17:45:32 CUST [2026/10/19 12:45:32 ET]
+Table '4040916532 1' 9-max Seat #6 is the button
+Seat 1: regeki504 (2791 in chips) 
+Seat 2: Hejsa99 (1003 in chips) 
+Seat 3: 1o0qnov7 (2329 in chips) 
+Seat 4: donkbet87 (1360 in chips) 
+Seat 5: balchikbul (1163 in chips) 
+Seat 6: shakaa01 (635 in chips) 
+Seat 7: bullets685 (1610 in chips) 
+Seat 8: LASIUD (1211 in chips) 
+Seat 9: CADILLACJET (1398 in chips) 
+regeki504: posts the ante 6
+Hejsa99: posts the ante 6
+1o0qnov7: posts the ante 6
+donkbet87: posts the ante 6
+balchikbul: posts the ante 6
+shakaa01: posts the ante 6
+bullets685: posts the ante 6
+LASIUD: posts the ante 6
+CADILLACJET: posts the ante 6
+bullets685: posts small blind 25
+LASIUD: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [9c 4d]
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: folds 
+1o0qnov7: raises 50 to 100
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: folds 
+bullets685: folds 
+LASIUD: calls 50
+*** FLOP *** [Qh 2d 6s]
+LASIUD: checks 
+1o0qnov7: bets 70
+LASIUD: folds 
+Uncalled bet (70) returned to 1o0qnov7
+1o0qnov7 collected 279 from pot
+1o0qnov7: doesn't show hand 
+*** SUMMARY ***
+Total pot 279 | Rake 0 
+Board [Qh 2d 6s]
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 collected (279)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 5: balchikbul folded before Flop (didn't bet)
+Seat 6: shakaa01 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: LASIUD (big blind) folded on the Flop
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447631303: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/19 17:46:44 CUST [2026/10/19 12:46:44 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 1: regeki504 (2785 in chips) 
+Seat 2: Hejsa99 (997 in chips) 
+Seat 3: 1o0qnov7 (2502 in chips) 
+Seat 4: donkbet87 (1354 in chips) 
+Seat 5: balchikbul (1157 in chips) 
+Seat 6: shakaa01 (629 in chips) 
+Seat 7: bullets685 (1579 in chips) 
+Seat 8: LASIUD (1105 in chips) 
+Seat 9: CADILLACJET (1392 in chips) 
+regeki504: posts the ante 6
+Hejsa99: posts the ante 6
+1o0qnov7: posts the ante 6
+donkbet87: posts the ante 6
+balchikbul: posts the ante 6
+shakaa01: posts the ante 6
+bullets685: posts the ante 6
+LASIUD: posts the ante 6
+CADILLACJET: posts the ante 6
+LASIUD: posts small blind 25
+CADILLACJET: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [8s Js]
+regeki504: folds 
+Hejsa99: raises 50 to 100
+1o0qnov7: folds 
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: folds 
+bullets685: raises 150 to 250
+LASIUD: folds 
+CADILLACJET: folds 
+Hejsa99: calls 150
+*** FLOP *** [8c Ah 8d]
+Hejsa99: checks 
+bullets685: bets 315
+Hejsa99: raises 426 to 741 and is all-in
+bullets685: calls 426
+*** TURN *** [8c Ah 8d] [Ad]
+*** RIVER *** [8c Ah 8d Ad] [2c]
+*** SHOW DOWN ***
+Hejsa99: shows [Ac Qs] (a full house, Aces full of Eights)
+bullets685: shows [8s Js] (a full house, Eights full of Aces)
+Hejsa99 collected 2111 from pot
+*** SUMMARY ***
+Total pot 2111 | Rake 0 
+Board [8c Ah 8d Ad 2c]
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 showed [Ac Qs] and won (2111) with a full house, Aces full of Eights
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 5: balchikbul folded before Flop (didn't bet)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) showed [8s Js] and lost with a full house, Eights full of Aces
+Seat 8: LASIUD (small blind) folded before Flop
+Seat 9: CADILLACJET (big blind) folded before Flop
+
+
+
+Betfair Hand #262447641338: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 17:47:43 CUST [2026/10/19 12:47:43 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 1: regeki504 (2779 in chips) 
+Seat 2: Hejsa99 (2111 in chips) 
+Seat 3: 1o0qnov7 (2496 in chips) 
+Seat 4: donkbet87 (1348 in chips) 
+Seat 5: balchikbul (1151 in chips) 
+Seat 6: shakaa01 (623 in chips) 
+Seat 7: bullets685 (582 in chips) 
+Seat 8: LASIUD (1074 in chips) 
+Seat 9: CADILLACJET (1336 in chips) 
+regeki504: posts the ante 10
+Hejsa99: posts the ante 10
+1o0qnov7: posts the ante 10
+donkbet87: posts the ante 10
+balchikbul: posts the ante 10
+shakaa01: posts the ante 10
+bullets685: posts the ante 10
+LASIUD: posts the ante 10
+CADILLACJET: posts the ante 10
+CADILLACJET: posts small blind 40
+regeki504: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Jd Qd]
+Hejsa99: folds 
+1o0qnov7: folds 
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: folds 
+bullets685: raises 492 to 572 and is all-in
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: calls 492
+*** FLOP *** [Ac 2s 7c]
+*** TURN *** [Ac 2s 7c] [Jh]
+*** RIVER *** [Ac 2s 7c Jh] [5s]
+*** SHOW DOWN ***
+regeki504: shows [Th Qc] (high card Ace)
+bullets685: shows [Jd Qd] (a pair of Jacks)
+bullets685 collected 1274 from pot
+*** SUMMARY ***
+Total pot 1274 | Rake 0 
+Board [Ac 2s 7c Jh 5s]
+Seat 1: regeki504 (big blind) showed [Th Qc] and lost with high card Ace
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 5: balchikbul folded before Flop (didn't bet)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 showed [Jd Qd] and won (1274) with a pair of Jacks
+Seat 8: LASIUD (button) folded before Flop (didn't bet)
+Seat 9: CADILLACJET (small blind) folded before Flop
+
+
+
+Betfair Hand #262447646318: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 17:48:13 CUST [2026/10/19 12:48:13 ET]
+Table '4040916532 1' 9-max Seat #9 is the button
+Seat 1: regeki504 (2197 in chips) 
+Seat 2: Hejsa99 (2101 in chips) 
+Seat 3: 1o0qnov7 (2486 in chips) 
+Seat 4: donkbet87 (1338 in chips) 
+Seat 5: balchikbul (1141 in chips) 
+Seat 6: shakaa01 (613 in chips) 
+Seat 7: bullets685 (1274 in chips) 
+Seat 8: LASIUD (1064 in chips) 
+Seat 9: CADILLACJET (1286 in chips) 
+regeki504: posts the ante 10
+Hejsa99: posts the ante 10
+1o0qnov7: posts the ante 10
+donkbet87: posts the ante 10
+balchikbul: posts the ante 10
+shakaa01: posts the ante 10
+bullets685: posts the ante 10
+LASIUD: posts the ante 10
+CADILLACJET: posts the ante 10
+regeki504: posts small blind 40
+Hejsa99: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [5s Td]
+1o0qnov7: folds 
+donkbet87: folds 
+balchikbul: raises 1051 to 1131 and is all-in
+shakaa01: calls 603 and is all-in
+bullets685: folds 
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: folds 
+Uncalled bet (528) returned to balchikbul
+*** FLOP *** [Jh Kh 2d]
+*** TURN *** [Jh Kh 2d] [Ah]
+*** RIVER *** [Jh Kh 2d Ah] [Tc]
+*** SHOW DOWN ***
+balchikbul: shows [6c Ac] (a pair of Aces)
+shakaa01: shows [Qs Ad] (a straight, Ten to Ace)
+shakaa01 collected 1416 from pot
+*** SUMMARY ***
+Total pot 1416 | Rake 0 
+Board [Jh Kh 2d Ah Tc]
+Seat 1: regeki504 (small blind) folded before Flop
+Seat 2: Hejsa99 (big blind) folded before Flop
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 5: balchikbul showed [6c Ac] and lost with a pair of Aces
+Seat 6: shakaa01 showed [Qs Ad] and won (1416) with a straight, Ten to Ace
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447652732: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 17:48:52 CUST [2026/10/19 12:48:52 ET]
+Table '4040916532 1' 9-max Seat #1 is the button
+Seat 1: regeki504 (2147 in chips) 
+Seat 2: Hejsa99 (2011 in chips) 
+Seat 3: 1o0qnov7 (2476 in chips) 
+Seat 4: donkbet87 (1328 in chips) 
+Seat 5: balchikbul (528 in chips) 
+Seat 6: shakaa01 (1416 in chips) 
+Seat 7: bullets685 (1264 in chips) 
+Seat 8: LASIUD (1054 in chips) 
+Seat 9: CADILLACJET (1276 in chips) 
+regeki504: posts the ante 10
+Hejsa99: posts the ante 10
+1o0qnov7: posts the ante 10
+donkbet87: posts the ante 10
+balchikbul: posts the ante 10
+shakaa01: posts the ante 10
+bullets685: posts the ante 10
+LASIUD: posts the ante 10
+CADILLACJET: posts the ante 10
+Hejsa99: posts small blind 40
+1o0qnov7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Qs 4d]
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: folds 
+bullets685: folds 
+LASIUD: calls 80
+CADILLACJET: folds 
+regeki504: raises 160 to 240
+Hejsa99: folds 
+1o0qnov7: calls 160
+LASIUD: calls 160
+*** FLOP *** [4c 3d Qh]
+1o0qnov7: checks 
+LASIUD: bets 80
+regeki504: calls 80
+1o0qnov7: folds 
+*** TURN *** [4c 3d Qh] [5c]
+LASIUD: checks 
+regeki504: checks 
+*** RIVER *** [4c 3d Qh 5c] [Kd]
+LASIUD: bets 505
+regeki504: folds 
+Uncalled bet (505) returned to LASIUD
+LASIUD collected 1010 from pot
+LASIUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [4c 3d Qh 5c Kd]
+Seat 1: regeki504 (button) folded on the River
+Seat 2: Hejsa99 (small blind) folded before Flop
+Seat 3: 1o0qnov7 (big blind) folded on the Flop
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 5: balchikbul folded before Flop (didn't bet)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD collected (1010)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447663387: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 17:49:57 CUST [2026/10/19 12:49:57 ET]
+Table '4040916532 1' 9-max Seat #2 is the button
+Seat 1: regeki504 (1817 in chips) 
+Seat 2: Hejsa99 (1961 in chips) 
+Seat 3: 1o0qnov7 (2226 in chips) 
+Seat 4: donkbet87 (1318 in chips) 
+Seat 5: balchikbul (518 in chips) 
+Seat 6: shakaa01 (1406 in chips) 
+Seat 7: bullets685 (1254 in chips) 
+Seat 8: LASIUD (1734 in chips) 
+Seat 9: CADILLACJET (1266 in chips) 
+regeki504: posts the ante 10
+Hejsa99: posts the ante 10
+1o0qnov7: posts the ante 10
+donkbet87: posts the ante 10
+balchikbul: posts the ante 10
+shakaa01: posts the ante 10
+bullets685: posts the ante 10
+LASIUD: posts the ante 10
+CADILLACJET: posts the ante 10
+1o0qnov7: posts small blind 40
+donkbet87: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [6d Kh]
+balchikbul: folds 
+shakaa01: folds 
+bullets685: folds 
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: raises 80 to 160
+1o0qnov7: folds 
+donkbet87: raises 1148 to 1308 and is all-in
+Hejsa99: folds 
+Uncalled bet (1148) returned to donkbet87
+donkbet87 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 (button) folded before Flop
+Seat 3: 1o0qnov7 (small blind) folded before Flop
+Seat 4: donkbet87 (big blind) collected (450)
+Seat 5: balchikbul folded before Flop (didn't bet)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447668297: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 17:50:27 CUST [2026/10/19 12:50:27 ET]
+Table '4040916532 1' 9-max Seat #3 is the button
+Seat 1: regeki504 (1807 in chips) 
+Seat 2: Hejsa99 (1791 in chips) 
+Seat 3: 1o0qnov7 (2176 in chips) 
+Seat 4: donkbet87 (1598 in chips) 
+Seat 5: balchikbul (508 in chips) 
+Seat 6: shakaa01 (1396 in chips) 
+Seat 7: bullets685 (1244 in chips) 
+Seat 8: LASIUD (1724 in chips) 
+Seat 9: CADILLACJET (1256 in chips) 
+regeki504: posts the ante 10
+Hejsa99: posts the ante 10
+1o0qnov7: posts the ante 10
+donkbet87: posts the ante 10
+balchikbul: posts the ante 10
+shakaa01: posts the ante 10
+bullets685: posts the ante 10
+LASIUD: posts the ante 10
+CADILLACJET: posts the ante 10
+donkbet87: posts small blind 40
+balchikbul: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc Tc]
+shakaa01: folds 
+bullets685: raises 80 to 160
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: folds 
+1o0qnov7: folds 
+donkbet87: folds 
+balchikbul: folds 
+Uncalled bet (80) returned to bullets685
+bullets685 collected 290 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 (button) folded before Flop (didn't bet)
+Seat 4: donkbet87 (small blind) folded before Flop
+Seat 5: balchikbul (big blind) folded before Flop
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 collected (290)
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447670928: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 17:50:43 CUST [2026/10/19 12:50:43 ET]
+Table '4040916532 1' 9-max Seat #4 is the button
+Seat 1: regeki504 (1797 in chips) 
+Seat 2: Hejsa99 (1781 in chips) 
+Seat 3: 1o0qnov7 (2166 in chips) 
+Seat 4: donkbet87 (1548 in chips) 
+Seat 5: balchikbul (418 in chips) 
+Seat 6: shakaa01 (1386 in chips) 
+Seat 7: bullets685 (1444 in chips) 
+Seat 8: LASIUD (1714 in chips) 
+Seat 9: CADILLACJET (1246 in chips) 
+regeki504: posts the ante 10
+Hejsa99: posts the ante 10
+1o0qnov7: posts the ante 10
+donkbet87: posts the ante 10
+balchikbul: posts the ante 10
+shakaa01: posts the ante 10
+bullets685: posts the ante 10
+LASIUD: posts the ante 10
+CADILLACJET: posts the ante 10
+balchikbul: posts small blind 40
+shakaa01: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [5c Ks]
+bullets685: folds 
+LASIUD: raises 80 to 160
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: folds 
+1o0qnov7: folds 
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: folds 
+Uncalled bet (80) returned to LASIUD
+LASIUD collected 290 from pot
+LASIUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 (button) folded before Flop (didn't bet)
+Seat 5: balchikbul (small blind) folded before Flop
+Seat 6: shakaa01 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD collected (290)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447676389: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 17:51:17 CUST [2026/10/19 12:51:17 ET]
+Table '4040916532 1' 9-max Seat #5 is the button
+Seat 1: regeki504 (1787 in chips) 
+Seat 2: Hejsa99 (1771 in chips) 
+Seat 3: 1o0qnov7 (2156 in chips) 
+Seat 4: donkbet87 (1538 in chips) 
+Seat 5: balchikbul (368 in chips) 
+Seat 6: shakaa01 (1296 in chips) 
+Seat 7: bullets685 (1434 in chips) 
+Seat 8: LASIUD (1914 in chips) 
+Seat 9: CADILLACJET (1236 in chips) 
+regeki504: posts the ante 10
+Hejsa99: posts the ante 10
+1o0qnov7: posts the ante 10
+donkbet87: posts the ante 10
+balchikbul: posts the ante 10
+shakaa01: posts the ante 10
+bullets685: posts the ante 10
+LASIUD: posts the ante 10
+CADILLACJET: posts the ante 10
+shakaa01: posts small blind 40
+bullets685: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks 9h]
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: folds 
+1o0qnov7: folds 
+donkbet87: folds 
+balchikbul: folds 
+shakaa01: raises 80 to 160
+bullets685: calls 80
+*** FLOP *** [6d Ah 6s]
+shakaa01: bets 123
+bullets685: folds 
+Uncalled bet (123) returned to shakaa01
+shakaa01 collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | Rake 0 
+Board [6d Ah 6s]
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 5: balchikbul (button) folded before Flop (didn't bet)
+Seat 6: shakaa01 (small blind) collected (410)
+Seat 7: bullets685 (big blind) folded on the Flop
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447682794: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 17:51:57 CUST [2026/10/19 12:51:57 ET]
+Table '4040916532 1' 9-max Seat #6 is the button
+Seat 1: regeki504 (1777 in chips) 
+Seat 2: Hejsa99 (1761 in chips) 
+Seat 3: 1o0qnov7 (2146 in chips) 
+Seat 4: donkbet87 (1528 in chips) 
+Seat 5: balchikbul (358 in chips) 
+Seat 6: shakaa01 (1536 in chips) 
+Seat 7: bullets685 (1264 in chips) 
+Seat 8: LASIUD (1904 in chips) 
+Seat 9: CADILLACJET (1226 in chips) 
+regeki504: posts the ante 10
+Hejsa99: posts the ante 10
+1o0qnov7: posts the ante 10
+donkbet87: posts the ante 10
+balchikbul: posts the ante 10
+shakaa01: posts the ante 10
+bullets685: posts the ante 10
+LASIUD: posts the ante 10
+CADILLACJET: posts the ante 10
+bullets685: posts small blind 40
+LASIUD: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks 8c]
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: raises 80 to 160
+1o0qnov7: folds 
+donkbet87: calls 160
+balchikbul: folds 
+shakaa01: folds 
+bullets685: folds 
+LASIUD: folds 
+*** FLOP *** [8h Jd Kh]
+Hejsa99: bets 160
+donkbet87: folds 
+Uncalled bet (160) returned to Hejsa99
+Hejsa99 collected 530 from pot
+Hejsa99: doesn't show hand 
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [8h Jd Kh]
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 collected (530)
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 folded on the Flop
+Seat 5: balchikbul folded before Flop (didn't bet)
+Seat 6: shakaa01 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: LASIUD (big blind) folded before Flop
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447689476: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 17:52:38 CUST [2026/10/19 12:52:38 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 1: regeki504 (1767 in chips) 
+Seat 2: Hejsa99 (2121 in chips) 
+Seat 3: 1o0qnov7 (2136 in chips) 
+Seat 4: donkbet87 (1358 in chips) 
+Seat 5: balchikbul (348 in chips) 
+Seat 6: shakaa01 (1526 in chips) 
+Seat 7: bullets685 (1214 in chips) 
+Seat 8: LASIUD (1814 in chips) 
+Seat 9: CADILLACJET (1216 in chips) 
+regeki504: posts the ante 15
+Hejsa99: posts the ante 15
+1o0qnov7: posts the ante 15
+donkbet87: posts the ante 15
+balchikbul: posts the ante 15
+shakaa01: posts the ante 15
+bullets685: posts the ante 15
+LASIUD: posts the ante 15
+CADILLACJET: posts the ante 15
+LASIUD: posts small blind 60
+CADILLACJET: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [4s 8d]
+regeki504: folds 
+Hejsa99: folds 
+1o0qnov7: folds 
+donkbet87: raises 1223 to 1343 and is all-in
+balchikbul: calls 333 and is all-in
+shakaa01: folds 
+bullets685: folds 
+LASIUD: folds 
+CADILLACJET: folds 
+Uncalled bet (1010) returned to donkbet87
+*** FLOP *** [5d Kc 3s]
+*** TURN *** [5d Kc 3s] [3h]
+*** RIVER *** [5d Kc 3s 3h] [Kh]
+*** SHOW DOWN ***
+donkbet87: shows [9d Ad] (two pair, Kings and Threes)
+balchikbul: shows [7d 2d] (two pair, Kings and Threes - lower kicker)
+donkbet87 collected 981 from pot
+balchikbul finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 981 | Rake 0 
+Board [5d Kc 3s 3h Kh]
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 showed [9d Ad] and won (981) with two pair, Kings and Threes
+Seat 5: balchikbul showed [7d 2d] and lost with two pair, Kings and Threes
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: LASIUD (small blind) folded before Flop
+Seat 9: CADILLACJET (big blind) folded before Flop
+
+
+
+Betfair Hand #262447694299: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 17:53:08 CUST [2026/10/19 12:53:08 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 1: regeki504 (1752 in chips) 
+Seat 2: Hejsa99 (2106 in chips) 
+Seat 3: 1o0qnov7 (2121 in chips) 
+Seat 4: donkbet87 (1991 in chips) 
+Seat 6: shakaa01 (1511 in chips) 
+Seat 7: bullets685 (1199 in chips) 
+Seat 8: LASIUD (1739 in chips) 
+Seat 9: CADILLACJET (1081 in chips) 
+regeki504: posts the ante 15
+Hejsa99: posts the ante 15
+1o0qnov7: posts the ante 15
+donkbet87: posts the ante 15
+shakaa01: posts the ante 15
+bullets685: posts the ante 15
+LASIUD: posts the ante 15
+CADILLACJET: posts the ante 15
+CADILLACJET: posts small blind 60
+regeki504: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [5h 8s]
+Hejsa99: folds 
+1o0qnov7: raises 120 to 240
+donkbet87: folds 
+shakaa01: folds 
+bullets685: folds 
+LASIUD: calls 240
+CADILLACJET: folds 
+regeki504: folds 
+*** FLOP *** [2d 6d Kh]
+1o0qnov7: checks 
+LASIUD: bets 120
+1o0qnov7: folds 
+Uncalled bet (120) returned to LASIUD
+LASIUD collected 780 from pot
+LASIUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [2d 6d Kh]
+Seat 1: regeki504 (big blind) folded before Flop
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 3: 1o0qnov7 folded on the Flop
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD (button) collected (780)
+Seat 9: CADILLACJET (small blind) folded before Flop
+
+
+
+Betfair Hand #262447702827: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 17:53:59 CUST [2026/10/19 12:53:59 ET]
+Table '4040916532 1' 9-max Seat #9 is the button
+Seat 1: regeki504 (1617 in chips) 
+Seat 2: Hejsa99 (2091 in chips) 
+Seat 3: 1o0qnov7 (1866 in chips) 
+Seat 4: donkbet87 (1976 in chips) 
+Seat 6: shakaa01 (1496 in chips) 
+Seat 7: bullets685 (1184 in chips) 
+Seat 8: LASIUD (2264 in chips) 
+Seat 9: CADILLACJET (1006 in chips) 
+regeki504: posts the ante 15
+Hejsa99: posts the ante 15
+1o0qnov7: posts the ante 15
+donkbet87: posts the ante 15
+shakaa01: posts the ante 15
+bullets685: posts the ante 15
+LASIUD: posts the ante 15
+CADILLACJET: posts the ante 15
+regeki504: posts small blind 60
+Hejsa99: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 5h]
+1o0qnov7: folds 
+donkbet87: folds 
+shakaa01: raises 1361 to 1481 and is all-in
+bullets685: folds 
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: folds 
+Uncalled bet (1361) returned to shakaa01
+shakaa01 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: regeki504 (small blind) folded before Flop
+Seat 2: Hejsa99 (big blind) folded before Flop
+Seat 3: 1o0qnov7 folded before Flop (didn't bet)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 6: shakaa01 collected (420)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447706870: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 17:54:24 CUST [2026/10/19 12:54:24 ET]
+Table '4040916532 1' 9-max Seat #1 is the button
+Seat 1: regeki504 (1542 in chips) 
+Seat 2: Hejsa99 (1956 in chips) 
+Seat 3: 1o0qnov7 (1851 in chips) 
+Seat 4: donkbet87 (1961 in chips) 
+Seat 6: shakaa01 (1781 in chips) 
+Seat 7: bullets685 (1169 in chips) 
+Seat 8: LASIUD (2249 in chips) 
+Seat 9: CADILLACJET (991 in chips) 
+regeki504: posts the ante 15
+Hejsa99: posts the ante 15
+1o0qnov7: posts the ante 15
+donkbet87: posts the ante 15
+shakaa01: posts the ante 15
+bullets685: posts the ante 15
+LASIUD: posts the ante 15
+CADILLACJET: posts the ante 15
+Hejsa99: posts small blind 60
+1o0qnov7: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [6c 7s]
+donkbet87: folds 
+shakaa01: folds 
+bullets685: folds 
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: calls 60
+1o0qnov7: raises 180 to 300
+Hejsa99: raises 420 to 720
+1o0qnov7: raises 1116 to 1836 and is all-in
+Hejsa99: calls 1116
+*** FLOP *** [3c 8h 9h]
+*** TURN *** [3c 8h 9h] [4d]
+*** RIVER *** [3c 8h 9h 4d] [7h]
+*** SHOW DOWN ***
+Hejsa99: shows [Ac Ah] (a pair of Aces)
+1o0qnov7: shows [Ts Tc] (a pair of Tens)
+Hejsa99 collected 3792 from pot
+1o0qnov7 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 3792 | Rake 0 
+Board [3c 8h 9h 4d 7h]
+Seat 1: regeki504 (button) folded before Flop (didn't bet)
+Seat 2: Hejsa99 (small blind) showed [Ac Ah] and won (3792) with a pair of Aces
+Seat 3: 1o0qnov7 (big blind) showed [Ts Tc] and lost with a pair of Tens
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447715017: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 17:55:13 CUST [2026/10/19 12:55:13 ET]
+Table '4040916532 1' 9-max Seat #2 is the button
+Seat 1: regeki504 (1527 in chips) 
+Seat 2: Hejsa99 (3897 in chips) 
+Seat 4: donkbet87 (1946 in chips) 
+Seat 6: shakaa01 (1766 in chips) 
+Seat 7: bullets685 (1154 in chips) 
+Seat 8: LASIUD (2234 in chips) 
+Seat 9: CADILLACJET (976 in chips) 
+regeki504: posts the ante 15
+Hejsa99: posts the ante 15
+donkbet87: posts the ante 15
+shakaa01: posts the ante 15
+bullets685: posts the ante 15
+LASIUD: posts the ante 15
+CADILLACJET: posts the ante 15
+donkbet87: posts small blind 60
+shakaa01: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [8d 8h]
+bullets685: raises 1019 to 1139 and is all-in
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: folds 
+donkbet87: folds 
+shakaa01: folds 
+Uncalled bet (1019) returned to bullets685
+bullets685 collected 405 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 (button) folded before Flop (didn't bet)
+Seat 4: donkbet87 (small blind) folded before Flop
+Seat 6: shakaa01 (big blind) folded before Flop
+Seat 7: bullets685 collected (405)
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447716845: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 17:55:29 CUST [2026/10/19 12:55:29 ET]
+Table '4040916532 1' 9-max Seat #4 is the button
+Seat 1: regeki504 (1512 in chips) 
+Seat 2: Hejsa99 (3882 in chips) 
+Seat 4: donkbet87 (1871 in chips) 
+Seat 6: shakaa01 (1631 in chips) 
+Seat 7: bullets685 (1424 in chips) 
+Seat 8: LASIUD (2219 in chips) 
+Seat 9: CADILLACJET (961 in chips) 
+regeki504: posts the ante 15
+Hejsa99: posts the ante 15
+donkbet87: posts the ante 15
+shakaa01: posts the ante 15
+bullets685: posts the ante 15
+LASIUD: posts the ante 15
+CADILLACJET: posts the ante 15
+shakaa01: posts small blind 60
+bullets685: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [6s Kd]
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: folds 
+donkbet87: raises 120 to 240
+shakaa01: folds 
+bullets685: folds 
+Uncalled bet (120) returned to donkbet87
+donkbet87 collected 405 from pot
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 4: donkbet87 (button) collected (405)
+Seat 6: shakaa01 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447719553: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 17:55:52 CUST [2026/10/19 12:55:52 ET]
+Table '4040916532 1' 9-max Seat #6 is the button
+Seat 1: regeki504 (1497 in chips) 
+Seat 2: Hejsa99 (3867 in chips) 
+Seat 4: donkbet87 (2141 in chips) 
+Seat 6: shakaa01 (1556 in chips) 
+Seat 7: bullets685 (1289 in chips) 
+Seat 8: LASIUD (2204 in chips) 
+Seat 9: CADILLACJET (946 in chips) 
+regeki504: posts the ante 15
+Hejsa99: posts the ante 15
+donkbet87: posts the ante 15
+shakaa01: posts the ante 15
+bullets685: posts the ante 15
+LASIUD: posts the ante 15
+CADILLACJET: posts the ante 15
+bullets685: posts small blind 60
+LASIUD: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd 4d]
+CADILLACJET: folds 
+regeki504: folds 
+Hejsa99: folds 
+donkbet87: folds 
+shakaa01: folds 
+bullets685: calls 60
+LASIUD: checks 
+*** FLOP *** [3s 5d Ac]
+CADILLACJET is disconnected 
+bullets685: checks 
+LASIUD: bets 120
+bullets685: calls 120
+*** TURN *** [3s 5d Ac] [8d]
+bullets685: checks 
+LASIUD: checks 
+*** RIVER *** [3s 5d Ac 8d] [7h]
+bullets685: checks 
+LASIUD: checks 
+*** SHOW DOWN ***
+bullets685: shows [Qd 4d] (high card Ace)
+LASIUD: shows [4h Qc] (high card Ace)
+bullets685 collected 293 from pot
+LASIUD collected 292 from pot
+*** SUMMARY ***
+Total pot 585 | Rake 0 
+Board [3s 5d Ac 8d 7h]
+Seat 1: regeki504 folded before Flop (didn't bet)
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 6: shakaa01 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) showed [Qd 4d] and won (293) with high card Ace
+Seat 8: LASIUD (big blind) showed [4h Qc] and won (292) with high card Ace
+Seat 9: CADILLACJET folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447723053: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 17:56:21 CUST [2026/10/19 12:56:21 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 1: regeki504 (1482 in chips) 
+Seat 2: Hejsa99 (3852 in chips) 
+Seat 4: donkbet87 (2126 in chips) 
+Seat 6: shakaa01 (1541 in chips) 
+Seat 7: bullets685 (1327 in chips) 
+Seat 8: LASIUD (2241 in chips) 
+Seat 9: CADILLACJET (931 in chips) 
+regeki504: posts the ante 15
+Hejsa99: posts the ante 15
+donkbet87: posts the ante 15
+shakaa01: posts the ante 15
+bullets685: posts the ante 15
+LASIUD: posts the ante 15
+CADILLACJET: posts the ante 15
+LASIUD: posts small blind 60
+CADILLACJET: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [7h 4h]
+regeki504: calls 120
+Hejsa99: raises 360 to 480
+donkbet87: folds 
+shakaa01: folds 
+bullets685: folds 
+LASIUD: folds 
+CADILLACJET: folds 
+regeki504: calls 360
+*** FLOP *** [Js Qh 3c]
+regeki504: bets 987 and is all-in
+Hejsa99: calls 987
+*** TURN *** [Js Qh 3c] [Kc]
+*** RIVER *** [Js Qh 3c Kc] [7d]
+*** SHOW DOWN ***
+regeki504: shows [9c Qc] (a pair of Queens)
+Hejsa99: shows [Ks Ah] (a pair of Kings)
+Hejsa99 collected 3219 from pot
+regeki504 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 3219 | Rake 0 
+Board [Js Qh 3c Kc 7d]
+Seat 1: regeki504 showed [9c Qc] and lost with a pair of Queens
+Seat 2: Hejsa99 showed [Ks Ah] and won (3219) with a pair of Kings
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: LASIUD (small blind) folded before Flop
+Seat 9: CADILLACJET (big blind) folded before Flop
+
+
+
+Betfair Hand #262447728834: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 17:57:09 CUST [2026/10/19 12:57:09 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 2: Hejsa99 (5589 in chips) 
+Seat 4: donkbet87 (2111 in chips) 
+Seat 6: shakaa01 (1526 in chips) 
+Seat 7: bullets685 (1312 in chips) 
+Seat 8: LASIUD (2166 in chips) 
+Seat 9: CADILLACJET (796 in chips) 
+Hejsa99: posts the ante 15
+donkbet87: posts the ante 15
+shakaa01: posts the ante 15
+bullets685: posts the ante 15
+LASIUD: posts the ante 15
+CADILLACJET: posts the ante 15
+CADILLACJET: posts small blind 60
+Hejsa99: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Ac Jh]
+donkbet87: folds 
+shakaa01: folds 
+bullets685: raises 120 to 240
+LASIUD: folds 
+CADILLACJET: folds 
+Hejsa99: raises 5334 to 5574 and is all-in
+bullets685: calls 1057 and is all-in
+Uncalled bet (4277) returned to Hejsa99
+*** FLOP *** [2c 7s Qd]
+*** TURN *** [2c 7s Qd] [3s]
+*** RIVER *** [2c 7s Qd 3s] [Td]
+*** SHOW DOWN ***
+Hejsa99: shows [6s Ad] (high card Ace)
+bullets685: shows [Ac Jh] (high card Ace - Queen+Jack kicker)
+bullets685 collected 2744 from pot
+*** SUMMARY ***
+Total pot 2744 | Rake 0 
+Board [2c 7s Qd 3s Td]
+Seat 2: Hejsa99 (big blind) showed [6s Ad] and lost with high card Ace
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 showed [Ac Jh] and won (2744) with high card Ace
+Seat 8: LASIUD (button) folded before Flop (didn't bet)
+Seat 9: CADILLACJET (small blind) folded before Flop
+
+
+
+Betfair Hand #262447732223: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 17:57:37 CUST [2026/10/19 12:57:37 ET]
+Table '4040916532 1' 9-max Seat #9 is the button
+Seat 2: Hejsa99 (4277 in chips) 
+Seat 4: donkbet87 (2096 in chips) 
+Seat 6: shakaa01 (1511 in chips) 
+Seat 7: bullets685 (2744 in chips) 
+Seat 8: LASIUD (2151 in chips) 
+Seat 9: CADILLACJET (721 in chips) 
+Hejsa99: posts the ante 20
+donkbet87: posts the ante 20
+shakaa01: posts the ante 20
+bullets685: posts the ante 20
+LASIUD: posts the ante 20
+CADILLACJET: posts the ante 20
+Hejsa99: posts small blind 80
+donkbet87: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks Ad]
+shakaa01: folds 
+bullets685: raises 160 to 320
+LASIUD: folds 
+CADILLACJET: raises 381 to 701 and is all-in
+Hejsa99: folds 
+donkbet87: folds 
+bullets685: calls 381
+*** FLOP *** [2h 9d Qd]
+*** TURN *** [2h 9d Qd] [3d]
+*** RIVER *** [2h 9d Qd 3d] [Qh]
+*** SHOW DOWN ***
+bullets685: shows [Ks Ad] (a pair of Queens)
+CADILLACJET: shows [Qs Ah] (three of a kind, Queens)
+CADILLACJET collected 1762 from pot
+*** SUMMARY ***
+Total pot 1762 | Rake 0 
+Board [2h 9d Qd 3d Qh]
+Seat 2: Hejsa99 (small blind) folded before Flop
+Seat 4: donkbet87 (big blind) folded before Flop
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 showed [Ks Ad] and lost with a pair of Queens
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET (button) showed [Qs Ah] and won (1762) with three of a kind, Queens
+
+
+
+Betfair Hand #262447735107: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 17:58:01 CUST [2026/10/19 12:58:01 ET]
+Table '4040916532 1' 9-max Seat #2 is the button
+Seat 2: Hejsa99 (4177 in chips) 
+Seat 4: donkbet87 (1916 in chips) 
+Seat 6: shakaa01 (1491 in chips) 
+Seat 7: bullets685 (2023 in chips) 
+Seat 8: LASIUD (2131 in chips) 
+Seat 9: CADILLACJET (1762 in chips) 
+Hejsa99: posts the ante 20
+donkbet87: posts the ante 20
+shakaa01: posts the ante 20
+bullets685: posts the ante 20
+LASIUD: posts the ante 20
+CADILLACJET: posts the ante 20
+donkbet87: posts small blind 80
+shakaa01: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [3h 8c]
+bullets685: folds 
+LASIUD: folds 
+CADILLACJET: raises 1582 to 1742 and is all-in
+Hejsa99: folds 
+donkbet87: folds 
+shakaa01: folds 
+Uncalled bet (1582) returned to CADILLACJET
+CADILLACJET collected 520 from pot
+CADILLACJET: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 2: Hejsa99 (button) folded before Flop (didn't bet)
+Seat 4: donkbet87 (small blind) folded before Flop
+Seat 6: shakaa01 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD folded before Flop (didn't bet)
+Seat 9: CADILLACJET collected (520)
+
+
+
+Betfair Hand #262447738033: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 17:58:26 CUST [2026/10/19 12:58:26 ET]
+Table '4040916532 1' 9-max Seat #4 is the button
+Seat 2: Hejsa99 (4157 in chips) 
+Seat 4: donkbet87 (1816 in chips) 
+Seat 6: shakaa01 (1311 in chips) 
+Seat 7: bullets685 (2003 in chips) 
+Seat 8: LASIUD (2111 in chips) 
+Seat 9: CADILLACJET (2102 in chips) 
+Hejsa99: posts the ante 20
+donkbet87: posts the ante 20
+shakaa01: posts the ante 20
+bullets685: posts the ante 20
+LASIUD: posts the ante 20
+CADILLACJET: posts the ante 20
+shakaa01: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Jd 8s]
+LASIUD: raises 160 to 320
+CADILLACJET: raises 1762 to 2082 and is all-in
+Hejsa99: folds 
+donkbet87: folds 
+shakaa01: folds 
+bullets685: folds 
+LASIUD: calls 1762
+*** FLOP *** [Jh 4s Kc]
+*** TURN *** [Jh 4s Kc] [2d]
+*** RIVER *** [Jh 4s Kc 2d] [Kd]
+*** SHOW DOWN ***
+LASIUD: shows [Tc Td] (two pair, Kings and Tens)
+CADILLACJET: shows [9h 9d] (two pair, Kings and Nines)
+LASIUD collected 4524 from pot
+CADILLACJET finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 4524 | Rake 0 
+Board [Jh 4s Kc 2d Kd]
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 4: donkbet87 (button) folded before Flop (didn't bet)
+Seat 6: shakaa01 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: LASIUD showed [Tc Td] and won (4524) with two pair, Kings and Tens
+Seat 9: CADILLACJET showed [9h 9d] and lost with two pair, Kings and Nines
+
+
+
+Betfair Hand #262447740926: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 17:58:50 CUST [2026/10/19 12:58:50 ET]
+Table '4040916532 1' 9-max Seat #6 is the button
+Seat 2: Hejsa99 (4137 in chips) 
+Seat 4: donkbet87 (1796 in chips) 
+Seat 6: shakaa01 (1211 in chips) 
+Seat 7: bullets685 (1823 in chips) 
+Seat 8: LASIUD (4533 in chips) 
+Hejsa99: posts the ante 20
+donkbet87: posts the ante 20
+shakaa01: posts the ante 20
+bullets685: posts the ante 20
+LASIUD: posts the ante 20
+bullets685: posts small blind 80
+LASIUD: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc 2h]
+Hejsa99: folds 
+donkbet87: folds 
+shakaa01: folds 
+bullets685: folds 
+Uncalled bet (80) returned to LASIUD
+LASIUD collected 260 from pot
+LASIUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 6: shakaa01 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: LASIUD (big blind) collected (260)
+
+
+
+Betfair Hand #262447743407: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 17:59:11 CUST [2026/10/19 12:59:11 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 2: Hejsa99 (4117 in chips) 
+Seat 4: donkbet87 (1776 in chips) 
+Seat 6: shakaa01 (1191 in chips) 
+Seat 7: bullets685 (1723 in chips) 
+Seat 8: LASIUD (4693 in chips) 
+Hejsa99: posts the ante 20
+donkbet87: posts the ante 20
+shakaa01: posts the ante 20
+bullets685: posts the ante 20
+LASIUD: posts the ante 20
+LASIUD: posts small blind 80
+Hejsa99: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh 9d]
+donkbet87: raises 160 to 320
+shakaa01: folds 
+bullets685: folds 
+LASIUD: folds 
+Hejsa99: folds 
+Uncalled bet (160) returned to donkbet87
+donkbet87 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 2: Hejsa99 (big blind) folded before Flop
+Seat 4: donkbet87 collected (500)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: LASIUD (small blind) folded before Flop
+
+
+
+Betfair Hand #262447744738: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 17:59:22 CUST [2026/10/19 12:59:22 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 2: Hejsa99 (3937 in chips) 
+Seat 4: donkbet87 (2096 in chips) 
+Seat 6: shakaa01 (1171 in chips) 
+Seat 7: bullets685 (1703 in chips) 
+Seat 8: LASIUD (4593 in chips) 
+Hejsa99: posts the ante 20
+donkbet87: posts the ante 20
+shakaa01: posts the ante 20
+bullets685: posts the ante 20
+LASIUD: posts the ante 20
+Hejsa99: posts small blind 80
+donkbet87: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 7d]
+shakaa01: folds 
+bullets685: raises 1523 to 1683 and is all-in
+LASIUD: folds 
+Hejsa99: folds 
+donkbet87: folds 
+Uncalled bet (1523) returned to bullets685
+bullets685 collected 500 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 2: Hejsa99 (small blind) folded before Flop
+Seat 4: donkbet87 (big blind) folded before Flop
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 collected (500)
+Seat 8: LASIUD (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447746546: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 17:59:38 CUST [2026/10/19 12:59:38 ET]
+Table '4040916532 1' 9-max Seat #2 is the button
+Seat 2: Hejsa99 (3837 in chips) 
+Seat 4: donkbet87 (1916 in chips) 
+Seat 6: shakaa01 (1151 in chips) 
+Seat 7: bullets685 (2023 in chips) 
+Seat 8: LASIUD (4573 in chips) 
+Hejsa99: posts the ante 20
+donkbet87: posts the ante 20
+shakaa01: posts the ante 20
+bullets685: posts the ante 20
+LASIUD: posts the ante 20
+donkbet87: posts small blind 80
+shakaa01: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 8s]
+bullets685: folds 
+LASIUD: folds 
+Hejsa99: raises 3657 to 3817 and is all-in
+donkbet87: calls 1816 and is all-in
+shakaa01: folds 
+Uncalled bet (1921) returned to Hejsa99
+*** FLOP *** [Kd 8d Qd]
+*** TURN *** [Kd 8d Qd] [2h]
+*** RIVER *** [Kd 8d Qd 2h] [Jc]
+*** SHOW DOWN ***
+donkbet87: shows [8h As] (a pair of Eights)
+Hejsa99: shows [6d 6h] (a pair of Sixes)
+donkbet87 collected 4052 from pot
+*** SUMMARY ***
+Total pot 4052 | Rake 0 
+Board [Kd 8d Qd 2h Jc]
+Seat 2: Hejsa99 (button) showed [6d 6h] and lost with a pair of Sixes
+Seat 4: donkbet87 (small blind) showed [8h As] and won (4052) with a pair of Eights
+Seat 6: shakaa01 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447749632: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 18:00:03 CUST [2026/10/19 13:00:03 ET]
+Table '4040916532 1' 9-max Seat #4 is the button
+Seat 2: Hejsa99 (1921 in chips) 
+Seat 4: donkbet87 (4052 in chips) 
+Seat 6: shakaa01 (971 in chips) 
+Seat 7: bullets685 (2003 in chips) 
+Seat 8: LASIUD (4553 in chips) 
+Hejsa99: posts the ante 20
+donkbet87: posts the ante 20
+shakaa01: posts the ante 20
+bullets685: posts the ante 20
+LASIUD: posts the ante 20
+shakaa01: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [8c Jd]
+LASIUD: folds 
+Hejsa99: folds 
+donkbet87: folds 
+shakaa01: folds 
+Uncalled bet (80) returned to bullets685
+bullets685 collected 260 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 4: donkbet87 (button) folded before Flop (didn't bet)
+Seat 6: shakaa01 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) collected (260)
+Seat 8: LASIUD folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447751065: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 18:00:15 CUST [2026/10/19 13:00:15 ET]
+Table '4040916532 1' 9-max Seat #6 is the button
+Seat 2: Hejsa99 (1901 in chips) 
+Seat 4: donkbet87 (4032 in chips) 
+Seat 6: shakaa01 (871 in chips) 
+Seat 7: bullets685 (2163 in chips) 
+Seat 8: LASIUD (4533 in chips) 
+Hejsa99: posts the ante 20
+donkbet87: posts the ante 20
+shakaa01: posts the ante 20
+bullets685: posts the ante 20
+LASIUD: posts the ante 20
+bullets685: posts small blind 80
+LASIUD: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [2d 6s]
+Hejsa99: folds 
+donkbet87: raises 160 to 320
+shakaa01: raises 531 to 851 and is all-in
+bullets685: folds 
+LASIUD: folds 
+donkbet87: calls 531
+*** FLOP *** [7h Ah 8s]
+*** TURN *** [7h Ah 8s] [Ks]
+*** RIVER *** [7h Ah 8s Ks] [4c]
+*** SHOW DOWN ***
+donkbet87: shows [Js Kh] (a pair of Kings)
+shakaa01: shows [Ad Ts] (a pair of Aces)
+shakaa01 collected 2042 from pot
+*** SUMMARY ***
+Total pot 2042 | Rake 0 
+Board [7h Ah 8s Ks 4c]
+Seat 2: Hejsa99 folded before Flop (didn't bet)
+Seat 4: donkbet87 showed [Js Kh] and lost with a pair of Kings
+Seat 6: shakaa01 (button) showed [Ad Ts] and won (2042) with a pair of Aces
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: LASIUD (big blind) folded before Flop
+
+
+
+Betfair Hand #262447754291: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 18:00:40 CUST [2026/10/19 13:00:40 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 2: Hejsa99 (1881 in chips) 
+Seat 4: donkbet87 (3161 in chips) 
+Seat 6: shakaa01 (2042 in chips) 
+Seat 7: bullets685 (2063 in chips) 
+Seat 8: LASIUD (4353 in chips) 
+Hejsa99: posts the ante 20
+donkbet87: posts the ante 20
+shakaa01: posts the ante 20
+bullets685: posts the ante 20
+LASIUD: posts the ante 20
+LASIUD: posts small blind 80
+Hejsa99: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [9s Ks]
+donkbet87: raises 160 to 320
+shakaa01: folds 
+bullets685: calls 320
+LASIUD: folds 
+Hejsa99: folds 
+*** FLOP *** [Td 6c 2d]
+donkbet87: checks 
+bullets685: checks 
+*** TURN *** [Td 6c 2d] [5c]
+donkbet87: bets 284
+bullets685: folds 
+Uncalled bet (284) returned to donkbet87
+donkbet87 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Td 6c 2d 5c]
+Seat 2: Hejsa99 (big blind) folded before Flop
+Seat 4: donkbet87 collected (980)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded on the Turn
+Seat 8: LASIUD (small blind) folded before Flop
+
+
+
+Betfair Hand #262447759262: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 18:01:14 CUST [2026/10/19 13:01:14 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 2: Hejsa99 (1701 in chips) 
+Seat 4: donkbet87 (3801 in chips) 
+Seat 6: shakaa01 (2022 in chips) 
+Seat 7: bullets685 (1723 in chips) 
+Seat 8: LASIUD (4253 in chips) 
+Hejsa99: posts the ante 20
+donkbet87: posts the ante 20
+shakaa01: posts the ante 20
+bullets685: posts the ante 20
+LASIUD: posts the ante 20
+Hejsa99: posts small blind 80
+donkbet87: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc Ts]
+shakaa01: folds 
+bullets685: raises 1543 to 1703 and is all-in
+LASIUD: folds 
+Hejsa99: folds 
+donkbet87: folds 
+Uncalled bet (1543) returned to bullets685
+bullets685 collected 500 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 2: Hejsa99 (small blind) folded before Flop
+Seat 4: donkbet87 (big blind) folded before Flop
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 collected (500)
+Seat 8: LASIUD (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447761516: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 18:01:29 CUST [2026/10/19 13:01:29 ET]
+Table '4040916532 1' 9-max Seat #2 is the button
+Seat 2: Hejsa99 (1601 in chips) 
+Seat 4: donkbet87 (3621 in chips) 
+Seat 6: shakaa01 (2002 in chips) 
+Seat 7: bullets685 (2043 in chips) 
+Seat 8: LASIUD (4233 in chips) 
+Hejsa99: posts the ante 20
+donkbet87: posts the ante 20
+shakaa01: posts the ante 20
+bullets685: posts the ante 20
+LASIUD: posts the ante 20
+donkbet87: posts small blind 80
+shakaa01: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [6c 5h]
+bullets685: folds 
+LASIUD: calls 160
+Hejsa99: raises 1421 to 1581 and is all-in
+donkbet87: folds 
+shakaa01: folds 
+LASIUD: calls 1421
+*** FLOP *** [Jh 7d 5s]
+*** TURN *** [Jh 7d 5s] [Qc]
+*** RIVER *** [Jh 7d 5s Qc] [7s]
+*** SHOW DOWN ***
+LASIUD: shows [Ts Td] (two pair, Tens and Sevens)
+Hejsa99: shows [Ks As] (a pair of Sevens)
+LASIUD collected 3502 from pot
+Hejsa99 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 3502 | Rake 0 
+Board [Jh 7d 5s Qc 7s]
+Seat 2: Hejsa99 (button) showed [Ks As] and lost with a pair of Sevens
+Seat 4: donkbet87 (small blind) folded before Flop
+Seat 6: shakaa01 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD showed [Ts Td] and won (3502) with two pair, Tens and Sevens
+
+
+
+Betfair Hand #262447767174: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 18:02:02 CUST [2026/10/19 13:02:02 ET]
+Table '4040916532 1' 9-max Seat #4 is the button
+Seat 4: donkbet87 (3521 in chips) 
+Seat 6: shakaa01 (1822 in chips) 
+Seat 7: bullets685 (2023 in chips) 
+Seat 8: LASIUD (6134 in chips) 
+donkbet87: posts the ante 20
+shakaa01: posts the ante 20
+bullets685: posts the ante 20
+LASIUD: posts the ante 20
+shakaa01: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh 7s]
+LASIUD: calls 160
+donkbet87: folds 
+shakaa01: folds 
+bullets685: checks 
+*** FLOP *** [Ks 2c Tc]
+bullets685: checks 
+LASIUD: bets 160
+bullets685: folds 
+Uncalled bet (160) returned to LASIUD
+LASIUD collected 480 from pot
+LASIUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Ks 2c Tc]
+Seat 4: donkbet87 (button) folded before Flop (didn't bet)
+Seat 6: shakaa01 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded on the Flop
+Seat 8: LASIUD collected (480)
+
+
+
+Betfair Hand #262447772113: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:02:33 CUST [2026/10/19 13:02:33 ET]
+Table '4040916532 1' 9-max Seat #6 is the button
+Seat 4: donkbet87 (3501 in chips) 
+Seat 6: shakaa01 (1722 in chips) 
+Seat 7: bullets685 (1843 in chips) 
+Seat 8: LASIUD (6434 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+bullets685: posts small blind 100
+LASIUD: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [2d 6s]
+donkbet87: folds 
+shakaa01: folds 
+bullets685: folds 
+Uncalled bet (100) returned to LASIUD
+LASIUD collected 300 from pot
+LASIUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 6: shakaa01 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: LASIUD (big blind) collected (300)
+
+
+
+Betfair Hand #262447774200: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:02:46 CUST [2026/10/19 13:02:46 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 4: donkbet87 (3476 in chips) 
+Seat 6: shakaa01 (1697 in chips) 
+Seat 7: bullets685 (1718 in chips) 
+Seat 8: LASIUD (6609 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+LASIUD: posts small blind 100
+donkbet87: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [3d 6s]
+shakaa01: folds 
+bullets685: folds 
+LASIUD: calls 100
+donkbet87: raises 200 to 400
+LASIUD: calls 200
+*** FLOP *** [3s 5h 9c]
+LASIUD: checks 
+donkbet87: bets 450
+LASIUD: calls 450
+*** TURN *** [3s 5h 9c] [Th]
+LASIUD: checks 
+donkbet87: bets 594
+LASIUD: calls 594
+*** RIVER *** [3s 5h 9c Th] [6c]
+LASIUD: checks 
+donkbet87: bets 2007 and is all-in
+LASIUD: folds 
+Uncalled bet (2007) returned to donkbet87
+donkbet87 collected 2988 from pot
+*** SUMMARY ***
+Total pot 2988 | Rake 0 
+Board [3s 5h 9c Th 6c]
+Seat 4: donkbet87 (big blind) collected (2988)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: LASIUD (small blind) folded on the River
+
+
+
+Betfair Hand #262447786242: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:04:00 CUST [2026/10/19 13:04:00 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 4: donkbet87 (4995 in chips) 
+Seat 6: shakaa01 (1672 in chips) 
+Seat 7: bullets685 (1693 in chips) 
+Seat 8: LASIUD (5140 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+donkbet87: posts small blind 100
+shakaa01: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd Ad]
+bullets685: raises 1468 to 1668 and is all-in
+LASIUD: folds 
+donkbet87: folds 
+shakaa01: folds 
+Uncalled bet (1468) returned to bullets685
+bullets685 collected 600 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 4: donkbet87 (small blind) folded before Flop
+Seat 6: shakaa01 (big blind) folded before Flop
+Seat 7: bullets685 collected (600)
+Seat 8: LASIUD (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447788511: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:04:13 CUST [2026/10/19 13:04:13 ET]
+Table '4040916532 1' 9-max Seat #4 is the button
+Seat 4: donkbet87 (4870 in chips) 
+Seat 6: shakaa01 (1447 in chips) 
+Seat 7: bullets685 (2068 in chips) 
+Seat 8: LASIUD (5115 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+shakaa01: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [2h 9s]
+LASIUD: folds 
+donkbet87: folds 
+shakaa01: raises 1222 to 1422 and is all-in
+bullets685: folds 
+Uncalled bet (1222) returned to shakaa01
+shakaa01 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 4: donkbet87 (button) folded before Flop (didn't bet)
+Seat 6: shakaa01 (small blind) collected (500)
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: LASIUD folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447791134: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:04:29 CUST [2026/10/19 13:04:29 ET]
+Table '4040916532 1' 9-max Seat #6 is the button
+Seat 4: donkbet87 (4845 in chips) 
+Seat 6: shakaa01 (1722 in chips) 
+Seat 7: bullets685 (1843 in chips) 
+Seat 8: LASIUD (5090 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+bullets685: posts small blind 100
+LASIUD: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [2s 7h]
+donkbet87: folds 
+shakaa01: raises 200 to 400
+bullets685: folds 
+LASIUD: folds 
+Uncalled bet (200) returned to shakaa01
+shakaa01 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 6: shakaa01 (button) collected (600)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: LASIUD (big blind) folded before Flop
+
+
+
+Betfair Hand #262447794105: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:04:47 CUST [2026/10/19 13:04:47 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 4: donkbet87 (4820 in chips) 
+Seat 6: shakaa01 (2097 in chips) 
+Seat 7: bullets685 (1718 in chips) 
+Seat 8: LASIUD (4865 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+LASIUD: posts small blind 100
+donkbet87: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Kd Ts]
+shakaa01: raises 200 to 400
+bullets685: calls 400
+LASIUD: folds 
+donkbet87: folds 
+*** FLOP *** [2s 9c 4d]
+shakaa01: checks 
+bullets685: checks 
+*** TURN *** [2s 9c 4d] [Tc]
+shakaa01: checks 
+bullets685: bets 200
+shakaa01: calls 200
+*** RIVER *** [2s 9c 4d Tc] [Ah]
+shakaa01: checks 
+bullets685: checks 
+*** SHOW DOWN ***
+shakaa01: shows [As 8s] (a pair of Aces)
+bullets685: mucks hand 
+shakaa01 collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [2s 9c 4d Tc Ah]
+Seat 4: donkbet87 (big blind) folded before Flop
+Seat 6: shakaa01 showed [As 8s] and won (1600) with a pair of Aces
+Seat 7: bullets685 (button) mucked [Kd Ts]
+Seat 8: LASIUD (small blind) folded before Flop
+
+
+
+Betfair Hand #262447798506: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:05:12 CUST [2026/10/19 13:05:12 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 4: donkbet87 (4595 in chips) 
+Seat 6: shakaa01 (3072 in chips) 
+Seat 7: bullets685 (1093 in chips) 
+Seat 8: LASIUD (4740 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+donkbet87: posts small blind 100
+shakaa01: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ac Ah]
+bullets685: raises 868 to 1068 and is all-in
+LASIUD: folds 
+donkbet87: folds 
+shakaa01: folds 
+Uncalled bet (868) returned to bullets685
+bullets685 collected 600 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 4: donkbet87 (small blind) folded before Flop
+Seat 6: shakaa01 (big blind) folded before Flop
+Seat 7: bullets685 collected (600)
+Seat 8: LASIUD (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447801027: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:05:27 CUST [2026/10/19 13:05:27 ET]
+Table '4040916532 1' 9-max Seat #4 is the button
+Seat 4: donkbet87 (4470 in chips) 
+Seat 6: shakaa01 (2847 in chips) 
+Seat 7: bullets685 (1468 in chips) 
+Seat 8: LASIUD (4715 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+shakaa01: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [8h Ah]
+LASIUD: folds 
+donkbet87: folds 
+shakaa01: folds 
+Uncalled bet (100) returned to bullets685
+bullets685 collected 300 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 4: donkbet87 (button) folded before Flop (didn't bet)
+Seat 6: shakaa01 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) collected (300)
+Seat 8: LASIUD folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447802529: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:05:36 CUST [2026/10/19 13:05:36 ET]
+Table '4040916532 1' 9-max Seat #6 is the button
+Seat 4: donkbet87 (4445 in chips) 
+Seat 6: shakaa01 (2722 in chips) 
+Seat 7: bullets685 (1643 in chips) 
+Seat 8: LASIUD (4690 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+bullets685: posts small blind 100
+LASIUD: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah 7h]
+donkbet87: folds 
+shakaa01: folds 
+bullets685: raises 1418 to 1618 and is all-in
+LASIUD: folds 
+Uncalled bet (1418) returned to bullets685
+bullets685 collected 500 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 6: shakaa01 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) collected (500)
+Seat 8: LASIUD (big blind) folded before Flop
+
+
+
+Betfair Hand #262447804385: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:05:46 CUST [2026/10/19 13:05:46 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 4: donkbet87 (4420 in chips) 
+Seat 6: shakaa01 (2697 in chips) 
+Seat 7: bullets685 (1918 in chips) 
+Seat 8: LASIUD (4465 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+LASIUD: posts small blind 100
+donkbet87: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [8c 2h]
+shakaa01: folds 
+bullets685: folds 
+LASIUD: folds 
+Uncalled bet (100) returned to donkbet87
+donkbet87 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 4: donkbet87 (big blind) collected (300)
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: LASIUD (small blind) folded before Flop
+
+
+
+Betfair Hand #262447805986: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:05:56 CUST [2026/10/19 13:05:56 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 4: donkbet87 (4595 in chips) 
+Seat 6: shakaa01 (2672 in chips) 
+Seat 7: bullets685 (1893 in chips) 
+Seat 8: LASIUD (4340 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+donkbet87: posts small blind 100
+shakaa01: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd 3h]
+bullets685: folds 
+LASIUD: folds 
+donkbet87: folds 
+Uncalled bet (100) returned to shakaa01
+shakaa01 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 4: donkbet87 (small blind) folded before Flop
+Seat 6: shakaa01 (big blind) collected (300)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447807366: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:06:04 CUST [2026/10/19 13:06:04 ET]
+Table '4040916532 1' 9-max Seat #4 is the button
+Seat 4: donkbet87 (4470 in chips) 
+Seat 6: shakaa01 (2847 in chips) 
+Seat 7: bullets685 (1868 in chips) 
+Seat 8: LASIUD (4315 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+shakaa01: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [2s Tc]
+LASIUD: folds 
+donkbet87: folds 
+shakaa01: raises 2622 to 2822 and is all-in
+bullets685: folds 
+Uncalled bet (2622) returned to shakaa01
+shakaa01 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 4: donkbet87 (button) folded before Flop (didn't bet)
+Seat 6: shakaa01 (small blind) collected (500)
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: LASIUD folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447809692: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:06:17 CUST [2026/10/19 13:06:17 ET]
+Table '4040916532 1' 9-max Seat #6 is the button
+Seat 4: donkbet87 (4445 in chips) 
+Seat 6: shakaa01 (3122 in chips) 
+Seat 7: bullets685 (1643 in chips) 
+Seat 8: LASIUD (4290 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+bullets685: posts small blind 100
+LASIUD: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 6d]
+donkbet87: folds 
+shakaa01: folds 
+bullets685: raises 1418 to 1618 and is all-in
+LASIUD: folds 
+Uncalled bet (1418) returned to bullets685
+bullets685 collected 500 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 6: shakaa01 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) collected (500)
+Seat 8: LASIUD (big blind) folded before Flop
+
+
+
+Betfair Hand #262447811864: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:06:30 CUST [2026/10/19 13:06:30 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 4: donkbet87 (4420 in chips) 
+Seat 6: shakaa01 (3097 in chips) 
+Seat 7: bullets685 (1918 in chips) 
+Seat 8: LASIUD (4065 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+LASIUD: posts small blind 100
+donkbet87: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Kc Ac]
+shakaa01: folds 
+bullets685: raises 1693 to 1893 and is all-in
+LASIUD: folds 
+donkbet87: folds 
+Uncalled bet (1693) returned to bullets685
+bullets685 collected 600 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 4: donkbet87 (big blind) folded before Flop
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) collected (600)
+Seat 8: LASIUD (small blind) folded before Flop
+
+
+
+Betfair Hand #262447817057: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:07:00 CUST [2026/10/19 13:07:00 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 4: donkbet87 (4195 in chips) 
+Seat 6: shakaa01 (3072 in chips) 
+Seat 7: bullets685 (2293 in chips) 
+Seat 8: LASIUD (3940 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+donkbet87: posts small blind 100
+shakaa01: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [4c 7d]
+bullets685: folds 
+LASIUD: calls 200
+donkbet87: folds 
+shakaa01: checks 
+*** FLOP *** [8d Qh Kc]
+shakaa01: checks 
+LASIUD: bets 200
+shakaa01: folds 
+Uncalled bet (200) returned to LASIUD
+LASIUD collected 600 from pot
+LASIUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [8d Qh Kc]
+Seat 4: donkbet87 (small blind) folded before Flop
+Seat 6: shakaa01 (big blind) folded on the Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD (button) collected (600)
+
+
+
+Betfair Hand #262447820133: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 18:07:19 CUST [2026/10/19 13:07:19 ET]
+Table '4040916532 1' 9-max Seat #4 is the button
+Seat 4: donkbet87 (4070 in chips) 
+Seat 6: shakaa01 (2847 in chips) 
+Seat 7: bullets685 (2268 in chips) 
+Seat 8: LASIUD (4315 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+shakaa01: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc 5d]
+LASIUD: calls 200
+donkbet87: folds 
+shakaa01: folds 
+bullets685: checks 
+*** FLOP *** [2c 9h 3c]
+bullets685: checks 
+LASIUD: bets 200
+bullets685: folds 
+Uncalled bet (200) returned to LASIUD
+LASIUD collected 600 from pot
+LASIUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [2c 9h 3c]
+Seat 4: donkbet87 (button) folded before Flop (didn't bet)
+Seat 6: shakaa01 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded on the Flop
+Seat 8: LASIUD collected (600)
+
+
+
+Betfair Hand #262447823345: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 18:07:37 CUST [2026/10/19 13:07:37 ET]
+Table '4040916532 1' 9-max Seat #6 is the button
+Seat 4: donkbet87 (4045 in chips) 
+Seat 6: shakaa01 (2722 in chips) 
+Seat 7: bullets685 (2043 in chips) 
+Seat 8: LASIUD (4690 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+bullets685: posts small blind 150
+LASIUD: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [6c 6s]
+donkbet87: folds 
+shakaa01: folds 
+bullets685: raises 1718 to 2018 and is all-in
+LASIUD: folds 
+Uncalled bet (1718) returned to bullets685
+bullets685 collected 700 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 6: shakaa01 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) collected (700)
+Seat 8: LASIUD (big blind) folded before Flop
+
+
+
+Betfair Hand #262447825223: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 18:07:48 CUST [2026/10/19 13:07:48 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 4: donkbet87 (4020 in chips) 
+Seat 6: shakaa01 (2697 in chips) 
+Seat 7: bullets685 (2418 in chips) 
+Seat 8: LASIUD (4365 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+LASIUD: posts small blind 150
+donkbet87: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad Tc]
+shakaa01: folds 
+bullets685: raises 2093 to 2393 and is all-in
+LASIUD: folds 
+donkbet87: folds 
+Uncalled bet (2093) returned to bullets685
+bullets685 collected 850 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 4: donkbet87 (big blind) folded before Flop
+Seat 6: shakaa01 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) collected (850)
+Seat 8: LASIUD (small blind) folded before Flop
+
+
+
+Betfair Hand #262447827752: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 18:08:03 CUST [2026/10/19 13:08:03 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 4: donkbet87 (3695 in chips) 
+Seat 6: shakaa01 (2672 in chips) 
+Seat 7: bullets685 (2943 in chips) 
+Seat 8: LASIUD (4190 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+donkbet87: posts small blind 150
+shakaa01: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Qs 3s]
+bullets685: folds 
+LASIUD: folds 
+donkbet87: folds 
+Uncalled bet (150) returned to shakaa01
+shakaa01 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 4: donkbet87 (small blind) folded before Flop
+Seat 6: shakaa01 (big blind) collected (400)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: LASIUD (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447829516: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 18:08:14 CUST [2026/10/19 13:08:14 ET]
+Table '4040916532 1' 9-max Seat #4 is the button
+Seat 4: donkbet87 (3520 in chips) 
+Seat 6: shakaa01 (2897 in chips) 
+Seat 7: bullets685 (2918 in chips) 
+Seat 8: LASIUD (4165 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+shakaa01: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh 7d]
+LASIUD: folds 
+donkbet87: folds 
+shakaa01: folds 
+Uncalled bet (150) returned to bullets685
+bullets685 collected 400 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 4: donkbet87 (button) folded before Flop (didn't bet)
+Seat 6: shakaa01 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) collected (400)
+Seat 8: LASIUD folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262447830747: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 18:08:21 CUST [2026/10/19 13:08:21 ET]
+Table '4040916532 1' 9-max Seat #6 is the button
+Seat 4: donkbet87 (3495 in chips) 
+Seat 6: shakaa01 (2722 in chips) 
+Seat 7: bullets685 (3143 in chips) 
+Seat 8: LASIUD (4140 in chips) 
+donkbet87: posts the ante 25
+shakaa01: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+bullets685: posts small blind 150
+LASIUD: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad Jd]
+donkbet87: folds 
+shakaa01: raises 2397 to 2697 and is all-in
+bullets685: raises 421 to 3118 and is all-in
+LASIUD: folds 
+Uncalled bet (421) returned to bullets685
+*** FLOP *** [9s 7h Ts]
+*** TURN *** [9s 7h Ts] [5h]
+*** RIVER *** [9s 7h Ts 5h] [9d]
+*** SHOW DOWN ***
+bullets685: shows [Ad Jd] (a pair of Nines)
+shakaa01: shows [Kh Qh] (a pair of Nines - lower kicker)
+bullets685 collected 5794 from pot
+shakaa01 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 5794 | Rake 0 
+Board [9s 7h Ts 5h 9d]
+Seat 4: donkbet87 folded before Flop (didn't bet)
+Seat 6: shakaa01 (button) showed [Kh Qh] and lost with a pair of Nines
+Seat 7: bullets685 (small blind) showed [Ad Jd] and won (5794) with a pair of Nines
+Seat 8: LASIUD (big blind) folded before Flop
+
+
+
+Betfair Hand #262447833706: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 18:08:39 CUST [2026/10/19 13:08:39 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 4: donkbet87 (3470 in chips) 
+Seat 7: bullets685 (6215 in chips) 
+Seat 8: LASIUD (3815 in chips) 
+donkbet87: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+LASIUD: posts small blind 150
+donkbet87: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [6h 6c]
+bullets685: raises 5890 to 6190 and is all-in
+LASIUD: folds 
+donkbet87: folds 
+Uncalled bet (5890) returned to bullets685
+bullets685 collected 825 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 4: donkbet87 (big blind) folded before Flop
+Seat 7: bullets685 (button) collected (825)
+Seat 8: LASIUD (small blind) folded before Flop
+
+
+
+Betfair Hand #262447835775: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 18:08:51 CUST [2026/10/19 13:08:51 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 4: donkbet87 (3145 in chips) 
+Seat 7: bullets685 (6715 in chips) 
+Seat 8: LASIUD (3640 in chips) 
+donkbet87: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+donkbet87: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [5s Qd]
+LASIUD: calls 300
+donkbet87: folds 
+bullets685: checks 
+*** FLOP *** [3d Kd Th]
+bullets685: checks 
+LASIUD: checks 
+*** TURN *** [3d Kd Th] [2d]
+bullets685: checks 
+LASIUD: bets 300
+bullets685: folds 
+Uncalled bet (300) returned to LASIUD
+LASIUD collected 825 from pot
+LASIUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Board [3d Kd Th 2d]
+Seat 4: donkbet87 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded on the Turn
+Seat 8: LASIUD (button) collected (825)
+
+
+
+Betfair Hand #262447839222: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 18:09:11 CUST [2026/10/19 13:09:11 ET]
+Table '4040916532 1' 9-max Seat #4 is the button
+Seat 4: donkbet87 (2970 in chips) 
+Seat 7: bullets685 (6390 in chips) 
+Seat 8: LASIUD (4140 in chips) 
+donkbet87: posts the ante 25
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+bullets685: posts small blind 150
+LASIUD: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [6c 9c]
+donkbet87: raises 2645 to 2945 and is all-in
+bullets685: folds 
+LASIUD: calls 2645
+*** FLOP *** [Qs Jh 9d]
+*** TURN *** [Qs Jh 9d] [4c]
+*** RIVER *** [Qs Jh 9d 4c] [8h]
+*** SHOW DOWN ***
+LASIUD: shows [Ac Qc] (a pair of Queens)
+donkbet87: shows [5s 5c] (a pair of Fives)
+LASIUD collected 6115 from pot
+donkbet87 finished the tournament in 3rd place and received $7.92.
+*** SUMMARY ***
+Total pot 6115 | Rake 0 
+Board [Qs Jh 9d 4c 8h]
+Seat 4: donkbet87 (button) showed [5s 5c] and lost with a pair of Fives
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: LASIUD (big blind) showed [Ac Qc] and won (6115) with a pair of Queens
+
+
+
+Betfair Hand #262447842361: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 18:09:30 CUST [2026/10/19 13:09:30 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (6215 in chips) 
+Seat 8: LASIUD (7285 in chips) 
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+LASIUD: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [8h Kd]
+LASIUD: calls 150
+bullets685: checks 
+*** FLOP *** [Tc 8s 4h]
+bullets685: bets 600
+LASIUD: calls 600
+*** TURN *** [Tc 8s 4h] [Kc]
+bullets685: bets 925
+LASIUD: folds 
+Uncalled bet (925) returned to bullets685
+bullets685 collected 1850 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1850 | Rake 0 
+Board [Tc 8s 4h Kc]
+Seat 7: bullets685 (big blind) collected (1850)
+Seat 8: LASIUD (button) (small blind) folded on the Turn
+
+
+
+Betfair Hand #262447846559: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 18:09:55 CUST [2026/10/19 13:09:55 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (7140 in chips) 
+Seat 8: LASIUD (6360 in chips) 
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+bullets685: posts small blind 150
+LASIUD: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [8c Td]
+bullets685: raises 300 to 600
+LASIUD: calls 300
+*** FLOP *** [6h 2s 2d]
+LASIUD: bets 300
+bullets685: calls 300
+*** TURN *** [6h 2s 2d] [6s]
+LASIUD: checks 
+bullets685: bets 900
+LASIUD: calls 900
+*** RIVER *** [6h 2s 2d 6s] [5d]
+LASIUD: checks 
+bullets685: bets 1825
+LASIUD: raises 1825 to 3650
+bullets685: folds 
+Uncalled bet (1825) returned to LASIUD
+LASIUD collected 7300 from pot
+LASIUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 7300 | Rake 0 
+Board [6h 2s 2d 6s 5d]
+Seat 7: bullets685 (button) (small blind) folded on the River
+Seat 8: LASIUD (big blind) collected (7300)
+
+
+
+Betfair Hand #262447851986: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 18:10:27 CUST [2026/10/19 13:10:27 ET]
+Table '4040916532 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (3490 in chips) 
+Seat 8: LASIUD (10010 in chips) 
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+LASIUD: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [3c 6s]
+LASIUD: calls 150
+bullets685: checks 
+*** FLOP *** [Th Qs Ac]
+bullets685: checks 
+LASIUD: bets 300
+bullets685: folds 
+Uncalled bet (300) returned to LASIUD
+LASIUD collected 650 from pot
+LASIUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Th Qs Ac]
+Seat 7: bullets685 (big blind) folded on the Flop
+Seat 8: LASIUD (button) (small blind) collected (650)
+
+
+
+Betfair Hand #262447853888: Tournament #4040916532, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 18:10:38 CUST [2026/10/19 13:10:38 ET]
+Table '4040916532 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (3165 in chips) 
+Seat 8: LASIUD (10335 in chips) 
+bullets685: posts the ante 25
+LASIUD: posts the ante 25
+bullets685: posts small blind 150
+LASIUD: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [6c 8c]
+bullets685: raises 2840 to 3140 and is all-in
+LASIUD: calls 2840
+*** FLOP *** [6d 3d 6s]
+*** TURN *** [6d 3d 6s] [5d]
+*** RIVER *** [6d 3d 6s 5d] [4s]
+*** SHOW DOWN ***
+LASIUD: shows [7c Ac] (a straight, Three to Seven)
+bullets685: shows [6c 8c] (three of a kind, Sixes)
+LASIUD collected 6330 from pot
+bullets685 finished the tournament in 2nd place and received $11.88.
+LASIUD wins the tournament and receives $19.80 - congratulations!
+*** SUMMARY ***
+Total pot 6330 | Rake 0 
+Board [6d 3d 6s 5d 4s]
+Seat 7: bullets685 (button) (small blind) showed [6c 8c] and lost with three of a kind, Sixes
+Seat 8: LASIUD (big blind) showed [7c Ac] and won (6330) with a straight, Three to Seven
+
+
+

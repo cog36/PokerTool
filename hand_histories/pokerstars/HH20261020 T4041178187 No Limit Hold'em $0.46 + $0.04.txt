@@ -1,0 +1,569 @@
+﻿Betfair Hand #262458064720: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2026/10/20 18:39:47 CUST [2026/10/20 13:39:47 ET]
+Table '4041178187 1' 3-max Seat #1 is the button
+Seat 1: Bugiman3 (500 in chips) 
+Seat 2: bullets685 (500 in chips) 
+Seat 3: B_Macklin (500 in chips) 
+bullets685: posts small blind 10
+B_Macklin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [Kc Qd]
+Bugiman3: folds 
+bullets685: raises 480 to 500 and is all-in
+B_Macklin: folds 
+Uncalled bet (480) returned to bullets685
+bullets685 collected 40 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Bugiman3 (button) folded before Flop (didn't bet)
+Seat 2: bullets685 (small blind) collected (40)
+Seat 3: B_Macklin (big blind) folded before Flop
+
+
+
+Betfair Hand #262458066985: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2026/10/20 18:39:59 CUST [2026/10/20 13:39:59 ET]
+Table '4041178187 1' 3-max Seat #2 is the button
+Seat 1: Bugiman3 (500 in chips) 
+Seat 2: bullets685 (520 in chips) 
+Seat 3: B_Macklin (480 in chips) 
+B_Macklin: posts small blind 10
+Bugiman3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh 7s]
+bullets685: folds 
+B_Macklin: folds 
+Uncalled bet (10) returned to Bugiman3
+Bugiman3 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Bugiman3 (big blind) collected (20)
+Seat 2: bullets685 (button) folded before Flop (didn't bet)
+Seat 3: B_Macklin (small blind) folded before Flop
+
+
+
+Betfair Hand #262458068096: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2026/10/20 18:40:05 CUST [2026/10/20 13:40:05 ET]
+Table '4041178187 1' 3-max Seat #3 is the button
+Seat 1: Bugiman3 (510 in chips) 
+Seat 2: bullets685 (520 in chips) 
+Seat 3: B_Macklin (470 in chips) 
+Bugiman3: posts small blind 10
+bullets685: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [4h 5d]
+B_Macklin: folds 
+Bugiman3: calls 10
+bullets685: checks 
+*** FLOP *** [Kh 7d Qs]
+Bugiman3: checks 
+bullets685: checks 
+*** TURN *** [Kh 7d Qs] [3c]
+Bugiman3: checks 
+bullets685: checks 
+*** RIVER *** [Kh 7d Qs 3c] [Qh]
+Bugiman3: checks 
+bullets685: checks 
+*** SHOW DOWN ***
+Bugiman3: shows [8d Th] (a pair of Queens)
+bullets685: mucks hand 
+Bugiman3 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh 7d Qs 3c Qh]
+Seat 1: Bugiman3 (small blind) showed [8d Th] and won (40) with a pair of Queens
+Seat 2: bullets685 (big blind) mucked [4h 5d]
+Seat 3: B_Macklin (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458074056: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2026/10/20 18:40:38 CUST [2026/10/20 13:40:38 ET]
+Table '4041178187 1' 3-max Seat #1 is the button
+Seat 1: Bugiman3 (530 in chips) 
+Seat 2: bullets685 (500 in chips) 
+Seat 3: B_Macklin (470 in chips) 
+bullets685: posts small blind 10
+B_Macklin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [As 3h]
+Bugiman3: folds 
+bullets685: raises 480 to 500 and is all-in
+B_Macklin: folds 
+Uncalled bet (480) returned to bullets685
+bullets685 collected 40 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Bugiman3 (button) folded before Flop (didn't bet)
+Seat 2: bullets685 (small blind) collected (40)
+Seat 3: B_Macklin (big blind) folded before Flop
+
+
+
+Betfair Hand #262458076842: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2026/10/20 18:40:53 CUST [2026/10/20 13:40:53 ET]
+Table '4041178187 1' 3-max Seat #2 is the button
+Seat 1: Bugiman3 (530 in chips) 
+Seat 2: bullets685 (520 in chips) 
+Seat 3: B_Macklin (450 in chips) 
+B_Macklin: posts small blind 10
+Bugiman3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [6c 3s]
+bullets685: folds 
+B_Macklin: folds 
+Uncalled bet (10) returned to Bugiman3
+Bugiman3 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Bugiman3 (big blind) collected (20)
+Seat 2: bullets685 (button) folded before Flop (didn't bet)
+Seat 3: B_Macklin (small blind) folded before Flop
+
+
+
+Betfair Hand #262458078404: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2026/10/20 18:41:02 CUST [2026/10/20 13:41:02 ET]
+Table '4041178187 1' 3-max Seat #3 is the button
+Seat 1: Bugiman3 (540 in chips) 
+Seat 2: bullets685 (520 in chips) 
+Seat 3: B_Macklin (440 in chips) 
+Bugiman3: posts small blind 10
+bullets685: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [8c Jd]
+B_Macklin: folds 
+Bugiman3: calls 10
+bullets685: checks 
+*** FLOP *** [8h Jc Js]
+Bugiman3: checks 
+bullets685: bets 40
+Bugiman3: calls 40
+*** TURN *** [8h Jc Js] [As]
+Bugiman3: checks 
+bullets685: bets 60
+Bugiman3: folds 
+Uncalled bet (60) returned to bullets685
+bullets685 collected 120 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8h Jc Js As]
+Seat 1: Bugiman3 (small blind) folded on the Turn
+Seat 2: bullets685 (big blind) collected (120)
+Seat 3: B_Macklin (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458084333: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2026/10/20 18:41:34 CUST [2026/10/20 13:41:34 ET]
+Table '4041178187 1' 3-max Seat #1 is the button
+Seat 1: Bugiman3 (480 in chips) 
+Seat 2: bullets685 (580 in chips) 
+Seat 3: B_Macklin (440 in chips) 
+bullets685: posts small blind 10
+B_Macklin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [3h 3s]
+Bugiman3: calls 20
+bullets685: calls 10
+B_Macklin: checks 
+*** FLOP *** [3c Ts 7h]
+bullets685: bets 60
+B_Macklin: calls 60
+Bugiman3: folds 
+*** TURN *** [3c Ts 7h] [8d]
+bullets685: bets 90
+B_Macklin: calls 90
+*** RIVER *** [3c Ts 7h 8d] [4s]
+bullets685: bets 410 and is all-in
+B_Macklin: folds 
+Uncalled bet (410) returned to bullets685
+bullets685 collected 360 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [3c Ts 7h 8d 4s]
+Seat 1: Bugiman3 (button) folded on the Flop
+Seat 2: bullets685 (small blind) collected (360)
+Seat 3: B_Macklin (big blind) folded on the River
+
+
+
+Betfair Hand #262458090550: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2026/10/20 18:42:08 CUST [2026/10/20 13:42:08 ET]
+Table '4041178187 1' 3-max Seat #2 is the button
+Seat 1: Bugiman3 (460 in chips) 
+Seat 2: bullets685 (770 in chips) 
+Seat 3: B_Macklin (270 in chips) 
+B_Macklin: posts small blind 15
+Bugiman3: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc Qh]
+bullets685: raises 740 to 770 and is all-in
+B_Macklin: folds 
+Bugiman3: folds 
+Uncalled bet (740) returned to bullets685
+bullets685 collected 75 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Bugiman3 (big blind) folded before Flop
+Seat 2: bullets685 (button) collected (75)
+Seat 3: B_Macklin (small blind) folded before Flop
+
+
+
+Betfair Hand #262458092457: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2026/10/20 18:42:18 CUST [2026/10/20 13:42:18 ET]
+Table '4041178187 1' 3-max Seat #3 is the button
+Seat 1: Bugiman3 (430 in chips) 
+Seat 2: bullets685 (815 in chips) 
+Seat 3: B_Macklin (255 in chips) 
+Bugiman3: posts small blind 15
+bullets685: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [6s Kd]
+B_Macklin: folds 
+Bugiman3: calls 15
+bullets685: checks 
+*** FLOP *** [Ah 2d 6h]
+Bugiman3: checks 
+bullets685: bets 60
+Bugiman3: folds 
+Uncalled bet (60) returned to bullets685
+bullets685 collected 60 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ah 2d 6h]
+Seat 1: Bugiman3 (small blind) folded on the Flop
+Seat 2: bullets685 (big blind) collected (60)
+Seat 3: B_Macklin (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458095079: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2026/10/20 18:42:33 CUST [2026/10/20 13:42:33 ET]
+Table '4041178187 1' 3-max Seat #1 is the button
+Seat 1: Bugiman3 (400 in chips) 
+Seat 2: bullets685 (845 in chips) 
+Seat 3: B_Macklin (255 in chips) 
+bullets685: posts small blind 15
+B_Macklin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Kd Kh]
+Bugiman3: calls 30
+bullets685: raises 815 to 845 and is all-in
+B_Macklin: folds 
+Bugiman3: folds 
+Uncalled bet (815) returned to bullets685
+bullets685 collected 90 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Bugiman3 (button) folded before Flop
+Seat 2: bullets685 (small blind) collected (90)
+Seat 3: B_Macklin (big blind) folded before Flop
+
+
+
+Betfair Hand #262458097483: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2026/10/20 18:42:45 CUST [2026/10/20 13:42:45 ET]
+Table '4041178187 1' 3-max Seat #2 is the button
+Seat 1: Bugiman3 (370 in chips) 
+Seat 2: bullets685 (905 in chips) 
+Seat 3: B_Macklin (225 in chips) 
+B_Macklin: posts small blind 15
+Bugiman3: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh Td]
+bullets685: raises 30 to 60
+B_Macklin: raises 165 to 225 and is all-in
+Bugiman3: folds 
+bullets685: calls 165
+*** FLOP *** [Kc 2h 8s]
+*** TURN *** [Kc 2h 8s] [5h]
+*** RIVER *** [Kc 2h 8s 5h] [Ks]
+*** SHOW DOWN ***
+B_Macklin: shows [Qs Qc] (two pair, Kings and Queens)
+bullets685: shows [Jh Td] (a pair of Kings)
+B_Macklin collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Kc 2h 8s 5h Ks]
+Seat 1: Bugiman3 (big blind) folded before Flop
+Seat 2: bullets685 (button) showed [Jh Td] and lost with a pair of Kings
+Seat 3: B_Macklin (small blind) showed [Qs Qc] and won (480) with two pair, Kings and Queens
+
+
+
+Betfair Hand #262458100870: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2026/10/20 18:43:04 CUST [2026/10/20 13:43:04 ET]
+Table '4041178187 1' 3-max Seat #3 is the button
+Seat 1: Bugiman3 (340 in chips) 
+Seat 2: bullets685 (680 in chips) 
+Seat 3: B_Macklin (480 in chips) 
+Bugiman3: posts small blind 15
+bullets685: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [8c 2d]
+B_Macklin: folds 
+Bugiman3: calls 15
+bullets685: checks 
+*** FLOP *** [9s Js 4d]
+Bugiman3: checks 
+bullets685: checks 
+*** TURN *** [9s Js 4d] [Qs]
+Bugiman3: checks 
+bullets685: bets 60
+Bugiman3: calls 60
+*** RIVER *** [9s Js 4d Qs] [8s]
+Bugiman3: checks 
+bullets685: checks 
+*** SHOW DOWN ***
+Bugiman3: shows [Kh 5h] (high card King)
+bullets685: shows [8c 2d] (a pair of Eights)
+bullets685 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9s Js 4d Qs 8s]
+Seat 1: Bugiman3 (small blind) showed [Kh 5h] and lost with high card King
+Seat 2: bullets685 (big blind) showed [8c 2d] and won (180) with a pair of Eights
+Seat 3: B_Macklin (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458105331: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2026/10/20 18:43:28 CUST [2026/10/20 13:43:28 ET]
+Table '4041178187 1' 3-max Seat #1 is the button
+Seat 1: Bugiman3 (250 in chips) 
+Seat 2: bullets685 (770 in chips) 
+Seat 3: B_Macklin (480 in chips) 
+bullets685: posts small blind 15
+B_Macklin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Kc 9s]
+Bugiman3: calls 30
+bullets685: raises 30 to 60
+B_Macklin: folds 
+Bugiman3: calls 30
+*** FLOP *** [Td 8d Jc]
+bullets685: bets 60
+Bugiman3: calls 60
+*** TURN *** [Td 8d Jc] [9c]
+bullets685: bets 60
+Bugiman3: calls 60
+*** RIVER *** [Td 8d Jc 9c] [4d]
+bullets685: bets 90
+Bugiman3: calls 70 and is all-in
+Uncalled bet (20) returned to bullets685
+*** SHOW DOWN ***
+bullets685: shows [Kc 9s] (a pair of Nines)
+Bugiman3: shows [4s Ad] (a pair of Fours)
+bullets685 collected 530 from pot
+Bugiman3 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [Td 8d Jc 9c 4d]
+Seat 1: Bugiman3 (button) showed [4s Ad] and lost with a pair of Fours
+Seat 2: bullets685 (small blind) showed [Kc 9s] and won (530) with a pair of Nines
+Seat 3: B_Macklin (big blind) folded before Flop
+
+
+
+Betfair Hand #262458112543: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2026/10/20 18:44:08 CUST [2026/10/20 13:44:08 ET]
+Table '4041178187 1' 3-max Seat #3 is the button
+Seat 2: bullets685 (1050 in chips) 
+Seat 3: B_Macklin (450 in chips) 
+B_Macklin: posts small blind 20
+bullets685: posts big blind 40
+*** HOLE CARDS ***
+Dealt to bullets685 [2h Jd]
+B_Macklin: raises 56 to 96
+bullets685: calls 56
+*** FLOP *** [9h Ah Qc]
+bullets685: checks 
+B_Macklin: bets 96
+bullets685: folds 
+Uncalled bet (96) returned to B_Macklin
+B_Macklin collected 192 from pot
+B_Macklin: doesn't show hand 
+*** SUMMARY ***
+Total pot 192 | Rake 0 
+Board [9h Ah Qc]
+Seat 2: bullets685 (big blind) folded on the Flop
+Seat 3: B_Macklin (button) (small blind) collected (192)
+
+
+
+Betfair Hand #262458115636: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2026/10/20 18:44:25 CUST [2026/10/20 13:44:25 ET]
+Table '4041178187 1' 3-max Seat #2 is the button
+Seat 2: bullets685 (954 in chips) 
+Seat 3: B_Macklin (546 in chips) 
+bullets685: posts small blind 20
+B_Macklin: posts big blind 40
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah 4s]
+bullets685: raises 40 to 80
+B_Macklin: calls 40
+*** FLOP *** [9h 8h 2c]
+B_Macklin: checks 
+bullets685: bets 120
+B_Macklin: raises 346 to 466 and is all-in
+bullets685: folds 
+Uncalled bet (346) returned to B_Macklin
+B_Macklin collected 400 from pot
+B_Macklin: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [9h 8h 2c]
+Seat 2: bullets685 (button) (small blind) folded on the Flop
+Seat 3: B_Macklin (big blind) collected (400)
+
+
+
+Betfair Hand #262458118490: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2026/10/20 18:44:41 CUST [2026/10/20 13:44:41 ET]
+Table '4041178187 1' 3-max Seat #3 is the button
+Seat 2: bullets685 (754 in chips) 
+Seat 3: B_Macklin (746 in chips) 
+B_Macklin: posts small blind 20
+bullets685: posts big blind 40
+*** HOLE CARDS ***
+Dealt to bullets685 [8s Kd]
+B_Macklin: calls 20
+bullets685: checks 
+*** FLOP *** [5h Ks Jd]
+bullets685: bets 80
+B_Macklin: folds 
+Uncalled bet (80) returned to bullets685
+bullets685 collected 80 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5h Ks Jd]
+Seat 2: bullets685 (big blind) collected (80)
+Seat 3: B_Macklin (button) (small blind) folded on the Flop
+
+
+
+Betfair Hand #262458120351: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2026/10/20 18:44:51 CUST [2026/10/20 13:44:51 ET]
+Table '4041178187 1' 3-max Seat #2 is the button
+Seat 2: bullets685 (794 in chips) 
+Seat 3: B_Macklin (706 in chips) 
+bullets685: posts small blind 20
+B_Macklin: posts big blind 40
+*** HOLE CARDS ***
+Dealt to bullets685 [8h 5h]
+bullets685: raises 40 to 80
+B_Macklin: calls 40
+*** FLOP *** [Jc 6s Ad]
+B_Macklin: checks 
+bullets685: checks 
+*** TURN *** [Jc 6s Ad] [Th]
+B_Macklin: checks 
+bullets685: checks 
+*** RIVER *** [Jc 6s Ad Th] [8c]
+B_Macklin: checks 
+bullets685: checks 
+*** SHOW DOWN ***
+B_Macklin: shows [Qd 7c] (high card Ace)
+bullets685: shows [8h 5h] (a pair of Eights)
+bullets685 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jc 6s Ad Th 8c]
+Seat 2: bullets685 (button) (small blind) showed [8h 5h] and won (160) with a pair of Eights
+Seat 3: B_Macklin (big blind) showed [Qd 7c] and lost with high card Ace
+
+
+
+Betfair Hand #262458123714: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2026/10/20 18:45:09 CUST [2026/10/20 13:45:09 ET]
+Table '4041178187 1' 3-max Seat #3 is the button
+Seat 2: bullets685 (874 in chips) 
+Seat 3: B_Macklin (626 in chips) 
+B_Macklin: posts small blind 20
+bullets685: posts big blind 40
+*** HOLE CARDS ***
+Dealt to bullets685 [Ac Kd]
+B_Macklin: calls 20
+bullets685: raises 120 to 160
+B_Macklin: folds 
+Uncalled bet (120) returned to bullets685
+bullets685 collected 80 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: bullets685 (big blind) collected (80)
+Seat 3: B_Macklin (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262458125958: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2026/10/20 18:45:22 CUST [2026/10/20 13:45:22 ET]
+Table '4041178187 1' 3-max Seat #2 is the button
+Seat 2: bullets685 (914 in chips) 
+Seat 3: B_Macklin (586 in chips) 
+bullets685: posts small blind 20
+B_Macklin: posts big blind 40
+*** HOLE CARDS ***
+Dealt to bullets685 [4d 4s]
+bullets685: raises 40 to 80
+B_Macklin: calls 40
+*** FLOP *** [8d 2s Ts]
+B_Macklin: checks 
+bullets685: bets 120
+B_Macklin: folds 
+Uncalled bet (120) returned to bullets685
+bullets685 collected 160 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8d 2s Ts]
+Seat 2: bullets685 (button) (small blind) collected (160)
+Seat 3: B_Macklin (big blind) folded on the Flop
+
+
+
+Betfair Hand #262458131689: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2026/10/20 18:45:52 CUST [2026/10/20 13:45:52 ET]
+Table '4041178187 1' 3-max Seat #3 is the button
+Seat 2: bullets685 (994 in chips) 
+Seat 3: B_Macklin (506 in chips) 
+B_Macklin: posts small blind 30
+bullets685: posts big blind 60
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts Js]
+B_Macklin: calls 30
+bullets685: checks 
+*** FLOP *** [4s 9c Td]
+bullets685: bets 120
+B_Macklin: folds 
+Uncalled bet (120) returned to bullets685
+bullets685 collected 120 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s 9c Td]
+Seat 2: bullets685 (big blind) collected (120)
+Seat 3: B_Macklin (button) (small blind) folded on the Flop
+
+
+
+Betfair Hand #262458135860: Tournament #4041178187, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2026/10/20 18:46:15 CUST [2026/10/20 13:46:15 ET]
+Table '4041178187 1' 3-max Seat #2 is the button
+Seat 2: bullets685 (1054 in chips) 
+Seat 3: B_Macklin (446 in chips) 
+bullets685: posts small blind 30
+B_Macklin: posts big blind 60
+*** HOLE CARDS ***
+Dealt to bullets685 [4s As]
+bullets685: raises 120 to 180
+B_Macklin: raises 266 to 446 and is all-in
+bullets685: calls 266
+*** FLOP *** [2d 7s 3s]
+*** TURN *** [2d 7s 3s] [4c]
+*** RIVER *** [2d 7s 3s 4c] [Js]
+*** SHOW DOWN ***
+B_Macklin: shows [Qc Jc] (a pair of Jacks)
+bullets685: shows [4s As] (a flush, Ace high)
+bullets685 collected 892 from pot
+B_Macklin finished the tournament in 2nd place
+bullets685 wins the tournament - congratulations!
+bullets685 wins a '$1.50 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 892 | Rake 0 
+Board [2d 7s 3s 4c Js]
+Seat 2: bullets685 (button) (small blind) showed [4s As] and won (892) with a flush, Ace high
+Seat 3: B_Macklin (big blind) showed [Qc Jc] and lost with a pair of Jacks
+
+
+

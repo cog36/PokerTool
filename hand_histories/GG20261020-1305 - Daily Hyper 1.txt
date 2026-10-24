@@ -1,0 +1,4818 @@
+Poker Hand #TM6562928772: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level29(8,000/16,000(2,000)) - 2026/10/20 15:22:07
+Table '60' 6-max Seat #6 is the button
+Seat 1: 25f0d64f (61,230 in chips)
+Seat 2: 6cd92ece (248,820 in chips)
+Seat 3: ef7e325f (288,020 in chips)
+Seat 4: b621cb5a (324,194 in chips)
+Seat 5: 85a4ce95 (254,488 in chips)
+Seat 6: Hero (137,705 in chips)
+25f0d64f: posts the ante 2,000
+ef7e325f: posts the ante 2,000
+Hero: posts the ante 2,000
+6cd92ece: posts the ante 2,000
+85a4ce95: posts the ante 2,000
+b621cb5a: posts the ante 2,000
+25f0d64f: posts small blind 8,000
+6cd92ece: posts big blind 16,000
+*** HOLE CARDS ***
+Dealt to 25f0d64f 
+Dealt to 6cd92ece 
+Dealt to ef7e325f 
+Dealt to b621cb5a 
+Dealt to 85a4ce95 
+Dealt to Hero [Jc Qd]
+ef7e325f: folds
+b621cb5a: raises 304,000 to 320,000
+85a4ce95: folds
+Hero: calls 135,705 and is all-in
+25f0d64f: folds
+6cd92ece: folds
+Uncalled bet (184,295) returned to b621cb5a
+b621cb5a: shows [Tc Td]
+Hero: shows [Jc Qd]
+*** FLOP *** [8h 8s 3s]
+*** TURN *** [8h 8s 3s] [Kd]
+*** RIVER *** [8h 8s 3s Kd] [Ks]
+*** SHOWDOWN ***
+b621cb5a collected 307,410 from pot
+*** SUMMARY ***
+Total pot 307,410 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h 8s 3s Kd Ks]
+Seat 1: 25f0d64f (small blind) folded before Flop
+Seat 2: 6cd92ece (big blind) folded before Flop
+Seat 3: ef7e325f folded before Flop
+Seat 4: b621cb5a showed [Tc Td] and won (307,410) with two pair, Kings and Tens
+Seat 5: 85a4ce95 folded before Flop
+Seat 6: Hero (button) showed [Jc Qd] and lost with two pair, Kings and Eights
+
+
+Poker Hand #TM6562928692: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level29(8,000/16,000(2,000)) - 2026/10/20 15:21:26
+Table '60' 6-max Seat #5 is the button
+Seat 1: 25f0d64f (79,230 in chips)
+Seat 2: 6cd92ece (214,820 in chips)
+Seat 3: ef7e325f (290,020 in chips)
+Seat 4: b621cb5a (326,194 in chips)
+Seat 5: 85a4ce95 (256,488 in chips)
+Seat 6: Hero (147,705 in chips)
+25f0d64f: posts the ante 2,000
+ef7e325f: posts the ante 2,000
+Hero: posts the ante 2,000
+6cd92ece: posts the ante 2,000
+85a4ce95: posts the ante 2,000
+b621cb5a: posts the ante 2,000
+Hero: posts small blind 8,000
+25f0d64f: posts big blind 16,000
+*** HOLE CARDS ***
+Dealt to 25f0d64f 
+Dealt to 6cd92ece 
+Dealt to ef7e325f 
+Dealt to b621cb5a 
+Dealt to 85a4ce95 
+Dealt to Hero [5c 9s]
+6cd92ece: raises 196,820 to 212,820 and is all-in
+ef7e325f: folds
+b621cb5a: folds
+85a4ce95: folds
+Hero: folds
+25f0d64f: folds
+Uncalled bet (196,820) returned to 6cd92ece
+*** SHOWDOWN ***
+6cd92ece collected 52,000 from pot
+*** SUMMARY ***
+Total pot 52,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 25f0d64f (big blind) folded before Flop
+Seat 2: 6cd92ece collected (52,000)
+Seat 3: ef7e325f folded before Flop
+Seat 4: b621cb5a folded before Flop
+Seat 5: 85a4ce95 (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+
+
+Poker Hand #TM6562928635: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level29(8,000/16,000(2,000)) - 2026/10/20 15:20:56
+Table '60' 6-max Seat #4 is the button
+Seat 1: 25f0d64f (81,230 in chips)
+Seat 2: 6cd92ece (216,820 in chips)
+Seat 3: ef7e325f (256,020 in chips)
+Seat 4: b621cb5a (328,194 in chips)
+Seat 5: 85a4ce95 (266,488 in chips)
+Seat 6: Hero (165,705 in chips)
+25f0d64f: posts the ante 2,000
+ef7e325f: posts the ante 2,000
+Hero: posts the ante 2,000
+6cd92ece: posts the ante 2,000
+85a4ce95: posts the ante 2,000
+b621cb5a: posts the ante 2,000
+85a4ce95: posts small blind 8,000
+Hero: posts big blind 16,000
+*** HOLE CARDS ***
+Dealt to 25f0d64f 
+Dealt to 6cd92ece 
+Dealt to ef7e325f 
+Dealt to b621cb5a 
+Dealt to 85a4ce95 
+Dealt to Hero [9d Kh]
+25f0d64f: folds
+6cd92ece: folds
+ef7e325f: raises 48,000 to 64,000
+b621cb5a: folds
+85a4ce95: folds
+Hero: folds
+Uncalled bet (48,000) returned to ef7e325f
+*** SHOWDOWN ***
+ef7e325f collected 52,000 from pot
+*** SUMMARY ***
+Total pot 52,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 25f0d64f folded before Flop
+Seat 2: 6cd92ece folded before Flop
+Seat 3: ef7e325f collected (52,000)
+Seat 4: b621cb5a (button) folded before Flop
+Seat 5: 85a4ce95 (small blind) folded before Flop
+Seat 6: Hero (big blind) folded before Flop
+
+
+Poker Hand #TM6564099646: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level28(6,000/12,000(1,500)) - 2026/10/20 15:20:02
+Table '114' 6-max Seat #5 is the button
+Seat 1: Hero (179,205 in chips)
+Seat 2: 689d310a (246,734 in chips)
+Seat 3: 7276d25d (169,710 in chips)
+Seat 5: 3c2703b7 (208,897 in chips)
+Seat 6: bf07f6fd (76,810 in chips)
+bf07f6fd: posts the ante 1,500
+7276d25d: posts the ante 1,500
+Hero: posts the ante 1,500
+3c2703b7: posts the ante 1,500
+689d310a: posts the ante 1,500
+bf07f6fd: posts small blind 6,000
+Hero: posts big blind 12,000
+*** HOLE CARDS ***
+Dealt to Hero [7c 2c]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 3c2703b7 
+Dealt to bf07f6fd 
+689d310a: raises 12,000 to 24,000
+7276d25d: calls 24,000
+3c2703b7: folds
+bf07f6fd: raises 51,310 to 75,310 and is all-in
+Hero: folds
+689d310a: calls 51,310
+7276d25d: raises 92,900 to 168,210 and is all-in
+689d310a: folds
+Uncalled bet (92,900) returned to 7276d25d
+7276d25d: shows [Ad Qc]
+bf07f6fd: shows [Jd Js]
+*** FLOP *** [5c 5s 8c]
+*** TURN *** [5c 5s 8c] [4s]
+*** RIVER *** [5c 5s 8c 4s] [Qs]
+*** SHOWDOWN ***
+7276d25d collected 245,430 from pot
+*** SUMMARY ***
+Total pot 245,430 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 5s 8c 4s Qs]
+Seat 1: Hero (big blind) folded before Flop
+Seat 2: 689d310a folded before Flop
+Seat 3: 7276d25d showed [Ad Qc] and won (245,430) with two pair, Queens and Fives
+Seat 5: 3c2703b7 (button) folded before Flop
+Seat 6: bf07f6fd (small blind) showed [Jd Js] and lost with two pair, Jacks and Fives
+
+
+Poker Hand #TM6564099558: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level28(6,000/12,000(1,500)) - 2026/10/20 15:19:21
+Table '114' 6-max Seat #3 is the button
+Seat 1: Hero (180,705 in chips)
+Seat 2: 689d310a (248,234 in chips)
+Seat 3: 7276d25d (171,210 in chips)
+Seat 5: 3c2703b7 (245,052 in chips)
+Seat 6: bf07f6fd (36,155 in chips)
+bf07f6fd: posts the ante 1,500
+7276d25d: posts the ante 1,500
+Hero: posts the ante 1,500
+3c2703b7: posts the ante 1,500
+689d310a: posts the ante 1,500
+3c2703b7: posts small blind 6,000
+bf07f6fd: posts big blind 12,000
+*** HOLE CARDS ***
+Dealt to Hero [2h 4d]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 3c2703b7 
+Dealt to bf07f6fd 
+Hero: folds
+689d310a: folds
+7276d25d: folds
+3c2703b7: raises 231,552 to 243,552 and is all-in
+bf07f6fd: calls 22,655 and is all-in
+Uncalled bet (208,897) returned to 3c2703b7
+3c2703b7: shows [7c 4c]
+bf07f6fd: shows [Jh Kd]
+*** FLOP *** [3c 8s Qs]
+*** TURN *** [3c 8s Qs] [6d]
+*** RIVER *** [3c 8s Qs 6d] [2s]
+*** SHOWDOWN ***
+bf07f6fd collected 76,810 from pot
+*** SUMMARY ***
+Total pot 76,810 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c 8s Qs 6d 2s]
+Seat 1: Hero folded before Flop
+Seat 2: 689d310a folded before Flop
+Seat 3: 7276d25d (button) folded before Flop
+Seat 5: 3c2703b7 (small blind) showed [7c 4c] and lost with Queen high
+Seat 6: bf07f6fd (big blind) showed [Jh Kd] and won (76,810) with King high
+
+
+Poker Hand #TM6564099476: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level28(6,000/12,000(1,500)) - 2026/10/20 15:18:39
+Table '114' 6-max Seat #2 is the button
+Seat 1: Hero (182,205 in chips)
+Seat 2: 689d310a (249,734 in chips)
+Seat 3: 7276d25d (178,710 in chips)
+Seat 5: 3c2703b7 (117,276 in chips)
+Seat 6: bf07f6fd (153,431 in chips)
+bf07f6fd: posts the ante 1,500
+7276d25d: posts the ante 1,500
+Hero: posts the ante 1,500
+3c2703b7: posts the ante 1,500
+689d310a: posts the ante 1,500
+7276d25d: posts small blind 6,000
+3c2703b7: posts big blind 12,000
+*** HOLE CARDS ***
+Dealt to Hero [9h 3c]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 3c2703b7 
+Dealt to bf07f6fd 
+bf07f6fd: raises 139,931 to 151,931 and is all-in
+Hero: folds
+689d310a: folds
+7276d25d: folds
+3c2703b7: calls 103,776 and is all-in
+Uncalled bet (36,155) returned to bf07f6fd
+bf07f6fd: shows [As 5h]
+3c2703b7: shows [8d Ad]
+*** FLOP *** [Td Kh 6s]
+*** TURN *** [Td Kh 6s] [3s]
+*** RIVER *** [Td Kh 6s 3s] [Qs]
+*** SHOWDOWN ***
+3c2703b7 collected 245,052 from pot
+*** SUMMARY ***
+Total pot 245,052 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td Kh 6s 3s Qs]
+Seat 1: Hero folded before Flop
+Seat 2: 689d310a (button) folded before Flop
+Seat 3: 7276d25d (small blind) folded before Flop
+Seat 5: 3c2703b7 (big blind) showed [8d Ad] and won (245,052) with Ace high
+Seat 6: bf07f6fd showed [As 5h] and lost with Ace high
+
+
+Poker Hand #TM6564099408: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level28(6,000/12,000(1,500)) - 2026/10/20 15:17:59
+Table '114' 6-max Seat #1 is the button
+Seat 1: Hero (183,705 in chips)
+Seat 2: 689d310a (171,042 in chips)
+Seat 3: 7276d25d (192,210 in chips)
+Seat 4: 4bacfe2b (60,692 in chips)
+Seat 5: 3c2703b7 (118,776 in chips)
+Seat 6: bf07f6fd (154,931 in chips)
+bf07f6fd: posts the ante 1,500
+4bacfe2b: posts the ante 1,500
+7276d25d: posts the ante 1,500
+Hero: posts the ante 1,500
+3c2703b7: posts the ante 1,500
+689d310a: posts the ante 1,500
+689d310a: posts small blind 6,000
+7276d25d: posts big blind 12,000
+*** HOLE CARDS ***
+Dealt to Hero [Td 4s]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 3c2703b7 
+Dealt to bf07f6fd 
+4bacfe2b: raises 47,192 to 59,192 and is all-in
+3c2703b7: folds
+bf07f6fd: folds
+Hero: folds
+689d310a: calls 53,192
+7276d25d: folds
+4bacfe2b: shows [Ah 9h]
+689d310a: shows [Ad Qd]
+*** FLOP *** [As 8d 2c]
+*** TURN *** [As 8d 2c] [Ks]
+*** RIVER *** [As 8d 2c Ks] [Jc]
+*** SHOWDOWN ***
+689d310a collected 139,384 from pot
+*** SUMMARY ***
+Total pot 139,384 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [As 8d 2c Ks Jc]
+Seat 1: Hero (button) folded before Flop
+Seat 2: 689d310a (small blind) showed [Ad Qd] and won (139,384) with a pair of Aces
+Seat 3: 7276d25d (big blind) folded before Flop
+Seat 4: 4bacfe2b showed [Ah 9h] and lost with a pair of Aces
+Seat 5: 3c2703b7 folded before Flop
+Seat 6: bf07f6fd folded before Flop
+
+
+Poker Hand #TM6564099246: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level27(5,000/10,000(1,250)) - 2026/10/20 15:16:38
+Table '114' 6-max Seat #6 is the button
+Seat 1: Hero (266,726 in chips)
+Seat 2: 689d310a (83,021 in chips)
+Seat 3: 7276d25d (193,460 in chips)
+Seat 4: 4bacfe2b (61,942 in chips)
+Seat 5: 3c2703b7 (120,026 in chips)
+Seat 6: bf07f6fd (156,181 in chips)
+bf07f6fd: posts the ante 1,250
+4bacfe2b: posts the ante 1,250
+7276d25d: posts the ante 1,250
+Hero: posts the ante 1,250
+3c2703b7: posts the ante 1,250
+689d310a: posts the ante 1,250
+Hero: posts small blind 5,000
+689d310a: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to Hero [9h Th]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 3c2703b7 
+Dealt to bf07f6fd 
+7276d25d: folds
+4bacfe2b: folds
+3c2703b7: folds
+bf07f6fd: folds
+Hero: raises 10,000 to 20,000
+689d310a: raises 61,771 to 81,771 and is all-in
+Hero: calls 61,771
+689d310a: shows [Ac As]
+Hero: shows [9h Th]
+*** FLOP *** [Td 4s 4h]
+*** TURN *** [Td 4s 4h] [7h]
+*** RIVER *** [Td 4s 4h 7h] [8c]
+*** SHOWDOWN ***
+689d310a collected 171,042 from pot
+*** SUMMARY ***
+Total pot 171,042 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 4s 4h 7h 8c]
+Seat 1: Hero (small blind) showed [9h Th] and lost with two pair, Tens and Fours
+Seat 2: 689d310a (big blind) showed [Ac As] and won (171,042) with two pair, Aces and Fours
+Seat 3: 7276d25d folded before Flop
+Seat 4: 4bacfe2b folded before Flop
+Seat 5: 3c2703b7 folded before Flop
+Seat 6: bf07f6fd (button) folded before Flop
+
+
+Poker Hand #TM6564099182: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level27(5,000/10,000(1,250)) - 2026/10/20 15:16:03
+Table '114' 6-max Seat #4 is the button
+Seat 1: Hero (256,726 in chips)
+Seat 2: 689d310a (84,271 in chips)
+Seat 3: 7276d25d (194,710 in chips)
+Seat 4: 4bacfe2b (63,192 in chips)
+Seat 6: bf07f6fd (162,431 in chips)
+bf07f6fd: posts the ante 1,250
+4bacfe2b: posts the ante 1,250
+7276d25d: posts the ante 1,250
+Hero: posts the ante 1,250
+689d310a: posts the ante 1,250
+bf07f6fd: posts small blind 5,000
+Hero: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to Hero [3h Kd]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to bf07f6fd 
+689d310a: folds
+7276d25d: folds
+4bacfe2b: folds
+bf07f6fd: folds
+Uncalled bet (5,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 16,250 from pot
+*** SUMMARY ***
+Total pot 16,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) collected (16,250)
+Seat 2: 689d310a folded before Flop
+Seat 3: 7276d25d folded before Flop
+Seat 4: 4bacfe2b (button) folded before Flop
+Seat 6: bf07f6fd (small blind) folded before Flop
+
+
+Poker Hand #TM6564099108: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level27(5,000/10,000(1,250)) - 2026/10/20 15:15:23
+Table '114' 6-max Seat #3 is the button
+Seat 1: Hero (236,726 in chips)
+Seat 2: 689d310a (85,521 in chips)
+Seat 3: 7276d25d (195,960 in chips)
+Seat 4: 4bacfe2b (69,442 in chips)
+Seat 6: bf07f6fd (173,681 in chips)
+bf07f6fd: posts the ante 1,250
+4bacfe2b: posts the ante 1,250
+7276d25d: posts the ante 1,250
+Hero: posts the ante 1,250
+689d310a: posts the ante 1,250
+4bacfe2b: posts small blind 5,000
+bf07f6fd: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to Hero [Kh Th]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to bf07f6fd 
+Hero: raises 10,000 to 20,000
+689d310a: folds
+7276d25d: folds
+4bacfe2b: folds
+bf07f6fd: folds
+Uncalled bet (10,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 31,250 from pot
+*** SUMMARY ***
+Total pot 31,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero collected (31,250)
+Seat 2: 689d310a folded before Flop
+Seat 3: 7276d25d (button) folded before Flop
+Seat 4: 4bacfe2b (small blind) folded before Flop
+Seat 6: bf07f6fd (big blind) folded before Flop
+
+
+Poker Hand #TM6562969018: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level27(5,000/10,000(1,250)) - 2026/10/20 15:14:34
+Table '114' 6-max Seat #2 is the button
+Seat 1: Hero (215,476 in chips)
+Seat 2: 689d310a (86,771 in chips)
+Seat 3: 7276d25d (202,210 in chips)
+Seat 4: 4bacfe2b (80,692 in chips)
+Seat 5: 329d608f (105,916 in chips)
+Seat 6: bf07f6fd (174,931 in chips)
+bf07f6fd: posts the ante 1,250
+4bacfe2b: posts the ante 1,250
+7276d25d: posts the ante 1,250
+Hero: posts the ante 1,250
+329d608f: posts the ante 1,250
+689d310a: posts the ante 1,250
+7276d25d: posts small blind 5,000
+4bacfe2b: posts big blind 10,000
+*** HOLE CARDS ***
+Dealt to Hero [4h 4s]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to bf07f6fd 
+329d608f: folds
+bf07f6fd: folds
+Hero: raises 10,000 to 20,000
+689d310a: folds
+7276d25d: folds
+4bacfe2b: folds
+Uncalled bet (10,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 32,500 from pot
+*** SUMMARY ***
+Total pot 32,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero collected (32,500)
+Seat 2: 689d310a (button) folded before Flop
+Seat 3: 7276d25d (small blind) folded before Flop
+Seat 4: 4bacfe2b (big blind) folded before Flop
+Seat 5: 329d608f folded before Flop
+Seat 6: bf07f6fd folded before Flop
+
+
+Poker Hand #TM6562968981: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level26(4,000/8,000(1,000)) - 2026/10/20 15:14:13
+Table '114' 6-max Seat #1 is the button
+Seat 1: Hero (216,476 in chips)
+Seat 2: 689d310a (91,771 in chips)
+Seat 3: 7276d25d (211,210 in chips)
+Seat 4: 4bacfe2b (81,692 in chips)
+Seat 5: 329d608f (88,916 in chips)
+Seat 6: bf07f6fd (175,931 in chips)
+bf07f6fd: posts the ante 1,000
+4bacfe2b: posts the ante 1,000
+7276d25d: posts the ante 1,000
+Hero: posts the ante 1,000
+329d608f: posts the ante 1,000
+689d310a: posts the ante 1,000
+689d310a: posts small blind 4,000
+7276d25d: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [Td 4h]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to bf07f6fd 
+4bacfe2b: folds
+329d608f: raises 79,916 to 87,916 and is all-in
+bf07f6fd: folds
+Hero: folds
+689d310a: folds
+7276d25d: folds
+Uncalled bet (79,916) returned to 329d608f
+*** SHOWDOWN ***
+329d608f collected 26,000 from pot
+*** SUMMARY ***
+Total pot 26,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (button) folded before Flop
+Seat 2: 689d310a (small blind) folded before Flop
+Seat 3: 7276d25d (big blind) folded before Flop
+Seat 4: 4bacfe2b folded before Flop
+Seat 5: 329d608f collected (26,000)
+Seat 6: bf07f6fd folded before Flop
+
+
+Poker Hand #TM6562968922: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level26(4,000/8,000(1,000)) - 2026/10/20 15:13:41
+Table '114' 6-max Seat #6 is the button
+Seat 1: Hero (221,476 in chips)
+Seat 2: 689d310a (100,771 in chips)
+Seat 3: 7276d25d (212,210 in chips)
+Seat 4: 4bacfe2b (82,692 in chips)
+Seat 5: 329d608f (89,916 in chips)
+Seat 6: bf07f6fd (158,931 in chips)
+bf07f6fd: posts the ante 1,000
+4bacfe2b: posts the ante 1,000
+7276d25d: posts the ante 1,000
+Hero: posts the ante 1,000
+329d608f: posts the ante 1,000
+689d310a: posts the ante 1,000
+Hero: posts small blind 4,000
+689d310a: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [5h 2s]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to bf07f6fd 
+7276d25d: folds
+4bacfe2b: folds
+329d608f: folds
+bf07f6fd: raises 26,000 to 34,000
+Hero: folds
+689d310a: folds
+Uncalled bet (26,000) returned to bf07f6fd
+*** SHOWDOWN ***
+bf07f6fd collected 26,000 from pot
+*** SUMMARY ***
+Total pot 26,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (small blind) folded before Flop
+Seat 2: 689d310a (big blind) folded before Flop
+Seat 3: 7276d25d folded before Flop
+Seat 4: 4bacfe2b folded before Flop
+Seat 5: 329d608f folded before Flop
+Seat 6: bf07f6fd (button) collected (26,000)
+
+
+Poker Hand #TM6562968878: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level26(4,000/8,000(1,000)) - 2026/10/20 15:13:18
+Table '114' 6-max Seat #5 is the button
+Seat 1: Hero (230,476 in chips)
+Seat 2: 689d310a (101,771 in chips)
+Seat 3: 7276d25d (195,210 in chips)
+Seat 4: 4bacfe2b (83,692 in chips)
+Seat 5: 329d608f (90,916 in chips)
+Seat 6: bf07f6fd (163,931 in chips)
+bf07f6fd: posts the ante 1,000
+4bacfe2b: posts the ante 1,000
+7276d25d: posts the ante 1,000
+Hero: posts the ante 1,000
+329d608f: posts the ante 1,000
+689d310a: posts the ante 1,000
+bf07f6fd: posts small blind 4,000
+Hero: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [4d 5c]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to bf07f6fd 
+689d310a: folds
+7276d25d: raises 186,210 to 194,210 and is all-in
+4bacfe2b: folds
+329d608f: folds
+bf07f6fd: folds
+Hero: folds
+Uncalled bet (186,210) returned to 7276d25d
+*** SHOWDOWN ***
+7276d25d collected 26,000 from pot
+*** SUMMARY ***
+Total pot 26,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) folded before Flop
+Seat 2: 689d310a folded before Flop
+Seat 3: 7276d25d collected (26,000)
+Seat 4: 4bacfe2b folded before Flop
+Seat 5: 329d608f (button) folded before Flop
+Seat 6: bf07f6fd (small blind) folded before Flop
+
+
+Poker Hand #TM6562968801: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level26(4,000/8,000(1,000)) - 2026/10/20 15:12:32
+Table '114' 6-max Seat #4 is the button
+Seat 1: Hero (320,081 in chips)
+Seat 2: 689d310a (102,771 in chips)
+Seat 3: 7276d25d (89,605 in chips)
+Seat 4: 4bacfe2b (84,692 in chips)
+Seat 5: 329d608f (95,916 in chips)
+Seat 6: bf07f6fd (172,931 in chips)
+bf07f6fd: posts the ante 1,000
+4bacfe2b: posts the ante 1,000
+7276d25d: posts the ante 1,000
+Hero: posts the ante 1,000
+329d608f: posts the ante 1,000
+689d310a: posts the ante 1,000
+329d608f: posts small blind 4,000
+bf07f6fd: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [Ts Ks]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to bf07f6fd 
+Hero: raises 12,000 to 20,000
+689d310a: folds
+7276d25d: raises 68,605 to 88,605 and is all-in
+4bacfe2b: folds
+329d608f: folds
+bf07f6fd: folds
+Hero: calls 68,605
+7276d25d: shows [Kh Jh]
+Hero: shows [Ts Ks]
+*** FLOP *** [Ac 6d 4h]
+*** TURN *** [Ac 6d 4h] [9h]
+*** RIVER *** [Ac 6d 4h 9h] [5h]
+bf07f6fd: shows [9d Kd] (a pair of Nines)
+*** SHOWDOWN ***
+7276d25d collected 195,210 from pot
+*** SUMMARY ***
+Total pot 195,210 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 6d 4h 9h 5h]
+Seat 1: Hero showed [Ts Ks] and lost with Ace high
+Seat 2: 689d310a folded before Flop
+Seat 3: 7276d25d showed [Kh Jh] and won (195,210) with a flush King high
+Seat 4: 4bacfe2b (button) folded before Flop
+Seat 5: 329d608f (small blind) folded before Flop
+Seat 6: bf07f6fd (big blind) folded before Flop
+
+
+Poker Hand #TM6562968772: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level26(4,000/8,000(1,000)) - 2026/10/20 15:12:14
+Table '114' 6-max Seat #3 is the button
+Seat 1: Hero (321,081 in chips)
+Seat 2: 689d310a (85,771 in chips)
+Seat 3: 7276d25d (90,605 in chips)
+Seat 4: 4bacfe2b (89,692 in chips)
+Seat 5: 329d608f (104,916 in chips)
+Seat 6: bf07f6fd (173,931 in chips)
+bf07f6fd: posts the ante 1,000
+4bacfe2b: posts the ante 1,000
+7276d25d: posts the ante 1,000
+Hero: posts the ante 1,000
+329d608f: posts the ante 1,000
+689d310a: posts the ante 1,000
+4bacfe2b: posts small blind 4,000
+329d608f: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [2s Qh]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to bf07f6fd 
+bf07f6fd: folds
+Hero: folds
+689d310a: raises 24,000 to 32,000
+7276d25d: folds
+4bacfe2b: folds
+329d608f: folds
+Uncalled bet (24,000) returned to 689d310a
+*** SHOWDOWN ***
+689d310a collected 26,000 from pot
+*** SUMMARY ***
+Total pot 26,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: 689d310a collected (26,000)
+Seat 3: 7276d25d (button) folded before Flop
+Seat 4: 4bacfe2b (small blind) folded before Flop
+Seat 5: 329d608f (big blind) folded before Flop
+Seat 6: bf07f6fd folded before Flop
+
+
+Poker Hand #TM6562968718: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level26(4,000/8,000(1,000)) - 2026/10/20 15:11:46
+Table '114' 6-max Seat #2 is the button
+Seat 1: Hero (304,081 in chips)
+Seat 2: 689d310a (86,771 in chips)
+Seat 3: 7276d25d (95,605 in chips)
+Seat 4: 4bacfe2b (98,692 in chips)
+Seat 5: 329d608f (105,916 in chips)
+Seat 6: bf07f6fd (174,931 in chips)
+bf07f6fd: posts the ante 1,000
+4bacfe2b: posts the ante 1,000
+7276d25d: posts the ante 1,000
+Hero: posts the ante 1,000
+329d608f: posts the ante 1,000
+689d310a: posts the ante 1,000
+7276d25d: posts small blind 4,000
+4bacfe2b: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [9s Ad]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to bf07f6fd 
+329d608f: folds
+bf07f6fd: folds
+Hero: raises 12,000 to 20,000
+689d310a: folds
+7276d25d: folds
+4bacfe2b: folds
+Uncalled bet (12,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 26,000 from pot
+*** SUMMARY ***
+Total pot 26,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero collected (26,000)
+Seat 2: 689d310a (button) folded before Flop
+Seat 3: 7276d25d (small blind) folded before Flop
+Seat 4: 4bacfe2b (big blind) folded before Flop
+Seat 5: 329d608f folded before Flop
+Seat 6: bf07f6fd folded before Flop
+
+
+Poker Hand #TM6562968687: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level25(3,500/7,000(850)) - 2026/10/20 15:11:23
+Table '114' 6-max Seat #1 is the button
+Seat 1: Hero (304,931 in chips)
+Seat 2: 689d310a (91,121 in chips)
+Seat 3: 7276d25d (87,855 in chips)
+Seat 4: 4bacfe2b (99,542 in chips)
+Seat 5: 329d608f (106,766 in chips)
+Seat 6: bf07f6fd (175,781 in chips)
+bf07f6fd: posts the ante 850
+4bacfe2b: posts the ante 850
+7276d25d: posts the ante 850
+Hero: posts the ante 850
+329d608f: posts the ante 850
+689d310a: posts the ante 850
+689d310a: posts small blind 3,500
+7276d25d: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to Hero [6h Qc]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to bf07f6fd 
+4bacfe2b: folds
+329d608f: folds
+bf07f6fd: folds
+Hero: folds
+689d310a: folds
+Uncalled bet (3,500) returned to 7276d25d
+*** SHOWDOWN ***
+7276d25d collected 12,100 from pot
+*** SUMMARY ***
+Total pot 12,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (button) folded before Flop
+Seat 2: 689d310a (small blind) folded before Flop
+Seat 3: 7276d25d (big blind) collected (12,100)
+Seat 4: 4bacfe2b folded before Flop
+Seat 5: 329d608f folded before Flop
+Seat 6: bf07f6fd folded before Flop
+
+
+Poker Hand #TM6562968631: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level25(3,500/7,000(850)) - 2026/10/20 15:10:56
+Table '114' 6-max Seat #5 is the button
+Seat 1: Hero (323,281 in chips)
+Seat 2: 689d310a (70,221 in chips)
+Seat 3: 7276d25d (88,705 in chips)
+Seat 4: 4bacfe2b (100,392 in chips)
+Seat 5: 329d608f (107,616 in chips)
+4bacfe2b: posts the ante 850
+7276d25d: posts the ante 850
+Hero: posts the ante 850
+329d608f: posts the ante 850
+689d310a: posts the ante 850
+Hero: posts small blind 3,500
+689d310a: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to Hero [3d 9c]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+7276d25d: folds
+4bacfe2b: folds
+329d608f: folds
+Hero: raises 10,500 to 17,500
+689d310a: raises 51,871 to 69,371 and is all-in
+Hero: folds
+Uncalled bet (51,871) returned to 689d310a
+*** SHOWDOWN ***
+689d310a collected 39,250 from pot
+*** SUMMARY ***
+Total pot 39,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (small blind) folded before Flop
+Seat 2: 689d310a (big blind) collected (39,250)
+Seat 3: 7276d25d folded before Flop
+Seat 4: 4bacfe2b folded before Flop
+Seat 5: 329d608f (button) folded before Flop
+
+
+Poker Hand #TM6562968610: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level25(3,500/7,000(850)) - 2026/10/20 15:10:42
+Table '114' 6-max Seat #4 is the button
+Seat 1: Hero (316,381 in chips)
+Seat 2: 689d310a (71,071 in chips)
+Seat 3: 7276d25d (89,555 in chips)
+Seat 4: 4bacfe2b (101,242 in chips)
+Seat 5: 329d608f (111,966 in chips)
+4bacfe2b: posts the ante 850
+7276d25d: posts the ante 850
+Hero: posts the ante 850
+329d608f: posts the ante 850
+689d310a: posts the ante 850
+329d608f: posts small blind 3,500
+Hero: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to Hero [8c Ks]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+689d310a: folds
+7276d25d: folds
+4bacfe2b: folds
+329d608f: folds
+Uncalled bet (3,500) returned to Hero
+*** SHOWDOWN ***
+Hero collected 11,250 from pot
+*** SUMMARY ***
+Total pot 11,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) collected (11,250)
+Seat 2: 689d310a folded before Flop
+Seat 3: 7276d25d folded before Flop
+Seat 4: 4bacfe2b (button) folded before Flop
+Seat 5: 329d608f (small blind) folded before Flop
+
+
+Poker Hand #TM6562968565: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level25(3,500/7,000(850)) - 2026/10/20 15:10:18
+Table '114' 6-max Seat #3 is the button
+Seat 1: Hero (317,231 in chips)
+Seat 2: 689d310a (71,921 in chips)
+Seat 3: 7276d25d (90,405 in chips)
+Seat 4: 4bacfe2b (105,592 in chips)
+Seat 5: 329d608f (105,066 in chips)
+4bacfe2b: posts the ante 850
+7276d25d: posts the ante 850
+Hero: posts the ante 850
+329d608f: posts the ante 850
+689d310a: posts the ante 850
+4bacfe2b: posts small blind 3,500
+329d608f: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to Hero [9h 6s]
+Dealt to 689d310a 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Hero: folds
+689d310a: folds
+7276d25d: folds
+4bacfe2b: folds
+Uncalled bet (3,500) returned to 329d608f
+*** SHOWDOWN ***
+329d608f collected 11,250 from pot
+*** SUMMARY ***
+Total pot 11,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: 689d310a folded before Flop
+Seat 3: 7276d25d (button) folded before Flop
+Seat 4: 4bacfe2b (small blind) folded before Flop
+Seat 5: 329d608f (big blind) collected (11,250)
+
+
+Poker Hand #TM6562968531: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level25(3,500/7,000(850)) - 2026/10/20 15:09:53
+Table '114' 6-max Seat #1 is the button
+Seat 1: Hero (304,181 in chips)
+Seat 3: 7276d25d (94,755 in chips)
+Seat 4: 4bacfe2b (113,442 in chips)
+Seat 5: 329d608f (105,916 in chips)
+4bacfe2b: posts the ante 850
+7276d25d: posts the ante 850
+Hero: posts the ante 850
+329d608f: posts the ante 850
+7276d25d: posts small blind 3,500
+4bacfe2b: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to Hero [As Jc]
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+329d608f: folds
+Hero: raises 10,500 to 17,500
+7276d25d: folds
+4bacfe2b: folds
+Uncalled bet (10,500) returned to Hero
+*** SHOWDOWN ***
+Hero collected 20,900 from pot
+*** SUMMARY ***
+Total pot 20,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (button) collected (20,900)
+Seat 3: 7276d25d (small blind) folded before Flop
+Seat 4: 4bacfe2b (big blind) folded before Flop
+Seat 5: 329d608f folded before Flop
+
+
+Poker Hand #TM6562968456: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level25(3,500/7,000(850)) - 2026/10/20 15:09:14
+Table '114' 6-max Seat #6 is the button
+Seat 1: Hero (308,531 in chips)
+Seat 3: 7276d25d (102,605 in chips)
+Seat 4: 4bacfe2b (64,214 in chips)
+Seat 5: 329d608f (106,766 in chips)
+Seat 6: 533d67e6 (36,178 in chips)
+4bacfe2b: posts the ante 850
+7276d25d: posts the ante 850
+Hero: posts the ante 850
+329d608f: posts the ante 850
+533d67e6: posts the ante 850
+Hero: posts small blind 3,500
+7276d25d: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to Hero [3h Ks]
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to 533d67e6 
+4bacfe2b: calls 7,000
+329d608f: folds
+533d67e6: raises 28,328 to 35,328 and is all-in
+Hero: folds
+7276d25d: folds
+4bacfe2b: calls 28,328
+533d67e6: shows [Ac Kd]
+4bacfe2b: shows [Ts Qs]
+*** FLOP *** [Th 5c 4d]
+*** TURN *** [Th 5c 4d] [5s]
+*** RIVER *** [Th 5c 4d 5s] [Jc]
+*** SHOWDOWN ***
+4bacfe2b collected 85,406 from pot
+*** SUMMARY ***
+Total pot 85,406 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Th 5c 4d 5s Jc]
+Seat 1: Hero (small blind) folded before Flop
+Seat 3: 7276d25d (big blind) folded before Flop
+Seat 4: 4bacfe2b showed [Ts Qs] and won (85,406) with two pair, Tens and Fives
+Seat 5: 329d608f folded before Flop
+Seat 6: 533d67e6 (button) showed [Ac Kd] and lost with a pair of Fives
+
+
+Poker Hand #TM6562968387: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level25(3,500/7,000(850)) - 2026/10/20 15:08:36
+Table '114' 6-max Seat #5 is the button
+Seat 1: Hero (237,579 in chips)
+Seat 2: 217541f5 (64,052 in chips)
+Seat 3: 7276d25d (103,455 in chips)
+Seat 4: 4bacfe2b (65,064 in chips)
+Seat 5: 329d608f (107,616 in chips)
+Seat 6: 533d67e6 (40,528 in chips)
+4bacfe2b: posts the ante 850
+7276d25d: posts the ante 850
+Hero: posts the ante 850
+217541f5: posts the ante 850
+329d608f: posts the ante 850
+533d67e6: posts the ante 850
+533d67e6: posts small blind 3,500
+Hero: posts big blind 7,000
+*** HOLE CARDS ***
+Dealt to Hero [6s 6c]
+Dealt to 217541f5 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to 533d67e6 
+217541f5: raises 56,202 to 63,202 and is all-in
+7276d25d: folds
+4bacfe2b: folds
+329d608f: folds
+533d67e6: folds
+Hero: calls 56,202
+217541f5: shows [8s 9s]
+Hero: shows [6s 6c]
+*** FLOP *** [6d 4h Jh]
+*** TURN *** [6d 4h Jh] [8h]
+*** RIVER *** [6d 4h Jh 8h] [4d]
+*** SHOWDOWN ***
+Hero collected 135,004 from pot
+*** SUMMARY ***
+Total pot 135,004 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 4h Jh 8h 4d]
+Seat 1: Hero (big blind) showed [6s 6c] and won (135,004) with a full house, Sixes full of Fours
+Seat 2: 217541f5 showed [8s 9s] and lost with two pair, Eights and Fours
+Seat 3: 7276d25d folded before Flop
+Seat 4: 4bacfe2b folded before Flop
+Seat 5: 329d608f (button) folded before Flop
+Seat 6: 533d67e6 (small blind) folded before Flop
+
+
+Poker Hand #TM6562968349: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level24(3,000/6,000(750)) - 2026/10/20 15:08:13
+Table '114' 6-max Seat #4 is the button
+Seat 1: Hero (238,329 in chips)
+Seat 2: 217541f5 (64,802 in chips)
+Seat 3: 7276d25d (104,205 in chips)
+Seat 4: 4bacfe2b (65,814 in chips)
+Seat 5: 329d608f (97,866 in chips)
+Seat 6: 533d67e6 (47,278 in chips)
+4bacfe2b: posts the ante 750
+7276d25d: posts the ante 750
+Hero: posts the ante 750
+217541f5: posts the ante 750
+329d608f: posts the ante 750
+533d67e6: posts the ante 750
+329d608f: posts small blind 3,000
+533d67e6: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to Hero [6c 9d]
+Dealt to 217541f5 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to 533d67e6 
+Hero: folds
+217541f5: folds
+7276d25d: folds
+4bacfe2b: folds
+329d608f: raises 91,116 to 97,116 and is all-in
+533d67e6: folds
+Uncalled bet (91,116) returned to 329d608f
+*** SHOWDOWN ***
+329d608f collected 16,500 from pot
+*** SUMMARY ***
+Total pot 16,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: 217541f5 folded before Flop
+Seat 3: 7276d25d folded before Flop
+Seat 4: 4bacfe2b (button) folded before Flop
+Seat 5: 329d608f (small blind) collected (16,500)
+Seat 6: 533d67e6 (big blind) folded before Flop
+
+
+Poker Hand #TM6562968284: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level24(3,000/6,000(750)) - 2026/10/20 15:07:39
+Table '114' 6-max Seat #3 is the button
+Seat 1: Hero (213,579 in chips)
+Seat 2: 217541f5 (65,552 in chips)
+Seat 3: 7276d25d (104,955 in chips)
+Seat 4: 4bacfe2b (81,564 in chips)
+Seat 5: 329d608f (104,616 in chips)
+Seat 6: 533d67e6 (48,028 in chips)
+4bacfe2b: posts the ante 750
+7276d25d: posts the ante 750
+Hero: posts the ante 750
+217541f5: posts the ante 750
+329d608f: posts the ante 750
+533d67e6: posts the ante 750
+4bacfe2b: posts small blind 3,000
+329d608f: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to Hero [Ah 7h]
+Dealt to 217541f5 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to 533d67e6 
+533d67e6: folds
+Hero: raises 9,000 to 15,000
+217541f5: folds
+7276d25d: folds
+4bacfe2b: calls 12,000
+329d608f: folds
+*** FLOP *** [7d 3h 2d]
+4bacfe2b: checks
+Hero: bets 30,375
+4bacfe2b: folds
+Uncalled bet (30,375) returned to Hero
+*** SHOWDOWN ***
+Hero collected 40,500 from pot
+*** SUMMARY ***
+Total pot 40,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d 3h 2d]
+Seat 1: Hero won (40,500)
+Seat 2: 217541f5 folded before Flop
+Seat 3: 7276d25d (button) folded before Flop
+Seat 4: 4bacfe2b (small blind) folded on the Flop
+Seat 5: 329d608f (big blind) folded before Flop
+Seat 6: 533d67e6 folded before Flop
+
+
+Poker Hand #TM6562968207: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level24(3,000/6,000(750)) - 2026/10/20 15:06:51
+Table '114' 6-max Seat #2 is the button
+Seat 1: Hero (240,355 in chips)
+Seat 2: 217541f5 (26,776 in chips)
+Seat 3: 7276d25d (108,705 in chips)
+Seat 4: 4bacfe2b (88,314 in chips)
+Seat 5: 329d608f (105,366 in chips)
+Seat 6: 533d67e6 (48,778 in chips)
+4bacfe2b: posts the ante 750
+7276d25d: posts the ante 750
+Hero: posts the ante 750
+217541f5: posts the ante 750
+329d608f: posts the ante 750
+533d67e6: posts the ante 750
+7276d25d: posts small blind 3,000
+4bacfe2b: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to Hero [8d As]
+Dealt to 217541f5 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to 533d67e6 
+329d608f: folds
+533d67e6: folds
+Hero: raises 9,000 to 15,000
+217541f5: raises 11,026 to 26,026 and is all-in
+7276d25d: folds
+4bacfe2b: folds
+Hero: calls 11,026
+217541f5: shows [7d Ad]
+Hero: shows [8d As]
+*** FLOP *** [7c 6s Jc]
+*** TURN *** [7c 6s Jc] [Kh]
+*** RIVER *** [7c 6s Jc Kh] [Kc]
+*** SHOWDOWN ***
+217541f5 collected 65,552 from pot
+*** SUMMARY ***
+Total pot 65,552 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c 6s Jc Kh Kc]
+Seat 1: Hero showed [8d As] and lost with a pair of Kings
+Seat 2: 217541f5 (button) showed [7d Ad] and won (65,552) with two pair, Kings and Sevens
+Seat 3: 7276d25d (small blind) folded before Flop
+Seat 4: 4bacfe2b (big blind) folded before Flop
+Seat 5: 329d608f folded before Flop
+Seat 6: 533d67e6 folded before Flop
+
+
+Poker Hand #TM6562968169: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level24(3,000/6,000(750)) - 2026/10/20 15:06:31
+Table '114' 6-max Seat #1 is the button
+Seat 1: Hero (241,105 in chips)
+Seat 2: 217541f5 (30,526 in chips)
+Seat 3: 7276d25d (115,455 in chips)
+Seat 4: 4bacfe2b (89,064 in chips)
+Seat 5: 329d608f (106,116 in chips)
+Seat 6: 533d67e6 (36,028 in chips)
+4bacfe2b: posts the ante 750
+7276d25d: posts the ante 750
+Hero: posts the ante 750
+217541f5: posts the ante 750
+329d608f: posts the ante 750
+533d67e6: posts the ante 750
+217541f5: posts small blind 3,000
+7276d25d: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to Hero [Ad 8s]
+Dealt to 217541f5 
+Dealt to 7276d25d 
+Dealt to 4bacfe2b 
+Dealt to 329d608f 
+Dealt to 533d67e6 
+4bacfe2b: folds
+329d608f: folds
+533d67e6: raises 29,278 to 35,278 and is all-in
+Hero: folds
+217541f5: folds
+7276d25d: folds
+Uncalled bet (29,278) returned to 533d67e6
+*** SHOWDOWN ***
+533d67e6 collected 19,500 from pot
+*** SUMMARY ***
+Total pot 19,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (button) folded before Flop
+Seat 2: 217541f5 (small blind) folded before Flop
+Seat 3: 7276d25d (big blind) folded before Flop
+Seat 4: 4bacfe2b folded before Flop
+Seat 5: 329d608f folded before Flop
+Seat 6: 533d67e6 collected (19,500)
+
+
+Poker Hand #TM6562968142: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level24(3,000/6,000(750)) - 2026/10/20 15:06:10
+Table '114' 6-max Seat #6 is the button
+Seat 1: Hero (244,855 in chips)
+Seat 2: 217541f5 (37,276 in chips)
+Seat 3: 7276d25d (116,205 in chips)
+Seat 5: 329d608f (94,116 in chips)
+Seat 6: 533d67e6 (36,778 in chips)
+7276d25d: posts the ante 750
+Hero: posts the ante 750
+217541f5: posts the ante 750
+329d608f: posts the ante 750
+533d67e6: posts the ante 750
+Hero: posts small blind 3,000
+217541f5: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to Hero [9d 4s]
+Dealt to 217541f5 
+Dealt to 7276d25d 
+Dealt to 329d608f 
+Dealt to 533d67e6 
+7276d25d: folds
+329d608f: calls 6,000
+533d67e6: folds
+Hero: folds
+217541f5: checks
+*** FLOP *** [5c 7h Th]
+217541f5: checks
+329d608f: bets 6,000
+217541f5: folds
+Uncalled bet (6,000) returned to 329d608f
+*** SHOWDOWN ***
+329d608f collected 18,750 from pot
+*** SUMMARY ***
+Total pot 18,750 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 7h Th]
+Seat 1: Hero (small blind) folded before Flop
+Seat 2: 217541f5 (big blind) folded on the Flop
+Seat 3: 7276d25d folded before Flop
+Seat 5: 329d608f won (18,750)
+Seat 6: 533d67e6 (button) folded before Flop
+
+
+Poker Hand #TM6562968080: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level24(3,000/6,000(750)) - 2026/10/20 15:05:30
+Table '114' 6-max Seat #4 is the button
+Seat 1: Hero (150,181 in chips)
+Seat 2: 217541f5 (38,026 in chips)
+Seat 3: 7276d25d (116,955 in chips)
+Seat 4: 45a55b03 (89,424 in chips)
+Seat 6: 533d67e6 (40,528 in chips)
+7276d25d: posts the ante 750
+45a55b03: posts the ante 750
+Hero: posts the ante 750
+217541f5: posts the ante 750
+533d67e6: posts the ante 750
+533d67e6: posts small blind 3,000
+Hero: posts big blind 6,000
+*** HOLE CARDS ***
+Dealt to Hero [As Ac]
+Dealt to 217541f5 
+Dealt to 7276d25d 
+Dealt to 45a55b03 
+Dealt to 533d67e6 
+217541f5: folds
+7276d25d: folds
+45a55b03: raises 12,000 to 18,000
+533d67e6: folds
+Hero: raises 131,431 to 149,431 and is all-in
+45a55b03: calls 70,674 and is all-in
+Uncalled bet (60,757) returned to Hero
+Hero: shows [As Ac]
+45a55b03: shows [Kh Ad]
+*** FLOP *** [7s Kd Th]
+*** TURN *** [7s Kd Th] [4h]
+*** RIVER *** [7s Kd Th 4h] [2d]
+*** SHOWDOWN ***
+Hero collected 184,098 from pot
+*** SUMMARY ***
+Total pot 184,098 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s Kd Th 4h 2d]
+Seat 1: Hero (big blind) showed [As Ac] and won (184,098) with a pair of Aces
+Seat 2: 217541f5 folded before Flop
+Seat 3: 7276d25d folded before Flop
+Seat 4: 45a55b03 (button) showed [Kh Ad] and lost with a pair of Kings
+Seat 6: 533d67e6 (small blind) folded before Flop
+
+
+Poker Hand #TM6564049256: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level23(2,500/5,000(600)) - 2026/10/20 15:04:10
+Table '40' 6-max Seat #5 is the button
+Seat 1: e0675c97 (16,626 in chips)
+Seat 2: 4bacfe2b (98,364 in chips)
+Seat 4: Hero (150,781 in chips)
+Seat 5: ba961b59 (105,991 in chips)
+Seat 6: ec32b376 (23,891 in chips)
+4bacfe2b: posts the ante 600
+Hero: posts the ante 600
+ba961b59: posts the ante 600
+ec32b376: posts the ante 600
+e0675c97: posts the ante 600
+ec32b376: posts small blind 2,500
+e0675c97: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to e0675c97 
+Dealt to 4bacfe2b 
+Dealt to Hero [Kd 9h]
+Dealt to ba961b59 
+Dealt to ec32b376 
+4bacfe2b: folds
+Hero: folds
+ba961b59: raises 100,391 to 105,391 and is all-in
+ec32b376: calls 20,791 and is all-in
+e0675c97: calls 11,026 and is all-in
+Uncalled bet (82,100) returned to ba961b59
+ba961b59: shows [9d Ah]
+ec32b376: shows [Jc Kh]
+e0675c97: shows [Kc Qs]
+*** FLOP *** [6d Ks 9c]
+*** TURN *** [6d Ks 9c] [Ac]
+*** RIVER *** [6d Ks 9c Ac] [4d]
+*** SHOWDOWN ***
+ba961b59 collected 51,078 from pot
+ba961b59 collected 14,530 from pot
+*** SUMMARY ***
+Total pot 65,608 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d Ks 9c Ac 4d]
+Seat 1: e0675c97 (big blind) showed [Kc Qs] and lost with a pair of Kings
+Seat 2: 4bacfe2b folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: ba961b59 (button) showed [9d Ah] and won (65,608) with two pair, Aces and Nines
+Seat 6: ec32b376 (small blind) showed [Jc Kh] and lost with a pair of Kings
+
+
+Poker Hand #TM6564049205: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level23(2,500/5,000(600)) - 2026/10/20 15:03:17
+Table '40' 6-max Seat #4 is the button
+Seat 2: 4bacfe2b (98,964 in chips)
+Seat 3: f86782e7 (56,357 in chips)
+Seat 4: Hero (85,124 in chips)
+Seat 5: ba961b59 (109,091 in chips)
+Seat 6: ec32b376 (29,491 in chips)
+4bacfe2b: posts the ante 600
+Hero: posts the ante 600
+ec32b376: posts the ante 600
+ba961b59: posts the ante 600
+f86782e7: posts the ante 600
+ba961b59: posts small blind 2,500
+ec32b376: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 4bacfe2b 
+Dealt to f86782e7 
+Dealt to Hero [Jc Ad]
+Dealt to ba961b59 
+Dealt to ec32b376 
+4bacfe2b: folds
+f86782e7: raises 50,757 to 55,757 and is all-in
+Hero: raises 28,767 to 84,524 and is all-in
+ba961b59: folds
+ec32b376: folds
+Uncalled bet (28,767) returned to Hero
+Hero: shows [Jc Ad]
+f86782e7: shows [Ah 7d]
+*** FLOP *** [Th Kc As]
+*** TURN *** [Th Kc As] [Ac]
+*** RIVER *** [Th Kc As Ac] [6s]
+*** SHOWDOWN ***
+Hero collected 122,014 from pot
+*** SUMMARY ***
+Total pot 122,014 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Th Kc As Ac 6s]
+Seat 2: 4bacfe2b folded before Flop
+Seat 3: f86782e7 showed [Ah 7d] and lost with three of a kind, Aces
+Seat 4: Hero (button) showed [Jc Ad] and won (122,014) with three of a kind, Aces
+Seat 5: ba961b59 (small blind) folded before Flop
+Seat 6: ec32b376 (big blind) folded before Flop
+
+
+Poker Hand #TM6564049143: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level23(2,500/5,000(600)) - 2026/10/20 15:02:41
+Table '40' 6-max Seat #3 is the button
+Seat 2: 4bacfe2b (99,564 in chips)
+Seat 3: f86782e7 (73,332 in chips)
+Seat 4: Hero (88,224 in chips)
+Seat 5: ba961b59 (87,816 in chips)
+Seat 6: ec32b376 (30,091 in chips)
+4bacfe2b: posts the ante 600
+Hero: posts the ante 600
+ec32b376: posts the ante 600
+ba961b59: posts the ante 600
+f86782e7: posts the ante 600
+Hero: posts small blind 2,500
+ba961b59: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to 4bacfe2b 
+Dealt to f86782e7 
+Dealt to Hero [9h 6h]
+Dealt to ba961b59 
+Dealt to ec32b376 
+ec32b376: folds
+4bacfe2b: folds
+f86782e7: raises 5,000 to 10,000
+Hero: folds
+ba961b59: calls 5,000
+*** FLOP *** [Ts 5h Qd]
+ba961b59: checks
+f86782e7: bets 6,375
+ba961b59: calls 6,375
+*** TURN *** [Ts 5h Qd] [Qs]
+ba961b59: checks
+f86782e7: checks
+*** RIVER *** [Ts 5h Qd Qs] [Js]
+ba961b59: bets 12,623
+f86782e7: folds
+Uncalled bet (12,623) returned to ba961b59
+*** SHOWDOWN ***
+ba961b59 collected 38,250 from pot
+*** SUMMARY ***
+Total pot 38,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 5h Qd Qs Js]
+Seat 2: 4bacfe2b folded before Flop
+Seat 3: f86782e7 (button) folded on the River
+Seat 4: Hero (small blind) folded before Flop
+Seat 5: ba961b59 (big blind) won (38,250)
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6564049114: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level22(2,000/4,000(500)) - 2026/10/20 15:01:58
+Table '40' 6-max Seat #2 is the button
+Seat 1: 5d42b193 (16,348 in chips)
+Seat 2: 4bacfe2b (100,064 in chips)
+Seat 3: f86782e7 (50,984 in chips)
+Seat 4: Hero (92,724 in chips)
+Seat 5: ba961b59 (88,316 in chips)
+Seat 6: ec32b376 (30,591 in chips)
+4bacfe2b: posts the ante 500
+5d42b193: posts the ante 500
+Hero: posts the ante 500
+ec32b376: posts the ante 500
+ba961b59: posts the ante 500
+f86782e7: posts the ante 500
+f86782e7: posts small blind 2,000
+Hero: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 5d42b193 
+Dealt to 4bacfe2b 
+Dealt to f86782e7 
+Dealt to Hero [7h 8d]
+Dealt to ba961b59 
+Dealt to ec32b376 
+ba961b59: folds
+ec32b376: folds
+5d42b193: raises 11,848 to 15,848 and is all-in
+4bacfe2b: folds
+f86782e7: raises 34,636 to 50,484 and is all-in
+Hero: folds
+Uncalled bet (34,636) returned to f86782e7
+f86782e7: shows [Qd Jc]
+5d42b193: shows [Ah 2h]
+*** FLOP *** [Qc 2c Kc]
+*** TURN *** [Qc 2c Kc] [Kh]
+*** RIVER *** [Qc 2c Kc Kh] [3d]
+*** SHOWDOWN ***
+f86782e7 collected 38,696 from pot
+*** SUMMARY ***
+Total pot 38,696 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qc 2c Kc Kh 3d]
+Seat 1: 5d42b193 showed [Ah 2h] and lost with two pair, Kings and Twos
+Seat 2: 4bacfe2b (button) folded before Flop
+Seat 3: f86782e7 (small blind) showed [Qd Jc] and won (38,696) with two pair, Kings and Queens
+Seat 4: Hero (big blind) folded before Flop
+Seat 5: ba961b59 folded before Flop
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6564049083: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level22(2,000/4,000(500)) - 2026/10/20 15:00:56
+Table '40' 6-max Seat #1 is the button
+Seat 1: 5d42b193 (16,848 in chips)
+Seat 2: 4bacfe2b (102,564 in chips)
+Seat 3: f86782e7 (23,492 in chips)
+Seat 4: Hero (93,224 in chips)
+Seat 5: ba961b59 (111,808 in chips)
+Seat 6: ec32b376 (31,091 in chips)
+5d42b193: posts the ante 500
+4bacfe2b: posts the ante 500
+Hero: posts the ante 500
+ec32b376: posts the ante 500
+ba961b59: posts the ante 500
+f86782e7: posts the ante 500
+4bacfe2b: posts small blind 2,000
+f86782e7: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 5d42b193 
+Dealt to 4bacfe2b 
+Dealt to f86782e7 
+Dealt to Hero [2s 4d]
+Dealt to ba961b59 
+Dealt to ec32b376 
+Hero: folds
+ba961b59: raises 4,000 to 8,000
+ec32b376: folds
+5d42b193: folds
+4bacfe2b: folds
+f86782e7: raises 14,992 to 22,992 and is all-in
+ba961b59: calls 14,992
+f86782e7: shows [8s 8h]
+ba961b59: shows [7d 7s]
+*** FLOP *** [Ac Jh 4c]
+*** TURN *** [Ac Jh 4c] [3s]
+*** RIVER *** [Ac Jh 4c 3s] [6c]
+4bacfe2b: shows [7c] (Ace high)
+*** SHOWDOWN ***
+f86782e7 collected 50,984 from pot
+*** SUMMARY ***
+Total pot 50,984 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac Jh 4c 3s 6c]
+Seat 1: 5d42b193 (button) folded before Flop
+Seat 2: 4bacfe2b (small blind) folded before Flop
+Seat 3: f86782e7 (big blind) showed [8s 8h] and won (50,984) with a pair of Eights
+Seat 4: Hero folded before Flop
+Seat 5: ba961b59 showed [7d 7s] and lost with a pair of Sevens
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6562779059: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level22(2,000/4,000(500)) - 2026/10/20 14:54:35
+Table '40' 6-max Seat #6 is the button
+Seat 1: 5d42b193 (19,348 in chips)
+Seat 2: 4bacfe2b (107,064 in chips)
+Seat 3: f86782e7 (23,992 in chips)
+Seat 4: Hero (101,724 in chips)
+Seat 5: ba961b59 (95,308 in chips)
+Seat 6: ec32b376 (31,591 in chips)
+4bacfe2b: posts the ante 500
+5d42b193: posts the ante 500
+Hero: posts the ante 500
+ec32b376: posts the ante 500
+ba961b59: posts the ante 500
+f86782e7: posts the ante 500
+5d42b193: posts small blind 2,000
+4bacfe2b: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 5d42b193 
+Dealt to 4bacfe2b 
+Dealt to f86782e7 
+Dealt to Hero [Ks Jc]
+Dealt to ba961b59 
+Dealt to ec32b376 
+f86782e7: folds
+Hero: raises 4,000 to 8,000
+ba961b59: calls 8,000
+ec32b376: folds
+5d42b193: folds
+4bacfe2b: folds
+*** FLOP *** [9s 7s 4h]
+Hero: checks
+ba961b59: checks
+*** TURN *** [9s 7s 4h] [4d]
+Hero: checks
+ba961b59: bets 12,500
+Hero: folds
+Uncalled bet (12,500) returned to ba961b59
+*** SHOWDOWN ***
+ba961b59 collected 25,000 from pot
+*** SUMMARY ***
+Total pot 25,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s 7s 4h 4d]
+Seat 1: 5d42b193 (small blind) folded before Flop
+Seat 2: 4bacfe2b (big blind) folded before Flop
+Seat 3: f86782e7 folded before Flop
+Seat 4: Hero folded on the Turn
+Seat 5: ba961b59 won (25,000)
+Seat 6: ec32b376 (button) folded before Flop
+
+
+Poker Hand #TM6562779042: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level22(2,000/4,000(500)) - 2026/10/20 14:54:19
+Table '40' 6-max Seat #5 is the button
+Seat 1: 5d42b193 (23,848 in chips)
+Seat 2: 4bacfe2b (98,564 in chips)
+Seat 3: f86782e7 (24,492 in chips)
+Seat 4: Hero (102,224 in chips)
+Seat 5: ba961b59 (95,808 in chips)
+Seat 6: ec32b376 (34,091 in chips)
+4bacfe2b: posts the ante 500
+5d42b193: posts the ante 500
+Hero: posts the ante 500
+ba961b59: posts the ante 500
+ec32b376: posts the ante 500
+f86782e7: posts the ante 500
+ec32b376: posts small blind 2,000
+5d42b193: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 5d42b193 
+Dealt to 4bacfe2b 
+Dealt to f86782e7 
+Dealt to Hero [8c 4h]
+Dealt to ba961b59 
+Dealt to ec32b376 
+4bacfe2b: raises 4,000 to 8,000
+f86782e7: folds
+Hero: folds
+ba961b59: folds
+ec32b376: folds
+5d42b193: folds
+Uncalled bet (4,000) returned to 4bacfe2b
+*** SHOWDOWN ***
+4bacfe2b collected 13,000 from pot
+*** SUMMARY ***
+Total pot 13,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5d42b193 (big blind) folded before Flop
+Seat 2: 4bacfe2b collected (13,000)
+Seat 3: f86782e7 folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: ba961b59 (button) folded before Flop
+Seat 6: ec32b376 (small blind) folded before Flop
+
+
+Poker Hand #TM6562779010: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level22(2,000/4,000(500)) - 2026/10/20 14:53:53
+Table '40' 6-max Seat #4 is the button
+Seat 1: 5d42b193 (24,348 in chips)
+Seat 2: 4bacfe2b (103,064 in chips)
+Seat 3: f86782e7 (24,992 in chips)
+Seat 4: Hero (106,724 in chips)
+Seat 5: ba961b59 (81,308 in chips)
+Seat 6: ec32b376 (38,591 in chips)
+4bacfe2b: posts the ante 500
+5d42b193: posts the ante 500
+Hero: posts the ante 500
+ec32b376: posts the ante 500
+ba961b59: posts the ante 500
+f86782e7: posts the ante 500
+ba961b59: posts small blind 2,000
+ec32b376: posts big blind 4,000
+*** HOLE CARDS ***
+Dealt to 5d42b193 
+Dealt to 4bacfe2b 
+Dealt to f86782e7 
+Dealt to Hero [3d 3h]
+Dealt to ba961b59 
+Dealt to ec32b376 
+5d42b193: folds
+4bacfe2b: calls 4,000
+f86782e7: folds
+Hero: calls 4,000
+ba961b59: raises 76,808 to 80,808 and is all-in
+ec32b376: folds
+4bacfe2b: folds
+Hero: folds
+Uncalled bet (76,808) returned to ba961b59
+*** SHOWDOWN ***
+ba961b59 collected 19,000 from pot
+*** SUMMARY ***
+Total pot 19,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5d42b193 folded before Flop
+Seat 2: 4bacfe2b folded before Flop
+Seat 3: f86782e7 folded before Flop
+Seat 4: Hero (button) folded before Flop
+Seat 5: ba961b59 (small blind) collected (19,000)
+Seat 6: ec32b376 (big blind) folded before Flop
+
+
+Poker Hand #TM6562778957: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level21(1,750/3,500(450)) - 2026/10/20 14:52:58
+Table '40' 6-max Seat #3 is the button
+Seat 1: 5d42b193 (24,798 in chips)
+Seat 3: f86782e7 (56,317 in chips)
+Seat 4: Hero (70,549 in chips)
+Seat 5: ba961b59 (85,258 in chips)
+Seat 6: ec32b376 (39,041 in chips)
+5d42b193: posts the ante 450
+Hero: posts the ante 450
+ec32b376: posts the ante 450
+ba961b59: posts the ante 450
+f86782e7: posts the ante 450
+Hero: posts small blind 1,750
+ba961b59: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to 5d42b193 
+Dealt to f86782e7 
+Dealt to Hero [Ah 6h]
+Dealt to ba961b59 
+Dealt to ec32b376 
+ec32b376: folds
+5d42b193: folds
+f86782e7: raises 3,500 to 7,000
+Hero: calls 5,250
+ba961b59: folds
+*** FLOP *** [3s 6d 3d]
+Hero: bets 7,000
+f86782e7: calls 7,000
+*** TURN *** [3s 6d 3d] [9s]
+Hero: checks
+f86782e7: checks
+*** RIVER *** [3s 6d 3d 9s] [Ac]
+Hero: bets 16,875
+f86782e7: calls 16,875
+Hero: shows [Ah 6h] (two pair, Aces and Sixes)
+f86782e7: shows [Qc As] (two pair, Aces and Threes)
+*** SHOWDOWN ***
+Hero collected 67,500 from pot
+*** SUMMARY ***
+Total pot 67,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s 6d 3d 9s Ac]
+Seat 1: 5d42b193 folded before Flop
+Seat 3: f86782e7 (button) showed [Qc As] and lost with two pair, Aces and Threes
+Seat 4: Hero (small blind) showed [Ah 6h] and won (67,500) with two pair, Aces and Sixes
+Seat 5: ba961b59 (big blind) folded before Flop
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6562778900: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level21(1,750/3,500(450)) - 2026/10/20 14:52:09
+Table '40' 6-max Seat #2 is the button
+Seat 1: 5d42b193 (25,248 in chips)
+Seat 2: 94e27cb4 (24,330 in chips)
+Seat 3: f86782e7 (58,517 in chips)
+Seat 4: Hero (42,669 in chips)
+Seat 5: ba961b59 (85,708 in chips)
+Seat 6: ec32b376 (39,491 in chips)
+5d42b193: posts the ante 450
+94e27cb4: posts the ante 450
+Hero: posts the ante 450
+ec32b376: posts the ante 450
+ba961b59: posts the ante 450
+f86782e7: posts the ante 450
+f86782e7: posts small blind 1,750
+Hero: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to 5d42b193 
+Dealt to 94e27cb4 
+Dealt to f86782e7 
+Dealt to Hero [7h Kh]
+Dealt to ba961b59 
+Dealt to ec32b376 
+ba961b59: folds
+ec32b376: folds
+5d42b193: folds
+94e27cb4: raises 20,380 to 23,880 and is all-in
+f86782e7: folds
+Hero: calls 20,380
+94e27cb4: shows [5s As]
+Hero: shows [7h Kh]
+*** FLOP *** [5h 6c 3s]
+*** TURN *** [5h 6c 3s] [4h]
+*** RIVER *** [5h 6c 3s 4h] [Th]
+*** SHOWDOWN ***
+Hero collected 52,210 from pot
+*** SUMMARY ***
+Total pot 52,210 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 6c 3s 4h Th]
+Seat 1: 5d42b193 folded before Flop
+Seat 2: 94e27cb4 (button) showed [5s As] and lost with a pair of Fives
+Seat 3: f86782e7 (small blind) folded before Flop
+Seat 4: Hero (big blind) showed [7h Kh] and won (52,210) with a flush King high
+Seat 5: ba961b59 folded before Flop
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6562778873: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level21(1,750/3,500(450)) - 2026/10/20 14:51:44
+Table '40' 6-max Seat #1 is the button
+Seat 1: 5d42b193 (25,698 in chips)
+Seat 2: 94e27cb4 (18,580 in chips)
+Seat 3: f86782e7 (62,467 in chips)
+Seat 4: Hero (43,119 in chips)
+Seat 5: ba961b59 (86,158 in chips)
+Seat 6: ec32b376 (39,941 in chips)
+5d42b193: posts the ante 450
+94e27cb4: posts the ante 450
+Hero: posts the ante 450
+ec32b376: posts the ante 450
+ba961b59: posts the ante 450
+f86782e7: posts the ante 450
+94e27cb4: posts small blind 1,750
+f86782e7: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to 5d42b193 
+Dealt to 94e27cb4 
+Dealt to f86782e7 
+Dealt to Hero [Qc 9d]
+Dealt to ba961b59 
+Dealt to ec32b376 
+Hero: folds
+ba961b59: folds
+ec32b376: folds
+5d42b193: folds
+94e27cb4: raises 14,630 to 18,130 and is all-in
+f86782e7: folds
+Uncalled bet (14,630) returned to 94e27cb4
+*** SHOWDOWN ***
+94e27cb4 collected 9,700 from pot
+*** SUMMARY ***
+Total pot 9,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5d42b193 (button) folded before Flop
+Seat 2: 94e27cb4 (small blind) collected (9,700)
+Seat 3: f86782e7 (big blind) folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: ba961b59 folded before Flop
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6562778834: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level21(1,750/3,500(450)) - 2026/10/20 14:51:11
+Table '40' 6-max Seat #6 is the button
+Seat 1: 5d42b193 (27,898 in chips)
+Seat 2: 94e27cb4 (22,530 in chips)
+Seat 3: f86782e7 (69,917 in chips)
+Seat 4: Hero (50,569 in chips)
+Seat 5: ba961b59 (64,658 in chips)
+Seat 6: ec32b376 (40,391 in chips)
+5d42b193: posts the ante 450
+94e27cb4: posts the ante 450
+Hero: posts the ante 450
+ec32b376: posts the ante 450
+ba961b59: posts the ante 450
+f86782e7: posts the ante 450
+5d42b193: posts small blind 1,750
+94e27cb4: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to 5d42b193 
+Dealt to 94e27cb4 
+Dealt to f86782e7 
+Dealt to Hero [Td Kc]
+Dealt to ba961b59 
+Dealt to ec32b376 
+f86782e7: raises 3,500 to 7,000
+Hero: calls 7,000
+ba961b59: raises 57,208 to 64,208 and is all-in
+ec32b376: folds
+5d42b193: folds
+94e27cb4: folds
+f86782e7: folds
+Hero: folds
+Uncalled bet (57,208) returned to ba961b59
+*** SHOWDOWN ***
+ba961b59 collected 28,950 from pot
+*** SUMMARY ***
+Total pot 28,950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5d42b193 (small blind) folded before Flop
+Seat 2: 94e27cb4 (big blind) folded before Flop
+Seat 3: f86782e7 folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: ba961b59 collected (28,950)
+Seat 6: ec32b376 (button) folded before Flop
+
+
+Poker Hand #TM6562778801: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level21(1,750/3,500(450)) - 2026/10/20 14:50:40
+Table '40' 6-max Seat #5 is the button
+Seat 1: 5d42b193 (23,898 in chips)
+Seat 2: 94e27cb4 (22,980 in chips)
+Seat 3: f86782e7 (70,367 in chips)
+Seat 4: Hero (51,019 in chips)
+Seat 5: ba961b59 (65,108 in chips)
+Seat 6: ec32b376 (42,591 in chips)
+5d42b193: posts the ante 450
+94e27cb4: posts the ante 450
+Hero: posts the ante 450
+ba961b59: posts the ante 450
+ec32b376: posts the ante 450
+f86782e7: posts the ante 450
+ec32b376: posts small blind 1,750
+5d42b193: posts big blind 3,500
+*** HOLE CARDS ***
+Dealt to 5d42b193 
+Dealt to 94e27cb4 
+Dealt to f86782e7 
+Dealt to Hero [Qs 5c]
+Dealt to ba961b59 
+Dealt to ec32b376 
+94e27cb4: folds
+f86782e7: folds
+Hero: folds
+ba961b59: folds
+ec32b376: folds
+Uncalled bet (1,750) returned to 5d42b193
+*** SHOWDOWN ***
+5d42b193 collected 6,200 from pot
+*** SUMMARY ***
+Total pot 6,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5d42b193 (big blind) collected (6,200)
+Seat 2: 94e27cb4 folded before Flop
+Seat 3: f86782e7 folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: ba961b59 (button) folded before Flop
+Seat 6: ec32b376 (small blind) folded before Flop
+
+
+Poker Hand #TM6562778774: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level20(1,500/3,000(350)) - 2026/10/20 14:50:12
+Table '40' 6-max Seat #4 is the button
+Seat 1: 5d42b193 (24,248 in chips)
+Seat 2: 94e27cb4 (23,330 in chips)
+Seat 3: f86782e7 (70,717 in chips)
+Seat 4: Hero (57,369 in chips)
+Seat 5: ba961b59 (54,358 in chips)
+Seat 6: ec32b376 (45,941 in chips)
+5d42b193: posts the ante 350
+94e27cb4: posts the ante 350
+Hero: posts the ante 350
+ec32b376: posts the ante 350
+ba961b59: posts the ante 350
+f86782e7: posts the ante 350
+ba961b59: posts small blind 1,500
+ec32b376: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 5d42b193 
+Dealt to 94e27cb4 
+Dealt to f86782e7 
+Dealt to Hero [8h 9h]
+Dealt to ba961b59 
+Dealt to ec32b376 
+5d42b193: folds
+94e27cb4: folds
+f86782e7: folds
+Hero: raises 3,000 to 6,000
+ba961b59: raises 48,008 to 54,008 and is all-in
+ec32b376: folds
+Hero: folds
+Uncalled bet (48,008) returned to ba961b59
+*** SHOWDOWN ***
+ba961b59 collected 17,100 from pot
+*** SUMMARY ***
+Total pot 17,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5d42b193 folded before Flop
+Seat 2: 94e27cb4 folded before Flop
+Seat 3: f86782e7 folded before Flop
+Seat 4: Hero (button) folded before Flop
+Seat 5: ba961b59 (small blind) collected (17,100)
+Seat 6: ec32b376 (big blind) folded before Flop
+
+
+Poker Hand #TM6562778733: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level20(1,500/3,000(350)) - 2026/10/20 14:49:39
+Table '40' 6-max Seat #3 is the button
+Seat 1: 5d42b193 (24,598 in chips)
+Seat 2: 94e27cb4 (23,680 in chips)
+Seat 3: f86782e7 (77,067 in chips)
+Seat 4: Hero (59,219 in chips)
+Seat 5: ba961b59 (45,108 in chips)
+Seat 6: ec32b376 (46,291 in chips)
+5d42b193: posts the ante 350
+94e27cb4: posts the ante 350
+Hero: posts the ante 350
+ec32b376: posts the ante 350
+ba961b59: posts the ante 350
+f86782e7: posts the ante 350
+Hero: posts small blind 1,500
+ba961b59: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 5d42b193 
+Dealt to 94e27cb4 
+Dealt to f86782e7 
+Dealt to Hero [3d 7s]
+Dealt to ba961b59 
+Dealt to ec32b376 
+ec32b376: folds
+5d42b193: folds
+94e27cb4: folds
+f86782e7: raises 3,000 to 6,000
+Hero: folds
+ba961b59: raises 38,758 to 44,758 and is all-in
+f86782e7: folds
+Uncalled bet (38,758) returned to ba961b59
+*** SHOWDOWN ***
+ba961b59 collected 15,600 from pot
+*** SUMMARY ***
+Total pot 15,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5d42b193 folded before Flop
+Seat 2: 94e27cb4 folded before Flop
+Seat 3: f86782e7 (button) folded before Flop
+Seat 4: Hero (small blind) folded before Flop
+Seat 5: ba961b59 (big blind) collected (15,600)
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6562778711: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level20(1,500/3,000(350)) - 2026/10/20 14:49:14
+Table '40' 6-max Seat #2 is the button
+Seat 1: 5d42b193 (24,948 in chips)
+Seat 2: 94e27cb4 (24,030 in chips)
+Seat 3: f86782e7 (78,917 in chips)
+Seat 4: Hero (55,969 in chips)
+Seat 5: ba961b59 (45,458 in chips)
+Seat 6: ec32b376 (46,641 in chips)
+5d42b193: posts the ante 350
+94e27cb4: posts the ante 350
+Hero: posts the ante 350
+ec32b376: posts the ante 350
+ba961b59: posts the ante 350
+f86782e7: posts the ante 350
+f86782e7: posts small blind 1,500
+Hero: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 5d42b193 
+Dealt to 94e27cb4 
+Dealt to f86782e7 
+Dealt to Hero [9s 7d]
+Dealt to ba961b59 
+Dealt to ec32b376 
+ba961b59: folds
+ec32b376: folds
+5d42b193: folds
+94e27cb4: folds
+f86782e7: folds
+Uncalled bet (1,500) returned to Hero
+*** SHOWDOWN ***
+Hero collected 5,100 from pot
+*** SUMMARY ***
+Total pot 5,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5d42b193 folded before Flop
+Seat 2: 94e27cb4 (button) folded before Flop
+Seat 3: f86782e7 (small blind) folded before Flop
+Seat 4: Hero (big blind) collected (5,100)
+Seat 5: ba961b59 folded before Flop
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6562778686: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level20(1,500/3,000(350)) - 2026/10/20 14:48:50
+Table '40' 6-max Seat #6 is the button
+Seat 2: 94e27cb4 (25,880 in chips)
+Seat 3: f86782e7 (82,267 in chips)
+Seat 4: Hero (50,069 in chips)
+Seat 5: ba961b59 (45,808 in chips)
+Seat 6: ec32b376 (46,991 in chips)
+94e27cb4: posts the ante 350
+Hero: posts the ante 350
+ec32b376: posts the ante 350
+ba961b59: posts the ante 350
+f86782e7: posts the ante 350
+94e27cb4: posts small blind 1,500
+f86782e7: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 94e27cb4 
+Dealt to f86782e7 
+Dealt to Hero [Qc Ad]
+Dealt to ba961b59 
+Dealt to ec32b376 
+Hero: raises 3,000 to 6,000
+ba961b59: folds
+ec32b376: folds
+94e27cb4: folds
+f86782e7: folds
+Uncalled bet (3,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 9,250 from pot
+*** SUMMARY ***
+Total pot 9,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: 94e27cb4 (small blind) folded before Flop
+Seat 3: f86782e7 (big blind) folded before Flop
+Seat 4: Hero collected (9,250)
+Seat 5: ba961b59 folded before Flop
+Seat 6: ec32b376 (button) folded before Flop
+
+
+Poker Hand #TM6562778635: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level20(1,500/3,000(350)) - 2026/10/20 14:48:02
+Table '40' 6-max Seat #5 is the button
+Seat 2: 94e27cb4 (29,230 in chips)
+Seat 3: f86782e7 (58,367 in chips)
+Seat 4: Hero (62,419 in chips)
+Seat 5: ba961b59 (52,158 in chips)
+Seat 6: ec32b376 (48,841 in chips)
+94e27cb4: posts the ante 350
+Hero: posts the ante 350
+ba961b59: posts the ante 350
+ec32b376: posts the ante 350
+f86782e7: posts the ante 350
+ec32b376: posts small blind 1,500
+94e27cb4: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 94e27cb4 
+Dealt to f86782e7 
+Dealt to Hero [Qh Jd]
+Dealt to ba961b59 
+Dealt to ec32b376 
+f86782e7: raises 3,000 to 6,000
+Hero: calls 6,000
+ba961b59: calls 6,000
+ec32b376: folds
+94e27cb4: folds
+*** FLOP *** [7c 9d 6s]
+f86782e7: checks
+Hero: bets 6,000
+ba961b59: folds
+f86782e7: calls 6,000
+*** TURN *** [7c 9d 6s] [4d]
+f86782e7: checks
+Hero: checks
+*** RIVER *** [7c 9d 6s 4d] [3d]
+f86782e7: checks
+Hero: checks
+f86782e7: shows [Ad Js] (Ace high)
+Hero: shows [Qh Jd] (Queen high)
+*** SHOWDOWN ***
+f86782e7 collected 36,250 from pot
+*** SUMMARY ***
+Total pot 36,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c 9d 6s 4d 3d]
+Seat 2: 94e27cb4 (big blind) folded before Flop
+Seat 3: f86782e7 showed [Ad Js] and won (36,250) with Ace high
+Seat 4: Hero showed [Qh Jd] and lost with Queen high
+Seat 5: ba961b59 (button) folded on the Flop
+Seat 6: ec32b376 (small blind) folded before Flop
+
+
+Poker Hand #TM6562778589: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level19(1,250/2,500(300)) - 2026/10/20 14:47:17
+Table '40' 6-max Seat #4 is the button
+Seat 1: 28815148 (23,230 in chips)
+Seat 2: 94e27cb4 (29,530 in chips)
+Seat 3: f86782e7 (58,667 in chips)
+Seat 4: Hero (34,239 in chips)
+Seat 5: ba961b59 (53,708 in chips)
+Seat 6: ec32b376 (51,641 in chips)
+28815148: posts the ante 300
+94e27cb4: posts the ante 300
+Hero: posts the ante 300
+ec32b376: posts the ante 300
+ba961b59: posts the ante 300
+f86782e7: posts the ante 300
+ba961b59: posts small blind 1,250
+ec32b376: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 28815148 
+Dealt to 94e27cb4 
+Dealt to f86782e7 
+Dealt to Hero [Kd Qd]
+Dealt to ba961b59 
+Dealt to ec32b376 
+28815148: raises 20,430 to 22,930 and is all-in
+94e27cb4: folds
+f86782e7: folds
+Hero: raises 11,009 to 33,939 and is all-in
+ba961b59: folds
+ec32b376: folds
+Uncalled bet (11,009) returned to Hero
+Hero: shows [Kd Qd]
+28815148: shows [7d As]
+*** FLOP *** [4c Qs 4s]
+*** TURN *** [4c Qs 4s] [6c]
+*** RIVER *** [4c Qs 4s 6c] [2c]
+*** SHOWDOWN ***
+Hero collected 51,410 from pot
+*** SUMMARY ***
+Total pot 51,410 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c Qs 4s 6c 2c]
+Seat 1: 28815148 showed [7d As] and lost with a pair of Fours
+Seat 2: 94e27cb4 folded before Flop
+Seat 3: f86782e7 folded before Flop
+Seat 4: Hero (button) showed [Kd Qd] and won (51,410) with two pair, Queens and Fours
+Seat 5: ba961b59 (small blind) folded before Flop
+Seat 6: ec32b376 (big blind) folded before Flop
+
+
+Poker Hand #TM6562778553: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level19(1,250/2,500(300)) - 2026/10/20 14:46:46
+Table '40' 6-max Seat #3 is the button
+Seat 1: 28815148 (23,530 in chips)
+Seat 2: 94e27cb4 (29,830 in chips)
+Seat 3: f86782e7 (63,967 in chips)
+Seat 4: Hero (25,239 in chips)
+Seat 5: ba961b59 (56,508 in chips)
+Seat 6: ec32b376 (51,941 in chips)
+28815148: posts the ante 300
+94e27cb4: posts the ante 300
+Hero: posts the ante 300
+ec32b376: posts the ante 300
+ba961b59: posts the ante 300
+f86782e7: posts the ante 300
+Hero: posts small blind 1,250
+ba961b59: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 28815148 
+Dealt to 94e27cb4 
+Dealt to f86782e7 
+Dealt to Hero [Ac 5h]
+Dealt to ba961b59 
+Dealt to ec32b376 
+ec32b376: folds
+28815148: folds
+94e27cb4: folds
+f86782e7: raises 2,500 to 5,000
+Hero: raises 19,939 to 24,939 and is all-in
+ba961b59: folds
+f86782e7: folds
+Uncalled bet (19,939) returned to Hero
+*** SHOWDOWN ***
+Hero collected 14,300 from pot
+*** SUMMARY ***
+Total pot 14,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 28815148 folded before Flop
+Seat 2: 94e27cb4 folded before Flop
+Seat 3: f86782e7 (button) folded before Flop
+Seat 4: Hero (small blind) collected (14,300)
+Seat 5: ba961b59 (big blind) folded before Flop
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6562778491: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level19(1,250/2,500(300)) - 2026/10/20 14:45:52
+Table '40' 6-max Seat #2 is the button
+Seat 1: 28815148 (23,830 in chips)
+Seat 2: 94e27cb4 (30,130 in chips)
+Seat 3: f86782e7 (57,467 in chips)
+Seat 4: Hero (30,539 in chips)
+Seat 5: ba961b59 (56,808 in chips)
+Seat 6: ec32b376 (52,241 in chips)
+28815148: posts the ante 300
+94e27cb4: posts the ante 300
+Hero: posts the ante 300
+ec32b376: posts the ante 300
+ba961b59: posts the ante 300
+f86782e7: posts the ante 300
+f86782e7: posts small blind 1,250
+Hero: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to 28815148 
+Dealt to 94e27cb4 
+Dealt to f86782e7 
+Dealt to Hero [8c Js]
+Dealt to ba961b59 
+Dealt to ec32b376 
+ba961b59: folds
+ec32b376: folds
+28815148: folds
+94e27cb4: folds
+f86782e7: raises 2,500 to 5,000
+Hero: calls 2,500
+*** FLOP *** [Ks 2s Kh]
+f86782e7: bets 2,500
+Hero: folds
+Uncalled bet (2,500) returned to f86782e7
+*** SHOWDOWN ***
+f86782e7 collected 11,800 from pot
+*** SUMMARY ***
+Total pot 11,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 2s Kh]
+Seat 1: 28815148 folded before Flop
+Seat 2: 94e27cb4 (button) folded before Flop
+Seat 3: f86782e7 (small blind) won (11,800)
+Seat 4: Hero (big blind) folded on the Flop
+Seat 5: ba961b59 folded before Flop
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6562778435: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level18(1,000/2,000(250)) - 2026/10/20 14:44:59
+Table '40' 6-max Seat #1 is the button
+Seat 1: 28815148 (24,080 in chips)
+Seat 2: 94e27cb4 (31,380 in chips)
+Seat 3: f86782e7 (59,717 in chips)
+Seat 4: Hero (34,789 in chips)
+Seat 5: ba961b59 (48,558 in chips)
+Seat 6: ec32b376 (52,491 in chips)
+28815148: posts the ante 250
+94e27cb4: posts the ante 250
+Hero: posts the ante 250
+ec32b376: posts the ante 250
+ba961b59: posts the ante 250
+f86782e7: posts the ante 250
+94e27cb4: posts small blind 1,000
+f86782e7: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 28815148 
+Dealt to 94e27cb4 
+Dealt to f86782e7 
+Dealt to Hero [Ad 9h]
+Dealt to ba961b59 
+Dealt to ec32b376 
+Hero: raises 2,000 to 4,000
+ba961b59: calls 4,000
+ec32b376: folds
+28815148: folds
+94e27cb4: folds
+f86782e7: folds
+*** FLOP *** [7h Ts Qd]
+Hero: checks
+ba961b59: bets 4,125
+Hero: folds
+Uncalled bet (4,125) returned to ba961b59
+*** SHOWDOWN ***
+ba961b59 collected 12,500 from pot
+*** SUMMARY ***
+Total pot 12,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h Ts Qd]
+Seat 1: 28815148 (button) folded before Flop
+Seat 2: 94e27cb4 (small blind) folded before Flop
+Seat 3: f86782e7 (big blind) folded before Flop
+Seat 4: Hero folded on the Flop
+Seat 5: ba961b59 won (12,500)
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6562778368: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level18(1,000/2,000(250)) - 2026/10/20 14:43:51
+Table '40' 6-max Seat #6 is the button
+Seat 1: 28815148 (28,330 in chips)
+Seat 2: 94e27cb4 (26,380 in chips)
+Seat 4: Hero (35,039 in chips)
+Seat 5: ba961b59 (48,808 in chips)
+Seat 6: ec32b376 (52,741 in chips)
+28815148: posts the ante 250
+94e27cb4: posts the ante 250
+Hero: posts the ante 250
+ec32b376: posts the ante 250
+ba961b59: posts the ante 250
+28815148: posts small blind 1,000
+94e27cb4: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 28815148 
+Dealt to 94e27cb4 
+Dealt to Hero [4d 3c]
+Dealt to ba961b59 
+Dealt to ec32b376 
+Hero: folds
+ba961b59: folds
+ec32b376: folds
+28815148: calls 1,000
+94e27cb4: checks
+*** FLOP *** [5c Ks 5d]
+28815148: bets 2,000
+94e27cb4: calls 2,000
+*** TURN *** [5c Ks 5d] [7h]
+28815148: checks
+94e27cb4: bets 4,000
+28815148: folds
+Uncalled bet (4,000) returned to 94e27cb4
+*** SHOWDOWN ***
+94e27cb4 collected 9,250 from pot
+*** SUMMARY ***
+Total pot 9,250 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c Ks 5d 7h]
+Seat 1: 28815148 (small blind) folded on the Turn
+Seat 2: 94e27cb4 (big blind) won (9,250)
+Seat 4: Hero folded before Flop
+Seat 5: ba961b59 folded before Flop
+Seat 6: ec32b376 (button) folded before Flop
+
+
+Poker Hand #TM6562778312: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level18(1,000/2,000(250)) - 2026/10/20 14:42:46
+Table '40' 6-max Seat #5 is the button
+Seat 1: 28815148 (30,580 in chips)
+Seat 2: 94e27cb4 (26,630 in chips)
+Seat 3: 35d980d (11,645 in chips)
+Seat 4: Hero (19,394 in chips)
+Seat 5: ba961b59 (49,058 in chips)
+Seat 6: ec32b376 (53,991 in chips)
+35d980d: posts the ante 250
+28815148: posts the ante 250
+94e27cb4: posts the ante 250
+Hero: posts the ante 250
+ba961b59: posts the ante 250
+ec32b376: posts the ante 250
+ec32b376: posts small blind 1,000
+28815148: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to 28815148 
+Dealt to 94e27cb4 
+Dealt to 35d980d 
+Dealt to Hero [Jh Ks]
+Dealt to ba961b59 
+Dealt to ec32b376 
+94e27cb4: folds
+35d980d: raises 6,000 to 8,000
+Hero: raises 11,144 to 19,144 and is all-in
+ba961b59: folds
+ec32b376: folds
+28815148: folds
+35d980d: calls 3,395 and is all-in
+Uncalled bet (7,749) returned to Hero
+Hero: shows [Jh Ks]
+35d980d: shows [9s Qs]
+*** FLOP *** [3h Tc 8h]
+*** TURN *** [3h Tc 8h] [8c]
+*** RIVER *** [3h Tc 8h 8c] [5c]
+*** SHOWDOWN ***
+Hero collected 27,290 from pot
+*** SUMMARY ***
+Total pot 27,290 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h Tc 8h 8c 5c]
+Seat 1: 28815148 (big blind) folded before Flop
+Seat 2: 94e27cb4 folded before Flop
+Seat 3: 35d980d showed [9s Qs] and lost with a pair of Eights
+Seat 4: Hero showed [Jh Ks] and won (27,290) with a pair of Eights
+Seat 5: ba961b59 (button) folded before Flop
+Seat 6: ec32b376 (small blind) folded before Flop
+
+
+Poker Hand #TM6562778281: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level17(800/1,600(200)) - 2026/10/20 14:42:10
+Table '40' 6-max Seat #4 is the button
+Seat 1: 28815148 (27,180 in chips)
+Seat 2: 94e27cb4 (26,830 in chips)
+Seat 3: 35d980d (11,845 in chips)
+Seat 4: Hero (19,594 in chips)
+Seat 5: ba961b59 (50,058 in chips)
+Seat 6: ec32b376 (55,791 in chips)
+35d980d: posts the ante 200
+28815148: posts the ante 200
+94e27cb4: posts the ante 200
+Hero: posts the ante 200
+ec32b376: posts the ante 200
+ba961b59: posts the ante 200
+ba961b59: posts small blind 800
+ec32b376: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to 28815148 
+Dealt to 94e27cb4 
+Dealt to 35d980d 
+Dealt to Hero [4s Ac]
+Dealt to ba961b59 
+Dealt to ec32b376 
+28815148: raises 25,380 to 26,980 and is all-in
+94e27cb4: folds
+35d980d: folds
+Hero: folds
+ba961b59: folds
+ec32b376: folds
+Uncalled bet (25,380) returned to 28815148
+*** SHOWDOWN ***
+28815148 collected 5,200 from pot
+*** SUMMARY ***
+Total pot 5,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 28815148 collected (5,200)
+Seat 2: 94e27cb4 folded before Flop
+Seat 3: 35d980d folded before Flop
+Seat 4: Hero (button) folded before Flop
+Seat 5: ba961b59 (small blind) folded before Flop
+Seat 6: ec32b376 (big blind) folded before Flop
+
+
+Poker Hand #TM6562778230: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level17(800/1,600(200)) - 2026/10/20 14:41:16
+Table '40' 6-max Seat #3 is the button
+Seat 1: 28815148 (27,380 in chips)
+Seat 3: 35d980d (12,045 in chips)
+Seat 4: Hero (26,194 in chips)
+Seat 5: ba961b59 (42,858 in chips)
+Seat 6: ec32b376 (55,991 in chips)
+35d980d: posts the ante 200
+28815148: posts the ante 200
+Hero: posts the ante 200
+ec32b376: posts the ante 200
+ba961b59: posts the ante 200
+Hero: posts small blind 800
+ba961b59: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to 28815148 
+Dealt to 35d980d 
+Dealt to Hero [5s Ad]
+Dealt to ba961b59 
+Dealt to ec32b376 
+ec32b376: folds
+28815148: folds
+35d980d: folds
+Hero: calls 800
+ba961b59: checks
+*** FLOP *** [9h 6c 3d]
+Hero: checks
+ba961b59: checks
+*** TURN *** [9h 6c 3d] [4c]
+Hero: bets 1,600
+ba961b59: calls 1,600
+*** RIVER *** [9h 6c 3d 4c] [6h]
+Hero: bets 3,200
+ba961b59: calls 3,200
+Hero: shows [5s Ad] (a pair of Sixes)
+ba961b59: shows [6d 2h] (three of a kind, Sixes)
+*** SHOWDOWN ***
+ba961b59 collected 13,800 from pot
+*** SUMMARY ***
+Total pot 13,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h 6c 3d 4c 6h]
+Seat 1: 28815148 folded before Flop
+Seat 3: 35d980d (button) folded before Flop
+Seat 4: Hero (small blind) showed [5s Ad] and lost with a pair of Sixes
+Seat 5: ba961b59 (big blind) showed [6d 2h] and won (13,800) with three of a kind, Sixes
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6562778183: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level17(800/1,600(200)) - 2026/10/20 14:40:20
+Table '40' 6-max Seat #2 is the button
+Seat 1: 28815148 (27,580 in chips)
+Seat 2: 2f4871d (15,513 in chips)
+Seat 3: 35d980d (13,045 in chips)
+Seat 4: Hero (27,994 in chips)
+Seat 5: ba961b59 (43,058 in chips)
+Seat 6: ec32b376 (37,278 in chips)
+28815148: posts the ante 200
+35d980d: posts the ante 200
+Hero: posts the ante 200
+2f4871d: posts the ante 200
+ec32b376: posts the ante 200
+ba961b59: posts the ante 200
+35d980d: posts small blind 800
+Hero: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to 28815148 
+Dealt to 2f4871d 
+Dealt to 35d980d 
+Dealt to Hero [2s Kc]
+Dealt to ba961b59 
+Dealt to ec32b376 
+ba961b59: folds
+ec32b376: raises 1,600 to 3,200
+28815148: folds
+2f4871d: raises 12,113 to 15,313 and is all-in
+35d980d: folds
+Hero: folds
+ec32b376: calls 12,113
+2f4871d: shows [Ad 7c]
+ec32b376: shows [Tc Ah]
+*** FLOP *** [5h 7s Ks]
+*** TURN *** [5h 7s Ks] [5s]
+*** RIVER *** [5h 7s Ks 5s] [Td]
+ba961b59: shows [7d] (two pair, Sevens and Fives)
+*** SHOWDOWN ***
+ec32b376 collected 34,226 from pot
+*** SUMMARY ***
+Total pot 34,226 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 7s Ks 5s Td]
+Seat 1: 28815148 folded before Flop
+Seat 2: 2f4871d (button) showed [Ad 7c] and lost with two pair, Sevens and Fives
+Seat 3: 35d980d (small blind) folded before Flop
+Seat 4: Hero (big blind) folded before Flop
+Seat 5: ba961b59 folded before Flop
+Seat 6: ec32b376 showed [Tc Ah] and won (34,226) with two pair, Tens and Fives
+
+
+Poker Hand #TM6562778139: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level17(800/1,600(200)) - 2026/10/20 14:39:35
+Table '40' 6-max Seat #1 is the button
+Seat 1: 28815148 (27,780 in chips)
+Seat 2: 2f4871d (16,513 in chips)
+Seat 3: 35d980d (14,845 in chips)
+Seat 4: Hero (28,194 in chips)
+Seat 5: ba961b59 (19,929 in chips)
+Seat 6: ec32b376 (57,207 in chips)
+28815148: posts the ante 200
+35d980d: posts the ante 200
+Hero: posts the ante 200
+2f4871d: posts the ante 200
+ec32b376: posts the ante 200
+ba961b59: posts the ante 200
+2f4871d: posts small blind 800
+35d980d: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to 28815148 
+Dealt to 2f4871d 
+Dealt to 35d980d 
+Dealt to Hero [7h Ts]
+Dealt to ba961b59 
+Dealt to ec32b376 
+Hero: folds
+ba961b59: raises 1,600 to 3,200
+ec32b376: raises 7,500 to 10,700
+28815148: folds
+2f4871d: folds
+35d980d: folds
+ba961b59: raises 9,029 to 19,729 and is all-in
+ec32b376: calls 9,029
+ba961b59: shows [Jh Js]
+ec32b376: shows [Ad Kd]
+*** FLOP *** [Jc 8h As]
+*** TURN *** [Jc 8h As] [9h]
+*** RIVER *** [Jc 8h As 9h] [6c]
+*** SHOWDOWN ***
+ba961b59 collected 43,058 from pot
+*** SUMMARY ***
+Total pot 43,058 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc 8h As 9h 6c]
+Seat 1: 28815148 (button) folded before Flop
+Seat 2: 2f4871d (small blind) folded before Flop
+Seat 3: 35d980d (big blind) folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: ba961b59 showed [Jh Js] and won (43,058) with three of a kind, Jacks
+Seat 6: ec32b376 showed [Ad Kd] and lost with a pair of Aces
+
+
+Poker Hand #TM6562778120: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level16(600/1,200(150)) - 2026/10/20 14:39:12
+Table '40' 6-max Seat #6 is the button
+Seat 1: 28815148 (28,530 in chips)
+Seat 2: 2f4871d (17,863 in chips)
+Seat 3: 35d980d (14,995 in chips)
+Seat 4: Hero (28,344 in chips)
+Seat 5: ba961b59 (17,379 in chips)
+Seat 6: ec32b376 (57,357 in chips)
+35d980d: posts the ante 150
+28815148: posts the ante 150
+Hero: posts the ante 150
+2f4871d: posts the ante 150
+ec32b376: posts the ante 150
+ba961b59: posts the ante 150
+28815148: posts small blind 600
+2f4871d: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 28815148 
+Dealt to 2f4871d 
+Dealt to 35d980d 
+Dealt to Hero [2s 6s]
+Dealt to ba961b59 
+Dealt to ec32b376 
+35d980d: folds
+Hero: folds
+ba961b59: raises 1,200 to 2,400
+ec32b376: folds
+28815148: folds
+2f4871d: folds
+Uncalled bet (1,200) returned to ba961b59
+*** SHOWDOWN ***
+ba961b59 collected 3,900 from pot
+*** SUMMARY ***
+Total pot 3,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 28815148 (small blind) folded before Flop
+Seat 2: 2f4871d (big blind) folded before Flop
+Seat 3: 35d980d folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: ba961b59 collected (3,900)
+Seat 6: ec32b376 (button) folded before Flop
+
+
+Poker Hand #TM6562778105: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level16(600/1,200(150)) - 2026/10/20 14:38:53
+Table '40' 6-max Seat #5 is the button
+Seat 1: 28815148 (29,880 in chips)
+Seat 2: 2f4871d (18,013 in chips)
+Seat 3: 35d980d (15,145 in chips)
+Seat 4: Hero (30,894 in chips)
+Seat 5: ba961b59 (12,429 in chips)
+Seat 6: ec32b376 (58,107 in chips)
+35d980d: posts the ante 150
+28815148: posts the ante 150
+Hero: posts the ante 150
+2f4871d: posts the ante 150
+ba961b59: posts the ante 150
+ec32b376: posts the ante 150
+ec32b376: posts small blind 600
+28815148: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 28815148 
+Dealt to 2f4871d 
+Dealt to 35d980d 
+Dealt to Hero [7c As]
+Dealt to ba961b59 
+Dealt to ec32b376 
+2f4871d: folds
+35d980d: folds
+Hero: raises 1,200 to 2,400
+ba961b59: raises 9,879 to 12,279 and is all-in
+ec32b376: folds
+28815148: folds
+Hero: folds
+Uncalled bet (9,879) returned to ba961b59
+*** SHOWDOWN ***
+ba961b59 collected 7,500 from pot
+*** SUMMARY ***
+Total pot 7,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 28815148 (big blind) folded before Flop
+Seat 2: 2f4871d folded before Flop
+Seat 3: 35d980d folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: ba961b59 (button) collected (7,500)
+Seat 6: ec32b376 (small blind) folded before Flop
+
+
+Poker Hand #TM6562778068: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level16(600/1,200(150)) - 2026/10/20 14:38:15
+Table '40' 6-max Seat #4 is the button
+Seat 2: 2f4871d (18,163 in chips)
+Seat 3: 35d980d (15,295 in chips)
+Seat 4: Hero (31,044 in chips)
+Seat 5: ba961b59 (14,979 in chips)
+Seat 6: ec32b376 (55,107 in chips)
+35d980d: posts the ante 150
+Hero: posts the ante 150
+2f4871d: posts the ante 150
+ec32b376: posts the ante 150
+ba961b59: posts the ante 150
+ba961b59: posts small blind 600
+ec32b376: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 2f4871d 
+Dealt to 35d980d 
+Dealt to Hero [8s 7d]
+Dealt to ba961b59 
+Dealt to ec32b376 
+2f4871d: folds
+35d980d: folds
+Hero: folds
+ba961b59: calls 600
+ec32b376: checks
+*** FLOP *** [Qd 4h 2d]
+ba961b59: checks
+ec32b376: checks
+*** TURN *** [Qd 4h 2d] [5d]
+ba961b59: checks
+ec32b376: bets 1,200
+ba961b59: calls 1,200
+*** RIVER *** [Qd 4h 2d 5d] [8h]
+ba961b59: checks
+ec32b376: checks
+ba961b59: shows [Ac Jc] (Ace high)
+ec32b376: shows [As 5c] (a pair of Fives)
+*** SHOWDOWN ***
+ec32b376 collected 5,550 from pot
+*** SUMMARY ***
+Total pot 5,550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd 4h 2d 5d 8h]
+Seat 2: 2f4871d folded before Flop
+Seat 3: 35d980d folded before Flop
+Seat 4: Hero (button) folded before Flop
+Seat 5: ba961b59 (small blind) showed [Ac Jc] and lost with Ace high
+Seat 6: ec32b376 (big blind) showed [As 5c] and won (5,550) with a pair of Fives
+
+
+Poker Hand #TM6562778036: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level16(600/1,200(150)) - 2026/10/20 14:37:41
+Table '40' 6-max Seat #3 is the button
+Seat 1: 431649ab (7,823 in chips)
+Seat 2: 2f4871d (7,940 in chips)
+Seat 3: 35d980d (15,445 in chips)
+Seat 4: Hero (31,794 in chips)
+Seat 5: ba961b59 (16,329 in chips)
+Seat 6: ec32b376 (55,257 in chips)
+Hero: posts the ante 150
+35d980d: posts the ante 150
+2f4871d: posts the ante 150
+431649ab: posts the ante 150
+ec32b376: posts the ante 150
+ba961b59: posts the ante 150
+Hero: posts small blind 600
+ba961b59: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 431649ab 
+Dealt to 2f4871d 
+Dealt to 35d980d 
+Dealt to Hero [6h 8h]
+Dealt to ba961b59 
+Dealt to ec32b376 
+ec32b376: folds
+431649ab: raises 6,473 to 7,673 and is all-in
+2f4871d: raises 117 to 7,790 and is all-in
+35d980d: folds
+Hero: folds
+ba961b59: folds
+Uncalled bet (117) returned to 2f4871d
+2f4871d: shows [9s 9d]
+431649ab: shows [Kc Qd]
+*** FLOP *** [4c 3d 5s]
+*** TURN *** [4c 3d 5s] [4d]
+*** RIVER *** [4c 3d 5s 4d] [Ac]
+*** SHOWDOWN ***
+2f4871d collected 18,046 from pot
+*** SUMMARY ***
+Total pot 18,046 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c 3d 5s 4d Ac]
+Seat 1: 431649ab showed [Kc Qd] and lost with a pair of Fours
+Seat 2: 2f4871d showed [9s 9d] and won (18,046) with two pair, Nines and Fours
+Seat 3: 35d980d (button) folded before Flop
+Seat 4: Hero (small blind) folded before Flop
+Seat 5: ba961b59 (big blind) folded before Flop
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6562777997: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level16(600/1,200(150)) - 2026/10/20 14:36:59
+Table '40' 6-max Seat #2 is the button
+Seat 1: 431649ab (7,973 in chips)
+Seat 2: 2f4871d (8,090 in chips)
+Seat 3: 35d980d (16,195 in chips)
+Seat 4: Hero (36,423 in chips)
+Seat 5: ba961b59 (16,479 in chips)
+Seat 6: ec32b376 (49,428 in chips)
+35d980d: posts the ante 150
+Hero: posts the ante 150
+2f4871d: posts the ante 150
+431649ab: posts the ante 150
+ec32b376: posts the ante 150
+ba961b59: posts the ante 150
+35d980d: posts small blind 600
+Hero: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 431649ab 
+Dealt to 2f4871d 
+Dealt to 35d980d 
+Dealt to Hero [Jh 5h]
+Dealt to ba961b59 
+Dealt to ec32b376 
+ba961b59: folds
+ec32b376: raises 1,200 to 2,400
+431649ab: folds
+2f4871d: folds
+35d980d: folds
+Hero: calls 1,200
+*** FLOP *** [6h 9d 4d]
+Hero: checks
+ec32b376: bets 2,079
+Hero: calls 2,079
+*** TURN *** [6h 9d 4d] [8c]
+Hero: checks
+ec32b376: bets 5,229
+Hero: folds
+Uncalled bet (5,229) returned to ec32b376
+*** SHOWDOWN ***
+ec32b376 collected 10,458 from pot
+*** SUMMARY ***
+Total pot 10,458 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 9d 4d 8c]
+Seat 1: 431649ab folded before Flop
+Seat 2: 2f4871d (button) folded before Flop
+Seat 3: 35d980d (small blind) folded before Flop
+Seat 4: Hero (big blind) folded on the Turn
+Seat 5: ba961b59 folded before Flop
+Seat 6: ec32b376 won (10,458)
+
+
+Poker Hand #TM6562777966: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level16(600/1,200(150)) - 2026/10/20 14:36:25
+Table '40' 6-max Seat #1 is the button
+Seat 1: 431649ab (8,123 in chips)
+Seat 2: 2f4871d (8,840 in chips)
+Seat 3: 35d980d (17,545 in chips)
+Seat 4: Hero (33,873 in chips)
+Seat 5: ba961b59 (16,629 in chips)
+Seat 6: ec32b376 (49,578 in chips)
+35d980d: posts the ante 150
+Hero: posts the ante 150
+2f4871d: posts the ante 150
+431649ab: posts the ante 150
+ec32b376: posts the ante 150
+ba961b59: posts the ante 150
+2f4871d: posts small blind 600
+35d980d: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 431649ab 
+Dealt to 2f4871d 
+Dealt to 35d980d 
+Dealt to Hero [9h 8h]
+Dealt to ba961b59 
+Dealt to ec32b376 
+Hero: raises 1,200 to 2,400
+ba961b59: folds
+ec32b376: folds
+431649ab: folds
+2f4871d: folds
+35d980d: folds
+Uncalled bet (1,200) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,900 from pot
+*** SUMMARY ***
+Total pot 3,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 431649ab (button) folded before Flop
+Seat 2: 2f4871d (small blind) folded before Flop
+Seat 3: 35d980d (big blind) folded before Flop
+Seat 4: Hero collected (3,900)
+Seat 5: ba961b59 folded before Flop
+Seat 6: ec32b376 folded before Flop
+
+
+Poker Hand #TM6562777925: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level15(500/1,000(125)) - 2026/10/20 14:35:50
+Table '40' 6-max Seat #6 is the button
+Seat 1: 431649ab (12,293 in chips)
+Seat 2: 2f4871d (4,170 in chips)
+Seat 3: 35d980d (17,670 in chips)
+Seat 4: Hero (33,998 in chips)
+Seat 5: ba961b59 (16,754 in chips)
+Seat 6: ec32b376 (49,703 in chips)
+35d980d: posts the ante 125
+2f4871d: posts the ante 125
+431649ab: posts the ante 125
+Hero: posts the ante 125
+ec32b376: posts the ante 125
+ba961b59: posts the ante 125
+431649ab: posts small blind 500
+2f4871d: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 431649ab 
+Dealt to 2f4871d 
+Dealt to 35d980d 
+Dealt to Hero [Qh 2c]
+Dealt to ba961b59 
+Dealt to ec32b376 
+35d980d: folds
+Hero: folds
+ba961b59: folds
+ec32b376: folds
+431649ab: raises 3,000 to 4,000
+2f4871d: raises 45 to 4,045 and is all-in
+431649ab: calls 45
+2f4871d: shows [Jc 5s]
+431649ab: shows [5c Th]
+*** FLOP *** [Jh 8d 6d]
+*** TURN *** [Jh 8d 6d] [4s]
+*** RIVER *** [Jh 8d 6d 4s] [3s]
+*** SHOWDOWN ***
+2f4871d collected 8,840 from pot
+*** SUMMARY ***
+Total pot 8,840 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 8d 6d 4s 3s]
+Seat 1: 431649ab (small blind) showed [5c Th] and lost with Jack high
+Seat 2: 2f4871d (big blind) showed [Jc 5s] and won (8,840) with a pair of Jacks
+Seat 3: 35d980d folded before Flop
+Seat 4: Hero folded before Flop
+Seat 5: ba961b59 folded before Flop
+Seat 6: ec32b376 (button) folded before Flop
+
+
+Poker Hand #TM6562648149: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level15(500/1,000(125)) - 2026/10/20 14:34:53
+Table '47' 6-max Seat #4 is the button
+Seat 1: 8e5de1de (9,409 in chips)
+Seat 2: 66688f0 (21,431 in chips)
+Seat 3: 8ce4661f (12,332 in chips)
+Seat 4: d205cce5 (14,508 in chips)
+Seat 5: Hero (34,623 in chips)
+Seat 6: 697aa4b7 (37,564 in chips)
+697aa4b7: posts the ante 125
+8ce4661f: posts the ante 125
+66688f0: posts the ante 125
+Hero: posts the ante 125
+d205cce5: posts the ante 125
+8e5de1de: posts the ante 125
+Hero: posts small blind 500
+697aa4b7: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 8e5de1de 
+Dealt to 66688f0 
+Dealt to 8ce4661f 
+Dealt to d205cce5 
+Dealt to Hero [Tc Kh]
+Dealt to 697aa4b7 
+8e5de1de: raises 1,600 to 2,600
+66688f0: folds
+8ce4661f: raises 9,607 to 12,207 and is all-in
+d205cce5: folds
+Hero: folds
+697aa4b7: folds
+8e5de1de: calls 6,684 and is all-in
+Uncalled bet (2,923) returned to 8ce4661f
+8ce4661f: shows [7h As]
+8e5de1de: shows [Jd Qc]
+*** FLOP *** [5c 8h 3c]
+*** TURN *** [5c 8h 3c] [Ts]
+*** RIVER *** [5c 8h 3c Ts] [Ac]
+*** SHOWDOWN ***
+8ce4661f collected 20,818 from pot
+*** SUMMARY ***
+Total pot 20,818 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 8h 3c Ts Ac]
+Seat 1: 8e5de1de showed [Jd Qc] and lost with Ace high
+Seat 2: 66688f0 folded before Flop
+Seat 3: 8ce4661f showed [7h As] and won (20,818) with a pair of Aces
+Seat 4: d205cce5 (button) folded before Flop
+Seat 5: Hero (small blind) folded before Flop
+Seat 6: 697aa4b7 (big blind) folded before Flop
+
+
+Poker Hand #TM6562648090: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level15(500/1,000(125)) - 2026/10/20 14:33:45
+Table '47' 6-max Seat #3 is the button
+Seat 1: 8e5de1de (9,534 in chips)
+Seat 2: 66688f0 (21,556 in chips)
+Seat 3: 8ce4661f (12,457 in chips)
+Seat 4: d205cce5 (15,133 in chips)
+Seat 5: Hero (28,105 in chips)
+Seat 6: 697aa4b7 (43,082 in chips)
+697aa4b7: posts the ante 125
+8ce4661f: posts the ante 125
+66688f0: posts the ante 125
+Hero: posts the ante 125
+d205cce5: posts the ante 125
+8e5de1de: posts the ante 125
+d205cce5: posts small blind 500
+Hero: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 8e5de1de 
+Dealt to 66688f0 
+Dealt to 8ce4661f 
+Dealt to d205cce5 
+Dealt to Hero [Jc 9c]
+Dealt to 697aa4b7 
+697aa4b7: raises 2,000 to 3,000
+8e5de1de: folds
+66688f0: folds
+8ce4661f: folds
+d205cce5: folds
+Hero: calls 2,000
+*** FLOP *** [5h 9h 3s]
+Hero: checks
+697aa4b7: bets 2,393
+Hero: raises 4,393 to 6,786
+697aa4b7: folds
+Uncalled bet (4,393) returned to Hero
+*** SHOWDOWN ***
+Hero collected 12,036 from pot
+*** SUMMARY ***
+Total pot 12,036 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 9h 3s]
+Seat 1: 8e5de1de folded before Flop
+Seat 2: 66688f0 folded before Flop
+Seat 3: 8ce4661f (button) folded before Flop
+Seat 4: d205cce5 (small blind) folded before Flop
+Seat 5: Hero (big blind) won (12,036)
+Seat 6: 697aa4b7 folded on the Flop
+
+
+Poker Hand #TM6562648065: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level14(400/800(100)) - 2026/10/20 14:33:17
+Table '47' 6-max Seat #2 is the button
+Seat 1: 8e5de1de (9,634 in chips)
+Seat 2: 66688f0 (21,656 in chips)
+Seat 3: 8ce4661f (11,157 in chips)
+Seat 4: d205cce5 (16,033 in chips)
+Seat 5: Hero (28,205 in chips)
+Seat 6: 697aa4b7 (43,182 in chips)
+697aa4b7: posts the ante 100
+66688f0: posts the ante 100
+8ce4661f: posts the ante 100
+Hero: posts the ante 100
+d205cce5: posts the ante 100
+8e5de1de: posts the ante 100
+8ce4661f: posts small blind 400
+d205cce5: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 8e5de1de 
+Dealt to 66688f0 
+Dealt to 8ce4661f 
+Dealt to d205cce5 
+Dealt to Hero [5s Qc]
+Dealt to 697aa4b7 
+Hero: folds
+697aa4b7: folds
+8e5de1de: folds
+66688f0: folds
+8ce4661f: raises 1,200 to 2,000
+d205cce5: folds
+Uncalled bet (1,200) returned to 8ce4661f
+*** SHOWDOWN ***
+8ce4661f collected 2,200 from pot
+*** SUMMARY ***
+Total pot 2,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8e5de1de folded before Flop
+Seat 2: 66688f0 (button) folded before Flop
+Seat 3: 8ce4661f (small blind) collected (2,200)
+Seat 4: d205cce5 (big blind) folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: 697aa4b7 folded before Flop
+
+
+Poker Hand #TM6563879908: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level14(400/800(100)) - 2026/10/20 14:32:32
+Table '62' 6-max Seat #2 is the button
+Seat 2: Hero (23,243 in chips)
+Seat 3: 50b9b388 (45,271 in chips)
+Seat 4: 568cf207 (4,262 in chips)
+Seat 5: aaea84f0 (28,952 in chips)
+Seat 6: a9c1d87 (7,246 in chips)
+aaea84f0: posts the ante 100
+a9c1d87: posts the ante 100
+568cf207: posts the ante 100
+Hero: posts the ante 100
+50b9b388: posts the ante 100
+50b9b388: posts small blind 400
+568cf207: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Hero [Th 5h]
+Dealt to 50b9b388 
+Dealt to 568cf207 
+Dealt to aaea84f0 
+Dealt to a9c1d87 
+aaea84f0: folds
+a9c1d87: folds
+Hero: raises 800 to 1,600
+50b9b388: folds
+568cf207: calls 800
+*** FLOP *** [9h Ah Ts]
+568cf207: bets 2,562 and is all-in
+Hero: calls 2,562
+568cf207: shows [Qs Js] (Ace high)
+Hero: shows [Th 5h] (a pair of Tens)
+*** TURN *** [9h Ah Ts] [8h]
+*** RIVER *** [9h Ah Ts 8h] [9d]
+*** SHOWDOWN ***
+Hero collected 9,224 from pot
+*** SUMMARY ***
+Total pot 9,224 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h Ah Ts 8h 9d]
+Seat 2: Hero (button) showed [Th 5h] and won (9,224) with a flush Ace high
+Seat 3: 50b9b388 (small blind) folded before Flop
+Seat 4: 568cf207 (big blind) showed [Qs Js] and lost with a straight, Queen to Eight
+Seat 5: aaea84f0 folded before Flop
+Seat 6: a9c1d87 folded before Flop
+
+
+Poker Hand #TM6563879846: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level14(400/800(100)) - 2026/10/20 14:31:25
+Table '62' 6-max Seat #1 is the button
+Seat 1: edb4410c (13,052 in chips)
+Seat 2: Hero (23,743 in chips)
+Seat 3: 50b9b388 (46,171 in chips)
+Seat 4: 568cf207 (4,362 in chips)
+Seat 5: aaea84f0 (14,300 in chips)
+Seat 6: a9c1d87 (7,346 in chips)
+aaea84f0: posts the ante 100
+a9c1d87: posts the ante 100
+568cf207: posts the ante 100
+Hero: posts the ante 100
+edb4410c: posts the ante 100
+50b9b388: posts the ante 100
+Hero: posts small blind 400
+50b9b388: posts big blind 800
+*** HOLE CARDS ***
+Dealt to edb4410c 
+Dealt to Hero [Ks 2c]
+Dealt to 50b9b388 
+Dealt to 568cf207 
+Dealt to aaea84f0 
+Dealt to a9c1d87 
+568cf207: folds
+aaea84f0: raises 800 to 1,600
+a9c1d87: folds
+edb4410c: raises 2,500 to 4,100
+Hero: folds
+50b9b388: folds
+aaea84f0: raises 10,100 to 14,200 and is all-in
+edb4410c: calls 8,852 and is all-in
+Uncalled bet (1,248) returned to aaea84f0
+aaea84f0: shows [3h 3c]
+edb4410c: shows [As Th]
+*** FLOP *** [Jh 3d 2h]
+*** TURN *** [Jh 3d 2h] [6h]
+*** RIVER *** [Jh 3d 2h 6h] [Js]
+*** SHOWDOWN ***
+aaea84f0 collected 27,704 from pot
+*** SUMMARY ***
+Total pot 27,704 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 3d 2h 6h Js]
+Seat 1: edb4410c (button) showed [As Th] and lost with a pair of Jacks
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 50b9b388 (big blind) folded before Flop
+Seat 4: 568cf207 folded before Flop
+Seat 5: aaea84f0 showed [3h 3c] and won (27,704) with a full house, Threes full of Jacks
+Seat 6: a9c1d87 folded before Flop
+
+
+Poker Hand #TM6563879812: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level14(400/800(100)) - 2026/10/20 14:30:48
+Table '62' 6-max Seat #6 is the button
+Seat 1: edb4410c (18,732 in chips)
+Seat 2: Hero (17,663 in chips)
+Seat 3: 50b9b388 (46,271 in chips)
+Seat 4: 568cf207 (4,462 in chips)
+Seat 5: aaea84f0 (14,400 in chips)
+Seat 6: a9c1d87 (7,446 in chips)
+aaea84f0: posts the ante 100
+a9c1d87: posts the ante 100
+568cf207: posts the ante 100
+Hero: posts the ante 100
+50b9b388: posts the ante 100
+edb4410c: posts the ante 100
+edb4410c: posts small blind 400
+Hero: posts big blind 800
+*** HOLE CARDS ***
+Dealt to edb4410c 
+Dealt to Hero [8c Ac]
+Dealt to 50b9b388 
+Dealt to 568cf207 
+Dealt to aaea84f0 
+Dealt to a9c1d87 
+50b9b388: folds
+568cf207: folds
+aaea84f0: folds
+a9c1d87: folds
+edb4410c: raises 1,840 to 2,640
+Hero: calls 1,840
+*** FLOP *** [Tc 5s 8s]
+edb4410c: bets 2,940
+Hero: calls 2,940
+*** TURN *** [Tc 5s 8s] [8d]
+edb4410c: checks
+Hero: bets 11,983 and is all-in
+edb4410c: folds
+Uncalled bet (11,983) returned to Hero
+*** SHOWDOWN ***
+Hero collected 11,760 from pot
+*** SUMMARY ***
+Total pot 11,760 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 5s 8s 8d]
+Seat 1: edb4410c (small blind) folded on the Turn
+Seat 2: Hero (big blind) won (11,760)
+Seat 3: 50b9b388 folded before Flop
+Seat 4: 568cf207 folded before Flop
+Seat 5: aaea84f0 folded before Flop
+Seat 6: a9c1d87 (button) folded before Flop
+
+
+Poker Hand #TM6563879802: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level14(400/800(100)) - 2026/10/20 14:30:30
+Table '62' 6-max Seat #5 is the button
+Seat 1: edb4410c (17,832 in chips)
+Seat 2: Hero (17,763 in chips)
+Seat 3: 50b9b388 (46,371 in chips)
+Seat 4: 568cf207 (4,562 in chips)
+Seat 5: aaea84f0 (14,500 in chips)
+Seat 6: a9c1d87 (7,946 in chips)
+aaea84f0: posts the ante 100
+a9c1d87: posts the ante 100
+568cf207: posts the ante 100
+Hero: posts the ante 100
+50b9b388: posts the ante 100
+edb4410c: posts the ante 100
+a9c1d87: posts small blind 400
+edb4410c: posts big blind 800
+*** HOLE CARDS ***
+Dealt to edb4410c 
+Dealt to Hero [9h 2c]
+Dealt to 50b9b388 
+Dealt to 568cf207 
+Dealt to aaea84f0 
+Dealt to a9c1d87 
+Hero: folds
+50b9b388: folds
+568cf207: folds
+aaea84f0: folds
+a9c1d87: folds
+Uncalled bet (400) returned to edb4410c
+*** SHOWDOWN ***
+edb4410c collected 1,400 from pot
+*** SUMMARY ***
+Total pot 1,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: edb4410c (big blind) collected (1,400)
+Seat 2: Hero folded before Flop
+Seat 3: 50b9b388 folded before Flop
+Seat 4: 568cf207 folded before Flop
+Seat 5: aaea84f0 (button) folded before Flop
+Seat 6: a9c1d87 (small blind) folded before Flop
+
+
+Poker Hand #TM6563879762: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level13(350/700(85)) - 2026/10/20 14:30:00
+Table '62' 6-max Seat #4 is the button
+Seat 1: edb4410c (16,357 in chips)
+Seat 2: Hero (17,848 in chips)
+Seat 3: 50b9b388 (46,456 in chips)
+Seat 4: 568cf207 (4,647 in chips)
+Seat 5: aaea84f0 (14,935 in chips)
+Seat 6: a9c1d87 (8,731 in chips)
+aaea84f0: posts the ante 85
+a9c1d87: posts the ante 85
+568cf207: posts the ante 85
+Hero: posts the ante 85
+50b9b388: posts the ante 85
+edb4410c: posts the ante 85
+aaea84f0: posts small blind 350
+a9c1d87: posts big blind 700
+*** HOLE CARDS ***
+Dealt to edb4410c 
+Dealt to Hero [8s 6d]
+Dealt to 50b9b388 
+Dealt to 568cf207 
+Dealt to aaea84f0 
+Dealt to a9c1d87 
+edb4410c: raises 840 to 1,540
+Hero: folds
+50b9b388: folds
+568cf207: folds
+aaea84f0: folds
+a9c1d87: folds
+Uncalled bet (840) returned to edb4410c
+*** SHOWDOWN ***
+edb4410c collected 2,260 from pot
+*** SUMMARY ***
+Total pot 2,260 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: edb4410c collected (2,260)
+Seat 2: Hero folded before Flop
+Seat 3: 50b9b388 folded before Flop
+Seat 4: 568cf207 (button) folded before Flop
+Seat 5: aaea84f0 (small blind) folded before Flop
+Seat 6: a9c1d87 (big blind) folded before Flop
+
+
+Poker Hand #TM6563879745: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level13(350/700(85)) - 2026/10/20 14:29:30
+Table '62' 6-max Seat #2 is the button
+Seat 1: edb4410c (16,442 in chips)
+Seat 2: Hero (17,933 in chips)
+Seat 4: 568cf207 (5,082 in chips)
+Seat 5: aaea84f0 (14,245 in chips)
+Seat 6: a9c1d87 (8,816 in chips)
+aaea84f0: posts the ante 85
+a9c1d87: posts the ante 85
+568cf207: posts the ante 85
+Hero: posts the ante 85
+edb4410c: posts the ante 85
+568cf207: posts small blind 350
+aaea84f0: posts big blind 700
+*** HOLE CARDS ***
+Dealt to edb4410c 
+Dealt to Hero [5c Jh]
+Dealt to 568cf207 
+Dealt to aaea84f0 
+Dealt to a9c1d87 
+a9c1d87: folds
+edb4410c: folds
+Hero: folds
+568cf207: folds
+Uncalled bet (350) returned to aaea84f0
+*** SHOWDOWN ***
+aaea84f0 collected 1,125 from pot
+*** SUMMARY ***
+Total pot 1,125 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: edb4410c folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 4: 568cf207 (small blind) folded before Flop
+Seat 5: aaea84f0 (big blind) collected (1,125)
+Seat 6: a9c1d87 folded before Flop
+
+
+Poker Hand #TM6563879708: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level13(350/700(85)) - 2026/10/20 14:28:40
+Table '62' 6-max Seat #6 is the button
+Seat 2: Hero (15,238 in chips)
+Seat 3: 10105dcc (2,440 in chips)
+Seat 4: 568cf207 (5,167 in chips)
+Seat 5: aaea84f0 (14,330 in chips)
+Seat 6: a9c1d87 (8,901 in chips)
+aaea84f0: posts the ante 85
+a9c1d87: posts the ante 85
+10105dcc: posts the ante 85
+568cf207: posts the ante 85
+Hero: posts the ante 85
+Hero: posts small blind 350
+10105dcc: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Hero [Kh Qs]
+Dealt to 10105dcc 
+Dealt to 568cf207 
+Dealt to aaea84f0 
+Dealt to a9c1d87 
+568cf207: folds
+aaea84f0: folds
+a9c1d87: folds
+Hero: raises 700 to 1,400
+10105dcc: raises 700 to 2,100
+Hero: raises 700 to 2,800
+10105dcc: calls 255 and is all-in
+Uncalled bet (445) returned to Hero
+Hero: shows [Kh Qs]
+10105dcc: shows [Js Qh]
+*** FLOP *** [3s 6s 9s]
+*** TURN *** [3s 6s 9s] [8s]
+*** RIVER *** [3s 6s 9s 8s] [Jc]
+*** SHOWDOWN ***
+Hero collected 5,135 from pot
+*** SUMMARY ***
+Total pot 5,135 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s 6s 9s 8s Jc]
+Seat 2: Hero (small blind) showed [Kh Qs] and won (5,135) with a flush Queen high
+Seat 3: 10105dcc (big blind) showed [Js Qh] and lost with a flush Jack high
+Seat 4: 568cf207 folded before Flop
+Seat 5: aaea84f0 folded before Flop
+Seat 6: a9c1d87 (button) folded before Flop
+
+
+Poker Hand #TM6563879692: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level13(350/700(85)) - 2026/10/20 14:28:17
+Table '62' 6-max Seat #5 is the button
+Seat 2: Hero (14,548 in chips)
+Seat 3: 10105dcc (2,525 in chips)
+Seat 4: 568cf207 (5,252 in chips)
+Seat 5: aaea84f0 (14,415 in chips)
+Seat 6: a9c1d87 (9,336 in chips)
+aaea84f0: posts the ante 85
+10105dcc: posts the ante 85
+a9c1d87: posts the ante 85
+568cf207: posts the ante 85
+Hero: posts the ante 85
+a9c1d87: posts small blind 350
+Hero: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Hero [7c 6s]
+Dealt to 10105dcc 
+Dealt to 568cf207 
+Dealt to aaea84f0 
+Dealt to a9c1d87 
+10105dcc: folds
+568cf207: folds
+aaea84f0: folds
+a9c1d87: folds
+Uncalled bet (350) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,125 from pot
+*** SUMMARY ***
+Total pot 1,125 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: Hero (big blind) collected (1,125)
+Seat 3: 10105dcc folded before Flop
+Seat 4: 568cf207 folded before Flop
+Seat 5: aaea84f0 (button) folded before Flop
+Seat 6: a9c1d87 (small blind) folded before Flop
+
+
+Poker Hand #TM6563879667: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level13(350/700(85)) - 2026/10/20 14:27:43
+Table '62' 6-max Seat #4 is the button
+Seat 1: 14c00eb7 (2,385 in chips)
+Seat 2: Hero (10,773 in chips)
+Seat 3: 10105dcc (2,610 in chips)
+Seat 4: 568cf207 (5,337 in chips)
+Seat 5: aaea84f0 (14,850 in chips)
+Seat 6: a9c1d87 (10,121 in chips)
+aaea84f0: posts the ante 85
+10105dcc: posts the ante 85
+a9c1d87: posts the ante 85
+568cf207: posts the ante 85
+Hero: posts the ante 85
+14c00eb7: posts the ante 85
+aaea84f0: posts small blind 350
+a9c1d87: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [4s Ac]
+Dealt to 10105dcc 
+Dealt to 568cf207 
+Dealt to aaea84f0 
+Dealt to a9c1d87 
+14c00eb7: raises 1,600 to 2,300 and is all-in
+Hero: calls 2,300
+10105dcc: folds
+568cf207: folds
+aaea84f0: folds
+a9c1d87: folds
+14c00eb7: shows [Qh 9s]
+Hero: shows [4s Ac]
+*** FLOP *** [8c Qs Jd]
+*** TURN *** [8c Qs Jd] [Ad]
+*** RIVER *** [8c Qs Jd Ad] [4d]
+*** SHOWDOWN ***
+Hero collected 6,160 from pot
+*** SUMMARY ***
+Total pot 6,160 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c Qs Jd Ad 4d]
+Seat 1: 14c00eb7 showed [Qh 9s] and lost with a pair of Queens
+Seat 2: Hero showed [4s Ac] and won (6,160) with two pair, Aces and Fours
+Seat 3: 10105dcc folded before Flop
+Seat 4: 568cf207 (button) folded before Flop
+Seat 5: aaea84f0 (small blind) folded before Flop
+Seat 6: a9c1d87 (big blind) folded before Flop
+
+
+Poker Hand #TM6563879638: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level12(300/600(75)) - 2026/10/20 14:26:58
+Table '62' 6-max Seat #3 is the button
+Seat 1: 14c00eb7 (2,460 in chips)
+Seat 2: Hero (10,848 in chips)
+Seat 3: 10105dcc (9,735 in chips)
+Seat 4: 568cf207 (5,712 in chips)
+Seat 5: aaea84f0 (7,125 in chips)
+Seat 6: a9c1d87 (10,196 in chips)
+aaea84f0: posts the ante 75
+10105dcc: posts the ante 75
+a9c1d87: posts the ante 75
+568cf207: posts the ante 75
+Hero: posts the ante 75
+14c00eb7: posts the ante 75
+568cf207: posts small blind 300
+aaea84f0: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [3c 8c]
+Dealt to 10105dcc 
+Dealt to 568cf207 
+Dealt to aaea84f0 
+Dealt to a9c1d87 
+a9c1d87: folds
+14c00eb7: folds
+Hero: folds
+10105dcc: raises 9,060 to 9,660 and is all-in
+568cf207: folds
+aaea84f0: calls 6,450 and is all-in
+Uncalled bet (2,610) returned to 10105dcc
+10105dcc: shows [Kh 6h]
+aaea84f0: shows [Ks Kc]
+*** FLOP *** [Ts Jc As]
+*** TURN *** [Ts Jc As] [5d]
+*** RIVER *** [Ts Jc As 5d] [9h]
+*** SHOWDOWN ***
+aaea84f0 collected 14,850 from pot
+*** SUMMARY ***
+Total pot 14,850 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts Jc As 5d 9h]
+Seat 1: 14c00eb7 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 10105dcc (button) showed [Kh 6h] and lost with Ace high
+Seat 4: 568cf207 (small blind) folded before Flop
+Seat 5: aaea84f0 (big blind) showed [Ks Kc] and won (14,850) with a pair of Kings
+Seat 6: a9c1d87 folded before Flop
+
+
+Poker Hand #TM6563879622: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level12(300/600(75)) - 2026/10/20 14:26:38
+Table '62' 6-max Seat #2 is the button
+Seat 1: 14c00eb7 (2,535 in chips)
+Seat 2: Hero (10,923 in chips)
+Seat 3: 10105dcc (10,110 in chips)
+Seat 4: 568cf207 (6,387 in chips)
+Seat 5: aaea84f0 (7,200 in chips)
+Seat 6: a9c1d87 (8,921 in chips)
+aaea84f0: posts the ante 75
+a9c1d87: posts the ante 75
+10105dcc: posts the ante 75
+568cf207: posts the ante 75
+Hero: posts the ante 75
+14c00eb7: posts the ante 75
+10105dcc: posts small blind 300
+568cf207: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [7d 8h]
+Dealt to 10105dcc 
+Dealt to 568cf207 
+Dealt to aaea84f0 
+Dealt to a9c1d87 
+aaea84f0: folds
+a9c1d87: raises 600 to 1,200
+14c00eb7: folds
+Hero: folds
+10105dcc: folds
+568cf207: folds
+Uncalled bet (600) returned to a9c1d87
+*** SHOWDOWN ***
+a9c1d87 collected 1,950 from pot
+*** SUMMARY ***
+Total pot 1,950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 14c00eb7 folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 10105dcc (small blind) folded before Flop
+Seat 4: 568cf207 (big blind) folded before Flop
+Seat 5: aaea84f0 folded before Flop
+Seat 6: a9c1d87 collected (1,950)
+
+
+Poker Hand #TM6563879589: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level12(300/600(75)) - 2026/10/20 14:25:46
+Table '62' 6-max Seat #1 is the button
+Seat 1: 14c00eb7 (2,610 in chips)
+Seat 2: Hero (12,798 in chips)
+Seat 3: 10105dcc (7,335 in chips)
+Seat 4: 568cf207 (7,062 in chips)
+Seat 5: aaea84f0 (7,275 in chips)
+Seat 6: a9c1d87 (8,996 in chips)
+aaea84f0: posts the ante 75
+a9c1d87: posts the ante 75
+10105dcc: posts the ante 75
+568cf207: posts the ante 75
+Hero: posts the ante 75
+14c00eb7: posts the ante 75
+Hero: posts small blind 300
+10105dcc: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [Ah 3c]
+Dealt to 10105dcc 
+Dealt to 568cf207 
+Dealt to aaea84f0 
+Dealt to a9c1d87 
+568cf207: calls 600
+aaea84f0: folds
+a9c1d87: folds
+14c00eb7: folds
+Hero: calls 300
+10105dcc: checks
+*** FLOP *** [Jh Ts Qh]
+Hero: checks
+10105dcc: checks
+568cf207: checks
+*** TURN *** [Jh Ts Qh] [5h]
+Hero: checks
+10105dcc: bets 1,200
+568cf207: folds
+Hero: calls 1,200
+*** RIVER *** [Jh Ts Qh 5h] [Qc]
+Hero: checks
+10105dcc: bets 2,700
+Hero: folds
+Uncalled bet (2,700) returned to 10105dcc
+*** SHOWDOWN ***
+10105dcc collected 4,650 from pot
+*** SUMMARY ***
+Total pot 4,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh Ts Qh 5h Qc]
+Seat 1: 14c00eb7 (button) folded before Flop
+Seat 2: Hero (small blind) folded on the River
+Seat 3: 10105dcc (big blind) won (4,650)
+Seat 4: 568cf207 folded on the Turn
+Seat 5: aaea84f0 folded before Flop
+Seat 6: a9c1d87 folded before Flop
+
+
+Poker Hand #TM6563879570: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level12(300/600(75)) - 2026/10/20 14:25:19
+Table '62' 6-max Seat #6 is the button
+Seat 1: 14c00eb7 (2,985 in chips)
+Seat 2: Hero (13,473 in chips)
+Seat 3: 10105dcc (7,410 in chips)
+Seat 4: 568cf207 (7,137 in chips)
+Seat 5: aaea84f0 (6,000 in chips)
+Seat 6: a9c1d87 (9,071 in chips)
+aaea84f0: posts the ante 75
+a9c1d87: posts the ante 75
+10105dcc: posts the ante 75
+568cf207: posts the ante 75
+Hero: posts the ante 75
+14c00eb7: posts the ante 75
+14c00eb7: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [8h 3d]
+Dealt to 10105dcc 
+Dealt to 568cf207 
+Dealt to aaea84f0 
+Dealt to a9c1d87 
+10105dcc: folds
+568cf207: folds
+aaea84f0: raises 600 to 1,200
+a9c1d87: folds
+14c00eb7: folds
+Hero: folds
+Uncalled bet (600) returned to aaea84f0
+*** SHOWDOWN ***
+aaea84f0 collected 1,950 from pot
+*** SUMMARY ***
+Total pot 1,950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 14c00eb7 (small blind) folded before Flop
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: 10105dcc folded before Flop
+Seat 4: 568cf207 folded before Flop
+Seat 5: aaea84f0 collected (1,950)
+Seat 6: a9c1d87 (button) folded before Flop
+
+
+Poker Hand #TM6563879547: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level12(300/600(75)) - 2026/10/20 14:24:45
+Table '62' 6-max Seat #4 is the button
+Seat 1: 14c00eb7 (4,260 in chips)
+Seat 2: Hero (11,673 in chips)
+Seat 3: 10105dcc (7,485 in chips)
+Seat 4: 568cf207 (7,212 in chips)
+Seat 6: a9c1d87 (9,446 in chips)
+10105dcc: posts the ante 75
+a9c1d87: posts the ante 75
+568cf207: posts the ante 75
+Hero: posts the ante 75
+14c00eb7: posts the ante 75
+a9c1d87: posts small blind 300
+14c00eb7: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [7c As]
+Dealt to 10105dcc 
+Dealt to 568cf207 
+Dealt to a9c1d87 
+Hero: raises 600 to 1,200
+10105dcc: folds
+568cf207: folds
+a9c1d87: folds
+14c00eb7: calls 600
+*** FLOP *** [Js 5d Ah]
+14c00eb7: checks
+Hero: bets 1,800
+14c00eb7: folds
+Uncalled bet (1,800) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,075 from pot
+*** SUMMARY ***
+Total pot 3,075 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js 5d Ah]
+Seat 1: 14c00eb7 (big blind) folded on the Flop
+Seat 2: Hero won (3,075)
+Seat 3: 10105dcc folded before Flop
+Seat 4: 568cf207 (button) folded before Flop
+Seat 6: a9c1d87 (small blind) folded before Flop
+
+
+Poker Hand #TM6563879510: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level11(250/500(60)) - 2026/10/20 14:23:56
+Table '62' 6-max Seat #3 is the button
+Seat 1: 14c00eb7 (4,320 in chips)
+Seat 2: Hero (11,733 in chips)
+Seat 3: 10105dcc (7,545 in chips)
+Seat 4: 568cf207 (5,380 in chips)
+Seat 5: 76130f20 (1,592 in chips)
+Seat 6: a9c1d87 (9,506 in chips)
+76130f20: posts the ante 60
+10105dcc: posts the ante 60
+a9c1d87: posts the ante 60
+568cf207: posts the ante 60
+Hero: posts the ante 60
+14c00eb7: posts the ante 60
+568cf207: posts small blind 250
+76130f20: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [6h Td]
+Dealt to 10105dcc 
+Dealt to 568cf207 
+Dealt to 76130f20 
+Dealt to a9c1d87 
+a9c1d87: folds
+14c00eb7: folds
+Hero: folds
+10105dcc: folds
+568cf207: calls 250
+76130f20: checks
+*** FLOP *** [3s Kc Jh]
+568cf207: checks
+76130f20: checks
+*** TURN *** [3s Kc Jh] [4d]
+568cf207: bets 500
+76130f20: raises 532 to 1,032 and is all-in
+568cf207: calls 532
+76130f20: shows [7c 4h] (a pair of Fours)
+568cf207: shows [5c 5s] (a pair of Fives)
+*** RIVER *** [3s Kc Jh 4d] [8c]
+*** SHOWDOWN ***
+568cf207 collected 3,424 from pot
+*** SUMMARY ***
+Total pot 3,424 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s Kc Jh 4d 8c]
+Seat 1: 14c00eb7 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 10105dcc (button) folded before Flop
+Seat 4: 568cf207 (small blind) showed [5c 5s] and won (3,424) with a pair of Fives
+Seat 5: 76130f20 (big blind) showed [7c 4h] and lost with a pair of Fours
+Seat 6: a9c1d87 folded before Flop
+
+
+Poker Hand #TM6563879488: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level11(250/500(60)) - 2026/10/20 14:23:22
+Table '62' 6-max Seat #2 is the button
+Seat 1: 14c00eb7 (4,380 in chips)
+Seat 2: Hero (13,168 in chips)
+Seat 3: 10105dcc (5,370 in chips)
+Seat 4: 568cf207 (5,940 in chips)
+Seat 5: 76130f20 (1,652 in chips)
+Seat 6: a9c1d87 (9,566 in chips)
+76130f20: posts the ante 60
+a9c1d87: posts the ante 60
+10105dcc: posts the ante 60
+568cf207: posts the ante 60
+Hero: posts the ante 60
+14c00eb7: posts the ante 60
+10105dcc: posts small blind 250
+568cf207: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [3s 7c]
+Dealt to 10105dcc 
+Dealt to 568cf207 
+Dealt to 76130f20 
+Dealt to a9c1d87 
+76130f20: folds
+a9c1d87: folds
+14c00eb7: folds
+Hero: raises 875 to 1,375
+10105dcc: raises 3,935 to 5,310 and is all-in
+568cf207: folds
+Hero: folds
+Uncalled bet (3,935) returned to 10105dcc
+*** SHOWDOWN ***
+10105dcc collected 3,610 from pot
+*** SUMMARY ***
+Total pot 3,610 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 14c00eb7 folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 10105dcc (small blind) collected (3,610)
+Seat 4: 568cf207 (big blind) folded before Flop
+Seat 5: 76130f20 folded before Flop
+Seat 6: a9c1d87 folded before Flop
+
+
+Poker Hand #TM6563879457: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level11(250/500(60)) - 2026/10/20 14:22:33
+Table '62' 6-max Seat #1 is the button
+Seat 1: 14c00eb7 (4,440 in chips)
+Seat 2: Hero (13,478 in chips)
+Seat 3: 10105dcc (5,930 in chips)
+Seat 4: 568cf207 (6,000 in chips)
+Seat 5: 76130f20 (5,940 in chips)
+Seat 6: a9c1d87 (4,288 in chips)
+76130f20: posts the ante 60
+a9c1d87: posts the ante 60
+10105dcc: posts the ante 60
+568cf207: posts the ante 60
+Hero: posts the ante 60
+14c00eb7: posts the ante 60
+Hero: posts small blind 250
+10105dcc: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [6c 3d]
+Dealt to 10105dcc 
+Dealt to 568cf207 
+Dealt to 76130f20 
+Dealt to a9c1d87 
+568cf207: folds
+76130f20: raises 500 to 1,000
+a9c1d87: raises 3,228 to 4,228 and is all-in
+14c00eb7: folds
+Hero: folds
+10105dcc: folds
+76130f20: calls 3,228
+a9c1d87: shows [Kh Ac]
+76130f20: shows [Tc Qd]
+*** FLOP *** [3h 5h 2s]
+*** TURN *** [3h 5h 2s] [6h]
+*** RIVER *** [3h 5h 2s 6h] [9s]
+*** SHOWDOWN ***
+a9c1d87 collected 9,566 from pot
+*** SUMMARY ***
+Total pot 9,566 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 5h 2s 6h 9s]
+Seat 1: 14c00eb7 (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 10105dcc (big blind) folded before Flop
+Seat 4: 568cf207 folded before Flop
+Seat 5: 76130f20 showed [Tc Qd] and lost with Queen high
+Seat 6: a9c1d87 showed [Kh Ac] and won (9,566) with Ace high
+
+
+Poker Hand #TM6563879450: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level11(250/500(60)) - 2026/10/20 14:22:21
+Table '62' 6-max Seat #6 is the button
+Seat 1: 14c00eb7 (4,750 in chips)
+Seat 2: Hero (12,988 in chips)
+Seat 3: 10105dcc (5,990 in chips)
+Seat 5: 76130f20 (6,000 in chips)
+Seat 6: a9c1d87 (4,348 in chips)
+76130f20: posts the ante 60
+a9c1d87: posts the ante 60
+10105dcc: posts the ante 60
+Hero: posts the ante 60
+14c00eb7: posts the ante 60
+14c00eb7: posts small blind 250
+Hero: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [Kd 5d]
+Dealt to 10105dcc 
+Dealt to 76130f20 
+Dealt to a9c1d87 
+10105dcc: folds
+76130f20: folds
+a9c1d87: folds
+14c00eb7: folds
+Uncalled bet (250) returned to Hero
+*** SHOWDOWN ***
+Hero collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 14c00eb7 (small blind) folded before Flop
+Seat 2: Hero (big blind) collected (800)
+Seat 3: 10105dcc folded before Flop
+Seat 5: 76130f20 folded before Flop
+Seat 6: a9c1d87 (button) folded before Flop
+
+
+Poker Hand #TM6563879432: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level11(250/500(60)) - 2026/10/20 14:21:57
+Table '62' 6-max Seat #4 is the button
+Seat 1: 14c00eb7 (4,260 in chips)
+Seat 2: Hero (13,048 in chips)
+Seat 3: 10105dcc (6,050 in chips)
+Seat 4: 84589989 (33,328 in chips)
+Seat 6: a9c1d87 (4,658 in chips)
+10105dcc: posts the ante 60
+a9c1d87: posts the ante 60
+Hero: posts the ante 60
+84589989: posts the ante 60
+14c00eb7: posts the ante 60
+a9c1d87: posts small blind 250
+14c00eb7: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [7d 2c]
+Dealt to 10105dcc 
+Dealt to 84589989 
+Dealt to a9c1d87 
+Hero: folds
+10105dcc: folds
+84589989: folds
+a9c1d87: folds
+Uncalled bet (250) returned to 14c00eb7
+*** SHOWDOWN ***
+14c00eb7 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 14c00eb7 (big blind) collected (800)
+Seat 2: Hero folded before Flop
+Seat 3: 10105dcc folded before Flop
+Seat 4: 84589989 (button) folded before Flop
+Seat 6: a9c1d87 (small blind) folded before Flop
+
+
+Poker Hand #TM6563879409: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level11(250/500(60)) - 2026/10/20 14:21:24
+Table '62' 6-max Seat #3 is the button
+Seat 1: 14c00eb7 (4,320 in chips)
+Seat 2: Hero (14,108 in chips)
+Seat 3: 10105dcc (6,110 in chips)
+Seat 4: 84589989 (31,588 in chips)
+Seat 6: a9c1d87 (5,218 in chips)
+10105dcc: posts the ante 60
+a9c1d87: posts the ante 60
+Hero: posts the ante 60
+84589989: posts the ante 60
+14c00eb7: posts the ante 60
+84589989: posts small blind 250
+a9c1d87: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [4s 4c]
+Dealt to 10105dcc 
+Dealt to 84589989 
+Dealt to a9c1d87 
+14c00eb7: folds
+Hero: raises 500 to 1,000
+10105dcc: folds
+84589989: calls 750
+a9c1d87: folds
+*** FLOP *** [Qs 7s Jc]
+84589989: bets 2,100
+Hero: folds
+Uncalled bet (2,100) returned to 84589989
+*** SHOWDOWN ***
+84589989 collected 2,800 from pot
+*** SUMMARY ***
+Total pot 2,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 7s Jc]
+Seat 1: 14c00eb7 folded before Flop
+Seat 2: Hero folded on the Flop
+Seat 3: 10105dcc (button) folded before Flop
+Seat 4: 84589989 (small blind) won (2,800)
+Seat 6: a9c1d87 (big blind) folded before Flop
+
+
+Poker Hand #TM6563879382: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level10(200/400(55)) - 2026/10/20 14:20:54
+Table '62' 6-max Seat #2 is the button
+Seat 1: 14c00eb7 (4,375 in chips)
+Seat 2: Hero (14,163 in chips)
+Seat 3: 10105dcc (5,435 in chips)
+Seat 4: 84589989 (32,043 in chips)
+Seat 5: 229b3e5 (10,977 in chips)
+Seat 6: a9c1d87 (5,273 in chips)
+a9c1d87: posts the ante 55
+10105dcc: posts the ante 55
+229b3e5: posts the ante 55
+Hero: posts the ante 55
+84589989: posts the ante 55
+14c00eb7: posts the ante 55
+10105dcc: posts small blind 200
+84589989: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [Th 8s]
+Dealt to 10105dcc 
+Dealt to 84589989 
+Dealt to 229b3e5 
+Dealt to a9c1d87 
+229b3e5: folds
+a9c1d87: folds
+14c00eb7: folds
+Hero: folds
+10105dcc: raises 4,980 to 5,380 and is all-in
+84589989: folds
+Uncalled bet (4,980) returned to 10105dcc
+*** SHOWDOWN ***
+10105dcc collected 1,130 from pot
+*** SUMMARY ***
+Total pot 1,130 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 14c00eb7 folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 10105dcc (small blind) collected (1,130)
+Seat 4: 84589989 (big blind) folded before Flop
+Seat 5: 229b3e5 folded before Flop
+Seat 6: a9c1d87 folded before Flop
+
+
+Poker Hand #TM6563879342: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level10(200/400(55)) - 2026/10/20 14:19:57
+Table '62' 6-max Seat #1 is the button
+Seat 1: 14c00eb7 (4,430 in chips)
+Seat 2: Hero (12,608 in chips)
+Seat 3: 10105dcc (5,890 in chips)
+Seat 4: 84589989 (32,978 in chips)
+Seat 5: 229b3e5 (11,032 in chips)
+Seat 6: a9c1d87 (5,328 in chips)
+a9c1d87: posts the ante 55
+10105dcc: posts the ante 55
+229b3e5: posts the ante 55
+Hero: posts the ante 55
+84589989: posts the ante 55
+14c00eb7: posts the ante 55
+Hero: posts small blind 200
+10105dcc: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [7c As]
+Dealt to 10105dcc 
+Dealt to 84589989 
+Dealt to 229b3e5 
+Dealt to a9c1d87 
+84589989: raises 480 to 880
+229b3e5: folds
+a9c1d87: folds
+14c00eb7: folds
+Hero: calls 680
+10105dcc: folds
+*** FLOP *** [6h 6d 3d]
+Hero: checks
+84589989: checks
+*** TURN *** [6h 6d 3d] [7h]
+Hero: bets 1,245
+84589989: folds
+Uncalled bet (1,245) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,490 from pot
+*** SUMMARY ***
+Total pot 2,490 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 6d 3d 7h]
+Seat 1: 14c00eb7 (button) folded before Flop
+Seat 2: Hero (small blind) won (2,490)
+Seat 3: 10105dcc (big blind) folded before Flop
+Seat 4: 84589989 folded on the Turn
+Seat 5: 229b3e5 folded before Flop
+Seat 6: a9c1d87 folded before Flop
+
+
+Poker Hand #TM6563879336: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level10(200/400(55)) - 2026/10/20 14:19:45
+Table '62' 6-max Seat #6 is the button
+Seat 1: 14c00eb7 (4,685 in chips)
+Seat 2: Hero (12,133 in chips)
+Seat 3: 10105dcc (5,945 in chips)
+Seat 4: 84589989 (33,033 in chips)
+Seat 5: 229b3e5 (11,087 in chips)
+Seat 6: a9c1d87 (5,383 in chips)
+a9c1d87: posts the ante 55
+10105dcc: posts the ante 55
+229b3e5: posts the ante 55
+Hero: posts the ante 55
+84589989: posts the ante 55
+14c00eb7: posts the ante 55
+14c00eb7: posts small blind 200
+Hero: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [3h Ks]
+Dealt to 10105dcc 
+Dealt to 84589989 
+Dealt to 229b3e5 
+Dealt to a9c1d87 
+10105dcc: folds
+84589989: folds
+229b3e5: folds
+a9c1d87: folds
+14c00eb7: folds
+Uncalled bet (200) returned to Hero
+*** SHOWDOWN ***
+Hero collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 14c00eb7 (small blind) folded before Flop
+Seat 2: Hero (big blind) collected (730)
+Seat 3: 10105dcc folded before Flop
+Seat 4: 84589989 folded before Flop
+Seat 5: 229b3e5 folded before Flop
+Seat 6: a9c1d87 (button) folded before Flop
+
+
+Poker Hand #TM6563879320: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level10(200/400(55)) - 2026/10/20 14:19:28
+Table '62' 6-max Seat #5 is the button
+Seat 1: 14c00eb7 (5,140 in chips)
+Seat 2: Hero (11,258 in chips)
+Seat 3: 10105dcc (6,000 in chips)
+Seat 4: 84589989 (33,088 in chips)
+Seat 5: 229b3e5 (11,142 in chips)
+Seat 6: a9c1d87 (5,638 in chips)
+10105dcc: posts the ante 55
+a9c1d87: posts the ante 55
+229b3e5: posts the ante 55
+Hero: posts the ante 55
+84589989: posts the ante 55
+14c00eb7: posts the ante 55
+a9c1d87: posts small blind 200
+14c00eb7: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [Jh 9h]
+Dealt to 10105dcc 
+Dealt to 84589989 
+Dealt to 229b3e5 
+Dealt to a9c1d87 
+Hero: raises 400 to 800
+10105dcc: folds
+84589989: folds
+229b3e5: folds
+a9c1d87: folds
+14c00eb7: folds
+Uncalled bet (400) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,330 from pot
+*** SUMMARY ***
+Total pot 1,330 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 14c00eb7 (big blind) folded before Flop
+Seat 2: Hero collected (1,330)
+Seat 3: 10105dcc folded before Flop
+Seat 4: 84589989 folded before Flop
+Seat 5: 229b3e5 (button) folded before Flop
+Seat 6: a9c1d87 (small blind) folded before Flop
+
+
+Poker Hand #TM6563879309: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level10(200/400(55)) - 2026/10/20 14:19:08
+Table '62' 6-max Seat #4 is the button
+Seat 1: 14c00eb7 (5,195 in chips)
+Seat 2: Hero (11,313 in chips)
+Seat 4: 84589989 (33,143 in chips)
+Seat 5: 229b3e5 (11,397 in chips)
+Seat 6: a9c1d87 (5,218 in chips)
+a9c1d87: posts the ante 55
+229b3e5: posts the ante 55
+Hero: posts the ante 55
+84589989: posts the ante 55
+14c00eb7: posts the ante 55
+229b3e5: posts small blind 200
+a9c1d87: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [5s 3c]
+Dealt to 84589989 
+Dealt to 229b3e5 
+Dealt to a9c1d87 
+14c00eb7: folds
+Hero: folds
+84589989: folds
+229b3e5: folds
+Uncalled bet (200) returned to a9c1d87
+*** SHOWDOWN ***
+a9c1d87 collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 14c00eb7 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 4: 84589989 (button) folded before Flop
+Seat 5: 229b3e5 (small blind) folded before Flop
+Seat 6: a9c1d87 (big blind) collected (675)
+
+
+Poker Hand #TM6563879293: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level10(200/400(55)) - 2026/10/20 14:18:47
+Table '62' 6-max Seat #3 is the button
+Seat 1: 14c00eb7 (5,250 in chips)
+Seat 2: Hero (11,368 in chips)
+Seat 3: f79de5fc (19,963 in chips)
+Seat 4: 84589989 (33,398 in chips)
+Seat 5: 229b3e5 (10,922 in chips)
+Seat 6: a9c1d87 (5,273 in chips)
+f79de5fc: posts the ante 55
+a9c1d87: posts the ante 55
+229b3e5: posts the ante 55
+Hero: posts the ante 55
+84589989: posts the ante 55
+14c00eb7: posts the ante 55
+84589989: posts small blind 200
+229b3e5: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [9s 5d]
+Dealt to f79de5fc 
+Dealt to 84589989 
+Dealt to 229b3e5 
+Dealt to a9c1d87 
+a9c1d87: folds
+14c00eb7: folds
+Hero: folds
+f79de5fc: folds
+84589989: folds
+Uncalled bet (200) returned to 229b3e5
+*** SHOWDOWN ***
+229b3e5 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 14c00eb7 folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: f79de5fc (button) folded before Flop
+Seat 4: 84589989 (small blind) folded before Flop
+Seat 5: 229b3e5 (big blind) collected (730)
+Seat 6: a9c1d87 folded before Flop
+
+
+Poker Hand #TM6563879263: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level9(175/350(45)) - 2026/10/20 14:18:10
+Table '62' 6-max Seat #2 is the button
+Seat 1: 14c00eb7 (5,295 in chips)
+Seat 2: Hero (8,612 in chips)
+Seat 3: f79de5fc (20,183 in chips)
+Seat 4: 84589989 (33,793 in chips)
+Seat 5: 229b3e5 (12,973 in chips)
+Seat 6: a9c1d87 (5,318 in chips)
+a9c1d87: posts the ante 45
+f79de5fc: posts the ante 45
+229b3e5: posts the ante 45
+Hero: posts the ante 45
+84589989: posts the ante 45
+14c00eb7: posts the ante 45
+f79de5fc: posts small blind 175
+84589989: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [Kc Qd]
+Dealt to f79de5fc 
+Dealt to 84589989 
+Dealt to 229b3e5 
+Dealt to a9c1d87 
+229b3e5: calls 350
+a9c1d87: folds
+14c00eb7: folds
+Hero: raises 700 to 1,050
+f79de5fc: folds
+84589989: folds
+229b3e5: calls 700
+*** FLOP *** [Qs 8h Kd]
+229b3e5: checks
+Hero: bets 956
+229b3e5: calls 956
+*** TURN *** [Qs 8h Kd] [7h]
+229b3e5: checks
+Hero: bets 2,404
+229b3e5: folds
+Uncalled bet (2,404) returned to Hero
+*** SHOWDOWN ***
+Hero collected 4,807 from pot
+*** SUMMARY ***
+Total pot 4,807 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 8h Kd 7h]
+Seat 1: 14c00eb7 folded before Flop
+Seat 2: Hero (button) won (4,807)
+Seat 3: f79de5fc (small blind) folded before Flop
+Seat 4: 84589989 (big blind) folded before Flop
+Seat 5: 229b3e5 folded on the Turn
+Seat 6: a9c1d87 folded before Flop
+
+
+Poker Hand #TM6563879249: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level9(175/350(45)) - 2026/10/20 14:17:50
+Table '62' 6-max Seat #1 is the button
+Seat 1: 14c00eb7 (5,340 in chips)
+Seat 2: Hero (8,082 in chips)
+Seat 3: f79de5fc (20,578 in chips)
+Seat 4: 84589989 (33,838 in chips)
+Seat 5: 229b3e5 (13,018 in chips)
+f79de5fc: posts the ante 45
+229b3e5: posts the ante 45
+Hero: posts the ante 45
+84589989: posts the ante 45
+14c00eb7: posts the ante 45
+Hero: posts small blind 175
+f79de5fc: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [5h 8c]
+Dealt to f79de5fc 
+Dealt to 84589989 
+Dealt to 229b3e5 
+84589989: folds
+229b3e5: folds
+14c00eb7: folds
+Hero: calls 175
+f79de5fc: checks
+*** FLOP *** [5d Jc 4c]
+Hero: bets 350
+f79de5fc: folds
+Uncalled bet (350) returned to Hero
+*** SHOWDOWN ***
+Hero collected 925 from pot
+*** SUMMARY ***
+Total pot 925 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5d Jc 4c]
+Seat 1: 14c00eb7 (button) folded before Flop
+Seat 2: Hero (small blind) won (925)
+Seat 3: f79de5fc (big blind) folded on the Flop
+Seat 4: 84589989 folded before Flop
+Seat 5: 229b3e5 folded before Flop
+
+
+Poker Hand #TM6563879210: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level9(175/350(45)) - 2026/10/20 14:16:38
+Table '62' 6-max Seat #6 is the button
+Seat 1: 14c00eb7 (5,560 in chips)
+Seat 2: Hero (8,827 in chips)
+Seat 3: f79de5fc (20,623 in chips)
+Seat 4: 84589989 (26,718 in chips)
+Seat 5: 229b3e5 (13,063 in chips)
+Seat 6: 30580a3e (6,065 in chips)
+30580a3e: posts the ante 45
+f79de5fc: posts the ante 45
+229b3e5: posts the ante 45
+Hero: posts the ante 45
+84589989: posts the ante 45
+14c00eb7: posts the ante 45
+14c00eb7: posts small blind 175
+Hero: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [7s Jh]
+Dealt to f79de5fc 
+Dealt to 84589989 
+Dealt to 229b3e5 
+Dealt to 30580a3e 
+f79de5fc: folds
+84589989: raises 350 to 700
+229b3e5: folds
+30580a3e: calls 700
+14c00eb7: folds
+Hero: calls 350
+*** FLOP *** [7h Kd 8d]
+Hero: checks
+84589989: bets 1,273
+30580a3e: raises 4,047 to 5,320 and is all-in
+Hero: folds
+84589989: calls 4,047
+30580a3e: shows [Js 8c] (a pair of Eights)
+84589989: shows [3h Kh] (a pair of Kings)
+*** TURN *** [7h Kd 8d] [4c]
+*** RIVER *** [7h Kd 8d 4c] [Ac]
+*** SHOWDOWN ***
+84589989 collected 13,185 from pot
+*** SUMMARY ***
+Total pot 13,185 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h Kd 8d 4c Ac]
+Seat 1: 14c00eb7 (small blind) folded before Flop
+Seat 2: Hero (big blind) folded on the Flop
+Seat 3: f79de5fc folded before Flop
+Seat 4: 84589989 showed [3h Kh] and won (13,185) with a pair of Kings
+Seat 5: 229b3e5 folded before Flop
+Seat 6: 30580a3e (button) showed [Js 8c] and lost with a pair of Eights
+
+
+Poker Hand #TM6563879191: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level9(175/350(45)) - 2026/10/20 14:16:11
+Table '62' 6-max Seat #5 is the button
+Seat 1: 14c00eb7 (5,955 in chips)
+Seat 2: Hero (9,572 in chips)
+Seat 3: f79de5fc (20,668 in chips)
+Seat 4: 84589989 (26,763 in chips)
+Seat 5: 229b3e5 (11,613 in chips)
+Seat 6: 30580a3e (6,285 in chips)
+30580a3e: posts the ante 45
+f79de5fc: posts the ante 45
+229b3e5: posts the ante 45
+Hero: posts the ante 45
+84589989: posts the ante 45
+14c00eb7: posts the ante 45
+30580a3e: posts small blind 175
+14c00eb7: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 14c00eb7 
+Dealt to Hero [8h Ad]
+Dealt to f79de5fc 
+Dealt to 84589989 
+Dealt to 229b3e5 
+Dealt to 30580a3e 
+Hero: raises 350 to 700
+f79de5fc: folds
+84589989: folds
+229b3e5: raises 10,868 to 11,568 and is all-in
+30580a3e: folds
+14c00eb7: folds
+Hero: folds
+Uncalled bet (10,868) returned to 229b3e5
+*** SHOWDOWN ***
+229b3e5 collected 2,195 from pot
+*** SUMMARY ***
+Total pot 2,195 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 14c00eb7 (big blind) folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: f79de5fc folded before Flop
+Seat 4: 84589989 folded before Flop
+Seat 5: 229b3e5 (button) collected (2,195)
+Seat 6: 30580a3e (small blind) folded before Flop
+
+
+Poker Hand #TM6563253307: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level8(150/300(35)) - 2026/10/20 14:14:44
+Table '32' 6-max Seat #3 is the button
+Seat 1: Hero (9,607 in chips)
+Seat 2: 359d99a7 (6,000 in chips)
+Seat 3: f92f6dcc (11,340 in chips)
+Seat 4: 102f56d6 (9,736 in chips)
+Seat 5: 6ef0d883 (2,960 in chips)
+Seat 6: c2c64367 (6,367 in chips)
+c2c64367: posts the ante 35
+6ef0d883: posts the ante 35
+Hero: posts the ante 35
+102f56d6: posts the ante 35
+359d99a7: posts the ante 35
+f92f6dcc: posts the ante 35
+102f56d6: posts small blind 150
+6ef0d883: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [Kd 3s]
+Dealt to 359d99a7 
+Dealt to f92f6dcc 
+Dealt to 102f56d6 
+Dealt to 6ef0d883 
+Dealt to c2c64367 
+c2c64367: folds
+Hero: folds
+359d99a7: raises 600 to 900
+f92f6dcc: calls 900
+102f56d6: folds
+6ef0d883: raises 2,025 to 2,925 and is all-in
+359d99a7: raises 3,040 to 5,965 and is all-in
+f92f6dcc: calls 5,065
+359d99a7: shows [Ac 9d]
+f92f6dcc: shows [Jc Qc]
+6ef0d883: shows [Ah 8c]
+*** FLOP *** [6d 4h Jd]
+*** TURN *** [6d 4h Jd] [Qs]
+*** RIVER *** [6d 4h Jd Qs] [Qh]
+*** SHOWDOWN ***
+f92f6dcc collected 9,135 from pot
+f92f6dcc collected 6,080 from pot
+*** SUMMARY ***
+Total pot 15,215 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 4h Jd Qs Qh]
+Seat 1: Hero folded before Flop
+Seat 2: 359d99a7 showed [Ac 9d] and lost with a pair of Queens
+Seat 3: f92f6dcc (button) showed [Jc Qc] and won (15,215) with a full house, Queens full of Jacks
+Seat 4: 102f56d6 (small blind) folded before Flop
+Seat 5: 6ef0d883 (big blind) showed [Ah 8c] and lost with a pair of Queens
+Seat 6: c2c64367 folded before Flop
+
+
+Poker Hand #TM6563253289: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level8(150/300(35)) - 2026/10/20 14:14:10
+Table '32' 6-max Seat #2 is the button
+Seat 1: Hero (9,642 in chips)
+Seat 2: 92c186f6 (24,953 in chips)
+Seat 3: f92f6dcc (10,865 in chips)
+Seat 4: 102f56d6 (10,071 in chips)
+Seat 5: 6ef0d883 (2,995 in chips)
+Seat 6: c2c64367 (6,402 in chips)
+c2c64367: posts the ante 35
+6ef0d883: posts the ante 35
+92c186f6: posts the ante 35
+Hero: posts the ante 35
+102f56d6: posts the ante 35
+f92f6dcc: posts the ante 35
+f92f6dcc: posts small blind 150
+102f56d6: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [8s 3c]
+Dealt to 92c186f6 
+Dealt to f92f6dcc 
+Dealt to 102f56d6 
+Dealt to 6ef0d883 
+Dealt to c2c64367 
+6ef0d883: folds
+c2c64367: folds
+Hero: folds
+92c186f6: folds
+f92f6dcc: raises 10,530 to 10,830 and is all-in
+102f56d6: folds
+Uncalled bet (10,530) returned to f92f6dcc
+*** SHOWDOWN ***
+f92f6dcc collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: 92c186f6 (button) folded before Flop
+Seat 3: f92f6dcc (small blind) collected (810)
+Seat 4: 102f56d6 (big blind) folded before Flop
+Seat 5: 6ef0d883 folded before Flop
+Seat 6: c2c64367 folded before Flop
+
+
+Poker Hand #TM6563253252: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level8(150/300(35)) - 2026/10/20 14:13:08
+Table '32' 6-max Seat #1 is the button
+Seat 1: Hero (12,227 in chips)
+Seat 2: 92c186f6 (25,138 in chips)
+Seat 3: f92f6dcc (11,200 in chips)
+Seat 4: 102f56d6 (6,896 in chips)
+Seat 5: 6ef0d883 (3,030 in chips)
+Seat 6: c2c64367 (6,437 in chips)
+c2c64367: posts the ante 35
+6ef0d883: posts the ante 35
+Hero: posts the ante 35
+92c186f6: posts the ante 35
+102f56d6: posts the ante 35
+f92f6dcc: posts the ante 35
+92c186f6: posts small blind 150
+f92f6dcc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [Kd Qh]
+Dealt to 92c186f6 
+Dealt to f92f6dcc 
+Dealt to 102f56d6 
+Dealt to 6ef0d883 
+Dealt to c2c64367 
+102f56d6: calls 300
+6ef0d883: folds
+c2c64367: folds
+Hero: raises 450 to 750
+92c186f6: folds
+f92f6dcc: folds
+102f56d6: calls 450
+*** FLOP *** [9c 9s 8d]
+102f56d6: checks
+Hero: checks
+*** TURN *** [9c 9s 8d] [Ts]
+102f56d6: checks
+Hero: bets 600
+102f56d6: calls 600
+*** RIVER *** [9c 9s 8d Ts] [4d]
+102f56d6: checks
+Hero: bets 1,200
+102f56d6: calls 1,200
+Hero: shows [Kd Qh] (a pair of Nines)
+102f56d6: shows [Ad 4c] (two pair, Nines and Fours)
+*** SHOWDOWN ***
+102f56d6 collected 5,760 from pot
+*** SUMMARY ***
+Total pot 5,760 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c 9s 8d Ts 4d]
+Seat 1: Hero (button) showed [Kd Qh] and lost with a pair of Nines
+Seat 2: 92c186f6 (small blind) folded before Flop
+Seat 3: f92f6dcc (big blind) folded before Flop
+Seat 4: 102f56d6 showed [Ad 4c] and won (5,760) with two pair, Nines and Fours
+Seat 5: 6ef0d883 folded before Flop
+Seat 6: c2c64367 folded before Flop
+
+
+Poker Hand #TM6563253215: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level7(125/250(30)) - 2026/10/20 14:12:09
+Table '32' 6-max Seat #6 is the button
+Seat 1: Hero (12,382 in chips)
+Seat 2: 92c186f6 (25,418 in chips)
+Seat 3: f92f6dcc (11,230 in chips)
+Seat 4: 102f56d6 (7,176 in chips)
+Seat 5: 6ef0d883 (5,876 in chips)
+Seat 6: c2c64367 (2,846 in chips)
+c2c64367: posts the ante 30
+6ef0d883: posts the ante 30
+92c186f6: posts the ante 30
+Hero: posts the ante 30
+102f56d6: posts the ante 30
+f92f6dcc: posts the ante 30
+Hero: posts small blind 125
+92c186f6: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [8c 3h]
+Dealt to 92c186f6 
+Dealt to f92f6dcc 
+Dealt to 102f56d6 
+Dealt to 6ef0d883 
+Dealt to c2c64367 
+f92f6dcc: folds
+102f56d6: calls 250
+6ef0d883: calls 250
+c2c64367: raises 2,566 to 2,816 and is all-in
+Hero: folds
+92c186f6: folds
+102f56d6: folds
+6ef0d883: calls 2,566
+c2c64367: shows [As Tc]
+6ef0d883: shows [Ts Jh]
+*** FLOP *** [2c Ks 7h]
+*** TURN *** [2c Ks 7h] [Kh]
+*** RIVER *** [2c Ks 7h Kh] [Qd]
+*** SHOWDOWN ***
+c2c64367 collected 6,437 from pot
+*** SUMMARY ***
+Total pot 6,437 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c Ks 7h Kh Qd]
+Seat 1: Hero (small blind) folded before Flop
+Seat 2: 92c186f6 (big blind) folded before Flop
+Seat 3: f92f6dcc folded before Flop
+Seat 4: 102f56d6 folded before Flop
+Seat 5: 6ef0d883 showed [Ts Jh] and lost with a pair of Kings
+Seat 6: c2c64367 (button) showed [As Tc] and won (6,437) with a pair of Kings
+
+
+Poker Hand #TM6563253195: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level7(125/250(30)) - 2026/10/20 14:11:46
+Table '32' 6-max Seat #5 is the button
+Seat 1: Hero (12,662 in chips)
+Seat 2: 92c186f6 (25,448 in chips)
+Seat 3: f92f6dcc (10,705 in chips)
+Seat 4: 102f56d6 (7,206 in chips)
+Seat 5: 6ef0d883 (5,906 in chips)
+Seat 6: c2c64367 (3,001 in chips)
+6ef0d883: posts the ante 30
+c2c64367: posts the ante 30
+92c186f6: posts the ante 30
+Hero: posts the ante 30
+102f56d6: posts the ante 30
+f92f6dcc: posts the ante 30
+c2c64367: posts small blind 125
+Hero: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [2c Ts]
+Dealt to 92c186f6 
+Dealt to f92f6dcc 
+Dealt to 102f56d6 
+Dealt to 6ef0d883 
+Dealt to c2c64367 
+92c186f6: folds
+f92f6dcc: raises 250 to 500
+102f56d6: folds
+6ef0d883: folds
+c2c64367: folds
+Hero: folds
+Uncalled bet (250) returned to f92f6dcc
+*** SHOWDOWN ***
+f92f6dcc collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) folded before Flop
+Seat 2: 92c186f6 folded before Flop
+Seat 3: f92f6dcc collected (805)
+Seat 4: 102f56d6 folded before Flop
+Seat 5: 6ef0d883 (button) folded before Flop
+Seat 6: c2c64367 (small blind) folded before Flop
+
+
+Poker Hand #TM6563253141: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level7(125/250(30)) - 2026/10/20 14:10:13
+Table '32' 6-max Seat #4 is the button
+Seat 1: Hero (15,546 in chips)
+Seat 2: 92c186f6 (20,944 in chips)
+Seat 3: f92f6dcc (10,735 in chips)
+Seat 4: 102f56d6 (7,736 in chips)
+Seat 5: 6ef0d883 (6,436 in chips)
+Seat 6: c2c64367 (3,531 in chips)
+c2c64367: posts the ante 30
+6ef0d883: posts the ante 30
+92c186f6: posts the ante 30
+Hero: posts the ante 30
+102f56d6: posts the ante 30
+f92f6dcc: posts the ante 30
+6ef0d883: posts small blind 125
+c2c64367: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [3s 3h]
+Dealt to 92c186f6 
+Dealt to f92f6dcc 
+Dealt to 102f56d6 
+Dealt to 6ef0d883 
+Dealt to c2c64367 
+Hero: raises 250 to 500
+92c186f6: calls 500
+f92f6dcc: folds
+102f56d6: calls 500
+6ef0d883: calls 375
+c2c64367: calls 250
+*** FLOP *** [Ts 5c 2h]
+6ef0d883: checks
+c2c64367: checks
+Hero: bets 885
+92c186f6: calls 885
+102f56d6: folds
+6ef0d883: folds
+c2c64367: folds
+*** TURN *** [Ts 5c 2h] [Th]
+Hero: checks
+92c186f6: checks
+*** RIVER *** [Ts 5c 2h Th] [Qd]
+Hero: bets 1,469
+92c186f6: calls 1,469
+Hero: shows [3s 3h] (two pair, Tens and Threes)
+92c186f6: shows [7h 7d] (two pair, Tens and Sevens)
+*** SHOWDOWN ***
+92c186f6 collected 7,388 from pot
+*** SUMMARY ***
+Total pot 7,388 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 5c 2h Th Qd]
+Seat 1: Hero showed [3s 3h] and lost with two pair, Tens and Threes
+Seat 2: 92c186f6 showed [7h 7d] and won (7,388) with two pair, Tens and Sevens
+Seat 3: f92f6dcc folded before Flop
+Seat 4: 102f56d6 (button) folded on the Flop
+Seat 5: 6ef0d883 (small blind) folded on the Flop
+Seat 6: c2c64367 (big blind) folded on the Flop
+
+
+Poker Hand #TM6563253124: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level7(125/250(30)) - 2026/10/20 14:09:47
+Table '32' 6-max Seat #3 is the button
+Seat 1: Hero (15,576 in chips)
+Seat 2: 92c186f6 (20,419 in chips)
+Seat 3: f92f6dcc (10,765 in chips)
+Seat 4: 102f56d6 (7,891 in chips)
+Seat 5: 6ef0d883 (6,716 in chips)
+Seat 6: c2c64367 (3,561 in chips)
+c2c64367: posts the ante 30
+6ef0d883: posts the ante 30
+92c186f6: posts the ante 30
+Hero: posts the ante 30
+102f56d6: posts the ante 30
+f92f6dcc: posts the ante 30
+102f56d6: posts small blind 125
+6ef0d883: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [2h 3h]
+Dealt to 92c186f6 
+Dealt to f92f6dcc 
+Dealt to 102f56d6 
+Dealt to 6ef0d883 
+Dealt to c2c64367 
+c2c64367: folds
+Hero: folds
+92c186f6: raises 375 to 625
+f92f6dcc: folds
+102f56d6: folds
+6ef0d883: folds
+Uncalled bet (375) returned to 92c186f6
+*** SHOWDOWN ***
+92c186f6 collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: 92c186f6 collected (805)
+Seat 3: f92f6dcc (button) folded before Flop
+Seat 4: 102f56d6 (small blind) folded before Flop
+Seat 5: 6ef0d883 (big blind) folded before Flop
+Seat 6: c2c64367 folded before Flop
+
+
+Poker Hand #TM6563253090: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level6(100/200(25)) - 2026/10/20 14:08:40
+Table '32' 6-max Seat #2 is the button
+Seat 1: Hero (17,717 in chips)
+Seat 2: 92c186f6 (20,444 in chips)
+Seat 3: f92f6dcc (10,890 in chips)
+Seat 4: 102f56d6 (5,550 in chips)
+Seat 5: 6ef0d883 (6,741 in chips)
+Seat 6: c2c64367 (3,586 in chips)
+c2c64367: posts the ante 25
+6ef0d883: posts the ante 25
+92c186f6: posts the ante 25
+Hero: posts the ante 25
+102f56d6: posts the ante 25
+f92f6dcc: posts the ante 25
+f92f6dcc: posts small blind 100
+102f56d6: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [As 7h]
+Dealt to 92c186f6 
+Dealt to f92f6dcc 
+Dealt to 102f56d6 
+Dealt to 6ef0d883 
+Dealt to c2c64367 
+6ef0d883: folds
+c2c64367: folds
+Hero: raises 350 to 550
+92c186f6: folds
+f92f6dcc: folds
+102f56d6: calls 350
+*** FLOP *** [9h 2h 2s]
+102f56d6: checks
+Hero: bets 675
+102f56d6: calls 675
+*** TURN *** [9h 2h 2s] [3s]
+102f56d6: checks
+Hero: checks
+*** RIVER *** [9h 2h 2s 3s] [5c]
+102f56d6: checks
+Hero: bets 891
+102f56d6: calls 891
+Hero: shows [As 7h] (a pair of Twos)
+102f56d6: shows [Ts Ah] (a pair of Twos)
+*** SHOWDOWN ***
+102f56d6 collected 4,482 from pot
+*** SUMMARY ***
+Total pot 4,482 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h 2h 2s 3s 5c]
+Seat 1: Hero showed [As 7h] and lost with a pair of Twos
+Seat 2: 92c186f6 (button) folded before Flop
+Seat 3: f92f6dcc (small blind) folded before Flop
+Seat 4: 102f56d6 (big blind) showed [Ts Ah] and won (4,482) with a pair of Twos
+Seat 5: 6ef0d883 folded before Flop
+Seat 6: c2c64367 folded before Flop
+
+
+Poker Hand #TM6562646998: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level5(90/180(22)) - 2026/10/20 14:06:13
+Table '19' 6-max Seat #5 is the button
+Seat 1: 70ceef60 (5,934 in chips)
+Seat 2: 2cdd565f (16,505 in chips)
+Seat 3: Hero (6,605 in chips)
+Seat 4: 47ff59dc (17,224 in chips)
+Seat 5: ec2e833d (5,022 in chips)
+Seat 6: 87a97dae (8,539 in chips)
+ec2e833d: posts the ante 22
+2cdd565f: posts the ante 22
+70ceef60: posts the ante 22
+Hero: posts the ante 22
+47ff59dc: posts the ante 22
+87a97dae: posts the ante 22
+87a97dae: posts small blind 90
+70ceef60: posts big blind 180
+*** HOLE CARDS ***
+Dealt to 70ceef60 
+Dealt to 2cdd565f 
+Dealt to Hero [Ac 8d]
+Dealt to 47ff59dc 
+Dealt to ec2e833d 
+Dealt to 87a97dae 
+2cdd565f: folds
+Hero: raises 180 to 360
+47ff59dc: folds
+ec2e833d: raises 842 to 1,202
+87a97dae: folds
+70ceef60: calls 1,022
+Hero: calls 842
+*** FLOP *** [2c 8c Tc]
+70ceef60: checks
+Hero: bets 1,264
+ec2e833d: raises 2,534 to 3,798 and is all-in
+70ceef60: raises 912 to 4,710 and is all-in
+Hero: calls 3,446
+70ceef60: shows [Th Ts] (three of a kind, Tens)
+Hero: shows [Ac 8d] (a pair of Eights)
+ec2e833d: shows [Js Jh] (a pair of Jacks)
+*** TURN *** [2c 8c Tc] [5d]
+*** RIVER *** [2c 8c Tc 5d] [4c]
+2cdd565f: shows [As] (Ace high)
+*** SHOWDOWN ***
+Hero collected 15,222 from pot
+Hero collected 1,824 from pot
+*** SUMMARY ***
+Total pot 17,046 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c 8c Tc 5d 4c]
+Seat 1: 70ceef60 (big blind) showed [Th Ts] and lost with three of a kind, Tens
+Seat 2: 2cdd565f folded before Flop
+Seat 3: Hero showed [Ac 8d] and won (17,046) with a flush Ace high
+Seat 4: 47ff59dc folded before Flop
+Seat 5: ec2e833d (button) showed [Js Jh] and lost with a pair of Jacks
+Seat 6: 87a97dae (small blind) folded before Flop
+
+
+Poker Hand #TM6562646978: Tournament #319791015, Daily Hyper $1 Hold'em No Limit - Level5(90/180(22)) - 2026/10/20 14:05:30
+Table '19' 6-max Seat #4 is the button
+Seat 1: 70ceef60 (5,956 in chips)
+Seat 2: 2cdd565f (16,527 in chips)
+Seat 3: Hero (6,000 in chips)
+Seat 4: 47ff59dc (17,246 in chips)
+Seat 5: ec2e833d (5,134 in chips)
+Seat 6: 87a97dae (8,966 in chips)
+ec2e833d: posts the ante 22
+2cdd565f: posts the ante 22
+70ceef60: posts the ante 22
+Hero: posts the ante 22
+47ff59dc: posts the ante 22
+87a97dae: posts the ante 22
+ec2e833d: posts small blind 90
+87a97dae: posts big blind 180
+*** HOLE CARDS ***
+Dealt to 70ceef60 
+Dealt to 2cdd565f 
+Dealt to Hero [Qh 6h]
+Dealt to 47ff59dc 
+Dealt to ec2e833d 
+Dealt to 87a97dae 
+70ceef60: folds
+2cdd565f: folds
+Hero: raises 225 to 405
+47ff59dc: folds
+ec2e833d: folds
+87a97dae: calls 225
+*** FLOP *** [4s Ah Kd]
+87a97dae: checks
+Hero: bets 516
+87a97dae: folds
+Uncalled bet (516) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,032 from pot
+*** SUMMARY ***
+Total pot 1,032 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4s Ah Kd]
+Seat 1: 70ceef60 folded before Flop
+Seat 2: 2cdd565f folded before Flop
+Seat 3: Hero won (1,032)
+Seat 4: 47ff59dc (button) folded before Flop
+Seat 5: ec2e833d (small blind) folded before Flop
+Seat 6: 87a97dae (big blind) folded on the Flop
+
+

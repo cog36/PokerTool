@@ -1,0 +1,2975 @@
+﻿Betfair Hand #262427948536: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/17 19:19:50 CUST [2026/10/17 14:19:50 ET]
+Table '4040449976 1' 9-max Seat #1 is the button
+Seat 1: CADILLACJET (1500 in chips) 
+Seat 2: holsten_fold (1500 in chips) 
+Seat 3: ZSU-TO (1500 in chips) 
+Seat 4: antoray89 (1500 in chips) 
+Seat 5: rehakzsolt (1500 in chips) 
+Seat 6: bullets685 (1500 in chips) 
+Seat 7: alef366 (1500 in chips) 
+Seat 8: Dephi80 (1500 in chips) 
+Seat 9: berlin1888 (1500 in chips) 
+CADILLACJET: posts the ante 3
+holsten_fold: posts the ante 3
+ZSU-TO: posts the ante 3
+antoray89: posts the ante 3
+rehakzsolt: posts the ante 3
+bullets685: posts the ante 3
+alef366: posts the ante 3
+Dephi80: posts the ante 3
+berlin1888: posts the ante 3
+holsten_fold: posts small blind 10
+ZSU-TO: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [2c 9h]
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: folds 
+alef366: folds 
+Dephi80: calls 20
+berlin1888: folds 
+CADILLACJET: calls 20
+holsten_fold: raises 1477 to 1497 and is all-in
+ZSU-TO: folds 
+Dephi80: folds 
+CADILLACJET: folds 
+Uncalled bet (1477) returned to holsten_fold
+holsten_fold collected 107 from pot
+holsten_fold: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: CADILLACJET (button) folded before Flop
+Seat 2: holsten_fold (small blind) collected (107)
+Seat 3: ZSU-TO (big blind) folded before Flop
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop
+Seat 9: berlin1888 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262427953764: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/17 19:20:18 CUST [2026/10/17 14:20:18 ET]
+Table '4040449976 1' 9-max Seat #2 is the button
+Seat 1: CADILLACJET (1477 in chips) 
+Seat 2: holsten_fold (1584 in chips) 
+Seat 3: ZSU-TO (1477 in chips) 
+Seat 4: antoray89 (1497 in chips) 
+Seat 5: rehakzsolt (1497 in chips) 
+Seat 6: bullets685 (1497 in chips) 
+Seat 7: alef366 (1497 in chips) 
+Seat 8: Dephi80 (1477 in chips) 
+Seat 9: berlin1888 (1497 in chips) 
+CADILLACJET: posts the ante 3
+holsten_fold: posts the ante 3
+ZSU-TO: posts the ante 3
+antoray89: posts the ante 3
+rehakzsolt: posts the ante 3
+bullets685: posts the ante 3
+alef366: posts the ante 3
+Dephi80: posts the ante 3
+berlin1888: posts the ante 3
+ZSU-TO: posts small blind 10
+antoray89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [4d 2s]
+rehakzsolt: folds 
+bullets685: folds 
+alef366: folds 
+Dephi80: folds 
+berlin1888: folds 
+CADILLACJET: folds 
+holsten_fold: raises 20 to 40
+ZSU-TO: calls 30
+antoray89: calls 20
+*** FLOP *** [9h 5s Ah]
+ZSU-TO: checks 
+antoray89: checks 
+holsten_fold: checks 
+*** TURN *** [9h 5s Ah] [Qh]
+ZSU-TO: checks 
+antoray89: checks 
+holsten_fold: bets 40
+ZSU-TO: folds 
+antoray89: folds 
+Uncalled bet (40) returned to holsten_fold
+holsten_fold collected 147 from pot
+holsten_fold: doesn't show hand 
+*** SUMMARY ***
+Total pot 147 | Rake 0 
+Board [9h 5s Ah Qh]
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 2: holsten_fold (button) collected (147)
+Seat 3: ZSU-TO (small blind) folded on the Turn
+Seat 4: antoray89 (big blind) folded on the Turn
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop (didn't bet)
+Seat 9: berlin1888 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262427966947: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/17 19:21:30 CUST [2026/10/17 14:21:30 ET]
+Table '4040449976 1' 9-max Seat #3 is the button
+Seat 1: CADILLACJET (1474 in chips) 
+Seat 2: holsten_fold (1688 in chips) 
+Seat 3: ZSU-TO (1434 in chips) 
+Seat 4: antoray89 (1454 in chips) 
+Seat 5: rehakzsolt (1494 in chips) 
+Seat 6: bullets685 (1494 in chips) 
+Seat 7: alef366 (1494 in chips) 
+Seat 8: Dephi80 (1474 in chips) 
+Seat 9: berlin1888 (1494 in chips) 
+CADILLACJET: posts the ante 3
+holsten_fold: posts the ante 3
+ZSU-TO: posts the ante 3
+antoray89: posts the ante 3
+rehakzsolt: posts the ante 3
+bullets685: posts the ante 3
+alef366: posts the ante 3
+Dephi80: posts the ante 3
+berlin1888: posts the ante 3
+antoray89: posts small blind 10
+rehakzsolt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 4h]
+bullets685: folds 
+alef366: folds 
+Dephi80: folds 
+berlin1888: folds 
+CADILLACJET: raises 30 to 50
+holsten_fold: folds 
+ZSU-TO: folds 
+antoray89: calls 40
+rehakzsolt: calls 30
+*** FLOP *** [Qs Ad 5d]
+antoray89: bets 20
+rehakzsolt: folds 
+CADILLACJET: calls 20
+*** TURN *** [Qs Ad 5d] [8d]
+antoray89: checks 
+CADILLACJET: bets 72
+antoray89: calls 72
+*** RIVER *** [Qs Ad 5d 8d] [Ts]
+antoray89: checks 
+CADILLACJET: checks 
+*** SHOW DOWN ***
+antoray89: shows [As 6s] (a pair of Aces)
+CADILLACJET: shows [9h Ah] (a pair of Aces - Queen+Ten+Nine kicker)
+CADILLACJET collected 361 from pot
+*** SUMMARY ***
+Total pot 361 | Rake 0 
+Board [Qs Ad 5d 8d Ts]
+Seat 1: CADILLACJET showed [9h Ah] and won (361) with a pair of Aces
+Seat 2: holsten_fold folded before Flop (didn't bet)
+Seat 3: ZSU-TO (button) folded before Flop (didn't bet)
+Seat 4: antoray89 (small blind) showed [As 6s] and lost with a pair of Aces
+Seat 5: rehakzsolt (big blind) folded on the Flop
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop (didn't bet)
+Seat 9: berlin1888 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262427978897: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/17 19:22:34 CUST [2026/10/17 14:22:34 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 1: CADILLACJET (1690 in chips) 
+Seat 2: holsten_fold (1685 in chips) 
+Seat 3: ZSU-TO (1431 in chips) 
+Seat 4: antoray89 (1309 in chips) 
+Seat 5: rehakzsolt (1441 in chips) 
+Seat 6: bullets685 (1491 in chips) 
+Seat 7: alef366 (1491 in chips) 
+Seat 8: Dephi80 (1471 in chips) 
+Seat 9: berlin1888 (1491 in chips) 
+CADILLACJET: posts the ante 3
+holsten_fold: posts the ante 3
+ZSU-TO: posts the ante 3
+antoray89: posts the ante 3
+rehakzsolt: posts the ante 3
+bullets685: posts the ante 3
+alef366: posts the ante 3
+Dephi80: posts the ante 3
+berlin1888: posts the ante 3
+rehakzsolt: posts small blind 10
+bullets685: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [4h 4c]
+alef366: folds 
+Dephi80: calls 20
+berlin1888: folds 
+CADILLACJET: folds 
+holsten_fold: folds 
+ZSU-TO: raises 40 to 60
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: calls 40
+Dephi80: calls 40
+*** FLOP *** [6h Ts Td]
+bullets685: bets 109
+Dephi80: folds 
+ZSU-TO: calls 109
+*** TURN *** [6h Ts Td] [7h]
+bullets685: bets 300
+ZSU-TO: folds 
+Uncalled bet (300) returned to bullets685
+bullets685 collected 435 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Board [6h Ts Td 7h]
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 2: holsten_fold folded before Flop (didn't bet)
+Seat 3: ZSU-TO folded on the Turn
+Seat 4: antoray89 (button) folded before Flop (didn't bet)
+Seat 5: rehakzsolt (small blind) folded before Flop
+Seat 6: bullets685 (big blind) collected (435)
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded on the Flop
+Seat 9: berlin1888 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262427992085: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/17 19:23:46 CUST [2026/10/17 14:23:46 ET]
+Table '4040449976 1' 9-max Seat #5 is the button
+Seat 1: CADILLACJET (1687 in chips) 
+Seat 2: holsten_fold (1682 in chips) 
+Seat 3: ZSU-TO (1259 in chips) 
+Seat 4: antoray89 (1306 in chips) 
+Seat 5: rehakzsolt (1428 in chips) 
+Seat 6: bullets685 (1754 in chips) 
+Seat 7: alef366 (1488 in chips) 
+Seat 8: Dephi80 (1408 in chips) 
+Seat 9: berlin1888 (1488 in chips) 
+CADILLACJET: posts the ante 3
+holsten_fold: posts the ante 3
+ZSU-TO: posts the ante 3
+antoray89: posts the ante 3
+rehakzsolt: posts the ante 3
+bullets685: posts the ante 3
+alef366: posts the ante 3
+Dephi80: posts the ante 3
+berlin1888: posts the ante 3
+bullets685: posts small blind 10
+alef366: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [2c Th]
+Dephi80: folds 
+berlin1888: raises 40 to 60
+CADILLACJET: folds 
+holsten_fold: folds 
+ZSU-TO: calls 60
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: folds 
+alef366: folds 
+*** FLOP *** [5s 7c 2s]
+berlin1888: bets 60
+ZSU-TO: calls 60
+*** TURN *** [5s 7c 2s] [Jd]
+berlin1888: bets 60
+ZSU-TO: calls 60
+*** RIVER *** [5s 7c 2s Jd] [Qs]
+berlin1888: bets 80
+ZSU-TO: raises 180 to 260
+berlin1888: calls 180
+*** SHOW DOWN ***
+ZSU-TO: shows [Td As] (high card Ace)
+berlin1888: shows [6h 7h] (a pair of Sevens)
+berlin1888 collected 937 from pot
+*** SUMMARY ***
+Total pot 937 | Rake 0 
+Board [5s 7c 2s Jd Qs]
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 2: holsten_fold folded before Flop (didn't bet)
+Seat 3: ZSU-TO showed [Td As] and lost with high card Ace
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt (button) folded before Flop (didn't bet)
+Seat 6: bullets685 (small blind) folded before Flop
+Seat 7: alef366 (big blind) folded before Flop
+Seat 8: Dephi80 folded before Flop (didn't bet)
+Seat 9: berlin1888 showed [6h 7h] and won (937) with a pair of Sevens
+
+
+
+Betfair Hand #262428004563: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/17 19:24:54 CUST [2026/10/17 14:24:54 ET]
+Table '4040449976 1' 9-max Seat #6 is the button
+Seat 1: CADILLACJET (1684 in chips) 
+Seat 2: holsten_fold (1679 in chips) 
+Seat 3: ZSU-TO (816 in chips) 
+Seat 4: antoray89 (1303 in chips) 
+Seat 5: rehakzsolt (1425 in chips) 
+Seat 6: bullets685 (1741 in chips) 
+Seat 7: alef366 (1465 in chips) 
+Seat 8: Dephi80 (1405 in chips) 
+Seat 9: berlin1888 (1982 in chips) 
+CADILLACJET: posts the ante 4
+holsten_fold: posts the ante 4
+ZSU-TO: posts the ante 4
+antoray89: posts the ante 4
+rehakzsolt: posts the ante 4
+bullets685: posts the ante 4
+alef366: posts the ante 4
+Dephi80: posts the ante 4
+berlin1888: posts the ante 4
+alef366: posts small blind 15
+Dephi80: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks 5c]
+berlin1888: folds 
+CADILLACJET: folds 
+holsten_fold: raises 90 to 120
+ZSU-TO: calls 120
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: folds 
+alef366: raises 1341 to 1461 and is all-in
+Dephi80: folds 
+holsten_fold: folds 
+ZSU-TO: calls 692 and is all-in
+Uncalled bet (649) returned to alef366
+*** FLOP *** [3d Jh Qh]
+*** TURN *** [3d Jh Qh] [As]
+*** RIVER *** [3d Jh Qh As] [2h]
+*** SHOW DOWN ***
+alef366: shows [9d 9c] (a pair of Nines)
+ZSU-TO: shows [Td Ac] (a pair of Aces)
+ZSU-TO collected 1810 from pot
+*** SUMMARY ***
+Total pot 1810 | Rake 0 
+Board [3d Jh Qh As 2h]
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 2: holsten_fold folded before Flop
+Seat 3: ZSU-TO showed [Td Ac] and won (1810) with a pair of Aces
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 (button) folded before Flop (didn't bet)
+Seat 7: alef366 (small blind) showed [9d 9c] and lost with a pair of Nines
+Seat 8: Dephi80 (big blind) folded before Flop
+Seat 9: berlin1888 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428009993: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/17 19:25:24 CUST [2026/10/17 14:25:24 ET]
+Table '4040449976 1' 9-max Seat #7 is the button
+Seat 1: CADILLACJET (1680 in chips) 
+Seat 2: holsten_fold (1555 in chips) 
+Seat 3: ZSU-TO (1810 in chips) 
+Seat 4: antoray89 (1299 in chips) 
+Seat 5: rehakzsolt (1421 in chips) 
+Seat 6: bullets685 (1737 in chips) 
+Seat 7: alef366 (649 in chips) 
+Seat 8: Dephi80 (1371 in chips) 
+Seat 9: berlin1888 (1978 in chips) 
+CADILLACJET: posts the ante 4
+holsten_fold: posts the ante 4
+ZSU-TO: posts the ante 4
+antoray89: posts the ante 4
+rehakzsolt: posts the ante 4
+bullets685: posts the ante 4
+alef366: posts the ante 4
+Dephi80: posts the ante 4
+berlin1888: posts the ante 4
+Dephi80: posts small blind 15
+berlin1888: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [7c 5s]
+CADILLACJET: folds 
+holsten_fold: calls 30
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: raises 135 to 165
+alef366: folds 
+Dephi80: folds 
+berlin1888: folds 
+holsten_fold: calls 135
+*** FLOP *** [Tc 8s 8h]
+holsten_fold: bets 411
+bullets685: folds 
+Uncalled bet (411) returned to holsten_fold
+holsten_fold collected 411 from pot
+holsten_fold: doesn't show hand 
+*** SUMMARY ***
+Total pot 411 | Rake 0 
+Board [Tc 8s 8h]
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 2: holsten_fold collected (411)
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded on the Flop
+Seat 7: alef366 (button) folded before Flop (didn't bet)
+Seat 8: Dephi80 (small blind) folded before Flop
+Seat 9: berlin1888 (big blind) folded before Flop
+
+
+
+Betfair Hand #262428021748: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/17 19:26:29 CUST [2026/10/17 14:26:29 ET]
+Table '4040449976 1' 9-max Seat #8 is the button
+Seat 1: CADILLACJET (1676 in chips) 
+Seat 2: holsten_fold (1797 in chips) 
+Seat 3: ZSU-TO (1806 in chips) 
+Seat 4: antoray89 (1295 in chips) 
+Seat 5: rehakzsolt (1417 in chips) 
+Seat 6: bullets685 (1568 in chips) 
+Seat 7: alef366 (645 in chips) 
+Seat 8: Dephi80 (1352 in chips) 
+Seat 9: berlin1888 (1944 in chips) 
+CADILLACJET: posts the ante 4
+holsten_fold: posts the ante 4
+ZSU-TO: posts the ante 4
+antoray89: posts the ante 4
+rehakzsolt: posts the ante 4
+bullets685: posts the ante 4
+alef366: posts the ante 4
+Dephi80: posts the ante 4
+berlin1888: posts the ante 4
+berlin1888: posts small blind 15
+CADILLACJET: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [9h Ks]
+holsten_fold: folds 
+ZSU-TO: folds 
+antoray89: calls 30
+rehakzsolt: calls 30
+bullets685: raises 120 to 150
+alef366: folds 
+Dephi80: calls 150
+berlin1888: folds 
+CADILLACJET: folds 
+antoray89: folds 
+rehakzsolt: folds 
+*** FLOP *** [Ad 6c Jd]
+bullets685: bets 300
+Dephi80: raises 898 to 1198 and is all-in
+bullets685: folds 
+Uncalled bet (898) returned to Dephi80
+Dephi80 collected 1041 from pot
+Dephi80: doesn't show hand 
+*** SUMMARY ***
+Total pot 1041 | Rake 0 
+Board [Ad 6c Jd]
+Seat 1: CADILLACJET (big blind) folded before Flop
+Seat 2: holsten_fold folded before Flop (didn't bet)
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 folded before Flop
+Seat 5: rehakzsolt folded before Flop
+Seat 6: bullets685 folded on the Flop
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 (button) collected (1041)
+Seat 9: berlin1888 (small blind) folded before Flop
+
+
+
+Betfair Hand #262428032337: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/17 19:27:27 CUST [2026/10/17 14:27:27 ET]
+Table '4040449976 1' 9-max Seat #9 is the button
+Seat 1: CADILLACJET (1642 in chips) 
+Seat 2: holsten_fold (1793 in chips) 
+Seat 3: ZSU-TO (1802 in chips) 
+Seat 4: antoray89 (1261 in chips) 
+Seat 5: rehakzsolt (1383 in chips) 
+Seat 6: bullets685 (1114 in chips) 
+Seat 7: alef366 (641 in chips) 
+Seat 8: Dephi80 (1939 in chips) 
+Seat 9: berlin1888 (1925 in chips) 
+CADILLACJET: posts the ante 4
+holsten_fold: posts the ante 4
+ZSU-TO: posts the ante 4
+antoray89: posts the ante 4
+rehakzsolt: posts the ante 4
+bullets685: posts the ante 4
+alef366: posts the ante 4
+Dephi80: posts the ante 4
+berlin1888: posts the ante 4
+CADILLACJET: posts small blind 15
+holsten_fold: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [5d 5s]
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: raises 37 to 67
+alef366: folds 
+Dephi80: folds 
+berlin1888: calls 67
+CADILLACJET: folds 
+holsten_fold: folds 
+*** FLOP *** [Ad 6d Qd]
+bullets685: bets 60
+berlin1888: calls 60
+*** TURN *** [Ad 6d Qd] [Kd]
+bullets685: bets 450
+berlin1888: calls 450
+*** RIVER *** [Ad 6d Qd Kd] [Qs]
+bullets685: checks 
+berlin1888: checks 
+*** SHOW DOWN ***
+bullets685: shows [5d 5s] (a flush, Ace high)
+berlin1888: shows [9d 8s] (a flush, Ace high - Nine higher)
+berlin1888 collected 1235 from pot
+*** SUMMARY ***
+Total pot 1235 | Rake 0 
+Board [Ad 6d Qd Kd Qs]
+Seat 1: CADILLACJET (small blind) folded before Flop
+Seat 2: holsten_fold (big blind) folded before Flop
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 showed [5d 5s] and lost with a flush, Ace high
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop (didn't bet)
+Seat 9: berlin1888 (button) showed [9d 8s] and won (1235) with a flush, Ace high
+
+
+
+Betfair Hand #262428047473: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/17 19:28:50 CUST [2026/10/17 14:28:50 ET]
+Table '4040449976 1' 9-max Seat #1 is the button
+Seat 1: CADILLACJET (1623 in chips) 
+Seat 2: holsten_fold (1759 in chips) 
+Seat 3: ZSU-TO (1798 in chips) 
+Seat 4: antoray89 (1257 in chips) 
+Seat 5: rehakzsolt (1379 in chips) 
+Seat 6: bullets685 (533 in chips) 
+Seat 7: alef366 (637 in chips) 
+Seat 8: Dephi80 (1935 in chips) 
+Seat 9: berlin1888 (2579 in chips) 
+CADILLACJET: posts the ante 4
+holsten_fold: posts the ante 4
+ZSU-TO: posts the ante 4
+antoray89: posts the ante 4
+rehakzsolt: posts the ante 4
+bullets685: posts the ante 4
+alef366: posts the ante 4
+Dephi80: posts the ante 4
+berlin1888: posts the ante 4
+holsten_fold: posts small blind 15
+ZSU-TO: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Js As]
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: raises 30 to 60
+alef366: folds 
+Dephi80: folds 
+berlin1888: folds 
+CADILLACJET: folds 
+holsten_fold: folds 
+ZSU-TO: calls 30
+*** FLOP *** [6h 8h Kd]
+ZSU-TO: checks 
+bullets685: bets 90
+ZSU-TO: calls 90
+*** TURN *** [6h 8h Kd] [Kc]
+ZSU-TO: bets 150
+bullets685: folds 
+Uncalled bet (150) returned to ZSU-TO
+ZSU-TO collected 351 from pot
+ZSU-TO: doesn't show hand 
+*** SUMMARY ***
+Total pot 351 | Rake 0 
+Board [6h 8h Kd Kc]
+Seat 1: CADILLACJET (button) folded before Flop (didn't bet)
+Seat 2: holsten_fold (small blind) folded before Flop
+Seat 3: ZSU-TO (big blind) collected (351)
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded on the Turn
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop (didn't bet)
+Seat 9: berlin1888 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428054002: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/17 19:29:26 CUST [2026/10/17 14:29:26 ET]
+Table '4040449976 1' 9-max Seat #2 is the button
+Seat 1: CADILLACJET (1619 in chips) 
+Seat 2: holsten_fold (1740 in chips) 
+Seat 3: ZSU-TO (1995 in chips) 
+Seat 4: antoray89 (1253 in chips) 
+Seat 5: rehakzsolt (1375 in chips) 
+Seat 6: bullets685 (379 in chips) 
+Seat 7: alef366 (633 in chips) 
+Seat 8: Dephi80 (1931 in chips) 
+Seat 9: berlin1888 (2575 in chips) 
+CADILLACJET: posts the ante 4
+holsten_fold: posts the ante 4
+ZSU-TO: posts the ante 4
+antoray89: posts the ante 4
+rehakzsolt: posts the ante 4
+bullets685: posts the ante 4
+alef366: posts the ante 4
+Dephi80: posts the ante 4
+berlin1888: posts the ante 4
+ZSU-TO: posts small blind 15
+antoray89: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Ac 4d]
+rehakzsolt: folds 
+bullets685: folds 
+alef366: folds 
+Dephi80: folds 
+berlin1888: folds 
+CADILLACJET: folds 
+holsten_fold: raises 90 to 120
+ZSU-TO: folds 
+antoray89: folds 
+Uncalled bet (90) returned to holsten_fold
+holsten_fold collected 111 from pot
+holsten_fold: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 2: holsten_fold (button) collected (111)
+Seat 3: ZSU-TO (small blind) folded before Flop
+Seat 4: antoray89 (big blind) folded before Flop
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop (didn't bet)
+Seat 9: berlin1888 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428059119: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/17 19:29:55 CUST [2026/10/17 14:29:55 ET]
+Table '4040449976 1' 9-max Seat #3 is the button
+Seat 1: CADILLACJET (1615 in chips) 
+Seat 2: holsten_fold (1817 in chips) 
+Seat 3: ZSU-TO (1976 in chips) 
+Seat 4: antoray89 (1219 in chips) 
+Seat 5: rehakzsolt (1371 in chips) 
+Seat 6: bullets685 (375 in chips) 
+Seat 7: alef366 (629 in chips) 
+Seat 8: Dephi80 (1927 in chips) 
+Seat 9: berlin1888 (2571 in chips) 
+CADILLACJET: posts the ante 6
+holsten_fold: posts the ante 6
+ZSU-TO: posts the ante 6
+antoray89: posts the ante 6
+rehakzsolt: posts the ante 6
+bullets685: posts the ante 6
+alef366: posts the ante 6
+Dephi80: posts the ante 6
+berlin1888: posts the ante 6
+antoray89: posts small blind 25
+rehakzsolt: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh Ac]
+bullets685: raises 319 to 369 and is all-in
+alef366: folds 
+Dephi80: folds 
+berlin1888: calls 369
+CADILLACJET: folds 
+holsten_fold: folds 
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: folds 
+*** FLOP *** [7h 3s 2d]
+*** TURN *** [7h 3s 2d] [Td]
+*** RIVER *** [7h 3s 2d Td] [2s]
+*** SHOW DOWN ***
+bullets685: shows [Qh Ac] (a pair of Deuces)
+berlin1888: shows [9c 5c] (a pair of Deuces - lower kicker)
+alef366 is disconnected 
+bullets685 collected 867 from pot
+*** SUMMARY ***
+Total pot 867 | Rake 0 
+Board [7h 3s 2d Td 2s]
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 2: holsten_fold folded before Flop (didn't bet)
+Seat 3: ZSU-TO (button) folded before Flop (didn't bet)
+Seat 4: antoray89 (small blind) folded before Flop
+Seat 5: rehakzsolt (big blind) folded before Flop
+Seat 6: bullets685 showed [Qh Ac] and won (867) with a pair of Deuces
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop (didn't bet)
+Seat 9: berlin1888 showed [9c 5c] and lost with a pair of Deuces
+
+
+
+Betfair Hand #262428067913: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/17 19:30:41 CUST [2026/10/17 14:30:41 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 1: CADILLACJET (1609 in chips) 
+Seat 2: holsten_fold (1811 in chips) 
+Seat 3: ZSU-TO (1970 in chips) 
+Seat 4: antoray89 (1188 in chips) 
+Seat 5: rehakzsolt (1315 in chips) 
+Seat 6: bullets685 (867 in chips) 
+Seat 7: alef366 (623 in chips) 
+Seat 8: Dephi80 (1921 in chips) 
+Seat 9: berlin1888 (2196 in chips) 
+CADILLACJET: posts the ante 6
+holsten_fold: posts the ante 6
+ZSU-TO: posts the ante 6
+antoray89: posts the ante 6
+rehakzsolt: posts the ante 6
+bullets685: posts the ante 6
+alef366: posts the ante 6
+Dephi80: posts the ante 6
+berlin1888: posts the ante 6
+rehakzsolt: posts small blind 25
+bullets685: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc 8h]
+alef366 is connected 
+alef366 is connected 
+alef366: folds 
+Dephi80: folds 
+berlin1888: folds 
+CADILLACJET: raises 50 to 100
+holsten_fold: calls 100
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: calls 50
+*** FLOP *** [Tc 8s Td]
+bullets685: bets 100
+CADILLACJET: folds 
+holsten_fold: calls 100
+*** TURN *** [Tc 8s Td] [3h]
+bullets685: bets 290
+holsten_fold: calls 290
+*** RIVER *** [Tc 8s Td 3h] [7h]
+bullets685: bets 371 and is all-in
+holsten_fold: calls 371
+*** SHOW DOWN ***
+bullets685: shows [Qc 8h] (two pair, Tens and Eights)
+holsten_fold: shows [8d 2d] (two pair, Tens and Eights - lower kicker)
+bullets685 collected 1901 from pot
+*** SUMMARY ***
+Total pot 1901 | Rake 0 
+Board [Tc 8s Td 3h 7h]
+Seat 1: CADILLACJET folded on the Flop
+Seat 2: holsten_fold showed [8d 2d] and lost with two pair, Tens and Eights
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 (button) folded before Flop (didn't bet)
+Seat 5: rehakzsolt (small blind) folded before Flop
+Seat 6: bullets685 (big blind) showed [Qc 8h] and won (1901) with two pair, Tens and Eights
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop (didn't bet)
+Seat 9: berlin1888 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428081529: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/17 19:31:53 CUST [2026/10/17 14:31:53 ET]
+Table '4040449976 1' 9-max Seat #5 is the button
+Seat 1: CADILLACJET (1503 in chips) 
+Seat 2: holsten_fold (944 in chips) 
+Seat 3: ZSU-TO (1964 in chips) 
+Seat 4: antoray89 (1182 in chips) 
+Seat 5: rehakzsolt (1284 in chips) 
+Seat 6: bullets685 (1901 in chips) 
+Seat 7: alef366 (617 in chips) 
+Seat 8: Dephi80 (1915 in chips) 
+Seat 9: berlin1888 (2190 in chips) 
+CADILLACJET: posts the ante 6
+holsten_fold: posts the ante 6
+ZSU-TO: posts the ante 6
+antoray89: posts the ante 6
+rehakzsolt: posts the ante 6
+bullets685: posts the ante 6
+alef366: posts the ante 6
+Dephi80: posts the ante 6
+berlin1888: posts the ante 6
+bullets685: posts small blind 25
+alef366: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts 4h]
+Dephi80: folds 
+berlin1888: folds 
+CADILLACJET: folds 
+holsten_fold: raises 50 to 100
+ZSU-TO: raises 329 to 429
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: folds 
+alef366: folds 
+holsten_fold: calls 329
+*** FLOP *** [3s 8d Js]
+holsten_fold: bets 509 and is all-in
+ZSU-TO: calls 509
+*** TURN *** [3s 8d Js] [2h]
+*** RIVER *** [3s 8d Js 2h] [7h]
+*** SHOW DOWN ***
+holsten_fold: shows [Ah 8s] (a pair of Eights)
+ZSU-TO: shows [Jc Jh] (three of a kind, Jacks)
+ZSU-TO collected 2005 from pot
+holsten_fold finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 2005 | Rake 0 
+Board [3s 8d Js 2h 7h]
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 2: holsten_fold showed [Ah 8s] and lost with a pair of Eights
+Seat 3: ZSU-TO showed [Jc Jh] and won (2005) with three of a kind, Jacks
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt (button) folded before Flop (didn't bet)
+Seat 6: bullets685 (small blind) folded before Flop
+Seat 7: alef366 (big blind) folded before Flop
+Seat 8: Dephi80 folded before Flop (didn't bet)
+Seat 9: berlin1888 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428090597: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/17 19:32:42 CUST [2026/10/17 14:32:42 ET]
+Table '4040449976 1' 9-max Seat #6 is the button
+Seat 1: CADILLACJET (1497 in chips) 
+Seat 3: ZSU-TO (3025 in chips) 
+Seat 4: antoray89 (1176 in chips) 
+Seat 5: rehakzsolt (1278 in chips) 
+Seat 6: bullets685 (1870 in chips) 
+Seat 7: alef366 (561 in chips) 
+Seat 8: Dephi80 (1909 in chips) 
+Seat 9: berlin1888 (2184 in chips) 
+CADILLACJET: posts the ante 6
+ZSU-TO: posts the ante 6
+antoray89: posts the ante 6
+rehakzsolt: posts the ante 6
+bullets685: posts the ante 6
+alef366: posts the ante 6
+Dephi80: posts the ante 6
+berlin1888: posts the ante 6
+alef366: posts small blind 25
+Dephi80: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Th Ks]
+berlin1888: raises 100 to 150
+CADILLACJET: folds 
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: calls 150
+alef366: folds 
+Dephi80: calls 100
+*** FLOP *** [5h 3c 6s]
+Dephi80: checks 
+berlin1888: bets 150
+bullets685: calls 150
+Dephi80: calls 150
+*** TURN *** [5h 3c 6s] [6h]
+Dephi80: checks 
+berlin1888: bets 200
+bullets685: folds 
+Dephi80: calls 200
+*** RIVER *** [5h 3c 6s 6h] [Qh]
+Dephi80: checks 
+berlin1888: checks 
+*** SHOW DOWN ***
+Dephi80: shows [4c Ac] (a pair of Sixes)
+berlin1888: mucks hand 
+Dephi80 collected 1373 from pot
+*** SUMMARY ***
+Total pot 1373 | Rake 0 
+Board [5h 3c 6s 6h Qh]
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 (button) folded on the Turn
+Seat 7: alef366 (small blind) folded before Flop
+Seat 8: Dephi80 (big blind) showed [4c Ac] and won (1373) with a pair of Sixes
+Seat 9: berlin1888 mucked [Kc Jh]
+
+
+
+Betfair Hand #262428107199: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/17 19:34:10 CUST [2026/10/17 14:34:10 ET]
+Table '4040449976 1' 9-max Seat #7 is the button
+Seat 1: CADILLACJET (1491 in chips) 
+Seat 3: ZSU-TO (3019 in chips) 
+Seat 4: antoray89 (1170 in chips) 
+Seat 5: rehakzsolt (1272 in chips) 
+Seat 6: bullets685 (1564 in chips) 
+Seat 7: alef366 (530 in chips) 
+Seat 8: Dephi80 (2776 in chips) 
+Seat 9: berlin1888 (1678 in chips) 
+CADILLACJET: posts the ante 6
+ZSU-TO: posts the ante 6
+antoray89: posts the ante 6
+rehakzsolt: posts the ante 6
+bullets685: posts the ante 6
+alef366: posts the ante 6
+Dephi80: posts the ante 6
+berlin1888: posts the ante 6
+Dephi80: posts small blind 25
+berlin1888: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [9h Qd]
+CADILLACJET: raises 50 to 100
+ZSU-TO: folds 
+antoray89: calls 100
+rehakzsolt: folds 
+bullets685: folds 
+alef366: folds 
+Dephi80: folds 
+berlin1888: calls 50
+*** FLOP *** [Ts 5d 2h]
+berlin1888: bets 50
+CADILLACJET: calls 50
+antoray89: raises 1014 to 1064 and is all-in
+berlin1888: folds 
+CADILLACJET: folds 
+Uncalled bet (1014) returned to antoray89
+antoray89 collected 523 from pot
+*** SUMMARY ***
+Total pot 523 | Rake 0 
+Board [Ts 5d 2h]
+Seat 1: CADILLACJET folded on the Flop
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 collected (523)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 7: alef366 (button) folded before Flop (didn't bet)
+Seat 8: Dephi80 (small blind) folded before Flop
+Seat 9: berlin1888 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262428116714: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/17 19:35:00 CUST [2026/10/17 14:35:00 ET]
+Table '4040449976 1' 9-max Seat #8 is the button
+Seat 1: CADILLACJET (1335 in chips) 
+Seat 3: ZSU-TO (3013 in chips) 
+Seat 4: antoray89 (1537 in chips) 
+Seat 5: rehakzsolt (1266 in chips) 
+Seat 6: bullets685 (1558 in chips) 
+Seat 7: alef366 (524 in chips) 
+Seat 8: Dephi80 (2745 in chips) 
+Seat 9: berlin1888 (1522 in chips) 
+CADILLACJET: posts the ante 10
+ZSU-TO: posts the ante 10
+antoray89: posts the ante 10
+rehakzsolt: posts the ante 10
+bullets685: posts the ante 10
+alef366: posts the ante 10
+Dephi80: posts the ante 10
+berlin1888: posts the ante 10
+berlin1888: posts small blind 40
+CADILLACJET: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [6s Td]
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: folds 
+alef366: folds 
+Dephi80: folds 
+berlin1888: raises 80 to 160
+CADILLACJET: calls 80
+*** FLOP *** [7s 8h 8c]
+berlin1888: bets 160
+CADILLACJET: folds 
+Uncalled bet (160) returned to berlin1888
+berlin1888 collected 400 from pot
+berlin1888: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [7s 8h 8c]
+Seat 1: CADILLACJET (big blind) folded on the Flop
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 (button) folded before Flop (didn't bet)
+Seat 9: berlin1888 (small blind) collected (400)
+
+
+
+Betfair Hand #262428123029: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/17 19:35:34 CUST [2026/10/17 14:35:34 ET]
+Table '4040449976 1' 9-max Seat #9 is the button
+Seat 1: CADILLACJET (1165 in chips) 
+Seat 3: ZSU-TO (3003 in chips) 
+Seat 4: antoray89 (1527 in chips) 
+Seat 5: rehakzsolt (1256 in chips) 
+Seat 6: bullets685 (1548 in chips) 
+Seat 7: alef366 (514 in chips) 
+Seat 8: Dephi80 (2735 in chips) 
+Seat 9: berlin1888 (1752 in chips) 
+CADILLACJET: posts the ante 10
+ZSU-TO: posts the ante 10
+antoray89: posts the ante 10
+rehakzsolt: posts the ante 10
+bullets685: posts the ante 10
+alef366: posts the ante 10
+Dephi80: posts the ante 10
+berlin1888: posts the ante 10
+CADILLACJET: posts small blind 40
+ZSU-TO: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh Th]
+antoray89: calls 80
+rehakzsolt: folds 
+bullets685: raises 160 to 240
+alef366: raises 264 to 504 and is all-in
+Dephi80: folds 
+berlin1888: folds 
+CADILLACJET: folds 
+ZSU-TO: folds 
+antoray89: folds 
+bullets685: calls 264
+*** FLOP *** [4h 6d 8h]
+*** TURN *** [4h 6d 8h] [Ad]
+*** RIVER *** [4h 6d 8h Ad] [7d]
+*** SHOW DOWN ***
+bullets685: shows [Qh Th] (high card Ace)
+alef366: shows [Tc Td] (a pair of Tens)
+alef366 collected 1288 from pot
+*** SUMMARY ***
+Total pot 1288 | Rake 0 
+Board [4h 6d 8h Ad 7d]
+Seat 1: CADILLACJET (small blind) folded before Flop
+Seat 3: ZSU-TO (big blind) folded before Flop
+Seat 4: antoray89 folded before Flop
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 showed [Qh Th] and lost with high card Ace
+Seat 7: alef366 showed [Tc Td] and won (1288) with a pair of Tens
+Seat 8: Dephi80 folded before Flop (didn't bet)
+Seat 9: berlin1888 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428134892: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/17 19:36:38 CUST [2026/10/17 14:36:38 ET]
+Table '4040449976 1' 9-max Seat #1 is the button
+Seat 1: CADILLACJET (1115 in chips) 
+Seat 3: ZSU-TO (2913 in chips) 
+Seat 4: antoray89 (1437 in chips) 
+Seat 5: rehakzsolt (1246 in chips) 
+Seat 6: bullets685 (1034 in chips) 
+Seat 7: alef366 (1288 in chips) 
+Seat 8: Dephi80 (2725 in chips) 
+Seat 9: berlin1888 (1742 in chips) 
+CADILLACJET: posts the ante 10
+ZSU-TO: posts the ante 10
+antoray89: posts the ante 10
+rehakzsolt: posts the ante 10
+bullets685: posts the ante 10
+alef366: posts the ante 10
+Dephi80: posts the ante 10
+berlin1888: posts the ante 10
+ZSU-TO: posts small blind 40
+antoray89: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [7c Qc]
+rehakzsolt: folds 
+bullets685: raises 80 to 160
+alef366: folds 
+Dephi80: raises 520 to 680
+berlin1888: folds 
+CADILLACJET: folds 
+ZSU-TO: folds 
+antoray89: calls 600
+bullets685: folds 
+*** FLOP *** [Tc 3s Qh]
+antoray89: bets 747 and is all-in
+Dephi80: calls 747
+*** TURN *** [Tc 3s Qh] [Js]
+*** RIVER *** [Tc 3s Qh Js] [3d]
+*** SHOW DOWN ***
+antoray89: shows [Th Kh] (two pair, Tens and Threes)
+Dephi80: shows [9d 9s] (two pair, Nines and Threes)
+antoray89 collected 3134 from pot
+*** SUMMARY ***
+Total pot 3134 | Rake 0 
+Board [Tc 3s Qh Js 3d]
+Seat 1: CADILLACJET (button) folded before Flop (didn't bet)
+Seat 3: ZSU-TO (small blind) folded before Flop
+Seat 4: antoray89 (big blind) showed [Th Kh] and won (3134) with two pair, Tens and Threes
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded before Flop
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 showed [9d 9s] and lost with two pair, Nines and Threes
+Seat 9: berlin1888 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428141506: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/17 19:37:13 CUST [2026/10/17 14:37:13 ET]
+Table '4040449976 1' 9-max Seat #3 is the button
+Seat 1: CADILLACJET (1105 in chips) 
+Seat 3: ZSU-TO (2863 in chips) 
+Seat 4: antoray89 (3134 in chips) 
+Seat 5: rehakzsolt (1236 in chips) 
+Seat 6: bullets685 (864 in chips) 
+Seat 7: alef366 (1278 in chips) 
+Seat 8: Dephi80 (1288 in chips) 
+Seat 9: berlin1888 (1732 in chips) 
+CADILLACJET: posts the ante 10
+ZSU-TO: posts the ante 10
+antoray89: posts the ante 10
+rehakzsolt: posts the ante 10
+bullets685: posts the ante 10
+alef366: posts the ante 10
+Dephi80: posts the ante 10
+berlin1888: posts the ante 10
+antoray89: posts small blind 40
+rehakzsolt: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd 5h]
+bullets685: folds 
+alef366: folds 
+Dephi80: folds 
+berlin1888: raises 160 to 240
+CADILLACJET: folds 
+ZSU-TO: folds 
+antoray89 has timed out
+antoray89: folds 
+antoray89 is sitting out
+rehakzsolt: folds 
+Uncalled bet (160) returned to berlin1888
+berlin1888 collected 280 from pot
+berlin1888: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 3: ZSU-TO (button) folded before Flop (didn't bet)
+Seat 4: antoray89 (small blind) folded before Flop
+Seat 5: rehakzsolt (big blind) folded before Flop
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop (didn't bet)
+Seat 9: berlin1888 collected (280)
+
+
+
+Betfair Hand #262428149594: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/17 19:37:56 CUST [2026/10/17 14:37:56 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 1: CADILLACJET (1095 in chips) 
+Seat 3: ZSU-TO (2853 in chips) 
+Seat 4: antoray89 (3084 in chips) is sitting out
+Seat 5: rehakzsolt (1146 in chips) 
+Seat 6: bullets685 (854 in chips) 
+Seat 7: alef366 (1268 in chips) 
+Seat 8: Dephi80 (1278 in chips) 
+Seat 9: berlin1888 (1922 in chips) 
+CADILLACJET: posts the ante 10
+ZSU-TO: posts the ante 10
+antoray89: posts the ante 10
+rehakzsolt: posts the ante 10
+bullets685: posts the ante 10
+alef366: posts the ante 10
+Dephi80: posts the ante 10
+berlin1888: posts the ante 10
+rehakzsolt: posts small blind 40
+bullets685: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [As 8s]
+alef366: folds 
+Dephi80: folds 
+berlin1888: folds 
+antoray89 has returned
+CADILLACJET: folds 
+ZSU-TO: folds 
+antoray89: calls 80
+rehakzsolt: calls 40
+bullets685: raises 764 to 844 and is all-in
+antoray89: folds 
+rehakzsolt: folds 
+Uncalled bet (764) returned to bullets685
+bullets685 collected 320 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 (button) folded before Flop
+Seat 5: rehakzsolt (small blind) folded before Flop
+Seat 6: bullets685 (big blind) collected (320)
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop (didn't bet)
+Seat 9: berlin1888 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428158687: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/17 19:38:44 CUST [2026/10/17 14:38:44 ET]
+Table '4040449976 1' 9-max Seat #5 is the button
+Seat 1: CADILLACJET (1085 in chips) 
+Seat 3: ZSU-TO (2843 in chips) 
+Seat 4: antoray89 (2994 in chips) 
+Seat 5: rehakzsolt (1056 in chips) 
+Seat 6: bullets685 (1084 in chips) 
+Seat 7: alef366 (1258 in chips) 
+Seat 8: Dephi80 (1268 in chips) 
+Seat 9: berlin1888 (1912 in chips) 
+CADILLACJET: posts the ante 10
+ZSU-TO: posts the ante 10
+antoray89: posts the ante 10
+rehakzsolt: posts the ante 10
+bullets685: posts the ante 10
+alef366: posts the ante 10
+Dephi80: posts the ante 10
+berlin1888: posts the ante 10
+bullets685: posts small blind 40
+alef366: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [8s 6d]
+Dephi80: folds 
+berlin1888: raises 80 to 160
+CADILLACJET: folds 
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: folds 
+alef366: calls 80
+*** FLOP *** [3d Td 4d]
+alef366: checks 
+berlin1888: bets 160
+alef366: folds 
+Uncalled bet (160) returned to berlin1888
+berlin1888 collected 440 from pot
+berlin1888: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [3d Td 4d]
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt (button) folded before Flop (didn't bet)
+Seat 6: bullets685 (small blind) folded before Flop
+Seat 7: alef366 (big blind) folded on the Flop
+Seat 8: Dephi80 folded before Flop (didn't bet)
+Seat 9: berlin1888 collected (440)
+
+
+
+Betfair Hand #262428167867: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/17 19:39:33 CUST [2026/10/17 14:39:33 ET]
+Table '4040449976 1' 9-max Seat #6 is the button
+Seat 1: CADILLACJET (1075 in chips) 
+Seat 3: ZSU-TO (2833 in chips) 
+Seat 4: antoray89 (2984 in chips) 
+Seat 5: rehakzsolt (1046 in chips) 
+Seat 6: bullets685 (1034 in chips) 
+Seat 7: alef366 (1088 in chips) 
+Seat 8: Dephi80 (1258 in chips) 
+Seat 9: berlin1888 (2182 in chips) 
+CADILLACJET: posts the ante 10
+ZSU-TO: posts the ante 10
+antoray89: posts the ante 10
+rehakzsolt: posts the ante 10
+bullets685: posts the ante 10
+alef366: posts the ante 10
+Dephi80: posts the ante 10
+berlin1888: posts the ante 10
+alef366: posts small blind 40
+Dephi80: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 6d]
+berlin1888: raises 80 to 160
+CADILLACJET: folds 
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: calls 160
+alef366: folds 
+Dephi80: folds 
+*** FLOP *** [7d 9d 5s]
+berlin1888: bets 160
+bullets685: raises 704 to 864 and is all-in
+berlin1888: calls 704
+*** TURN *** [7d 9d 5s] [3c]
+*** RIVER *** [7d 9d 5s 3c] [3d]
+*** SHOW DOWN ***
+berlin1888: shows [Kh Ks] (two pair, Kings and Threes)
+bullets685: shows [Ad 6d] (a flush, Ace high)
+bullets685 collected 2248 from pot
+*** SUMMARY ***
+Total pot 2248 | Rake 0 
+Board [7d 9d 5s 3c 3d]
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 (button) showed [Ad 6d] and won (2248) with a flush, Ace high
+Seat 7: alef366 (small blind) folded before Flop
+Seat 8: Dephi80 (big blind) folded before Flop
+Seat 9: berlin1888 showed [Kh Ks] and lost with two pair, Kings and Threes
+
+
+
+Betfair Hand #262428179351: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/17 19:40:35 CUST [2026/10/17 14:40:35 ET]
+Table '4040449976 1' 9-max Seat #7 is the button
+Seat 1: CADILLACJET (1065 in chips) 
+Seat 3: ZSU-TO (2823 in chips) 
+Seat 4: antoray89 (2974 in chips) 
+Seat 5: rehakzsolt (1036 in chips) 
+Seat 6: bullets685 (2248 in chips) 
+Seat 7: alef366 (1038 in chips) 
+Seat 8: Dephi80 (1168 in chips) 
+Seat 9: berlin1888 (1148 in chips) 
+CADILLACJET: posts the ante 15
+ZSU-TO: posts the ante 15
+antoray89: posts the ante 15
+rehakzsolt: posts the ante 15
+bullets685: posts the ante 15
+alef366: posts the ante 15
+Dephi80: posts the ante 15
+berlin1888: posts the ante 15
+Dephi80: posts small blind 60
+berlin1888: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 7d]
+CADILLACJET: folds 
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: raises 120 to 240
+alef366: folds 
+Dephi80: folds 
+berlin1888: calls 120
+*** FLOP *** [5d 9s 4h]
+berlin1888: bets 120
+bullets685: calls 120
+*** TURN *** [5d 9s 4h] [6s]
+berlin1888: bets 240
+bullets685: calls 240
+*** RIVER *** [5d 9s 4h 6s] [Js]
+berlin1888: bets 240
+bullets685: raises 1393 to 1633 and is all-in
+berlin1888: calls 293 and is all-in
+Uncalled bet (1100) returned to bullets685
+*** SHOW DOWN ***
+bullets685: shows [Ad 7d] (high card Ace)
+berlin1888: shows [3c Qh] (high card Queen)
+bullets685 collected 2446 from pot
+berlin1888 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 2446 | Rake 0 
+Board [5d 9s 4h 6s Js]
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 showed [Ad 7d] and won (2446) with high card Ace
+Seat 7: alef366 (button) folded before Flop (didn't bet)
+Seat 8: Dephi80 (small blind) folded before Flop
+Seat 9: berlin1888 (big blind) showed [3c Qh] and lost with high card Queen
+
+
+
+Betfair Hand #262428193485: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/17 19:41:51 CUST [2026/10/17 14:41:51 ET]
+Table '4040449976 1' 9-max Seat #8 is the button
+Seat 1: CADILLACJET (1050 in chips) 
+Seat 3: ZSU-TO (2808 in chips) 
+Seat 4: antoray89 (2959 in chips) 
+Seat 5: rehakzsolt (1021 in chips) 
+Seat 6: bullets685 (3546 in chips) 
+Seat 7: alef366 (1023 in chips) 
+Seat 8: Dephi80 (1093 in chips) 
+CADILLACJET: posts the ante 15
+ZSU-TO: posts the ante 15
+antoray89: posts the ante 15
+rehakzsolt: posts the ante 15
+bullets685: posts the ante 15
+alef366: posts the ante 15
+Dephi80: posts the ante 15
+CADILLACJET: posts small blind 60
+ZSU-TO: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [As 9d]
+antoray89 has timed out
+antoray89: folds 
+antoray89 is sitting out
+antoray89 has returned
+rehakzsolt: raises 886 to 1006 and is all-in
+bullets685: folds 
+alef366: folds 
+Dephi80: folds 
+CADILLACJET: folds 
+ZSU-TO: folds 
+Uncalled bet (886) returned to rehakzsolt
+rehakzsolt collected 405 from pot
+rehakzsolt: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: CADILLACJET (small blind) folded before Flop
+Seat 3: ZSU-TO (big blind) folded before Flop
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt collected (405)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428198072: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/17 19:42:16 CUST [2026/10/17 14:42:16 ET]
+Table '4040449976 1' 9-max Seat #1 is the button
+Seat 1: CADILLACJET (975 in chips) 
+Seat 3: ZSU-TO (2673 in chips) 
+Seat 4: antoray89 (2944 in chips) 
+Seat 5: rehakzsolt (1291 in chips) 
+Seat 6: bullets685 (3531 in chips) 
+Seat 7: alef366 (1008 in chips) 
+Seat 8: Dephi80 (1078 in chips) 
+CADILLACJET: posts the ante 15
+ZSU-TO: posts the ante 15
+antoray89: posts the ante 15
+rehakzsolt: posts the ante 15
+bullets685: posts the ante 15
+alef366: posts the ante 15
+Dephi80: posts the ante 15
+ZSU-TO: posts small blind 60
+antoray89: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [9d 5d]
+rehakzsolt: folds 
+bullets685: folds 
+alef366: folds 
+Dephi80: raises 405 to 525
+CADILLACJET: folds 
+ZSU-TO: folds 
+antoray89 has timed out
+antoray89: folds 
+antoray89 is sitting out
+Uncalled bet (405) returned to Dephi80
+Dephi80 collected 405 from pot
+Dephi80: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: CADILLACJET (button) folded before Flop (didn't bet)
+Seat 3: ZSU-TO (small blind) folded before Flop
+Seat 4: antoray89 (big blind) folded before Flop
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 collected (405)
+
+
+
+Betfair Hand #262428204107: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/17 19:42:49 CUST [2026/10/17 14:42:49 ET]
+Table '4040449976 1' 9-max Seat #3 is the button
+Seat 1: CADILLACJET (960 in chips) 
+Seat 3: ZSU-TO (2598 in chips) 
+Seat 4: antoray89 (2809 in chips) is sitting out
+Seat 5: rehakzsolt (1276 in chips) 
+Seat 6: bullets685 (3516 in chips) 
+Seat 7: alef366 (993 in chips) 
+Seat 8: Dephi80 (1348 in chips) 
+CADILLACJET: posts the ante 15
+ZSU-TO: posts the ante 15
+antoray89: posts the ante 15
+rehakzsolt: posts the ante 15
+bullets685: posts the ante 15
+alef366: posts the ante 15
+Dephi80: posts the ante 15
+antoray89: posts small blind 60
+rehakzsolt: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [6h 3s]
+antoray89 has returned
+bullets685: folds 
+alef366: folds 
+Dephi80: folds 
+CADILLACJET: folds 
+ZSU-TO: folds 
+antoray89: calls 60
+rehakzsolt: raises 1141 to 1261 and is all-in
+antoray89: folds 
+Uncalled bet (1141) returned to rehakzsolt
+rehakzsolt collected 345 from pot
+rehakzsolt: doesn't show hand 
+*** SUMMARY ***
+Total pot 345 | Rake 0 
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 3: ZSU-TO (button) folded before Flop (didn't bet)
+Seat 4: antoray89 (small blind) folded before Flop
+Seat 5: rehakzsolt (big blind) collected (345)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428211803: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/17 19:43:30 CUST [2026/10/17 14:43:30 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 1: CADILLACJET (945 in chips) 
+Seat 3: ZSU-TO (2583 in chips) 
+Seat 4: antoray89 (2674 in chips) 
+Seat 5: rehakzsolt (1486 in chips) 
+Seat 6: bullets685 (3501 in chips) 
+Seat 7: alef366 (978 in chips) 
+Seat 8: Dephi80 (1333 in chips) 
+CADILLACJET: posts the ante 15
+ZSU-TO: posts the ante 15
+antoray89: posts the ante 15
+rehakzsolt: posts the ante 15
+bullets685: posts the ante 15
+alef366: posts the ante 15
+Dephi80: posts the ante 15
+rehakzsolt: posts small blind 60
+bullets685: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Js 7h]
+alef366: folds 
+Dephi80: folds 
+CADILLACJET: folds 
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: raises 1351 to 1471 and is all-in
+bullets685: folds 
+Uncalled bet (1351) returned to rehakzsolt
+rehakzsolt collected 345 from pot
+rehakzsolt: doesn't show hand 
+*** SUMMARY ***
+Total pot 345 | Rake 0 
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 (button) folded before Flop (didn't bet)
+Seat 5: rehakzsolt (small blind) collected (345)
+Seat 6: bullets685 (big blind) folded before Flop
+Seat 7: alef366 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428216624: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/17 19:43:56 CUST [2026/10/17 14:43:56 ET]
+Table '4040449976 1' 9-max Seat #5 is the button
+Seat 1: CADILLACJET (930 in chips) 
+Seat 3: ZSU-TO (2568 in chips) 
+Seat 4: antoray89 (2659 in chips) 
+Seat 5: rehakzsolt (1696 in chips) 
+Seat 6: bullets685 (3366 in chips) 
+Seat 7: alef366 (963 in chips) 
+Seat 8: Dephi80 (1318 in chips) 
+CADILLACJET: posts the ante 15
+ZSU-TO: posts the ante 15
+antoray89: posts the ante 15
+rehakzsolt: posts the ante 15
+bullets685: posts the ante 15
+alef366: posts the ante 15
+Dephi80: posts the ante 15
+bullets685: posts small blind 60
+alef366: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [4d Kh]
+Dephi80: folds 
+CADILLACJET: folds 
+ZSU-TO: raises 240 to 360
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: folds 
+alef366: raises 588 to 948 and is all-in
+ZSU-TO: calls 588
+*** FLOP *** [As Qh 5d]
+*** TURN *** [As Qh 5d] [6h]
+*** RIVER *** [As Qh 5d 6h] [8s]
+*** SHOW DOWN ***
+alef366: shows [Td Tc] (a pair of Tens)
+ZSU-TO: shows [6s 6c] (three of a kind, Sixes)
+ZSU-TO collected 2061 from pot
+alef366 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 2061 | Rake 0 
+Board [As Qh 5d 6h 8s]
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 3: ZSU-TO showed [6s 6c] and won (2061) with three of a kind, Sixes
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt (button) folded before Flop (didn't bet)
+Seat 6: bullets685 (small blind) folded before Flop
+Seat 7: alef366 (big blind) showed [Td Tc] and lost with a pair of Tens
+Seat 8: Dephi80 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428223853: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/17 19:44:36 CUST [2026/10/17 14:44:36 ET]
+Table '4040449976 1' 9-max Seat #6 is the button
+Seat 1: CADILLACJET (915 in chips) 
+Seat 3: ZSU-TO (3666 in chips) 
+Seat 4: antoray89 (2644 in chips) 
+Seat 5: rehakzsolt (1681 in chips) 
+Seat 6: bullets685 (3291 in chips) 
+Seat 8: Dephi80 (1303 in chips) 
+CADILLACJET: posts the ante 15
+ZSU-TO: posts the ante 15
+antoray89: posts the ante 15
+rehakzsolt: posts the ante 15
+bullets685: posts the ante 15
+Dephi80: posts the ante 15
+Dephi80: posts small blind 60
+CADILLACJET: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [4h As]
+ZSU-TO: raises 240 to 360
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: folds 
+Dephi80: raises 928 to 1288 and is all-in
+CADILLACJET: folds 
+ZSU-TO: folds 
+Uncalled bet (928) returned to Dephi80
+Dephi80 collected 930 from pot
+Dephi80: doesn't show hand 
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Seat 1: CADILLACJET (big blind) folded before Flop
+Seat 3: ZSU-TO folded before Flop
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: Dephi80 (small blind) collected (930)
+
+
+
+Betfair Hand #262428230217: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/17 19:45:10 CUST [2026/10/17 14:45:10 ET]
+Table '4040449976 1' 9-max Seat #8 is the button
+Seat 1: CADILLACJET (780 in chips) 
+Seat 3: ZSU-TO (3291 in chips) 
+Seat 4: antoray89 (2629 in chips) 
+Seat 5: rehakzsolt (1666 in chips) 
+Seat 6: bullets685 (3276 in chips) 
+Seat 8: Dephi80 (1858 in chips) 
+CADILLACJET: posts the ante 20
+ZSU-TO: posts the ante 20
+antoray89: posts the ante 20
+rehakzsolt: posts the ante 20
+bullets685: posts the ante 20
+Dephi80: posts the ante 20
+CADILLACJET: posts small blind 80
+ZSU-TO: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [2s 7s]
+antoray89 has timed out
+antoray89: folds 
+antoray89 is sitting out
+antoray89 has returned
+rehakzsolt: folds 
+bullets685: folds 
+Dephi80: folds 
+CADILLACJET: folds 
+Uncalled bet (80) returned to ZSU-TO
+ZSU-TO collected 280 from pot
+ZSU-TO: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: CADILLACJET (small blind) folded before Flop
+Seat 3: ZSU-TO (big blind) collected (280)
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 8: Dephi80 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428235363: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/17 19:45:38 CUST [2026/10/17 14:45:38 ET]
+Table '4040449976 1' 9-max Seat #1 is the button
+Seat 1: CADILLACJET (680 in chips) 
+Seat 3: ZSU-TO (3471 in chips) 
+Seat 4: antoray89 (2609 in chips) 
+Seat 5: rehakzsolt (1646 in chips) 
+Seat 6: bullets685 (3256 in chips) 
+Seat 8: Dephi80 (1838 in chips) 
+CADILLACJET: posts the ante 20
+ZSU-TO: posts the ante 20
+antoray89: posts the ante 20
+rehakzsolt: posts the ante 20
+bullets685: posts the ante 20
+Dephi80: posts the ante 20
+ZSU-TO: posts small blind 80
+antoray89: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Jd Ts]
+rehakzsolt: folds 
+bullets685: folds 
+Dephi80: folds 
+CADILLACJET: folds 
+ZSU-TO: raises 320 to 480
+antoray89 has timed out
+antoray89: folds 
+antoray89 is sitting out
+Uncalled bet (320) returned to ZSU-TO
+ZSU-TO collected 440 from pot
+ZSU-TO: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Seat 1: CADILLACJET (button) folded before Flop (didn't bet)
+Seat 3: ZSU-TO (small blind) collected (440)
+Seat 4: antoray89 (big blind) folded before Flop
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428240736: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/17 19:46:07 CUST [2026/10/17 14:46:07 ET]
+Table '4040449976 1' 9-max Seat #3 is the button
+Seat 1: CADILLACJET (660 in chips) 
+Seat 3: ZSU-TO (3731 in chips) 
+Seat 4: antoray89 (2429 in chips) is sitting out
+Seat 5: rehakzsolt (1626 in chips) 
+Seat 6: bullets685 (3236 in chips) 
+Seat 8: Dephi80 (1818 in chips) 
+CADILLACJET: posts the ante 20
+ZSU-TO: posts the ante 20
+antoray89: posts the ante 20
+rehakzsolt: posts the ante 20
+bullets685: posts the ante 20
+Dephi80: posts the ante 20
+antoray89: posts small blind 80
+rehakzsolt: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks 6c]
+bullets685: folds 
+Dephi80: raises 520 to 680
+CADILLACJET: folds 
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: folds 
+Uncalled bet (520) returned to Dephi80
+Dephi80 collected 520 from pot
+Dephi80: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: CADILLACJET folded before Flop (didn't bet)
+Seat 3: ZSU-TO (button) folded before Flop (didn't bet)
+Seat 4: antoray89 (small blind) folded before Flop
+Seat 5: rehakzsolt (big blind) folded before Flop
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 8: Dephi80 collected (520)
+
+
+
+Betfair Hand #262428244412: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/17 19:46:26 CUST [2026/10/17 14:46:26 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 1: CADILLACJET (640 in chips) 
+Seat 3: ZSU-TO (3711 in chips) 
+Seat 4: antoray89 (2329 in chips) is sitting out
+Seat 5: rehakzsolt (1446 in chips) 
+Seat 6: bullets685 (3216 in chips) 
+Seat 8: Dephi80 (2158 in chips) 
+CADILLACJET: posts the ante 20
+ZSU-TO: posts the ante 20
+antoray89: posts the ante 20
+rehakzsolt: posts the ante 20
+bullets685: posts the ante 20
+Dephi80: posts the ante 20
+rehakzsolt: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [9d Th]
+Dephi80: folds 
+CADILLACJET: raises 460 to 620 and is all-in
+antoray89 has returned
+ZSU-TO: raises 460 to 1080
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: folds 
+Uncalled bet (460) returned to ZSU-TO
+*** FLOP *** [8d 7s 3d]
+*** TURN *** [8d 7s 3d] [5s]
+*** RIVER *** [8d 7s 3d 5s] [8h]
+*** SHOW DOWN ***
+CADILLACJET: shows [Ad 2h] (a pair of Eights)
+ZSU-TO: shows [As Qd] (a pair of Eights - Ace+Queen kicker)
+ZSU-TO collected 1600 from pot
+CADILLACJET finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [8d 7s 3d 5s 8h]
+Seat 1: CADILLACJET showed [Ad 2h] and lost with a pair of Eights
+Seat 3: ZSU-TO showed [As Qd] and won (1600) with a pair of Eights
+Seat 4: antoray89 (button) folded before Flop (didn't bet)
+Seat 5: rehakzsolt (small blind) folded before Flop
+Seat 6: bullets685 (big blind) folded before Flop
+Seat 8: Dephi80 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428249870: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/17 19:46:55 CUST [2026/10/17 14:46:55 ET]
+Table '4040449976 1' 9-max Seat #5 is the button
+Seat 3: ZSU-TO (4671 in chips) 
+Seat 4: antoray89 (2309 in chips) 
+Seat 5: rehakzsolt (1346 in chips) 
+Seat 6: bullets685 (3036 in chips) 
+Seat 8: Dephi80 (2138 in chips) 
+ZSU-TO: posts the ante 20
+antoray89: posts the ante 20
+rehakzsolt: posts the ante 20
+bullets685: posts the ante 20
+Dephi80: posts the ante 20
+bullets685: posts small blind 80
+Dephi80: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah Kc]
+ZSU-TO: raises 160 to 320
+antoray89: folds 
+rehakzsolt: raises 480 to 800
+bullets685: raises 2216 to 3016 and is all-in
+Dephi80: folds 
+ZSU-TO: folds 
+rehakzsolt: calls 526 and is all-in
+Uncalled bet (1690) returned to bullets685
+*** FLOP *** [3h 6d 8h]
+*** TURN *** [3h 6d 8h] [Jh]
+*** RIVER *** [3h 6d 8h Jh] [3s]
+*** SHOW DOWN ***
+bullets685: shows [Ah Kc] (a pair of Threes)
+rehakzsolt: shows [Ac Ad] (two pair, Aces and Threes)
+rehakzsolt collected 3232 from pot
+*** SUMMARY ***
+Total pot 3232 | Rake 0 
+Board [3h 6d 8h Jh 3s]
+Seat 3: ZSU-TO folded before Flop
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt (button) showed [Ac Ad] and won (3232) with two pair, Aces and Threes
+Seat 6: bullets685 (small blind) showed [Ah Kc] and lost with a pair of Threes
+Seat 8: Dephi80 (big blind) folded before Flop
+
+
+
+Betfair Hand #262428260543: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/17 19:47:53 CUST [2026/10/17 14:47:53 ET]
+Table '4040449976 1' 9-max Seat #6 is the button
+Seat 3: ZSU-TO (4331 in chips) 
+Seat 4: antoray89 (2289 in chips) 
+Seat 5: rehakzsolt (3232 in chips) 
+Seat 6: bullets685 (1690 in chips) 
+Seat 8: Dephi80 (1958 in chips) 
+ZSU-TO: posts the ante 20
+antoray89: posts the ante 20
+rehakzsolt: posts the ante 20
+bullets685: posts the ante 20
+Dephi80: posts the ante 20
+Dephi80: posts small blind 80
+ZSU-TO: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [9c Ah]
+antoray89: calls 160
+rehakzsolt: folds 
+bullets685: raises 1510 to 1670 and is all-in
+Dephi80: folds 
+ZSU-TO: folds 
+antoray89: folds 
+Uncalled bet (1510) returned to bullets685
+bullets685 collected 660 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Seat 3: ZSU-TO (big blind) folded before Flop
+Seat 4: antoray89 folded before Flop
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 (button) collected (660)
+Seat 8: Dephi80 (small blind) folded before Flop
+
+
+
+Betfair Hand #262428266757: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/17 19:48:26 CUST [2026/10/17 14:48:26 ET]
+Table '4040449976 1' 9-max Seat #8 is the button
+Seat 3: ZSU-TO (4151 in chips) 
+Seat 4: antoray89 (2109 in chips) 
+Seat 5: rehakzsolt (3212 in chips) 
+Seat 6: bullets685 (2170 in chips) 
+Seat 8: Dephi80 (1858 in chips) 
+ZSU-TO: posts the ante 20
+antoray89: posts the ante 20
+rehakzsolt: posts the ante 20
+bullets685: posts the ante 20
+Dephi80: posts the ante 20
+ZSU-TO: posts small blind 80
+antoray89: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [5c Qs]
+rehakzsolt: folds 
+bullets685: folds 
+Dephi80: folds 
+ZSU-TO: folds 
+Uncalled bet (80) returned to antoray89
+antoray89 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 3: ZSU-TO (small blind) folded before Flop
+Seat 4: antoray89 (big blind) collected (260)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 8: Dephi80 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428269586: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/17 19:48:41 CUST [2026/10/17 14:48:41 ET]
+Table '4040449976 1' 9-max Seat #3 is the button
+Seat 3: ZSU-TO (4051 in chips) 
+Seat 4: antoray89 (2269 in chips) 
+Seat 5: rehakzsolt (3192 in chips) 
+Seat 6: bullets685 (2150 in chips) 
+Seat 8: Dephi80 (1838 in chips) 
+ZSU-TO: posts the ante 20
+antoray89: posts the ante 20
+rehakzsolt: posts the ante 20
+bullets685: posts the ante 20
+Dephi80: posts the ante 20
+antoray89: posts small blind 80
+rehakzsolt: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [9d 5d]
+bullets685: folds 
+Dephi80: raises 1658 to 1818 and is all-in
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: folds 
+Uncalled bet (1658) returned to Dephi80
+Dephi80 collected 500 from pot
+Dephi80: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 3: ZSU-TO (button) folded before Flop (didn't bet)
+Seat 4: antoray89 (small blind) folded before Flop
+Seat 5: rehakzsolt (big blind) folded before Flop
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 8: Dephi80 collected (500)
+
+
+
+Betfair Hand #262428273925: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/17 19:49:05 CUST [2026/10/17 14:49:05 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 3: ZSU-TO (4031 in chips) 
+Seat 4: antoray89 (2169 in chips) 
+Seat 5: rehakzsolt (3012 in chips) 
+Seat 6: bullets685 (2130 in chips) 
+Seat 8: Dephi80 (2158 in chips) 
+ZSU-TO: posts the ante 20
+antoray89: posts the ante 20
+rehakzsolt: posts the ante 20
+bullets685: posts the ante 20
+Dephi80: posts the ante 20
+rehakzsolt: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Kc 9d]
+Dephi80: folds 
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: raises 2832 to 2992 and is all-in
+bullets685: folds 
+Uncalled bet (2832) returned to rehakzsolt
+rehakzsolt collected 420 from pot
+rehakzsolt: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 (button) folded before Flop (didn't bet)
+Seat 5: rehakzsolt (small blind) collected (420)
+Seat 6: bullets685 (big blind) folded before Flop
+Seat 8: Dephi80 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428278919: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/17 19:49:31 CUST [2026/10/17 14:49:31 ET]
+Table '4040449976 1' 9-max Seat #5 is the button
+Seat 3: ZSU-TO (4011 in chips) 
+Seat 4: antoray89 (2149 in chips) 
+Seat 5: rehakzsolt (3252 in chips) 
+Seat 6: bullets685 (1950 in chips) 
+Seat 8: Dephi80 (2138 in chips) 
+ZSU-TO: posts the ante 20
+antoray89: posts the ante 20
+rehakzsolt: posts the ante 20
+bullets685: posts the ante 20
+Dephi80: posts the ante 20
+bullets685: posts small blind 80
+Dephi80: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [5s 2s]
+ZSU-TO: raises 160 to 320
+antoray89: calls 320
+rehakzsolt: folds 
+bullets685: folds 
+Dephi80: folds 
+*** FLOP *** [6c 8s 7d]
+ZSU-TO: bets 480
+antoray89: raises 1329 to 1809 and is all-in
+ZSU-TO: folds 
+Uncalled bet (1329) returned to antoray89
+antoray89 collected 1940 from pot
+*** SUMMARY ***
+Total pot 1940 | Rake 0 
+Board [6c 8s 7d]
+Seat 3: ZSU-TO folded on the Flop
+Seat 4: antoray89 collected (1940)
+Seat 5: rehakzsolt (button) folded before Flop (didn't bet)
+Seat 6: bullets685 (small blind) folded before Flop
+Seat 8: Dephi80 (big blind) folded before Flop
+
+
+
+Betfair Hand #262428284769: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/17 19:50:02 CUST [2026/10/17 14:50:02 ET]
+Table '4040449976 1' 9-max Seat #6 is the button
+Seat 3: ZSU-TO (3191 in chips) 
+Seat 4: antoray89 (3269 in chips) 
+Seat 5: rehakzsolt (3232 in chips) 
+Seat 6: bullets685 (1850 in chips) 
+Seat 8: Dephi80 (1958 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+Dephi80: posts the ante 25
+Dephi80: posts small blind 100
+ZSU-TO: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [6s 9s]
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: folds 
+Dephi80: raises 525 to 725
+ZSU-TO: folds 
+Uncalled bet (525) returned to Dephi80
+Dephi80 collected 525 from pot
+Dephi80: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 3: ZSU-TO (big blind) folded before Flop
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: Dephi80 (small blind) collected (525)
+
+
+
+Betfair Hand #262428288766: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/17 19:50:23 CUST [2026/10/17 14:50:23 ET]
+Table '4040449976 1' 9-max Seat #8 is the button
+Seat 3: ZSU-TO (2966 in chips) 
+Seat 4: antoray89 (3244 in chips) 
+Seat 5: rehakzsolt (3207 in chips) 
+Seat 6: bullets685 (1825 in chips) 
+Seat 8: Dephi80 (2258 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+Dephi80: posts the ante 25
+ZSU-TO: posts small blind 100
+antoray89: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Td Ah]
+rehakzsolt: folds 
+bullets685: raises 1600 to 1800 and is all-in
+Dephi80: folds 
+ZSU-TO: folds 
+antoray89: folds 
+Uncalled bet (1600) returned to bullets685
+bullets685 collected 625 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Seat 3: ZSU-TO (small blind) folded before Flop
+Seat 4: antoray89 (big blind) folded before Flop
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 collected (625)
+Seat 8: Dephi80 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428292939: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/17 19:50:45 CUST [2026/10/17 14:50:45 ET]
+Table '4040449976 1' 9-max Seat #3 is the button
+Seat 3: ZSU-TO (2841 in chips) 
+Seat 4: antoray89 (3019 in chips) 
+Seat 5: rehakzsolt (3182 in chips) 
+Seat 6: bullets685 (2225 in chips) 
+Seat 8: Dephi80 (2233 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+Dephi80: posts the ante 25
+antoray89: posts small blind 100
+rehakzsolt: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [8s 8h]
+bullets685: raises 2000 to 2200 and is all-in
+Dephi80: folds 
+ZSU-TO: raises 616 to 2816 and is all-in
+antoray89: folds 
+rehakzsolt: folds 
+Uncalled bet (616) returned to ZSU-TO
+*** FLOP *** [Qd Ts 8c]
+*** TURN *** [Qd Ts 8c] [3c]
+*** RIVER *** [Qd Ts 8c 3c] [3s]
+*** SHOW DOWN ***
+bullets685: shows [8s 8h] (a full house, Eights full of Threes)
+ZSU-TO: shows [Qh Ah] (two pair, Queens and Threes)
+bullets685 collected 4825 from pot
+*** SUMMARY ***
+Total pot 4825 | Rake 0 
+Board [Qd Ts 8c 3c 3s]
+Seat 3: ZSU-TO (button) showed [Qh Ah] and lost with two pair, Queens and Threes
+Seat 4: antoray89 (small blind) folded before Flop
+Seat 5: rehakzsolt (big blind) folded before Flop
+Seat 6: bullets685 showed [8s 8h] and won (4825) with a full house, Eights full of Threes
+Seat 8: Dephi80 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428298338: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/17 19:51:13 CUST [2026/10/17 14:51:13 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 3: ZSU-TO (616 in chips) 
+Seat 4: antoray89 (2894 in chips) 
+Seat 5: rehakzsolt (2957 in chips) 
+Seat 6: bullets685 (4825 in chips) 
+Seat 8: Dephi80 (2208 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+Dephi80: posts the ante 25
+rehakzsolt: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [4s 9s]
+Dephi80: folds 
+ZSU-TO: raises 391 to 591 and is all-in
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: calls 391
+*** FLOP *** [Ks Jd Ad]
+*** TURN *** [Ks Jd Ad] [8s]
+*** RIVER *** [Ks Jd Ad 8s] [Td]
+*** SHOW DOWN ***
+bullets685: shows [4s 9s] (high card Ace)
+ZSU-TO: shows [Qs Kh] (a straight, Ten to Ace)
+ZSU-TO collected 1407 from pot
+*** SUMMARY ***
+Total pot 1407 | Rake 0 
+Board [Ks Jd Ad 8s Td]
+Seat 3: ZSU-TO showed [Qs Kh] and won (1407) with a straight, Ten to Ace
+Seat 4: antoray89 (button) folded before Flop (didn't bet)
+Seat 5: rehakzsolt (small blind) folded before Flop
+Seat 6: bullets685 (big blind) showed [4s 9s] and lost with high card Ace
+Seat 8: Dephi80 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428303539: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/17 19:51:41 CUST [2026/10/17 14:51:41 ET]
+Table '4040449976 1' 9-max Seat #5 is the button
+Seat 3: ZSU-TO (1407 in chips) 
+Seat 4: antoray89 (2869 in chips) 
+Seat 5: rehakzsolt (2832 in chips) 
+Seat 6: bullets685 (4209 in chips) 
+Seat 8: Dephi80 (2183 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+Dephi80: posts the ante 25
+bullets685: posts small blind 100
+Dephi80: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc 2d]
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: raises 200 to 400
+Dephi80: raises 1758 to 2158 and is all-in
+bullets685: folds 
+Uncalled bet (1758) returned to Dephi80
+Dephi80 collected 925 from pot
+Dephi80: doesn't show hand 
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt (button) folded before Flop (didn't bet)
+Seat 6: bullets685 (small blind) folded before Flop
+Seat 8: Dephi80 (big blind) collected (925)
+
+
+
+Betfair Hand #262428308760: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/17 19:52:09 CUST [2026/10/17 14:52:09 ET]
+Table '4040449976 1' 9-max Seat #6 is the button
+Seat 3: ZSU-TO (1382 in chips) 
+Seat 4: antoray89 (2844 in chips) 
+Seat 5: rehakzsolt (2807 in chips) 
+Seat 6: bullets685 (3784 in chips) 
+Seat 8: Dephi80 (2683 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+Dephi80: posts the ante 25
+Dephi80: posts small blind 100
+ZSU-TO: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [9s Kd]
+antoray89: folds 
+rehakzsolt: folds 
+bullets685: folds 
+Dephi80: raises 2458 to 2658 and is all-in
+ZSU-TO: folds 
+Uncalled bet (2458) returned to Dephi80
+Dephi80 collected 525 from pot
+Dephi80: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 3: ZSU-TO (big blind) folded before Flop
+Seat 4: antoray89 folded before Flop (didn't bet)
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: Dephi80 (small blind) collected (525)
+
+
+
+Betfair Hand #262428311727: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/17 19:52:25 CUST [2026/10/17 14:52:25 ET]
+Table '4040449976 1' 9-max Seat #8 is the button
+Seat 3: ZSU-TO (1157 in chips) 
+Seat 4: antoray89 (2819 in chips) 
+Seat 5: rehakzsolt (2782 in chips) 
+Seat 6: bullets685 (3759 in chips) 
+Seat 8: Dephi80 (2983 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+Dephi80: posts the ante 25
+ZSU-TO: posts small blind 100
+antoray89: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [4s 5d]
+rehakzsolt: folds 
+bullets685: folds 
+Dephi80: folds 
+ZSU-TO: raises 932 to 1132 and is all-in
+antoray89: folds 
+Uncalled bet (932) returned to ZSU-TO
+ZSU-TO collected 525 from pot
+ZSU-TO: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 3: ZSU-TO (small blind) collected (525)
+Seat 4: antoray89 (big blind) folded before Flop
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 8: Dephi80 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428315035: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/17 19:52:42 CUST [2026/10/17 14:52:42 ET]
+Table '4040449976 1' 9-max Seat #3 is the button
+Seat 3: ZSU-TO (1457 in chips) 
+Seat 4: antoray89 (2594 in chips) 
+Seat 5: rehakzsolt (2757 in chips) 
+Seat 6: bullets685 (3734 in chips) 
+Seat 8: Dephi80 (2958 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+Dephi80: posts the ante 25
+antoray89: posts small blind 100
+rehakzsolt: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts 3h]
+bullets685: folds 
+Dephi80: folds 
+ZSU-TO: folds 
+antoray89: folds 
+Uncalled bet (100) returned to rehakzsolt
+rehakzsolt collected 325 from pot
+rehakzsolt: doesn't show hand 
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Seat 3: ZSU-TO (button) folded before Flop (didn't bet)
+Seat 4: antoray89 (small blind) folded before Flop
+Seat 5: rehakzsolt (big blind) collected (325)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 8: Dephi80 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428316827: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/17 19:52:52 CUST [2026/10/17 14:52:52 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 3: ZSU-TO (1432 in chips) 
+Seat 4: antoray89 (2469 in chips) 
+Seat 5: rehakzsolt (2957 in chips) 
+Seat 6: bullets685 (3709 in chips) 
+Seat 8: Dephi80 (2933 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+Dephi80: posts the ante 25
+rehakzsolt: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Js 5c]
+Dephi80: folds 
+ZSU-TO: folds 
+antoray89 has timed out
+antoray89: folds 
+antoray89 is sitting out
+antoray89 has returned
+rehakzsolt: calls 100
+bullets685: checks 
+*** FLOP *** [Jc 6h As]
+rehakzsolt: bets 200
+bullets685: calls 200
+*** TURN *** [Jc 6h As] [9h]
+rehakzsolt: checks 
+bullets685: checks 
+*** RIVER *** [Jc 6h As 9h] [Kc]
+rehakzsolt: checks 
+bullets685: checks 
+*** SHOW DOWN ***
+rehakzsolt: shows [8h 6c] (a pair of Sixes)
+bullets685: shows [Js 5c] (a pair of Jacks)
+bullets685 collected 925 from pot
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Board [Jc 6h As 9h Kc]
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 (button) folded before Flop (didn't bet)
+Seat 5: rehakzsolt (small blind) showed [8h 6c] and lost with a pair of Sixes
+Seat 6: bullets685 (big blind) showed [Js 5c] and won (925) with a pair of Jacks
+Seat 8: Dephi80 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428327983: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/17 19:53:51 CUST [2026/10/17 14:53:51 ET]
+Table '4040449976 1' 9-max Seat #5 is the button
+Seat 3: ZSU-TO (1407 in chips) 
+Seat 4: antoray89 (2444 in chips) 
+Seat 5: rehakzsolt (2532 in chips) 
+Seat 6: bullets685 (4209 in chips) 
+Seat 8: Dephi80 (2908 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+Dephi80: posts the ante 25
+bullets685: posts small blind 100
+Dephi80: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [8c 4s]
+ZSU-TO: folds 
+antoray89: calls 200
+rehakzsolt: folds 
+bullets685: folds 
+Dephi80: checks 
+*** FLOP *** [9h 4d 9c]
+Dephi80: checks 
+antoray89: bets 313
+Dephi80: calls 313
+*** TURN *** [9h 4d 9c] [6s]
+Dephi80: checks 
+antoray89: bets 1906 and is all-in
+Dephi80: calls 1906
+*** RIVER *** [9h 4d 9c 6s] [Th]
+*** SHOW DOWN ***
+Dephi80: shows [9s Qs] (three of a kind, Nines)
+antoray89: shows [Ts Td] (a full house, Tens full of Nines)
+antoray89 collected 5063 from pot
+*** SUMMARY ***
+Total pot 5063 | Rake 0 
+Board [9h 4d 9c 6s Th]
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 showed [Ts Td] and won (5063) with a full house, Tens full of Nines
+Seat 5: rehakzsolt (button) folded before Flop (didn't bet)
+Seat 6: bullets685 (small blind) folded before Flop
+Seat 8: Dephi80 (big blind) showed [9s Qs] and lost with three of a kind, Nines
+
+
+
+Betfair Hand #262428335379: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/17 19:54:30 CUST [2026/10/17 14:54:30 ET]
+Table '4040449976 1' 9-max Seat #6 is the button
+Seat 3: ZSU-TO (1382 in chips) 
+Seat 4: antoray89 (5063 in chips) 
+Seat 5: rehakzsolt (2507 in chips) 
+Seat 6: bullets685 (4084 in chips) 
+Seat 8: Dephi80 (464 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+Dephi80: posts the ante 25
+Dephi80: posts small blind 100
+ZSU-TO: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah Jd]
+antoray89: calls 200
+rehakzsolt: folds 
+bullets685: calls 200
+Dephi80: raises 239 to 439 and is all-in
+ZSU-TO: calls 239
+antoray89: calls 239
+bullets685: calls 239
+*** FLOP *** [3c 6s 4d]
+ZSU-TO: checks 
+antoray89: bets 400
+bullets685: folds 
+ZSU-TO: calls 400
+*** TURN *** [3c 6s 4d] [2c]
+ZSU-TO: checks 
+antoray89: bets 600
+ZSU-TO: folds 
+Uncalled bet (600) returned to antoray89
+*** RIVER *** [3c 6s 4d 2c] [5d]
+*** SHOW DOWN ***
+antoray89: shows [6h Jh] (a straight, Deuce to Six)
+antoray89 collected 800 from side pot
+Dephi80: shows [8h 9s] (a straight, Deuce to Six)
+Dephi80 collected 941 from main pot
+antoray89 collected 940 from main pot
+*** SUMMARY ***
+Total pot 2681 Main pot 1881. Side pot 800. | Rake 0 
+Board [3c 6s 4d 2c 5d]
+Seat 3: ZSU-TO (big blind) folded on the Turn
+Seat 4: antoray89 showed [6h Jh] and won (1740) with a straight, Deuce to Six
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 (button) folded on the Flop
+Seat 8: Dephi80 (small blind) showed [8h 9s] and won (941) with a straight, Deuce to Six
+
+
+
+Betfair Hand #262428345668: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:55:34 CUST [2026/10/17 14:55:34 ET]
+Table '4040449976 1' 9-max Seat #8 is the button
+Seat 3: ZSU-TO (518 in chips) 
+Seat 4: antoray89 (5939 in chips) 
+Seat 5: rehakzsolt (2482 in chips) 
+Seat 6: bullets685 (3620 in chips) 
+Seat 8: Dephi80 (941 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+Dephi80: posts the ante 25
+ZSU-TO: posts small blind 150
+antoray89: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [5s Kh]
+rehakzsolt: folds 
+bullets685: folds 
+Dephi80: folds 
+ZSU-TO: raises 193 to 493 and is all-in
+antoray89: calls 193
+*** FLOP *** [2c 4h Ks]
+*** TURN *** [2c 4h Ks] [Ts]
+*** RIVER *** [2c 4h Ks Ts] [Ah]
+*** SHOW DOWN ***
+ZSU-TO: shows [Jc Qs] (a straight, Ten to Ace)
+antoray89: shows [7c 3c] (high card Ace)
+ZSU-TO collected 1111 from pot
+*** SUMMARY ***
+Total pot 1111 | Rake 0 
+Board [2c 4h Ks Ts Ah]
+Seat 3: ZSU-TO (small blind) showed [Jc Qs] and won (1111) with a straight, Ten to Ace
+Seat 4: antoray89 (big blind) showed [7c 3c] and lost with high card Ace
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 8: Dephi80 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428348795: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:56:00 CUST [2026/10/17 14:56:00 ET]
+Table '4040449976 1' 9-max Seat #3 is the button
+Seat 3: ZSU-TO (1111 in chips) 
+Seat 4: antoray89 (5421 in chips) 
+Seat 5: rehakzsolt (2457 in chips) 
+Seat 6: bullets685 (3595 in chips) 
+Seat 8: Dephi80 (916 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+Dephi80: posts the ante 25
+antoray89: posts small blind 150
+rehakzsolt: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Kc 5d]
+bullets685: folds 
+Dephi80: raises 591 to 891 and is all-in
+ZSU-TO: folds 
+antoray89: calls 741
+rehakzsolt: folds 
+*** FLOP *** [Jd Ks Qh]
+*** TURN *** [Jd Ks Qh] [7h]
+*** RIVER *** [Jd Ks Qh 7h] [2h]
+*** SHOW DOWN ***
+antoray89: shows [As Th] (a straight, Ten to Ace)
+Dephi80: shows [Kd 7s] (two pair, Kings and Sevens)
+antoray89 collected 2207 from pot
+Dephi80 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 2207 | Rake 0 
+Board [Jd Ks Qh 7h 2h]
+Seat 3: ZSU-TO (button) folded before Flop (didn't bet)
+Seat 4: antoray89 (small blind) showed [As Th] and won (2207) with a straight, Ten to Ace
+Seat 5: rehakzsolt (big blind) folded before Flop
+Seat 6: bullets685 folded before Flop (didn't bet)
+Seat 8: Dephi80 showed [Kd 7s] and lost with two pair, Kings and Sevens
+
+
+
+Betfair Hand #262428352883: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:56:33 CUST [2026/10/17 14:56:33 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 3: ZSU-TO (1086 in chips) 
+Seat 4: antoray89 (6712 in chips) 
+Seat 5: rehakzsolt (2132 in chips) 
+Seat 6: bullets685 (3570 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+rehakzsolt: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [5h 4h]
+ZSU-TO: folds 
+antoray89: folds 
+rehakzsolt: raises 1807 to 2107 and is all-in
+bullets685: folds 
+Uncalled bet (1807) returned to rehakzsolt
+rehakzsolt collected 700 from pot
+rehakzsolt: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 3: ZSU-TO folded before Flop (didn't bet)
+Seat 4: antoray89 (button) folded before Flop (didn't bet)
+Seat 5: rehakzsolt (small blind) collected (700)
+Seat 6: bullets685 (big blind) folded before Flop
+
+
+
+Betfair Hand #262428355028: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:56:50 CUST [2026/10/17 14:56:50 ET]
+Table '4040449976 1' 9-max Seat #5 is the button
+Seat 3: ZSU-TO (1061 in chips) 
+Seat 4: antoray89 (6687 in chips) 
+Seat 5: rehakzsolt (2507 in chips) 
+Seat 6: bullets685 (3245 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+ZSU-TO: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [2h 7c]
+antoray89: calls 300
+rehakzsolt: folds 
+bullets685: folds 
+ZSU-TO: checks 
+*** FLOP *** [Kc 9s 8h]
+ZSU-TO: checks 
+antoray89: bets 600
+ZSU-TO: raises 136 to 736 and is all-in
+antoray89: calls 136
+*** TURN *** [Kc 9s 8h] [9c]
+*** RIVER *** [Kc 9s 8h 9c] [9h]
+*** SHOW DOWN ***
+ZSU-TO: shows [Kd 8d] (a full house, Nines full of Kings)
+antoray89: shows [Th Ad] (three of a kind, Nines)
+ZSU-TO collected 2322 from pot
+*** SUMMARY ***
+Total pot 2322 | Rake 0 
+Board [Kc 9s 8h 9c 9h]
+Seat 3: ZSU-TO (big blind) showed [Kd 8d] and won (2322) with a full house, Nines full of Kings
+Seat 4: antoray89 showed [Th Ad] and lost with three of a kind, Nines
+Seat 5: rehakzsolt (button) folded before Flop (didn't bet)
+Seat 6: bullets685 (small blind) folded before Flop
+
+
+
+Betfair Hand #262428357749: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:57:12 CUST [2026/10/17 14:57:12 ET]
+Table '4040449976 1' 9-max Seat #6 is the button
+Seat 3: ZSU-TO (2322 in chips) 
+Seat 4: antoray89 (5626 in chips) 
+Seat 5: rehakzsolt (2482 in chips) 
+Seat 6: bullets685 (3070 in chips) 
+ZSU-TO: posts the ante 25
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+ZSU-TO: posts small blind 150
+antoray89: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Qs 3s]
+rehakzsolt: folds 
+bullets685: folds 
+ZSU-TO: raises 1997 to 2297 and is all-in
+antoray89: calls 1997
+*** FLOP *** [Jd 2h 3d]
+*** TURN *** [Jd 2h 3d] [6d]
+*** RIVER *** [Jd 2h 3d 6d] [Kc]
+*** SHOW DOWN ***
+ZSU-TO: shows [5s Ad] (high card Ace)
+antoray89: shows [Qh Ks] (a pair of Kings)
+antoray89 collected 4694 from pot
+ZSU-TO finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 4694 | Rake 0 
+Board [Jd 2h 3d 6d Kc]
+Seat 3: ZSU-TO (small blind) showed [5s Ad] and lost with high card Ace
+Seat 4: antoray89 (big blind) showed [Qh Ks] and won (4694) with a pair of Kings
+Seat 5: rehakzsolt folded before Flop (didn't bet)
+Seat 6: bullets685 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428361190: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:57:39 CUST [2026/10/17 14:57:39 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 4: antoray89 (7998 in chips) 
+Seat 5: rehakzsolt (2457 in chips) 
+Seat 6: bullets685 (3045 in chips) 
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+rehakzsolt: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [5s 2c]
+antoray89: raises 600 to 900
+rehakzsolt: folds 
+bullets685: folds 
+Uncalled bet (600) returned to antoray89
+antoray89 collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 4: antoray89 (button) collected (825)
+Seat 5: rehakzsolt (small blind) folded before Flop
+Seat 6: bullets685 (big blind) folded before Flop
+
+
+
+Betfair Hand #262428363345: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:57:56 CUST [2026/10/17 14:57:56 ET]
+Table '4040449976 1' 9-max Seat #5 is the button
+Seat 4: antoray89 (8498 in chips) 
+Seat 5: rehakzsolt (2282 in chips) 
+Seat 6: bullets685 (2720 in chips) 
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+antoray89: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 9s]
+rehakzsolt: folds 
+bullets685: raises 300 to 600
+antoray89: folds 
+Uncalled bet (300) returned to bullets685
+bullets685 collected 675 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 4: antoray89 (big blind) folded before Flop
+Seat 5: rehakzsolt (button) folded before Flop (didn't bet)
+Seat 6: bullets685 (small blind) collected (675)
+
+
+
+Betfair Hand #262428365316: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:58:11 CUST [2026/10/17 14:58:11 ET]
+Table '4040449976 1' 9-max Seat #6 is the button
+Seat 4: antoray89 (8173 in chips) 
+Seat 5: rehakzsolt (2257 in chips) 
+Seat 6: bullets685 (3070 in chips) 
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+antoray89: posts small blind 150
+rehakzsolt: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [7c Jc]
+bullets685: folds 
+antoray89: folds 
+Uncalled bet (150) returned to rehakzsolt
+rehakzsolt collected 375 from pot
+rehakzsolt: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 4: antoray89 (small blind) folded before Flop
+Seat 5: rehakzsolt (big blind) collected (375)
+Seat 6: bullets685 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428366585: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:58:21 CUST [2026/10/17 14:58:21 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 4: antoray89 (7998 in chips) 
+Seat 5: rehakzsolt (2457 in chips) 
+Seat 6: bullets685 (3045 in chips) 
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+rehakzsolt: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [8s 7d]
+antoray89: folds 
+rehakzsolt: raises 2132 to 2432 and is all-in
+bullets685: folds 
+Uncalled bet (2132) returned to rehakzsolt
+rehakzsolt collected 675 from pot
+rehakzsolt: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 4: antoray89 (button) folded before Flop (didn't bet)
+Seat 5: rehakzsolt (small blind) collected (675)
+Seat 6: bullets685 (big blind) folded before Flop
+
+
+
+Betfair Hand #262428368018: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:58:33 CUST [2026/10/17 14:58:33 ET]
+Table '4040449976 1' 9-max Seat #5 is the button
+Seat 4: antoray89 (7973 in chips) 
+Seat 5: rehakzsolt (2807 in chips) 
+Seat 6: bullets685 (2720 in chips) 
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+antoray89: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [8c Ac]
+rehakzsolt: folds 
+bullets685: raises 2395 to 2695 and is all-in
+antoray89: folds 
+Uncalled bet (2395) returned to bullets685
+bullets685 collected 675 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 4: antoray89 (big blind) folded before Flop
+Seat 5: rehakzsolt (button) folded before Flop (didn't bet)
+Seat 6: bullets685 (small blind) collected (675)
+
+
+
+Betfair Hand #262428369197: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:58:42 CUST [2026/10/17 14:58:42 ET]
+Table '4040449976 1' 9-max Seat #6 is the button
+Seat 4: antoray89 (7648 in chips) 
+Seat 5: rehakzsolt (2782 in chips) 
+Seat 6: bullets685 (3070 in chips) 
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+antoray89: posts small blind 150
+rehakzsolt: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [3h 7h]
+bullets685: folds 
+antoray89 has timed out
+antoray89: folds 
+antoray89 is sitting out
+Uncalled bet (150) returned to rehakzsolt
+antoray89 has returned
+rehakzsolt collected 375 from pot
+rehakzsolt: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 4: antoray89 (small blind) folded before Flop
+Seat 5: rehakzsolt (big blind) collected (375)
+Seat 6: bullets685 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428371981: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:59:03 CUST [2026/10/17 14:59:03 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 4: antoray89 (7473 in chips) 
+Seat 5: rehakzsolt (2982 in chips) 
+Seat 6: bullets685 (3045 in chips) 
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+rehakzsolt: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 7h]
+antoray89: folds 
+rehakzsolt: raises 2657 to 2957 and is all-in
+bullets685: folds 
+Uncalled bet (2657) returned to rehakzsolt
+rehakzsolt collected 675 from pot
+rehakzsolt: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 4: antoray89 (button) folded before Flop (didn't bet)
+Seat 5: rehakzsolt (small blind) collected (675)
+Seat 6: bullets685 (big blind) folded before Flop
+
+
+
+Betfair Hand #262428374287: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:59:21 CUST [2026/10/17 14:59:21 ET]
+Table '4040449976 1' 9-max Seat #5 is the button
+Seat 4: antoray89 (7448 in chips) 
+Seat 5: rehakzsolt (3332 in chips) 
+Seat 6: bullets685 (2720 in chips) 
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+antoray89: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [9c Ts]
+rehakzsolt: folds 
+bullets685: folds 
+Uncalled bet (150) returned to antoray89
+antoray89 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 4: antoray89 (big blind) collected (375)
+Seat 5: rehakzsolt (button) folded before Flop (didn't bet)
+Seat 6: bullets685 (small blind) folded before Flop
+
+
+
+Betfair Hand #262428376336: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/17 19:59:38 CUST [2026/10/17 14:59:38 ET]
+Table '4040449976 1' 9-max Seat #6 is the button
+Seat 4: antoray89 (7648 in chips) 
+Seat 5: rehakzsolt (3307 in chips) 
+Seat 6: bullets685 (2545 in chips) 
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+antoray89: posts small blind 150
+rehakzsolt: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [5s As]
+bullets685: raises 2220 to 2520 and is all-in
+antoray89: folds 
+rehakzsolt: calls 2220
+*** FLOP *** [3d Qd 2c]
+*** TURN *** [3d Qd 2c] [Jh]
+*** RIVER *** [3d Qd 2c Jh] [5h]
+*** SHOW DOWN ***
+rehakzsolt: shows [9d Ad] (high card Ace)
+bullets685: shows [5s As] (a pair of Fives)
+bullets685 collected 5265 from pot
+*** SUMMARY ***
+Total pot 5265 | Rake 0 
+Board [3d Qd 2c Jh 5h]
+Seat 4: antoray89 (small blind) folded before Flop
+Seat 5: rehakzsolt (big blind) showed [9d Ad] and lost with high card Ace
+Seat 6: bullets685 (button) showed [5s As] and won (5265) with a pair of Fives
+
+
+
+Betfair Hand #262428380527: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/17 20:00:10 CUST [2026/10/17 15:00:10 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 4: antoray89 (7473 in chips) 
+Seat 5: rehakzsolt (762 in chips) 
+Seat 6: bullets685 (5265 in chips) 
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+rehakzsolt: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [8h 6d]
+antoray89: calls 400
+rehakzsolt: folds 
+bullets685: checks 
+*** FLOP *** [5s 4h Js]
+bullets685: checks 
+antoray89: checks 
+*** TURN *** [5s 4h Js] [2d]
+bullets685: checks 
+antoray89: checks 
+*** RIVER *** [5s 4h Js 2d] [Th]
+bullets685: checks 
+antoray89: checks 
+*** SHOW DOWN ***
+bullets685: shows [8h 6d] (high card Jack)
+antoray89: shows [Ad 8c] (high card Ace)
+antoray89 collected 1075 from pot
+*** SUMMARY ***
+Total pot 1075 | Rake 0 
+Board [5s 4h Js 2d Th]
+Seat 4: antoray89 (button) showed [Ad 8c] and won (1075) with high card Ace
+Seat 5: rehakzsolt (small blind) folded before Flop
+Seat 6: bullets685 (big blind) showed [8h 6d] and lost with high card Jack
+
+
+
+Betfair Hand #262428386351: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/17 20:00:51 CUST [2026/10/17 15:00:51 ET]
+Table '4040449976 1' 9-max Seat #5 is the button
+Seat 4: antoray89 (8123 in chips) 
+Seat 5: rehakzsolt (537 in chips) 
+Seat 6: bullets685 (4840 in chips) 
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 200
+antoray89: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [4d 5d]
+rehakzsolt: calls 400
+bullets685: calls 200
+antoray89: checks 
+*** FLOP *** [5s Ad 7c]
+bullets685: checks 
+antoray89: checks 
+rehakzsolt: checks 
+*** TURN *** [5s Ad 7c] [Jc]
+bullets685: bets 400
+antoray89: folds 
+rehakzsolt: calls 112 and is all-in
+Uncalled bet (288) returned to bullets685
+*** RIVER *** [5s Ad 7c Jc] [Kc]
+*** SHOW DOWN ***
+bullets685: shows [4d 5d] (a pair of Fives)
+rehakzsolt: shows [Qh Qs] (a pair of Queens)
+rehakzsolt collected 1499 from pot
+*** SUMMARY ***
+Total pot 1499 | Rake 0 
+Board [5s Ad 7c Jc Kc]
+Seat 4: antoray89 (big blind) folded on the Turn
+Seat 5: rehakzsolt (button) showed [Qh Qs] and won (1499) with a pair of Queens
+Seat 6: bullets685 (small blind) showed [4d 5d] and lost with a pair of Fives
+
+
+
+Betfair Hand #262428399046: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/17 20:02:06 CUST [2026/10/17 15:02:06 ET]
+Table '4040449976 1' 9-max Seat #6 is the button
+Seat 4: antoray89 (7698 in chips) 
+Seat 5: rehakzsolt (1499 in chips) 
+Seat 6: bullets685 (4303 in chips) 
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+antoray89: posts small blind 200
+rehakzsolt: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [6c Ah]
+bullets685: folds 
+antoray89: calls 200
+rehakzsolt: raises 1074 to 1474 and is all-in
+antoray89: folds 
+Uncalled bet (1074) returned to rehakzsolt
+rehakzsolt collected 875 from pot
+rehakzsolt: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Seat 4: antoray89 (small blind) folded before Flop
+Seat 5: rehakzsolt (big blind) collected (875)
+Seat 6: bullets685 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262428402626: Tournament #4040449976, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/17 20:02:24 CUST [2026/10/17 15:02:24 ET]
+Table '4040449976 1' 9-max Seat #4 is the button
+Seat 4: antoray89 (7273 in chips) 
+Seat 5: rehakzsolt (1949 in chips) 
+Seat 6: bullets685 (4278 in chips) 
+antoray89: posts the ante 25
+rehakzsolt: posts the ante 25
+bullets685: posts the ante 25
+rehakzsolt: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd Th]
+antoray89: calls 400
+rehakzsolt: folds 
+bullets685: checks 
+*** FLOP *** [8h Jh Qh]
+bullets685: bets 800
+antoray89: raises 6048 to 6848 and is all-in
+bullets685: calls 3053 and is all-in
+Uncalled bet (2995) returned to antoray89
+*** TURN *** [8h Jh Qh] [4c]
+*** RIVER *** [8h Jh Qh 4c] [3c]
+*** SHOW DOWN ***
+bullets685: shows [Qd Th] (a pair of Queens)
+antoray89: shows [As Ac] (a pair of Aces)
+antoray89 collected 8781 from pot
+bullets685 finished the tournament in 3rd place and received $7.92.
+*** SUMMARY ***
+Total pot 8781 | Rake 0 
+Board [8h Jh Qh 4c 3c]
+Seat 4: antoray89 (button) showed [As Ac] and won (8781) with a pair of Aces
+Seat 5: rehakzsolt (small blind) folded before Flop
+Seat 6: bullets685 (big blind) showed [Qd Th] and lost with a pair of Queens
+
+
+

@@ -1,0 +1,2632 @@
+﻿Betfair Hand #262405682762: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/15 16:25:12 CUST [2026/10/15 11:25:12 ET]
+Table '4039880417 1' 9-max Seat #1 is the button
+Seat 1: Rusatash (1500 in chips) 
+Seat 2: Litti1948ev (1500 in chips) 
+Seat 3: Calixto195604 (1500 in chips) 
+Seat 4: bullets685 (1500 in chips) 
+Seat 5: hitt75 (1500 in chips) 
+Seat 6: wag8989 (1500 in chips) 
+Seat 7: pauloprcds (1500 in chips) 
+Seat 8: Mausgertrud8 (1500 in chips) 
+Seat 9: BudDyFL (1500 in chips) 
+Rusatash: posts the ante 3
+Litti1948ev: posts the ante 3
+Calixto195604: posts the ante 3
+bullets685: posts the ante 3
+hitt75: posts the ante 3
+wag8989: posts the ante 3
+pauloprcds: posts the ante 3
+Mausgertrud8: posts the ante 3
+BudDyFL: posts the ante 3
+Litti1948ev: posts small blind 10
+Calixto195604: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [Th Ah]
+bullets685: raises 35 to 55
+hitt75: folds 
+wag8989: calls 55
+pauloprcds: folds 
+Mausgertrud8: calls 55
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: calls 45
+Calixto195604: calls 35
+*** FLOP *** [Ad Kh Qd]
+Litti1948ev: checks 
+Calixto195604: checks 
+bullets685: bets 151
+wag8989: calls 151
+Mausgertrud8: folds 
+Litti1948ev: folds 
+Calixto195604: raises 755 to 906
+bullets685: folds 
+wag8989: raises 536 to 1442 and is all-in
+Calixto195604: calls 536 and is all-in
+*** TURN *** [Ad Kh Qd] [6h]
+*** RIVER *** [Ad Kh Qd 6h] [Qs]
+*** SHOW DOWN ***
+Calixto195604: shows [Tc Jh] (a straight, Ten to Ace)
+wag8989: shows [Ks Qh] (a full house, Queens full of Kings)
+wag8989 collected 3337 from pot
+Calixto195604 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 3337 | Rake 0 
+Board [Ad Kh Qd 6h Qs]
+Seat 1: Rusatash (button) folded before Flop (didn't bet)
+Seat 2: Litti1948ev (small blind) folded on the Flop
+Seat 3: Calixto195604 (big blind) showed [Tc Jh] and lost with a straight, Ten to Ace
+Seat 4: bullets685 folded on the Flop
+Seat 5: hitt75 folded before Flop (didn't bet)
+Seat 6: wag8989 showed [Ks Qh] and won (3337) with a full house, Queens full of Kings
+Seat 7: pauloprcds folded before Flop (didn't bet)
+Seat 8: Mausgertrud8 folded on the Flop
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405695704: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/15 16:26:45 CUST [2026/10/15 11:26:45 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 1: Rusatash (1497 in chips) 
+Seat 2: Litti1948ev (1442 in chips) 
+Seat 4: bullets685 (1291 in chips) 
+Seat 5: hitt75 (1497 in chips) 
+Seat 6: wag8989 (3337 in chips) 
+Seat 7: pauloprcds (1497 in chips) 
+Seat 8: Mausgertrud8 (1442 in chips) 
+Seat 9: BudDyFL (1497 in chips) 
+Rusatash: posts the ante 3
+Litti1948ev: posts the ante 3
+bullets685: posts the ante 3
+hitt75: posts the ante 3
+wag8989: posts the ante 3
+pauloprcds: posts the ante 3
+Mausgertrud8: posts the ante 3
+BudDyFL: posts the ante 3
+bullets685: posts small blind 10
+hitt75: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [8h 7h]
+wag8989: folds 
+pauloprcds: folds 
+Mausgertrud8: calls 20
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: calls 20
+bullets685: raises 30 to 50
+hitt75: calls 30
+Mausgertrud8: calls 30
+Litti1948ev: calls 30
+*** FLOP *** [4h Qd 9d]
+bullets685: checks 
+hitt75: checks 
+Mausgertrud8: checks 
+Litti1948ev: bets 80
+bullets685: calls 80
+hitt75: folds 
+Mausgertrud8: calls 80
+*** TURN *** [4h Qd 9d] [7c]
+bullets685: checks 
+Mausgertrud8: checks 
+Litti1948ev: bets 60
+bullets685: calls 60
+Mausgertrud8: folds 
+*** RIVER *** [4h Qd 9d 7c] [4s]
+bullets685: checks 
+Litti1948ev: checks 
+*** SHOW DOWN ***
+bullets685: shows [8h 7h] (two pair, Sevens and Fours)
+Litti1948ev: mucks hand 
+bullets685 collected 584 from pot
+*** SUMMARY ***
+Total pot 584 | Rake 0 
+Board [4h Qd 9d 7c 4s]
+Seat 1: Rusatash folded before Flop (didn't bet)
+Seat 2: Litti1948ev (button) mucked [Kd 5d]
+Seat 4: bullets685 (small blind) showed [8h 7h] and won (584) with two pair, Sevens and Fours
+Seat 5: hitt75 (big blind) folded on the Flop
+Seat 6: wag8989 folded before Flop (didn't bet)
+Seat 7: pauloprcds folded before Flop (didn't bet)
+Seat 8: Mausgertrud8 folded on the Turn
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405709446: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/15 16:28:24 CUST [2026/10/15 11:28:24 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 1: Rusatash (1494 in chips) 
+Seat 2: Litti1948ev (1249 in chips) 
+Seat 4: bullets685 (1682 in chips) 
+Seat 5: hitt75 (1444 in chips) 
+Seat 6: wag8989 (3334 in chips) 
+Seat 7: pauloprcds (1494 in chips) 
+Seat 8: Mausgertrud8 (1309 in chips) 
+Seat 9: BudDyFL (1494 in chips) 
+Rusatash: posts the ante 3
+Litti1948ev: posts the ante 3
+bullets685: posts the ante 3
+hitt75: posts the ante 3
+wag8989: posts the ante 3
+pauloprcds: posts the ante 3
+Mausgertrud8: posts the ante 3
+BudDyFL: posts the ante 3
+hitt75: posts small blind 10
+wag8989: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [8s 9s]
+pauloprcds: folds 
+Mausgertrud8: raises 20 to 40
+BudDyFL: calls 40
+Rusatash: folds 
+Litti1948ev: calls 40
+bullets685: calls 40
+hitt75: calls 30
+wag8989: calls 20
+*** FLOP *** [3h Qc 5h]
+hitt75: checks 
+wag8989: checks 
+Mausgertrud8: bets 300
+BudDyFL: raises 300 to 600
+Litti1948ev: folds 
+bullets685: folds 
+hitt75: folds 
+wag8989: folds 
+Mausgertrud8: raises 300 to 900
+BudDyFL: raises 551 to 1451 and is all-in
+Mausgertrud8: calls 366 and is all-in
+Uncalled bet (185) returned to BudDyFL
+*** TURN *** [3h Qc 5h] [3d]
+*** RIVER *** [3h Qc 5h 3d] [Th]
+*** SHOW DOWN ***
+Mausgertrud8: shows [Qd 8d] (two pair, Queens and Threes)
+BudDyFL: shows [5d 5c] (a full house, Fives full of Threes)
+BudDyFL collected 2796 from pot
+Mausgertrud8 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 2796 | Rake 0 
+Board [3h Qc 5h 3d Th]
+Seat 1: Rusatash folded before Flop (didn't bet)
+Seat 2: Litti1948ev folded on the Flop
+Seat 4: bullets685 (button) folded on the Flop
+Seat 5: hitt75 (small blind) folded on the Flop
+Seat 6: wag8989 (big blind) folded on the Flop
+Seat 7: pauloprcds folded before Flop (didn't bet)
+Seat 8: Mausgertrud8 showed [Qd 8d] and lost with two pair, Queens and Threes
+Seat 9: BudDyFL showed [5d 5c] and won (2796) with a full house, Fives full of Threes
+
+
+
+Betfair Hand #262405722005: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/15 16:29:53 CUST [2026/10/15 11:29:53 ET]
+Table '4039880417 1' 9-max Seat #5 is the button
+Seat 1: Rusatash (1491 in chips) 
+Seat 2: Litti1948ev (1206 in chips) 
+Seat 4: bullets685 (1639 in chips) 
+Seat 5: hitt75 (1401 in chips) 
+Seat 6: wag8989 (3291 in chips) 
+Seat 7: pauloprcds (1491 in chips) 
+Seat 9: BudDyFL (2981 in chips) 
+Rusatash: posts the ante 3
+Litti1948ev: posts the ante 3
+bullets685: posts the ante 3
+hitt75: posts the ante 3
+wag8989: posts the ante 3
+pauloprcds: posts the ante 3
+BudDyFL: posts the ante 3
+wag8989: posts small blind 10
+pauloprcds: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [2d 8d]
+BudDyFL: raises 20 to 40
+Rusatash: folds 
+Litti1948ev: folds 
+bullets685: folds 
+hitt75: raises 20 to 60
+wag8989: folds 
+pauloprcds: folds 
+BudDyFL: calls 20
+*** FLOP *** [7c 6c Kh]
+BudDyFL: checks 
+hitt75: checks 
+*** TURN *** [7c 6c Kh] [5h]
+BudDyFL: checks 
+hitt75: bets 86
+BudDyFL: folds 
+Uncalled bet (86) returned to hitt75
+hitt75 collected 171 from pot
+hitt75: doesn't show hand 
+*** SUMMARY ***
+Total pot 171 | Rake 0 
+Board [7c 6c Kh 5h]
+Seat 1: Rusatash folded before Flop (didn't bet)
+Seat 2: Litti1948ev folded before Flop (didn't bet)
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 5: hitt75 (button) collected (171)
+Seat 6: wag8989 (small blind) folded before Flop
+Seat 7: pauloprcds (big blind) folded before Flop
+Seat 9: BudDyFL folded on the Turn
+
+
+
+Betfair Hand #262405730587: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/15 16:30:55 CUST [2026/10/15 11:30:55 ET]
+Table '4039880417 1' 9-max Seat #6 is the button
+Seat 1: Rusatash (1488 in chips) 
+Seat 2: Litti1948ev (1203 in chips) 
+Seat 4: bullets685 (1636 in chips) 
+Seat 5: hitt75 (1509 in chips) 
+Seat 6: wag8989 (3278 in chips) 
+Seat 7: pauloprcds (1468 in chips) 
+Seat 9: BudDyFL (2918 in chips) 
+Rusatash: posts the ante 4
+Litti1948ev: posts the ante 4
+bullets685: posts the ante 4
+hitt75: posts the ante 4
+wag8989: posts the ante 4
+pauloprcds: posts the ante 4
+BudDyFL: posts the ante 4
+pauloprcds: posts small blind 15
+BudDyFL: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [5h 5d]
+Rusatash: raises 30 to 60
+Litti1948ev: folds 
+bullets685: calls 60
+hitt75: folds 
+wag8989: folds 
+pauloprcds: folds 
+BudDyFL: folds 
+*** FLOP *** [9s 7d Qs]
+Rusatash: bets 75
+bullets685: folds 
+Uncalled bet (75) returned to Rusatash
+Rusatash collected 193 from pot
+Rusatash: doesn't show hand 
+*** SUMMARY ***
+Total pot 193 | Rake 0 
+Board [9s 7d Qs]
+Seat 1: Rusatash collected (193)
+Seat 2: Litti1948ev folded before Flop (didn't bet)
+Seat 4: bullets685 folded on the Flop
+Seat 5: hitt75 folded before Flop (didn't bet)
+Seat 6: wag8989 (button) folded before Flop (didn't bet)
+Seat 7: pauloprcds (small blind) folded before Flop
+Seat 9: BudDyFL (big blind) folded before Flop
+
+
+
+Betfair Hand #262405735636: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/15 16:31:31 CUST [2026/10/15 11:31:31 ET]
+Table '4039880417 1' 9-max Seat #7 is the button
+Seat 1: Rusatash (1617 in chips) 
+Seat 2: Litti1948ev (1199 in chips) 
+Seat 4: bullets685 (1572 in chips) 
+Seat 5: hitt75 (1505 in chips) 
+Seat 6: wag8989 (3274 in chips) 
+Seat 7: pauloprcds (1449 in chips) 
+Seat 9: BudDyFL (2884 in chips) 
+Rusatash: posts the ante 4
+Litti1948ev: posts the ante 4
+bullets685: posts the ante 4
+hitt75: posts the ante 4
+wag8989: posts the ante 4
+pauloprcds: posts the ante 4
+BudDyFL: posts the ante 4
+BudDyFL: posts small blind 15
+Rusatash: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [5c 6c]
+Litti1948ev: folds 
+bullets685: raises 45 to 75
+hitt75: calls 75
+wag8989: folds 
+pauloprcds: folds 
+BudDyFL: raises 2805 to 2880 and is all-in
+Rusatash: folds 
+bullets685: folds 
+hitt75: folds 
+Uncalled bet (2805) returned to BudDyFL
+BudDyFL collected 283 from pot
+BudDyFL: doesn't show hand 
+*** SUMMARY ***
+Total pot 283 | Rake 0 
+Seat 1: Rusatash (big blind) folded before Flop
+Seat 2: Litti1948ev folded before Flop (didn't bet)
+Seat 4: bullets685 folded before Flop
+Seat 5: hitt75 folded before Flop
+Seat 6: wag8989 folded before Flop (didn't bet)
+Seat 7: pauloprcds (button) folded before Flop (didn't bet)
+Seat 9: BudDyFL (small blind) collected (283)
+
+
+
+Betfair Hand #262405741730: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/15 16:32:14 CUST [2026/10/15 11:32:14 ET]
+Table '4039880417 1' 9-max Seat #9 is the button
+Seat 1: Rusatash (1583 in chips) 
+Seat 2: Litti1948ev (1195 in chips) 
+Seat 4: bullets685 (1493 in chips) 
+Seat 5: hitt75 (1426 in chips) 
+Seat 6: wag8989 (3270 in chips) 
+Seat 7: pauloprcds (1445 in chips) 
+Seat 9: BudDyFL (3088 in chips) 
+Rusatash: posts the ante 4
+Litti1948ev: posts the ante 4
+bullets685: posts the ante 4
+hitt75: posts the ante 4
+wag8989: posts the ante 4
+pauloprcds: posts the ante 4
+BudDyFL: posts the ante 4
+Rusatash: posts small blind 15
+Litti1948ev: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc 4d]
+bullets685: folds 
+hitt75: folds 
+wag8989: raises 60 to 90
+pauloprcds: folds 
+BudDyFL: folds 
+Rusatash: calls 75
+Litti1948ev: calls 60
+*** FLOP *** [8c Ah 3s]
+Rusatash: checks 
+Litti1948ev: bets 120
+wag8989: folds 
+Rusatash: folds 
+Uncalled bet (120) returned to Litti1948ev
+Litti1948ev collected 298 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 298 | Rake 0 
+Board [8c Ah 3s]
+Seat 1: Rusatash (small blind) folded on the Flop
+Seat 2: Litti1948ev (big blind) collected (298)
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 5: hitt75 folded before Flop (didn't bet)
+Seat 6: wag8989 folded on the Flop
+Seat 7: pauloprcds folded before Flop (didn't bet)
+Seat 9: BudDyFL (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405747871: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/15 16:32:57 CUST [2026/10/15 11:32:57 ET]
+Table '4039880417 1' 9-max Seat #1 is the button
+Seat 1: Rusatash (1489 in chips) 
+Seat 2: Litti1948ev (1399 in chips) 
+Seat 4: bullets685 (1489 in chips) 
+Seat 5: hitt75 (1422 in chips) 
+Seat 6: wag8989 (3176 in chips) 
+Seat 7: pauloprcds (1441 in chips) 
+Seat 9: BudDyFL (3084 in chips) 
+Rusatash: posts the ante 4
+Litti1948ev: posts the ante 4
+bullets685: posts the ante 4
+hitt75: posts the ante 4
+wag8989: posts the ante 4
+pauloprcds: posts the ante 4
+BudDyFL: posts the ante 4
+Litti1948ev: posts small blind 15
+bullets685: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [9d 4h]
+hitt75: calls 30
+wag8989: folds 
+pauloprcds: folds 
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: raises 30 to 60
+bullets685: folds 
+hitt75: calls 30
+*** FLOP *** [5c Jd Kd]
+Litti1948ev: bets 120
+hitt75: folds 
+Uncalled bet (120) returned to Litti1948ev
+Litti1948ev collected 178 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 178 | Rake 0 
+Board [5c Jd Kd]
+Seat 1: Rusatash (button) folded before Flop (didn't bet)
+Seat 2: Litti1948ev (small blind) collected (178)
+Seat 4: bullets685 (big blind) folded before Flop
+Seat 5: hitt75 folded on the Flop
+Seat 6: wag8989 folded before Flop (didn't bet)
+Seat 7: pauloprcds folded before Flop (didn't bet)
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405754699: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/15 16:33:45 CUST [2026/10/15 11:33:45 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 1: Rusatash (1485 in chips) 
+Seat 2: Litti1948ev (1513 in chips) 
+Seat 4: bullets685 (1455 in chips) 
+Seat 5: hitt75 (1358 in chips) 
+Seat 6: wag8989 (3172 in chips) 
+Seat 7: pauloprcds (1437 in chips) 
+Seat 9: BudDyFL (3080 in chips) 
+Rusatash: posts the ante 4
+Litti1948ev: posts the ante 4
+bullets685: posts the ante 4
+hitt75: posts the ante 4
+wag8989: posts the ante 4
+pauloprcds: posts the ante 4
+BudDyFL: posts the ante 4
+bullets685: posts small blind 15
+hitt75: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Td Ah]
+wag8989: folds 
+pauloprcds: folds 
+BudDyFL: raises 30 to 60
+Rusatash: folds 
+Litti1948ev: folds 
+bullets685: raises 90 to 150
+hitt75: folds 
+BudDyFL: folds 
+Uncalled bet (90) returned to bullets685
+bullets685 collected 178 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 178 | Rake 0 
+Seat 1: Rusatash folded before Flop (didn't bet)
+Seat 2: Litti1948ev (button) folded before Flop (didn't bet)
+Seat 4: bullets685 (small blind) collected (178)
+Seat 5: hitt75 (big blind) folded before Flop
+Seat 6: wag8989 folded before Flop (didn't bet)
+Seat 7: pauloprcds folded before Flop (didn't bet)
+Seat 9: BudDyFL folded before Flop
+
+
+
+Betfair Hand #262405761437: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/15 16:34:32 CUST [2026/10/15 11:34:32 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 1: Rusatash (1481 in chips) 
+Seat 2: Litti1948ev (1509 in chips) 
+Seat 4: bullets685 (1569 in chips) 
+Seat 5: hitt75 (1324 in chips) 
+Seat 6: wag8989 (3168 in chips) 
+Seat 7: pauloprcds (1433 in chips) 
+Seat 9: BudDyFL (3016 in chips) 
+Rusatash: posts the ante 4
+Litti1948ev: posts the ante 4
+bullets685: posts the ante 4
+hitt75: posts the ante 4
+wag8989: posts the ante 4
+pauloprcds: posts the ante 4
+BudDyFL: posts the ante 4
+hitt75: posts small blind 15
+wag8989: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [7c 8c]
+pauloprcds: folds 
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: folds 
+bullets685: raises 45 to 75
+hitt75: folds 
+wag8989: raises 75 to 150
+bullets685: calls 75
+*** FLOP *** [As 7d Ac]
+wag8989: checks 
+bullets685: bets 180
+wag8989: calls 180
+*** TURN *** [As 7d Ac] [5h]
+wag8989: checks 
+bullets685: checks 
+*** RIVER *** [As 7d Ac 5h] [Kh]
+wag8989: checks 
+bullets685: checks 
+*** SHOW DOWN ***
+wag8989: shows [Jd Kd] (two pair, Aces and Kings)
+bullets685: mucks hand 
+wag8989 collected 703 from pot
+*** SUMMARY ***
+Total pot 703 | Rake 0 
+Board [As 7d Ac 5h Kh]
+Seat 1: Rusatash folded before Flop (didn't bet)
+Seat 2: Litti1948ev folded before Flop (didn't bet)
+Seat 4: bullets685 (button) mucked [7c 8c]
+Seat 5: hitt75 (small blind) folded before Flop
+Seat 6: wag8989 (big blind) showed [Jd Kd] and won (703) with two pair, Aces and Kings
+Seat 7: pauloprcds folded before Flop (didn't bet)
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405770462: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/15 16:35:35 CUST [2026/10/15 11:35:35 ET]
+Table '4039880417 1' 9-max Seat #5 is the button
+Seat 1: Rusatash (1477 in chips) 
+Seat 2: Litti1948ev (1505 in chips) 
+Seat 4: bullets685 (1235 in chips) 
+Seat 5: hitt75 (1305 in chips) 
+Seat 6: wag8989 (3537 in chips) 
+Seat 7: pauloprcds (1429 in chips) 
+Seat 9: BudDyFL (3012 in chips) 
+Rusatash: posts the ante 6
+Litti1948ev: posts the ante 6
+bullets685: posts the ante 6
+hitt75: posts the ante 6
+wag8989: posts the ante 6
+pauloprcds: posts the ante 6
+BudDyFL: posts the ante 6
+wag8989: posts small blind 25
+pauloprcds: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Td 3s]
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: folds 
+bullets685: folds 
+hitt75: calls 50
+wag8989: calls 25
+pauloprcds: checks 
+*** FLOP *** [Ad 6h 9d]
+wag8989: bets 100
+pauloprcds: folds 
+hitt75: calls 100
+*** TURN *** [Ad 6h 9d] [Th]
+wag8989: bets 196
+hitt75: calls 196
+*** RIVER *** [Ad 6h 9d Th] [3c]
+wag8989: checks 
+hitt75: checks 
+*** SHOW DOWN ***
+wag8989: shows [2h Ac] (a pair of Aces)
+hitt75: mucks hand 
+wag8989 collected 784 from pot
+*** SUMMARY ***
+Total pot 784 | Rake 0 
+Board [Ad 6h 9d Th 3c]
+Seat 1: Rusatash folded before Flop (didn't bet)
+Seat 2: Litti1948ev folded before Flop (didn't bet)
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 5: hitt75 (button) mucked [8d Qd]
+Seat 6: wag8989 (small blind) showed [2h Ac] and won (784) with a pair of Aces
+Seat 7: pauloprcds (big blind) folded on the Flop
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405778517: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/15 16:36:32 CUST [2026/10/15 11:36:32 ET]
+Table '4039880417 1' 9-max Seat #6 is the button
+Seat 1: Rusatash (1471 in chips) 
+Seat 2: Litti1948ev (1499 in chips) 
+Seat 4: bullets685 (1229 in chips) 
+Seat 5: hitt75 (953 in chips) 
+Seat 6: wag8989 (3969 in chips) 
+Seat 7: pauloprcds (1373 in chips) 
+Seat 9: BudDyFL (3006 in chips) 
+Rusatash: posts the ante 6
+Litti1948ev: posts the ante 6
+bullets685: posts the ante 6
+hitt75: posts the ante 6
+wag8989: posts the ante 6
+pauloprcds: posts the ante 6
+BudDyFL: posts the ante 6
+pauloprcds: posts small blind 25
+BudDyFL: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh 4c]
+Rusatash: folds 
+Litti1948ev: folds 
+bullets685: folds 
+hitt75: folds 
+wag8989: folds 
+pauloprcds: calls 25
+BudDyFL: checks 
+*** FLOP *** [Qd 8h 4s]
+pauloprcds: checks 
+BudDyFL: bets 50
+pauloprcds: raises 125 to 175
+BudDyFL: calls 125
+*** TURN *** [Qd 8h 4s] [3c]
+pauloprcds: bets 349
+BudDyFL: calls 349
+*** RIVER *** [Qd 8h 4s 3c] [Ah]
+pauloprcds: bets 793 and is all-in
+BudDyFL: calls 793
+*** SHOW DOWN ***
+pauloprcds: shows [3s Kc] (a pair of Threes)
+BudDyFL: shows [Qc Js] (a pair of Queens)
+BudDyFL collected 2776 from pot
+pauloprcds finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 2776 | Rake 0 
+Board [Qd 8h 4s 3c Ah]
+Seat 1: Rusatash folded before Flop (didn't bet)
+Seat 2: Litti1948ev folded before Flop (didn't bet)
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 5: hitt75 folded before Flop (didn't bet)
+Seat 6: wag8989 (button) folded before Flop (didn't bet)
+Seat 7: pauloprcds (small blind) showed [3s Kc] and lost with a pair of Threes
+Seat 9: BudDyFL (big blind) showed [Qc Js] and won (2776) with a pair of Queens
+
+
+
+Betfair Hand #262405794287: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/15 16:38:22 CUST [2026/10/15 11:38:22 ET]
+Table '4039880417 1' 9-max Seat #9 is the button
+Seat 1: Rusatash (1465 in chips) 
+Seat 2: Litti1948ev (1493 in chips) 
+Seat 4: bullets685 (1223 in chips) 
+Seat 5: hitt75 (947 in chips) 
+Seat 6: wag8989 (3963 in chips) 
+Seat 9: BudDyFL (4409 in chips) 
+Rusatash: posts the ante 6
+Litti1948ev: posts the ante 6
+bullets685: posts the ante 6
+hitt75: posts the ante 6
+wag8989: posts the ante 6
+BudDyFL: posts the ante 6
+Rusatash: posts small blind 25
+Litti1948ev: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [6c Jh]
+bullets685: folds 
+hitt75: folds 
+wag8989: raises 50 to 100
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: calls 50
+*** FLOP *** [Jc Qd 7c]
+Litti1948ev: checks 
+wag8989: bets 131
+Litti1948ev: folds 
+Uncalled bet (131) returned to wag8989
+wag8989 collected 261 from pot
+wag8989: doesn't show hand 
+*** SUMMARY ***
+Total pot 261 | Rake 0 
+Board [Jc Qd 7c]
+Seat 1: Rusatash (small blind) folded before Flop
+Seat 2: Litti1948ev (big blind) folded on the Flop
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 5: hitt75 folded before Flop (didn't bet)
+Seat 6: wag8989 collected (261)
+Seat 9: BudDyFL (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405801581: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/15 16:39:12 CUST [2026/10/15 11:39:12 ET]
+Table '4039880417 1' 9-max Seat #1 is the button
+Seat 1: Rusatash (1434 in chips) 
+Seat 2: Litti1948ev (1387 in chips) 
+Seat 4: bullets685 (1217 in chips) 
+Seat 5: hitt75 (941 in chips) 
+Seat 6: wag8989 (4118 in chips) 
+Seat 9: BudDyFL (4403 in chips) 
+Rusatash: posts the ante 6
+Litti1948ev: posts the ante 6
+bullets685: posts the ante 6
+hitt75: posts the ante 6
+wag8989: posts the ante 6
+BudDyFL: posts the ante 6
+Litti1948ev: posts small blind 25
+bullets685: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc 2h]
+hitt75: folds 
+wag8989: folds 
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: calls 25
+bullets685: checks 
+*** FLOP *** [5d 3h 2c]
+Litti1948ev: bets 150
+bullets685: folds 
+Uncalled bet (150) returned to Litti1948ev
+Litti1948ev collected 136 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 136 | Rake 0 
+Board [5d 3h 2c]
+Seat 1: Rusatash (button) folded before Flop (didn't bet)
+Seat 2: Litti1948ev (small blind) collected (136)
+Seat 4: bullets685 (big blind) folded on the Flop
+Seat 5: hitt75 folded before Flop (didn't bet)
+Seat 6: wag8989 folded before Flop (didn't bet)
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405806662: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/15 16:39:48 CUST [2026/10/15 11:39:48 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 1: Rusatash (1428 in chips) 
+Seat 2: Litti1948ev (1467 in chips) 
+Seat 4: bullets685 (1161 in chips) 
+Seat 5: hitt75 (935 in chips) 
+Seat 6: wag8989 (4112 in chips) 
+Seat 9: BudDyFL (4397 in chips) 
+Rusatash: posts the ante 6
+Litti1948ev: posts the ante 6
+bullets685: posts the ante 6
+hitt75: posts the ante 6
+wag8989: posts the ante 6
+BudDyFL: posts the ante 6
+bullets685: posts small blind 25
+hitt75: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [8s 5s]
+wag8989: folds 
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: raises 50 to 100
+bullets685: calls 75
+hitt75: calls 50
+*** FLOP *** [9h 2h Th]
+bullets685: checks 
+hitt75: bets 168
+Litti1948ev: calls 168
+bullets685: folds 
+*** TURN *** [9h 2h Th] [6h]
+hitt75: checks 
+Litti1948ev: bets 150
+hitt75: calls 150
+*** RIVER *** [9h 2h Th 6h] [8h]
+hitt75: bets 486
+Litti1948ev: folds 
+Uncalled bet (486) returned to hitt75
+hitt75 collected 972 from pot
+hitt75: doesn't show hand 
+*** SUMMARY ***
+Total pot 972 | Rake 0 
+Board [9h 2h Th 6h 8h]
+Seat 1: Rusatash folded before Flop (didn't bet)
+Seat 2: Litti1948ev (button) folded on the River
+Seat 4: bullets685 (small blind) folded on the Flop
+Seat 5: hitt75 (big blind) collected (972)
+Seat 6: wag8989 folded before Flop (didn't bet)
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405816891: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/15 16:40:59 CUST [2026/10/15 11:40:59 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 1: Rusatash (1422 in chips) 
+Seat 2: Litti1948ev (1043 in chips) 
+Seat 4: bullets685 (1055 in chips) 
+Seat 5: hitt75 (1483 in chips) 
+Seat 6: wag8989 (4106 in chips) 
+Seat 9: BudDyFL (4391 in chips) 
+Rusatash: posts the ante 10
+Litti1948ev: posts the ante 10
+bullets685: posts the ante 10
+hitt75: posts the ante 10
+wag8989: posts the ante 10
+BudDyFL: posts the ante 10
+hitt75: posts small blind 40
+wag8989: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [2d 2h]
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: folds 
+bullets685: raises 80 to 160
+hitt75: raises 1313 to 1473 and is all-in
+wag8989: folds 
+bullets685: folds 
+Uncalled bet (1313) returned to hitt75
+hitt75 collected 460 from pot
+hitt75: doesn't show hand 
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Seat 1: Rusatash folded before Flop (didn't bet)
+Seat 2: Litti1948ev folded before Flop (didn't bet)
+Seat 4: bullets685 (button) folded before Flop
+Seat 5: hitt75 (small blind) collected (460)
+Seat 6: wag8989 (big blind) folded before Flop
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405821510: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/15 16:41:31 CUST [2026/10/15 11:41:31 ET]
+Table '4039880417 1' 9-max Seat #5 is the button
+Seat 1: Rusatash (1412 in chips) 
+Seat 2: Litti1948ev (1033 in chips) 
+Seat 4: bullets685 (885 in chips) 
+Seat 5: hitt75 (1773 in chips) 
+Seat 6: wag8989 (4016 in chips) 
+Seat 9: BudDyFL (4381 in chips) 
+Rusatash: posts the ante 10
+Litti1948ev: posts the ante 10
+bullets685: posts the ante 10
+hitt75: posts the ante 10
+wag8989: posts the ante 10
+BudDyFL: posts the ante 10
+wag8989: posts small blind 40
+BudDyFL: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd 2c]
+Rusatash: folds 
+Litti1948ev: folds 
+bullets685: folds 
+hitt75: raises 80 to 160
+wag8989: calls 120
+BudDyFL: calls 80
+*** FLOP *** [2s 7c 6c]
+wag8989: checks 
+BudDyFL: checks 
+hitt75: bets 270
+wag8989: calls 270
+BudDyFL: folds 
+*** TURN *** [2s 7c 6c] [3s]
+wag8989: checks 
+hitt75: bets 620
+wag8989: folds 
+Uncalled bet (620) returned to hitt75
+hitt75 collected 1080 from pot
+hitt75: doesn't show hand 
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [2s 7c 6c 3s]
+Seat 1: Rusatash folded before Flop (didn't bet)
+Seat 2: Litti1948ev folded before Flop (didn't bet)
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 5: hitt75 (button) collected (1080)
+Seat 6: wag8989 (small blind) folded on the Turn
+Seat 9: BudDyFL (big blind) folded on the Flop
+
+
+
+Betfair Hand #262405834506: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/15 16:43:00 CUST [2026/10/15 11:43:00 ET]
+Table '4039880417 1' 9-max Seat #6 is the button
+Seat 1: Rusatash (1402 in chips) 
+Seat 2: Litti1948ev (1023 in chips) 
+Seat 4: bullets685 (875 in chips) 
+Seat 5: hitt75 (2413 in chips) 
+Seat 6: wag8989 (3576 in chips) 
+Seat 9: BudDyFL (4211 in chips) 
+Rusatash: posts the ante 10
+Litti1948ev: posts the ante 10
+bullets685: posts the ante 10
+hitt75: posts the ante 10
+wag8989: posts the ante 10
+BudDyFL: posts the ante 10
+BudDyFL: posts small blind 40
+Rusatash: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah 6d]
+Litti1948ev: raises 320 to 400
+bullets685: folds 
+hitt75: folds 
+wag8989: folds 
+BudDyFL: folds 
+Rusatash: folds 
+Uncalled bet (320) returned to Litti1948ev
+Litti1948ev collected 260 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 1: Rusatash (big blind) folded before Flop
+Seat 2: Litti1948ev collected (260)
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 5: hitt75 folded before Flop (didn't bet)
+Seat 6: wag8989 (button) folded before Flop (didn't bet)
+Seat 9: BudDyFL (small blind) folded before Flop
+
+
+
+Betfair Hand #262405837931: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/15 16:43:23 CUST [2026/10/15 11:43:23 ET]
+Table '4039880417 1' 9-max Seat #9 is the button
+Seat 1: Rusatash (1312 in chips) 
+Seat 2: Litti1948ev (1193 in chips) 
+Seat 4: bullets685 (865 in chips) 
+Seat 5: hitt75 (2403 in chips) 
+Seat 6: wag8989 (3566 in chips) 
+Seat 9: BudDyFL (4161 in chips) 
+Rusatash: posts the ante 10
+Litti1948ev: posts the ante 10
+bullets685: posts the ante 10
+hitt75: posts the ante 10
+wag8989: posts the ante 10
+BudDyFL: posts the ante 10
+Rusatash: posts small blind 40
+Litti1948ev: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [3s 2c]
+bullets685: folds 
+hitt75: calls 80
+wag8989: folds 
+BudDyFL: raises 160 to 240
+Rusatash: folds 
+Litti1948ev: calls 160
+hitt75: calls 160
+*** FLOP *** [9d 5c 5h]
+Litti1948ev: checks 
+hitt75: checks 
+BudDyFL: bets 206
+Litti1948ev: folds 
+hitt75: folds 
+Uncalled bet (206) returned to BudDyFL
+BudDyFL collected 820 from pot
+BudDyFL: doesn't show hand 
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [9d 5c 5h]
+Seat 1: Rusatash (small blind) folded before Flop
+Seat 2: Litti1948ev (big blind) folded on the Flop
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 5: hitt75 folded on the Flop
+Seat 6: wag8989 folded before Flop (didn't bet)
+Seat 9: BudDyFL (button) collected (820)
+
+
+
+Betfair Hand #262405848312: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/15 16:44:36 CUST [2026/10/15 11:44:36 ET]
+Table '4039880417 1' 9-max Seat #1 is the button
+Seat 1: Rusatash (1262 in chips) 
+Seat 2: Litti1948ev (943 in chips) 
+Seat 4: bullets685 (855 in chips) 
+Seat 5: hitt75 (2153 in chips) 
+Seat 6: wag8989 (3556 in chips) 
+Seat 9: BudDyFL (4731 in chips) 
+Rusatash: posts the ante 10
+Litti1948ev: posts the ante 10
+bullets685: posts the ante 10
+hitt75: posts the ante 10
+wag8989: posts the ante 10
+BudDyFL: posts the ante 10
+Litti1948ev: posts small blind 40
+bullets685: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc 8s]
+hitt75: folds 
+wag8989: folds 
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: folds 
+Uncalled bet (40) returned to bullets685
+bullets685 collected 140 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: Rusatash (button) folded before Flop (didn't bet)
+Seat 2: Litti1948ev (small blind) folded before Flop
+Seat 4: bullets685 (big blind) collected (140)
+Seat 5: hitt75 folded before Flop (didn't bet)
+Seat 6: wag8989 folded before Flop (didn't bet)
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405851360: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/15 16:44:58 CUST [2026/10/15 11:44:58 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 1: Rusatash (1252 in chips) 
+Seat 2: Litti1948ev (893 in chips) 
+Seat 4: bullets685 (945 in chips) 
+Seat 5: hitt75 (2143 in chips) 
+Seat 6: wag8989 (3546 in chips) 
+Seat 9: BudDyFL (4721 in chips) 
+Rusatash: posts the ante 10
+Litti1948ev: posts the ante 10
+bullets685: posts the ante 10
+hitt75: posts the ante 10
+wag8989: posts the ante 10
+BudDyFL: posts the ante 10
+bullets685: posts small blind 40
+hitt75: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [4s 3h]
+wag8989: folds 
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: folds 
+bullets685: folds 
+Uncalled bet (40) returned to hitt75
+hitt75 collected 140 from pot
+hitt75: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: Rusatash folded before Flop (didn't bet)
+Seat 2: Litti1948ev (button) folded before Flop (didn't bet)
+Seat 4: bullets685 (small blind) folded before Flop
+Seat 5: hitt75 (big blind) collected (140)
+Seat 6: wag8989 folded before Flop (didn't bet)
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405853547: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/15 16:45:13 CUST [2026/10/15 11:45:13 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 1: Rusatash (1242 in chips) 
+Seat 2: Litti1948ev (883 in chips) 
+Seat 4: bullets685 (895 in chips) 
+Seat 5: hitt75 (2233 in chips) 
+Seat 6: wag8989 (3536 in chips) 
+Seat 9: BudDyFL (4711 in chips) 
+Rusatash: posts the ante 10
+Litti1948ev: posts the ante 10
+bullets685: posts the ante 10
+hitt75: posts the ante 10
+wag8989: posts the ante 10
+BudDyFL: posts the ante 10
+hitt75: posts small blind 40
+wag8989: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [5c 3c]
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: raises 240 to 320
+bullets685: folds 
+hitt75: folds 
+wag8989: folds 
+Uncalled bet (240) returned to Litti1948ev
+Litti1948ev collected 260 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 1: Rusatash folded before Flop (didn't bet)
+Seat 2: Litti1948ev collected (260)
+Seat 4: bullets685 (button) folded before Flop (didn't bet)
+Seat 5: hitt75 (small blind) folded before Flop
+Seat 6: wag8989 (big blind) folded before Flop
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405856268: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/15 16:45:32 CUST [2026/10/15 11:45:32 ET]
+Table '4039880417 1' 9-max Seat #5 is the button
+Seat 1: Rusatash (1232 in chips) 
+Seat 2: Litti1948ev (1053 in chips) 
+Seat 4: bullets685 (885 in chips) 
+Seat 5: hitt75 (2183 in chips) 
+Seat 6: wag8989 (3446 in chips) 
+Seat 9: BudDyFL (4701 in chips) 
+Rusatash: posts the ante 15
+Litti1948ev: posts the ante 15
+bullets685: posts the ante 15
+hitt75: posts the ante 15
+wag8989: posts the ante 15
+BudDyFL: posts the ante 15
+wag8989: posts small blind 60
+BudDyFL: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [8s 6c]
+Rusatash: raises 1097 to 1217 and is all-in
+Litti1948ev: folds 
+bullets685: folds 
+hitt75: folds 
+wag8989: folds 
+BudDyFL: folds 
+Uncalled bet (1097) returned to Rusatash
+Rusatash collected 390 from pot
+Rusatash: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: Rusatash collected (390)
+Seat 2: Litti1948ev folded before Flop (didn't bet)
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 5: hitt75 (button) folded before Flop (didn't bet)
+Seat 6: wag8989 (small blind) folded before Flop
+Seat 9: BudDyFL (big blind) folded before Flop
+
+
+
+Betfair Hand #262405861152: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/15 16:46:06 CUST [2026/10/15 11:46:06 ET]
+Table '4039880417 1' 9-max Seat #6 is the button
+Seat 1: Rusatash (1487 in chips) 
+Seat 2: Litti1948ev (1038 in chips) 
+Seat 4: bullets685 (870 in chips) 
+Seat 5: hitt75 (2168 in chips) 
+Seat 6: wag8989 (3371 in chips) 
+Seat 9: BudDyFL (4566 in chips) 
+Rusatash: posts the ante 15
+Litti1948ev: posts the ante 15
+bullets685: posts the ante 15
+hitt75: posts the ante 15
+wag8989: posts the ante 15
+BudDyFL: posts the ante 15
+BudDyFL: posts small blind 60
+Rusatash: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts 4s]
+Litti1948ev: raises 240 to 360
+bullets685: folds 
+hitt75: folds 
+wag8989: folds 
+BudDyFL: folds 
+Rusatash: folds 
+Uncalled bet (240) returned to Litti1948ev
+Litti1948ev collected 390 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: Rusatash (big blind) folded before Flop
+Seat 2: Litti1948ev collected (390)
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 5: hitt75 folded before Flop (didn't bet)
+Seat 6: wag8989 (button) folded before Flop (didn't bet)
+Seat 9: BudDyFL (small blind) folded before Flop
+
+
+
+Betfair Hand #262405863522: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/15 16:46:22 CUST [2026/10/15 11:46:22 ET]
+Table '4039880417 1' 9-max Seat #9 is the button
+Seat 1: Rusatash (1352 in chips) 
+Seat 2: Litti1948ev (1293 in chips) 
+Seat 4: bullets685 (855 in chips) 
+Seat 5: hitt75 (2153 in chips) 
+Seat 6: wag8989 (3356 in chips) 
+Seat 9: BudDyFL (4491 in chips) 
+Rusatash: posts the ante 15
+Litti1948ev: posts the ante 15
+bullets685: posts the ante 15
+hitt75: posts the ante 15
+wag8989: posts the ante 15
+BudDyFL: posts the ante 15
+Rusatash: posts small blind 60
+Litti1948ev: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [9h Tc]
+bullets685: folds 
+hitt75: folds 
+wag8989: raises 120 to 240
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: calls 120
+*** FLOP *** [6s Qs Qc]
+Litti1948ev: bets 480
+wag8989: raises 2621 to 3101 and is all-in
+Litti1948ev: calls 558 and is all-in
+Uncalled bet (2063) returned to wag8989
+*** TURN *** [6s Qs Qc] [7s]
+*** RIVER *** [6s Qs Qc 7s] [Kc]
+*** SHOW DOWN ***
+Litti1948ev: shows [Ts Kd] (two pair, Kings and Queens)
+wag8989: shows [Ks Th] (two pair, Kings and Queens)
+Litti1948ev collected 1353 from pot
+wag8989 collected 1353 from pot
+*** SUMMARY ***
+Total pot 2706 | Rake 0 
+Board [6s Qs Qc 7s Kc]
+Seat 1: Rusatash (small blind) folded before Flop
+Seat 2: Litti1948ev (big blind) showed [Ts Kd] and won (1353) with two pair, Kings and Queens
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 5: hitt75 folded before Flop (didn't bet)
+Seat 6: wag8989 showed [Ks Th] and won (1353) with two pair, Kings and Queens
+Seat 9: BudDyFL (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405871926: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/15 16:47:21 CUST [2026/10/15 11:47:21 ET]
+Table '4039880417 1' 9-max Seat #1 is the button
+Seat 1: Rusatash (1277 in chips) 
+Seat 2: Litti1948ev (1353 in chips) 
+Seat 4: bullets685 (840 in chips) 
+Seat 5: hitt75 (2138 in chips) 
+Seat 6: wag8989 (3416 in chips) 
+Seat 9: BudDyFL (4476 in chips) 
+Rusatash: posts the ante 15
+Litti1948ev: posts the ante 15
+bullets685: posts the ante 15
+hitt75: posts the ante 15
+wag8989: posts the ante 15
+BudDyFL: posts the ante 15
+Litti1948ev: posts small blind 60
+bullets685: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Th Jd]
+hitt75: folds 
+wag8989: folds 
+BudDyFL: raises 120 to 240
+Rusatash: folds 
+Litti1948ev: folds 
+bullets685: raises 585 to 825 and is all-in
+BudDyFL: calls 585
+*** FLOP *** [Jc Ah As]
+*** TURN *** [Jc Ah As] [Ts]
+*** RIVER *** [Jc Ah As Ts] [5h]
+*** SHOW DOWN ***
+bullets685: shows [Th Jd] (two pair, Aces and Jacks)
+BudDyFL: shows [Kc 7c] (a pair of Aces)
+bullets685 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [Jc Ah As Ts 5h]
+Seat 1: Rusatash (button) folded before Flop (didn't bet)
+Seat 2: Litti1948ev (small blind) folded before Flop
+Seat 4: bullets685 (big blind) showed [Th Jd] and won (1800) with two pair, Aces and Jacks
+Seat 5: hitt75 folded before Flop (didn't bet)
+Seat 6: wag8989 folded before Flop (didn't bet)
+Seat 9: BudDyFL showed [Kc 7c] and lost with a pair of Aces
+
+
+
+Betfair Hand #262405876787: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/15 16:47:55 CUST [2026/10/15 11:47:55 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 1: Rusatash (1262 in chips) 
+Seat 2: Litti1948ev (1278 in chips) 
+Seat 4: bullets685 (1800 in chips) 
+Seat 5: hitt75 (2123 in chips) 
+Seat 6: wag8989 (3401 in chips) 
+Seat 9: BudDyFL (3636 in chips) 
+Rusatash: posts the ante 15
+Litti1948ev: posts the ante 15
+bullets685: posts the ante 15
+hitt75: posts the ante 15
+wag8989: posts the ante 15
+BudDyFL: posts the ante 15
+bullets685: posts small blind 60
+hitt75: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [2h 8h]
+wag8989: raises 120 to 240
+BudDyFL: folds 
+Rusatash: folds 
+Litti1948ev: folds 
+bullets685: folds 
+hitt75: calls 120
+*** FLOP *** [5d Qs 4c]
+hitt75: checks 
+wag8989: bets 315
+hitt75: folds 
+Uncalled bet (315) returned to wag8989
+wag8989 collected 630 from pot
+wag8989: doesn't show hand 
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [5d Qs 4c]
+Seat 1: Rusatash folded before Flop (didn't bet)
+Seat 2: Litti1948ev (button) folded before Flop (didn't bet)
+Seat 4: bullets685 (small blind) folded before Flop
+Seat 5: hitt75 (big blind) folded on the Flop
+Seat 6: wag8989 collected (630)
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405884140: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/15 16:48:46 CUST [2026/10/15 11:48:46 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 1: Rusatash (1247 in chips) 
+Seat 2: Litti1948ev (1263 in chips) 
+Seat 4: bullets685 (1725 in chips) 
+Seat 5: hitt75 (1868 in chips) 
+Seat 6: wag8989 (3776 in chips) 
+Seat 9: BudDyFL (3621 in chips) 
+Rusatash: posts the ante 15
+Litti1948ev: posts the ante 15
+bullets685: posts the ante 15
+hitt75: posts the ante 15
+wag8989: posts the ante 15
+BudDyFL: posts the ante 15
+hitt75: posts small blind 60
+wag8989: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [8d 8c]
+BudDyFL: folds 
+Rusatash: raises 1112 to 1232 and is all-in
+Litti1948ev: folds 
+bullets685: raises 478 to 1710 and is all-in
+hitt75: raises 143 to 1853 and is all-in
+wag8989: folds 
+Uncalled bet (143) returned to hitt75
+*** FLOP *** [5c 9h Qc]
+*** TURN *** [5c 9h Qc] [5h]
+*** RIVER *** [5c 9h Qc 5h] [8h]
+*** SHOW DOWN ***
+hitt75: shows [Jd Js] (two pair, Jacks and Fives)
+bullets685: shows [8d 8c] (a full house, Eights full of Fives)
+bullets685 collected 956 from side pot
+Rusatash: shows [As 2s] (a pair of Fives)
+bullets685 collected 3906 from main pot
+Rusatash finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 4862 Main pot 3906. Side pot 956. | Rake 0 
+Board [5c 9h Qc 5h 8h]
+Seat 1: Rusatash showed [As 2s] and lost with a pair of Fives
+Seat 2: Litti1948ev folded before Flop (didn't bet)
+Seat 4: bullets685 (button) showed [8d 8c] and won (4862) with a full house, Eights full of Fives
+Seat 5: hitt75 (small blind) showed [Jd Js] and lost with two pair, Jacks and Fives
+Seat 6: wag8989 (big blind) folded before Flop
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405887616: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/15 16:49:10 CUST [2026/10/15 11:49:10 ET]
+Table '4039880417 1' 9-max Seat #5 is the button
+Seat 2: Litti1948ev (1248 in chips) 
+Seat 4: bullets685 (4862 in chips) 
+Seat 5: hitt75 (143 in chips) 
+Seat 6: wag8989 (3641 in chips) 
+Seat 9: BudDyFL (3606 in chips) 
+Litti1948ev: posts the ante 15
+bullets685: posts the ante 15
+hitt75: posts the ante 15
+wag8989: posts the ante 15
+BudDyFL: posts the ante 15
+wag8989: posts small blind 60
+BudDyFL: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks 9c]
+Litti1948ev: folds 
+bullets685: raises 120 to 240
+hitt75: calls 128 and is all-in
+wag8989: calls 180
+BudDyFL: folds 
+*** FLOP *** [8d 9s 6c]
+wag8989: checks 
+bullets685: bets 402
+wag8989: calls 402
+*** TURN *** [8d 9s 6c] [Kc]
+wag8989: checks 
+bullets685: bets 1200
+wag8989: folds 
+Uncalled bet (1200) returned to bullets685
+*** RIVER *** [8d 9s 6c Kc] [9h]
+*** SHOW DOWN ***
+bullets685: shows [Ks 9c] (a full house, Nines full of Kings)
+bullets685 collected 1028 from side pot
+hitt75: shows [7h Th] (a straight, Six to Ten)
+bullets685 collected 579 from main pot
+hitt75 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1607 Main pot 579. Side pot 1028. | Rake 0 
+Board [8d 9s 6c Kc 9h]
+Seat 2: Litti1948ev folded before Flop (didn't bet)
+Seat 4: bullets685 showed [Ks 9c] and won (1607) with a full house, Nines full of Kings
+Seat 5: hitt75 (button) showed [7h Th] and lost with a straight, Six to Ten
+Seat 6: wag8989 (small blind) folded on the Turn
+Seat 9: BudDyFL (big blind) folded before Flop
+
+
+
+Betfair Hand #262405894037: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/15 16:49:55 CUST [2026/10/15 11:49:55 ET]
+Table '4039880417 1' 9-max Seat #6 is the button
+Seat 2: Litti1948ev (1233 in chips) 
+Seat 4: bullets685 (5812 in chips) 
+Seat 6: wag8989 (2984 in chips) 
+Seat 9: BudDyFL (3471 in chips) 
+Litti1948ev: posts the ante 15
+bullets685: posts the ante 15
+wag8989: posts the ante 15
+BudDyFL: posts the ante 15
+BudDyFL: posts small blind 60
+Litti1948ev: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc 8h]
+bullets685: folds 
+wag8989: raises 120 to 240
+BudDyFL: folds 
+Litti1948ev: calls 120
+*** FLOP *** [Qh 2c 4c]
+Litti1948ev: bets 120
+wag8989: calls 120
+*** TURN *** [Qh 2c 4c] [Qs]
+Litti1948ev: bets 240
+wag8989: calls 240
+*** RIVER *** [Qh 2c 4c Qs] [5c]
+Litti1948ev: checks 
+wag8989: checks 
+*** SHOW DOWN ***
+Litti1948ev: shows [Ks 2s] (two pair, Queens and Deuces)
+wag8989: mucks hand 
+Litti1948ev collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [Qh 2c 4c Qs 5c]
+Seat 2: Litti1948ev (big blind) showed [Ks 2s] and won (1320) with two pair, Queens and Deuces
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 6: wag8989 (button) mucked [Ac Kd]
+Seat 9: BudDyFL (small blind) folded before Flop
+
+
+
+Betfair Hand #262405901659: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/15 16:50:48 CUST [2026/10/15 11:50:48 ET]
+Table '4039880417 1' 9-max Seat #9 is the button
+Seat 2: Litti1948ev (1938 in chips) 
+Seat 4: bullets685 (5797 in chips) 
+Seat 6: wag8989 (2369 in chips) 
+Seat 9: BudDyFL (3396 in chips) 
+Litti1948ev: posts the ante 20
+bullets685: posts the ante 20
+wag8989: posts the ante 20
+BudDyFL: posts the ante 20
+Litti1948ev: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [5h 3s]
+wag8989: folds 
+BudDyFL: folds 
+Litti1948ev: calls 80
+bullets685: checks 
+*** FLOP *** [Jd 4d 6s]
+Litti1948ev: bets 320
+bullets685: calls 320
+*** TURN *** [Jd 4d 6s] [Ac]
+Litti1948ev: checks 
+bullets685: checks 
+*** RIVER *** [Jd 4d 6s Ac] [5d]
+Litti1948ev: bets 640
+bullets685: calls 640
+*** SHOW DOWN ***
+Litti1948ev: shows [8d Td] (a flush, Jack high)
+bullets685: mucks hand 
+Litti1948ev collected 2320 from pot
+*** SUMMARY ***
+Total pot 2320 | Rake 0 
+Board [Jd 4d 6s Ac 5d]
+Seat 2: Litti1948ev (small blind) showed [8d Td] and won (2320) with a flush, Jack high
+Seat 4: bullets685 (big blind) mucked [5h 3s]
+Seat 6: wag8989 folded before Flop (didn't bet)
+Seat 9: BudDyFL (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405908297: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/15 16:51:34 CUST [2026/10/15 11:51:34 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (3118 in chips) 
+Seat 4: bullets685 (4657 in chips) 
+Seat 6: wag8989 (2349 in chips) 
+Seat 9: BudDyFL (3376 in chips) 
+Litti1948ev: posts the ante 20
+bullets685: posts the ante 20
+wag8989: posts the ante 20
+BudDyFL: posts the ante 20
+bullets685: posts small blind 80
+wag8989: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [3s 4d]
+BudDyFL: raises 160 to 320
+Litti1948ev: folds 
+bullets685: folds 
+wag8989: calls 160
+*** FLOP *** [4h 6d 2d]
+wag8989: checks 
+BudDyFL: checks 
+*** TURN *** [4h 6d 2d] [Th]
+wag8989: bets 240
+BudDyFL: folds 
+Uncalled bet (240) returned to wag8989
+wag8989 collected 800 from pot
+wag8989: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [4h 6d 2d Th]
+Seat 2: Litti1948ev (button) folded before Flop (didn't bet)
+Seat 4: bullets685 (small blind) folded before Flop
+Seat 6: wag8989 (big blind) collected (800)
+Seat 9: BudDyFL folded on the Turn
+
+
+
+Betfair Hand #262405915243: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/15 16:52:22 CUST [2026/10/15 11:52:22 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (3098 in chips) 
+Seat 4: bullets685 (4557 in chips) 
+Seat 6: wag8989 (2809 in chips) 
+Seat 9: BudDyFL (3036 in chips) 
+Litti1948ev: posts the ante 20
+bullets685: posts the ante 20
+wag8989: posts the ante 20
+BudDyFL: posts the ante 20
+wag8989: posts small blind 80
+BudDyFL: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [7h As]
+Litti1948ev: raises 160 to 320
+bullets685: calls 320
+wag8989: folds 
+BudDyFL: folds 
+*** FLOP *** [8h Kc 6d]
+Litti1948ev: checks 
+bullets685: checks 
+*** TURN *** [8h Kc 6d] [5d]
+Litti1948ev: bets 320
+bullets685: calls 320
+*** RIVER *** [8h Kc 6d 5d] [3c]
+Litti1948ev: checks 
+bullets685: checks 
+*** SHOW DOWN ***
+Litti1948ev: shows [Jc Js] (a pair of Jacks)
+bullets685: mucks hand 
+Litti1948ev collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [8h Kc 6d 5d 3c]
+Seat 2: Litti1948ev showed [Jc Js] and won (1600) with a pair of Jacks
+Seat 4: bullets685 (button) mucked [7h As]
+Seat 6: wag8989 (small blind) folded before Flop
+Seat 9: BudDyFL (big blind) folded before Flop
+
+
+
+Betfair Hand #262405921476: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/15 16:53:05 CUST [2026/10/15 11:53:05 ET]
+Table '4039880417 1' 9-max Seat #6 is the button
+Seat 2: Litti1948ev (4038 in chips) 
+Seat 4: bullets685 (3897 in chips) 
+Seat 6: wag8989 (2709 in chips) 
+Seat 9: BudDyFL (2856 in chips) 
+Litti1948ev: posts the ante 20
+bullets685: posts the ante 20
+wag8989: posts the ante 20
+BudDyFL: posts the ante 20
+BudDyFL: posts small blind 80
+Litti1948ev: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc 3s]
+bullets685: folds 
+wag8989: folds 
+BudDyFL: folds 
+Uncalled bet (80) returned to Litti1948ev
+Litti1948ev collected 240 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 2: Litti1948ev (big blind) collected (240)
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 6: wag8989 (button) folded before Flop (didn't bet)
+Seat 9: BudDyFL (small blind) folded before Flop
+
+
+
+Betfair Hand #262405923648: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/15 16:53:20 CUST [2026/10/15 11:53:20 ET]
+Table '4039880417 1' 9-max Seat #9 is the button
+Seat 2: Litti1948ev (4178 in chips) 
+Seat 4: bullets685 (3877 in chips) 
+Seat 6: wag8989 (2689 in chips) 
+Seat 9: BudDyFL (2756 in chips) 
+Litti1948ev: posts the ante 20
+bullets685: posts the ante 20
+wag8989: posts the ante 20
+BudDyFL: posts the ante 20
+Litti1948ev: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 2h]
+wag8989: folds 
+BudDyFL: folds 
+Litti1948ev: raises 160 to 320
+bullets685: calls 160
+*** FLOP *** [8d 2s 4h]
+Litti1948ev: bets 320
+bullets685: raises 320 to 640
+Litti1948ev: folds 
+Uncalled bet (320) returned to bullets685
+bullets685 collected 1360 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Board [8d 2s 4h]
+Seat 2: Litti1948ev (small blind) folded on the Flop
+Seat 4: bullets685 (big blind) collected (1360)
+Seat 6: wag8989 folded before Flop (didn't bet)
+Seat 9: BudDyFL (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405929420: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/15 16:54:01 CUST [2026/10/15 11:54:01 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (3518 in chips) 
+Seat 4: bullets685 (4577 in chips) 
+Seat 6: wag8989 (2669 in chips) 
+Seat 9: BudDyFL (2736 in chips) 
+Litti1948ev: posts the ante 20
+bullets685: posts the ante 20
+wag8989: posts the ante 20
+BudDyFL: posts the ante 20
+bullets685: posts small blind 80
+wag8989: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Jd Ad]
+BudDyFL: folds 
+Litti1948ev: folds 
+bullets685: raises 160 to 320
+wag8989: calls 160
+*** FLOP *** [9s 4c 8s]
+bullets685: checks 
+wag8989: bets 360
+bullets685: folds 
+Uncalled bet (360) returned to wag8989
+wag8989 collected 720 from pot
+wag8989: doesn't show hand 
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [9s 4c 8s]
+Seat 2: Litti1948ev (button) folded before Flop (didn't bet)
+Seat 4: bullets685 (small blind) folded on the Flop
+Seat 6: wag8989 (big blind) collected (720)
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405933660: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/15 16:54:30 CUST [2026/10/15 11:54:30 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (3498 in chips) 
+Seat 4: bullets685 (4237 in chips) 
+Seat 6: wag8989 (3049 in chips) 
+Seat 9: BudDyFL (2716 in chips) 
+Litti1948ev: posts the ante 20
+bullets685: posts the ante 20
+wag8989: posts the ante 20
+BudDyFL: posts the ante 20
+wag8989: posts small blind 80
+BudDyFL: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [9c 2h]
+Litti1948ev: folds 
+bullets685: folds 
+wag8989: folds 
+Uncalled bet (80) returned to BudDyFL
+BudDyFL collected 240 from pot
+BudDyFL: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 2: Litti1948ev folded before Flop (didn't bet)
+Seat 4: bullets685 (button) folded before Flop (didn't bet)
+Seat 6: wag8989 (small blind) folded before Flop
+Seat 9: BudDyFL (big blind) collected (240)
+
+
+
+Betfair Hand #262405935275: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/15 16:54:41 CUST [2026/10/15 11:54:41 ET]
+Table '4039880417 1' 9-max Seat #6 is the button
+Seat 2: Litti1948ev (3478 in chips) 
+Seat 4: bullets685 (4217 in chips) 
+Seat 6: wag8989 (2949 in chips) 
+Seat 9: BudDyFL (2856 in chips) 
+Litti1948ev: posts the ante 20
+bullets685: posts the ante 20
+wag8989: posts the ante 20
+BudDyFL: posts the ante 20
+BudDyFL: posts small blind 80
+Litti1948ev: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [3h 4d]
+bullets685: folds 
+wag8989: raises 160 to 320
+BudDyFL: folds 
+Litti1948ev: calls 160
+*** FLOP *** [Js 4h Jc]
+Litti1948ev: bets 320
+wag8989: calls 320
+*** TURN *** [Js 4h Jc] [5h]
+Litti1948ev: checks 
+wag8989: bets 432
+Litti1948ev: calls 432
+*** RIVER *** [Js 4h Jc 5h] [8s]
+Litti1948ev: checks 
+wag8989: checks 
+*** SHOW DOWN ***
+Litti1948ev: shows [Ts 4c] (two pair, Jacks and Fours)
+wag8989: mucks hand 
+Litti1948ev collected 2304 from pot
+*** SUMMARY ***
+Total pot 2304 | Rake 0 
+Board [Js 4h Jc 5h 8s]
+Seat 2: Litti1948ev (big blind) showed [Ts 4c] and won (2304) with two pair, Jacks and Fours
+Seat 4: bullets685 folded before Flop (didn't bet)
+Seat 6: wag8989 (button) mucked [Qh Ad]
+Seat 9: BudDyFL (small blind) folded before Flop
+
+
+
+Betfair Hand #262405941649: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/15 16:55:31 CUST [2026/10/15 11:55:31 ET]
+Table '4039880417 1' 9-max Seat #9 is the button
+Seat 2: Litti1948ev (4690 in chips) 
+Seat 4: bullets685 (4197 in chips) 
+Seat 6: wag8989 (1857 in chips) 
+Seat 9: BudDyFL (2756 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+wag8989: posts the ante 25
+BudDyFL: posts the ante 25
+Litti1948ev: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh Qd]
+wag8989: folds 
+BudDyFL: raises 200 to 400
+Litti1948ev: folds 
+bullets685: calls 200
+*** FLOP *** [3h 5s Ac]
+bullets685: checks 
+BudDyFL: bets 330
+bullets685: calls 330
+*** TURN *** [3h 5s Ac] [6s]
+bullets685: checks 
+BudDyFL: checks 
+*** RIVER *** [3h 5s Ac 6s] [Ks]
+bullets685: bets 600
+BudDyFL: folds 
+Uncalled bet (600) returned to bullets685
+bullets685 collected 1660 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1660 | Rake 0 
+Board [3h 5s Ac 6s Ks]
+Seat 2: Litti1948ev (small blind) folded before Flop
+Seat 4: bullets685 (big blind) collected (1660)
+Seat 6: wag8989 folded before Flop (didn't bet)
+Seat 9: BudDyFL (button) folded on the River
+
+
+
+Betfair Hand #262405947025: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/15 16:56:20 CUST [2026/10/15 11:56:20 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (4565 in chips) 
+Seat 4: bullets685 (5102 in chips) 
+Seat 6: wag8989 (1832 in chips) 
+Seat 9: BudDyFL (2001 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+wag8989: posts the ante 25
+BudDyFL: posts the ante 25
+bullets685: posts small blind 100
+wag8989: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [As Jd]
+BudDyFL: folds 
+Litti1948ev: folds 
+bullets685: raises 200 to 400
+wag8989: calls 200
+*** FLOP *** [8s 2d 2h]
+bullets685: bets 400
+wag8989: calls 400
+*** TURN *** [8s 2d 2h] [8d]
+bullets685: checks 
+wag8989: bets 510
+bullets685: raises 510 to 1020
+wag8989: folds 
+Uncalled bet (510) returned to bullets685
+bullets685 collected 2720 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 2720 | Rake 0 
+Board [8s 2d 2h 8d]
+Seat 2: Litti1948ev (button) folded before Flop (didn't bet)
+Seat 4: bullets685 (small blind) collected (2720)
+Seat 6: wag8989 (big blind) folded on the Turn
+Seat 9: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405953890: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/15 16:57:21 CUST [2026/10/15 11:57:21 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (4540 in chips) 
+Seat 4: bullets685 (6487 in chips) 
+Seat 6: wag8989 (497 in chips) 
+Seat 9: BudDyFL (1976 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+wag8989: posts the ante 25
+BudDyFL: posts the ante 25
+wag8989: posts small blind 100
+BudDyFL: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [8c 8s]
+Litti1948ev: folds 
+bullets685: raises 200 to 400
+wag8989: folds 
+BudDyFL: calls 200
+*** FLOP *** [Jh 4d 6c]
+BudDyFL: checks 
+bullets685: bets 400
+BudDyFL: folds 
+Uncalled bet (400) returned to bullets685
+bullets685 collected 1000 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Jh 4d 6c]
+Seat 2: Litti1948ev folded before Flop (didn't bet)
+Seat 4: bullets685 (button) collected (1000)
+Seat 6: wag8989 (small blind) folded before Flop
+Seat 9: BudDyFL (big blind) folded on the Flop
+
+
+
+Betfair Hand #262405956913: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/15 16:57:48 CUST [2026/10/15 11:57:48 ET]
+Table '4039880417 1' 9-max Seat #6 is the button
+Seat 2: Litti1948ev (4515 in chips) 
+Seat 4: bullets685 (7062 in chips) 
+Seat 6: wag8989 (372 in chips) 
+Seat 9: BudDyFL (1551 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+wag8989: posts the ante 25
+BudDyFL: posts the ante 25
+BudDyFL: posts small blind 100
+Litti1948ev: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah Js]
+bullets685: raises 200 to 400
+wag8989: folds 
+BudDyFL: folds 
+Litti1948ev: calls 200
+*** FLOP *** [5s 8c As]
+Litti1948ev: checks 
+bullets685: bets 600
+Litti1948ev: folds 
+Uncalled bet (600) returned to bullets685
+bullets685 collected 1000 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [5s 8c As]
+Seat 2: Litti1948ev (big blind) folded on the Flop
+Seat 4: bullets685 collected (1000)
+Seat 6: wag8989 (button) folded before Flop (didn't bet)
+Seat 9: BudDyFL (small blind) folded before Flop
+
+
+
+Betfair Hand #262405959517: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/15 16:58:11 CUST [2026/10/15 11:58:11 ET]
+Table '4039880417 1' 9-max Seat #9 is the button
+Seat 2: Litti1948ev (4090 in chips) 
+Seat 4: bullets685 (7637 in chips) 
+Seat 6: wag8989 (347 in chips) 
+Seat 9: BudDyFL (1426 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+wag8989: posts the ante 25
+BudDyFL: posts the ante 25
+Litti1948ev: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [4c Qs]
+wag8989: raises 122 to 322 and is all-in
+BudDyFL: folds 
+Litti1948ev: folds 
+bullets685: calls 122
+*** FLOP *** [As 5h Tc]
+*** TURN *** [As 5h Tc] [4h]
+*** RIVER *** [As 5h Tc 4h] [9c]
+*** SHOW DOWN ***
+bullets685: shows [4c Qs] (a pair of Fours)
+wag8989: shows [Js Kh] (high card Ace)
+bullets685 collected 844 from pot
+wag8989 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 844 | Rake 0 
+Board [As 5h Tc 4h 9c]
+Seat 2: Litti1948ev (small blind) folded before Flop
+Seat 4: bullets685 (big blind) showed [4c Qs] and won (844) with a pair of Fours
+Seat 6: wag8989 showed [Js Kh] and lost with high card Ace
+Seat 9: BudDyFL (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405962225: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/15 16:58:35 CUST [2026/10/15 11:58:35 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (3965 in chips) 
+Seat 4: bullets685 (8134 in chips) 
+Seat 9: BudDyFL (1401 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+BudDyFL: posts the ante 25
+bullets685: posts small blind 100
+BudDyFL: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [6d 2h]
+Litti1948ev: folds 
+bullets685: calls 100
+BudDyFL: checks 
+*** FLOP *** [3c 8s Qd]
+bullets685: bets 400
+BudDyFL: raises 776 to 1176 and is all-in
+bullets685: folds 
+Uncalled bet (776) returned to BudDyFL
+BudDyFL collected 1275 from pot
+BudDyFL: doesn't show hand 
+*** SUMMARY ***
+Total pot 1275 | Rake 0 
+Board [3c 8s Qd]
+Seat 2: Litti1948ev (button) folded before Flop (didn't bet)
+Seat 4: bullets685 (small blind) folded on the Flop
+Seat 9: BudDyFL (big blind) collected (1275)
+
+
+
+Betfair Hand #262405965866: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/15 16:59:07 CUST [2026/10/15 11:59:07 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (3940 in chips) 
+Seat 4: bullets685 (7509 in chips) 
+Seat 9: BudDyFL (2051 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+BudDyFL: posts the ante 25
+BudDyFL: posts small blind 100
+Litti1948ev: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd Td]
+bullets685: raises 200 to 400
+BudDyFL: folds 
+Litti1948ev: raises 200 to 600
+bullets685: calls 200
+*** FLOP *** [Qs 7c 4c]
+Litti1948ev: bets 600
+bullets685: raises 600 to 1200
+Litti1948ev: calls 600
+*** TURN *** [Qs 7c 4c] [7s]
+Litti1948ev: bets 800
+bullets685: folds 
+Uncalled bet (800) returned to Litti1948ev
+Litti1948ev collected 3775 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 3775 | Rake 0 
+Board [Qs 7c 4c 7s]
+Seat 2: Litti1948ev (big blind) collected (3775)
+Seat 4: bullets685 (button) folded on the Turn
+Seat 9: BudDyFL (small blind) folded before Flop
+
+
+
+Betfair Hand #262405971453: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/15 16:59:56 CUST [2026/10/15 11:59:56 ET]
+Table '4039880417 1' 9-max Seat #9 is the button
+Seat 2: Litti1948ev (5890 in chips) 
+Seat 4: bullets685 (5684 in chips) 
+Seat 9: BudDyFL (1926 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+BudDyFL: posts the ante 25
+Litti1948ev: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [7s 9s]
+BudDyFL: folds 
+Litti1948ev: raises 200 to 400
+bullets685: calls 200
+*** FLOP *** [2d 2h 9d]
+Litti1948ev: bets 600
+bullets685: raises 600 to 1200
+Litti1948ev: calls 600
+*** TURN *** [2d 2h 9d] [5s]
+Litti1948ev: checks 
+bullets685: bets 1638
+Litti1948ev: calls 1638
+*** RIVER *** [2d 2h 9d 5s] [Ah]
+Litti1948ev: checks 
+bullets685: checks 
+*** SHOW DOWN ***
+Litti1948ev: shows [Jc Jd] (two pair, Jacks and Deuces)
+bullets685: mucks hand 
+Litti1948ev collected 6551 from pot
+*** SUMMARY ***
+Total pot 6551 | Rake 0 
+Board [2d 2h 9d 5s Ah]
+Seat 2: Litti1948ev (small blind) showed [Jc Jd] and won (6551) with two pair, Jacks and Deuces
+Seat 4: bullets685 (big blind) mucked [7s 9s]
+Seat 9: BudDyFL (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262405977589: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:00:47 CUST [2026/10/15 12:00:47 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (9178 in chips) 
+Seat 4: bullets685 (2421 in chips) 
+Seat 9: BudDyFL (1901 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+BudDyFL: posts the ante 25
+bullets685: posts small blind 150
+BudDyFL: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [6s Ac]
+Litti1948ev: raises 300 to 600
+bullets685: folds 
+BudDyFL: folds 
+Uncalled bet (300) returned to Litti1948ev
+Litti1948ev collected 825 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 2: Litti1948ev (button) collected (825)
+Seat 4: bullets685 (small blind) folded before Flop
+Seat 9: BudDyFL (big blind) folded before Flop
+
+
+
+Betfair Hand #262405979041: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:00:57 CUST [2026/10/15 12:00:57 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (9678 in chips) 
+Seat 4: bullets685 (2246 in chips) 
+Seat 9: BudDyFL (1576 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+BudDyFL: posts the ante 25
+BudDyFL: posts small blind 150
+Litti1948ev: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh 5h]
+bullets685: folds 
+BudDyFL: raises 1251 to 1551 and is all-in
+Litti1948ev: calls 1251
+*** FLOP *** [8d 8h 2s]
+*** TURN *** [8d 8h 2s] [Qd]
+*** RIVER *** [8d 8h 2s Qd] [Td]
+*** SHOW DOWN ***
+BudDyFL: shows [Kc Ad] (a pair of Eights)
+Litti1948ev: shows [Jd Qs] (two pair, Queens and Eights)
+Litti1948ev collected 3177 from pot
+BudDyFL finished the tournament in 3rd place and received $7.92.
+*** SUMMARY ***
+Total pot 3177 | Rake 0 
+Board [8d 8h 2s Qd Td]
+Seat 2: Litti1948ev (big blind) showed [Jd Qs] and won (3177) with two pair, Queens and Eights
+Seat 4: bullets685 (button) folded before Flop (didn't bet)
+Seat 9: BudDyFL (small blind) showed [Kc Ad] and lost with a pair of Eights
+
+
+
+Betfair Hand #262405981692: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:01:17 CUST [2026/10/15 12:01:17 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (11279 in chips) 
+Seat 4: bullets685 (2221 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+Litti1948ev: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [As 8h]
+Litti1948ev: calls 150
+bullets685: raises 1896 to 2196 and is all-in
+Litti1948ev: folds 
+Uncalled bet (1896) returned to bullets685
+bullets685 collected 650 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 2: Litti1948ev (button) (small blind) folded before Flop
+Seat 4: bullets685 (big blind) collected (650)
+
+
+
+Betfair Hand #262405983433: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:01:30 CUST [2026/10/15 12:01:30 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (10954 in chips) 
+Seat 4: bullets685 (2546 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+Litti1948ev: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [7d As]
+bullets685: raises 2221 to 2521 and is all-in
+Litti1948ev: folds 
+Uncalled bet (2221) returned to bullets685
+bullets685 collected 650 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 2: Litti1948ev (big blind) folded before Flop
+Seat 4: bullets685 (button) (small blind) collected (650)
+
+
+
+Betfair Hand #262405984590: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:01:38 CUST [2026/10/15 12:01:38 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (10629 in chips) 
+Seat 4: bullets685 (2871 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+Litti1948ev: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [5h Tc]
+Litti1948ev: raises 300 to 600
+bullets685: folds 
+Uncalled bet (300) returned to Litti1948ev
+Litti1948ev collected 650 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 2: Litti1948ev (button) (small blind) collected (650)
+Seat 4: bullets685 (big blind) folded before Flop
+
+
+
+Betfair Hand #262405986098: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:01:49 CUST [2026/10/15 12:01:49 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (10954 in chips) 
+Seat 4: bullets685 (2546 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+Litti1948ev: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [6h Qh]
+bullets685: raises 2221 to 2521 and is all-in
+Litti1948ev: folds 
+Uncalled bet (2221) returned to bullets685
+bullets685 collected 650 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 2: Litti1948ev (big blind) folded before Flop
+Seat 4: bullets685 (button) (small blind) collected (650)
+
+
+
+Betfair Hand #262405987435: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:01:57 CUST [2026/10/15 12:01:57 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (10629 in chips) 
+Seat 4: bullets685 (2871 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+Litti1948ev: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [5d Js]
+Litti1948ev: raises 300 to 600
+bullets685: folds 
+Uncalled bet (300) returned to Litti1948ev
+Litti1948ev collected 650 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 2: Litti1948ev (button) (small blind) collected (650)
+Seat 4: bullets685 (big blind) folded before Flop
+
+
+
+Betfair Hand #262405989104: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:02:09 CUST [2026/10/15 12:02:09 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (10954 in chips) 
+Seat 4: bullets685 (2546 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+Litti1948ev: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh Kc]
+bullets685: raises 2221 to 2521 and is all-in
+Litti1948ev: folds 
+Uncalled bet (2221) returned to bullets685
+bullets685 collected 650 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 2: Litti1948ev (big blind) folded before Flop
+Seat 4: bullets685 (button) (small blind) collected (650)
+
+
+
+Betfair Hand #262405990336: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:02:18 CUST [2026/10/15 12:02:18 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (10629 in chips) 
+Seat 4: bullets685 (2871 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+Litti1948ev: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc 7c]
+Litti1948ev: folds 
+Uncalled bet (150) returned to bullets685
+bullets685 collected 350 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 2: Litti1948ev (button) (small blind) folded before Flop
+Seat 4: bullets685 (big blind) collected (350)
+
+
+
+Betfair Hand #262405991314: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:02:25 CUST [2026/10/15 12:02:25 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (10454 in chips) 
+Seat 4: bullets685 (3046 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+Litti1948ev: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [2h 2s]
+bullets685: raises 2721 to 3021 and is all-in
+Litti1948ev: folds 
+Uncalled bet (2721) returned to bullets685
+bullets685 collected 650 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 2: Litti1948ev (big blind) folded before Flop
+Seat 4: bullets685 (button) (small blind) collected (650)
+
+
+
+Betfair Hand #262405992486: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:02:34 CUST [2026/10/15 12:02:34 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (10129 in chips) 
+Seat 4: bullets685 (3371 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+Litti1948ev: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Qs 4d]
+Litti1948ev: raises 300 to 600
+bullets685: folds 
+Uncalled bet (300) returned to Litti1948ev
+Litti1948ev collected 650 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 2: Litti1948ev (button) (small blind) collected (650)
+Seat 4: bullets685 (big blind) folded before Flop
+
+
+
+Betfair Hand #262405993781: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:02:42 CUST [2026/10/15 12:02:42 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (10454 in chips) 
+Seat 4: bullets685 (3046 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+Litti1948ev: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc 7d]
+bullets685: folds 
+Uncalled bet (150) returned to Litti1948ev
+Litti1948ev collected 350 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 2: Litti1948ev (big blind) collected (350)
+Seat 4: bullets685 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262405994536: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:02:48 CUST [2026/10/15 12:02:48 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (10629 in chips) 
+Seat 4: bullets685 (2871 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+Litti1948ev: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Jd 7d]
+Litti1948ev: calls 150
+bullets685: raises 2546 to 2846 and is all-in
+Litti1948ev: calls 2546
+*** FLOP *** [8c 4d Js]
+*** TURN *** [8c 4d Js] [Tc]
+*** RIVER *** [8c 4d Js Tc] [Td]
+*** SHOW DOWN ***
+bullets685: shows [Jd 7d] (two pair, Jacks and Tens)
+Litti1948ev: shows [2s 3s] (a pair of Tens)
+bullets685 collected 5742 from pot
+*** SUMMARY ***
+Total pot 5742 | Rake 0 
+Board [8c 4d Js Tc Td]
+Seat 2: Litti1948ev (button) (small blind) showed [2s 3s] and lost with a pair of Tens
+Seat 4: bullets685 (big blind) showed [Jd 7d] and won (5742) with two pair, Jacks and Tens
+
+
+
+Betfair Hand #262405997368: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:03:08 CUST [2026/10/15 12:03:08 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (7758 in chips) 
+Seat 4: bullets685 (5742 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+Litti1948ev: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [9c 3h]
+bullets685: folds 
+Uncalled bet (150) returned to Litti1948ev
+Litti1948ev collected 350 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 2: Litti1948ev (big blind) collected (350)
+Seat 4: bullets685 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262405998697: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:03:17 CUST [2026/10/15 12:03:17 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (7933 in chips) 
+Seat 4: bullets685 (5567 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+Litti1948ev: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [9d Jd]
+Litti1948ev: folds 
+Uncalled bet (150) returned to bullets685
+bullets685 collected 350 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 2: Litti1948ev (button) (small blind) folded before Flop
+Seat 4: bullets685 (big blind) collected (350)
+
+
+
+Betfair Hand #262405999668: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:03:24 CUST [2026/10/15 12:03:24 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (7758 in chips) 
+Seat 4: bullets685 (5742 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+Litti1948ev: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc 8d]
+bullets685: folds 
+Uncalled bet (150) returned to Litti1948ev
+Litti1948ev collected 350 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 2: Litti1948ev (big blind) collected (350)
+Seat 4: bullets685 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262406000566: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:03:30 CUST [2026/10/15 12:03:30 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (7933 in chips) 
+Seat 4: bullets685 (5567 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+Litti1948ev: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah Th]
+Litti1948ev: folds 
+Uncalled bet (150) returned to bullets685
+bullets685 collected 350 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 2: Litti1948ev (button) (small blind) folded before Flop
+Seat 4: bullets685 (big blind) collected (350)
+
+
+
+Betfair Hand #262406001487: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:03:37 CUST [2026/10/15 12:03:37 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (7758 in chips) 
+Seat 4: bullets685 (5742 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+Litti1948ev: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [9h Jd]
+bullets685: folds 
+Uncalled bet (150) returned to Litti1948ev
+Litti1948ev collected 350 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 2: Litti1948ev (big blind) collected (350)
+Seat 4: bullets685 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262406002408: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:03:43 CUST [2026/10/15 12:03:43 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (7933 in chips) 
+Seat 4: bullets685 (5567 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+Litti1948ev: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [9s 7s]
+Litti1948ev: raises 300 to 600
+bullets685: calls 300
+*** FLOP *** [2d 8d 4h]
+bullets685: checks 
+Litti1948ev: bets 2700
+bullets685: folds 
+Uncalled bet (2700) returned to Litti1948ev
+Litti1948ev collected 1250 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [2d 8d 4h]
+Seat 2: Litti1948ev (button) (small blind) collected (1250)
+Seat 4: bullets685 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262406006072: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:04:08 CUST [2026/10/15 12:04:08 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (8558 in chips) 
+Seat 4: bullets685 (4942 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+Litti1948ev: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc 3s]
+bullets685: folds 
+Uncalled bet (150) returned to Litti1948ev
+Litti1948ev collected 350 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 2: Litti1948ev (big blind) collected (350)
+Seat 4: bullets685 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262406006934: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:04:14 CUST [2026/10/15 12:04:14 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (8733 in chips) 
+Seat 4: bullets685 (4767 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+Litti1948ev: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Js 4h]
+Litti1948ev: folds 
+Uncalled bet (150) returned to bullets685
+bullets685 collected 350 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 2: Litti1948ev (button) (small blind) folded before Flop
+Seat 4: bullets685 (big blind) collected (350)
+
+
+
+Betfair Hand #262406007918: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:04:21 CUST [2026/10/15 12:04:21 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (8558 in chips) 
+Seat 4: bullets685 (4942 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+Litti1948ev: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [4c Qd]
+bullets685: folds 
+Uncalled bet (150) returned to Litti1948ev
+Litti1948ev collected 350 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 2: Litti1948ev (big blind) collected (350)
+Seat 4: bullets685 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262406008858: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:04:27 CUST [2026/10/15 12:04:27 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (8733 in chips) 
+Seat 4: bullets685 (4767 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+Litti1948ev: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [5c As]
+Litti1948ev: calls 150
+bullets685: raises 4442 to 4742 and is all-in
+Litti1948ev: folds 
+Uncalled bet (4442) returned to bullets685
+bullets685 collected 650 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 2: Litti1948ev (button) (small blind) folded before Flop
+Seat 4: bullets685 (big blind) collected (650)
+
+
+
+Betfair Hand #262406010897: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:04:41 CUST [2026/10/15 12:04:41 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (8408 in chips) 
+Seat 4: bullets685 (5092 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+Litti1948ev: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [5d Jh]
+bullets685: folds 
+Uncalled bet (150) returned to Litti1948ev
+Litti1948ev collected 350 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 2: Litti1948ev (big blind) collected (350)
+Seat 4: bullets685 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262406011857: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:04:48 CUST [2026/10/15 12:04:48 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (8583 in chips) 
+Seat 4: bullets685 (4917 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+Litti1948ev: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [3d 4h]
+Litti1948ev: folds 
+Uncalled bet (150) returned to bullets685
+bullets685 collected 350 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 2: Litti1948ev (button) (small blind) folded before Flop
+Seat 4: bullets685 (big blind) collected (350)
+
+
+
+Betfair Hand #262406012759: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:04:54 CUST [2026/10/15 12:04:54 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (8408 in chips) 
+Seat 4: bullets685 (5092 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 150
+Litti1948ev: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Jd 3h]
+bullets685: folds 
+Uncalled bet (150) returned to Litti1948ev
+Litti1948ev collected 350 from pot
+Litti1948ev: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 2: Litti1948ev (big blind) collected (350)
+Seat 4: bullets685 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262406013576: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/15 17:04:59 CUST [2026/10/15 12:04:59 ET]
+Table '4039880417 1' 9-max Seat #2 is the button
+Seat 2: Litti1948ev (8583 in chips) 
+Seat 4: bullets685 (4917 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+Litti1948ev: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [9h Ac]
+Litti1948ev: raises 300 to 600
+bullets685: raises 4292 to 4892 and is all-in
+Litti1948ev: calls 4292
+*** FLOP *** [5h 2d 9d]
+*** TURN *** [5h 2d 9d] [3s]
+*** RIVER *** [5h 2d 9d 3s] [7s]
+*** SHOW DOWN ***
+bullets685: shows [9h Ac] (a pair of Nines)
+Litti1948ev: shows [8c Tc] (high card Ten)
+bullets685 collected 9834 from pot
+*** SUMMARY ***
+Total pot 9834 | Rake 0 
+Board [5h 2d 9d 3s 7s]
+Seat 2: Litti1948ev (button) (small blind) showed [8c Tc] and lost with high card Ten
+Seat 4: bullets685 (big blind) showed [9h Ac] and won (9834) with a pair of Nines
+
+
+
+Betfair Hand #262406016655: Tournament #4039880417, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/15 17:05:20 CUST [2026/10/15 12:05:20 ET]
+Table '4039880417 1' 9-max Seat #4 is the button
+Seat 2: Litti1948ev (3666 in chips) 
+Seat 4: bullets685 (9834 in chips) 
+Litti1948ev: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 200
+Litti1948ev: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh Qc]
+bullets685: raises 9409 to 9809 and is all-in
+Litti1948ev: calls 3241 and is all-in
+Uncalled bet (6168) returned to bullets685
+*** FLOP *** [Ts 4s 5d]
+*** TURN *** [Ts 4s 5d] [Ah]
+*** RIVER *** [Ts 4s 5d Ah] [4d]
+*** SHOW DOWN ***
+Litti1948ev: shows [9d Qd] (a pair of Fours)
+bullets685: shows [Qh Qc] (two pair, Queens and Fours)
+bullets685 collected 7332 from pot
+Litti1948ev finished the tournament in 2nd place and received $11.88.
+bullets685 wins the tournament and receives $19.80 - congratulations!
+*** SUMMARY ***
+Total pot 7332 | Rake 0 
+Board [Ts 4s 5d Ah 4d]
+Seat 2: Litti1948ev (big blind) showed [9d Qd] and lost with a pair of Fours
+Seat 4: bullets685 (button) (small blind) showed [Qh Qc] and won (7332) with two pair, Queens and Fours
+
+
+

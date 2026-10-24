@@ -1,0 +1,709 @@
+﻿Betfair Hand #262470375893: Tournament #4041478492, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/21 22:38:34 CUST [2026/10/21 17:38:34 ET]
+Table '4041478492 1' 9-max Seat #1 is the button
+Seat 1: jjmadeira (1500 in chips) 
+Seat 2: erbgor (1500 in chips) 
+Seat 3: bullets685 (1500 in chips) 
+Seat 4: CallTheClock (1500 in chips) 
+Seat 5: BMW328XI (1500 in chips) 
+Seat 6: Alibert2000 (1500 in chips) 
+Seat 7: ChrisL33_98 (1500 in chips) 
+Seat 8: hyde O´C (1500 in chips) 
+Seat 9: diego_alo13 (1500 in chips) 
+jjmadeira: posts the ante 3
+erbgor: posts the ante 3
+bullets685: posts the ante 3
+CallTheClock: posts the ante 3
+BMW328XI: posts the ante 3
+Alibert2000: posts the ante 3
+ChrisL33_98: posts the ante 3
+hyde O´C: posts the ante 3
+diego_alo13: posts the ante 3
+erbgor: posts small blind 10
+bullets685: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [9s 9h]
+CallTheClock: raises 40 to 60
+BMW328XI: calls 60
+Alibert2000: folds 
+ChrisL33_98: folds 
+hyde O´C: folds 
+diego_alo13: folds 
+jjmadeira: calls 60
+erbgor: folds 
+diego_alo13 is disconnected 
+bullets685: raises 180 to 240
+CallTheClock: folds 
+BMW328XI: folds 
+jjmadeira: calls 180
+*** FLOP *** [Qs Qc 3s]
+bullets685: bets 319
+diego_alo13 is disconnected 
+jjmadeira: folds 
+Uncalled bet (319) returned to bullets685
+bullets685 collected 637 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 637 | Rake 0 
+Board [Qs Qc 3s]
+Seat 1: jjmadeira (button) folded on the Flop
+Seat 2: erbgor (small blind) folded before Flop
+Seat 3: bullets685 (big blind) collected (637)
+Seat 4: CallTheClock folded before Flop
+Seat 5: BMW328XI folded before Flop
+Seat 6: Alibert2000 folded before Flop (didn't bet)
+Seat 7: ChrisL33_98 folded before Flop (didn't bet)
+Seat 8: hyde O´C folded before Flop (didn't bet)
+Seat 9: diego_alo13 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262470385132: Tournament #4041478492, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/21 22:39:24 CUST [2026/10/21 17:39:24 ET]
+Table '4041478492 1' 9-max Seat #2 is the button
+Seat 1: jjmadeira (1257 in chips) 
+Seat 2: erbgor (1487 in chips) 
+Seat 3: bullets685 (1894 in chips) 
+Seat 4: CallTheClock (1437 in chips) 
+Seat 5: BMW328XI (1437 in chips) 
+Seat 6: Alibert2000 (1497 in chips) 
+Seat 7: ChrisL33_98 (1497 in chips) 
+Seat 8: hyde O´C (1497 in chips) 
+Seat 9: diego_alo13 (1497 in chips) 
+jjmadeira: posts the ante 3
+erbgor: posts the ante 3
+bullets685: posts the ante 3
+CallTheClock: posts the ante 3
+BMW328XI: posts the ante 3
+Alibert2000: posts the ante 3
+ChrisL33_98: posts the ante 3
+hyde O´C: posts the ante 3
+diego_alo13: posts the ante 3
+bullets685: posts small blind 10
+CallTheClock: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [9s 3h]
+BMW328XI: calls 20
+Alibert2000: folds 
+ChrisL33_98: folds 
+hyde O´C: folds 
+diego_alo13: raises 60 to 80
+jjmadeira: calls 80
+erbgor: folds 
+bullets685: folds 
+CallTheClock: calls 60
+BMW328XI: calls 60
+*** FLOP *** [Ts Kd 2c]
+CallTheClock: checks 
+BMW328XI: checks 
+diego_alo13: bets 60
+jjmadeira: calls 60
+CallTheClock: calls 60
+BMW328XI: calls 60
+*** TURN *** [Ts Kd 2c] [Jc]
+CallTheClock: checks 
+BMW328XI: checks 
+diego_alo13: checks 
+jjmadeira: checks 
+*** RIVER *** [Ts Kd 2c Jc] [5s]
+CallTheClock: bets 240
+BMW328XI: calls 240
+diego_alo13: folds 
+jjmadeira: folds 
+*** SHOW DOWN ***
+CallTheClock: shows [2d Ad] (a pair of Deuces)
+BMW328XI: shows [Qd Tc] (a pair of Tens)
+BMW328XI collected 1077 from pot
+*** SUMMARY ***
+Total pot 1077 | Rake 0 
+Board [Ts Kd 2c Jc 5s]
+Seat 1: jjmadeira folded on the River
+Seat 2: erbgor (button) folded before Flop (didn't bet)
+Seat 3: bullets685 (small blind) folded before Flop
+Seat 4: CallTheClock (big blind) showed [2d Ad] and lost with a pair of Deuces
+Seat 5: BMW328XI showed [Qd Tc] and won (1077) with a pair of Tens
+Seat 6: Alibert2000 folded before Flop (didn't bet)
+Seat 7: ChrisL33_98 folded before Flop (didn't bet)
+Seat 8: hyde O´C folded before Flop (didn't bet)
+Seat 9: diego_alo13 folded on the River
+
+
+
+Betfair Hand #262470405283: Tournament #4041478492, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/21 22:41:11 CUST [2026/10/21 17:41:11 ET]
+Table '4041478492 1' 9-max Seat #3 is the button
+Seat 1: jjmadeira (1114 in chips) 
+Seat 2: erbgor (1484 in chips) 
+Seat 3: bullets685 (1881 in chips) 
+Seat 4: CallTheClock (1054 in chips) 
+Seat 5: BMW328XI (2131 in chips) 
+Seat 6: Alibert2000 (1494 in chips) 
+Seat 7: ChrisL33_98 (1494 in chips) 
+Seat 8: hyde O´C (1494 in chips) 
+Seat 9: diego_alo13 (1354 in chips) 
+jjmadeira: posts the ante 3
+erbgor: posts the ante 3
+bullets685: posts the ante 3
+CallTheClock: posts the ante 3
+BMW328XI: posts the ante 3
+Alibert2000: posts the ante 3
+ChrisL33_98: posts the ante 3
+hyde O´C: posts the ante 3
+diego_alo13: posts the ante 3
+CallTheClock: posts small blind 10
+BMW328XI: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [Js 2c]
+Alibert2000: raises 20 to 40
+ChrisL33_98: folds 
+hyde O´C: folds 
+diego_alo13: folds 
+jjmadeira: calls 40
+erbgor: calls 40
+bullets685: folds 
+CallTheClock: calls 30
+BMW328XI: calls 20
+*** FLOP *** [9c 4d 5d]
+CallTheClock: checks 
+BMW328XI: checks 
+Alibert2000: checks 
+jjmadeira: checks 
+erbgor: checks 
+*** TURN *** [9c 4d 5d] [Th]
+CallTheClock: checks 
+BMW328XI: checks 
+Alibert2000: checks 
+jjmadeira: checks 
+erbgor: checks 
+*** RIVER *** [9c 4d 5d Th] [8d]
+CallTheClock: bets 114
+BMW328XI: folds 
+Alibert2000: folds 
+jjmadeira: folds 
+erbgor: folds 
+Uncalled bet (114) returned to CallTheClock
+CallTheClock collected 227 from pot
+CallTheClock: doesn't show hand 
+*** SUMMARY ***
+Total pot 227 | Rake 0 
+Board [9c 4d 5d Th 8d]
+Seat 1: jjmadeira folded on the River
+Seat 2: erbgor folded on the River
+Seat 3: bullets685 (button) folded before Flop (didn't bet)
+Seat 4: CallTheClock (small blind) collected (227)
+Seat 5: BMW328XI (big blind) folded on the River
+Seat 6: Alibert2000 folded on the River
+Seat 7: ChrisL33_98 folded before Flop (didn't bet)
+Seat 8: hyde O´C folded before Flop (didn't bet)
+Seat 9: diego_alo13 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262470422726: Tournament #4041478492, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/21 22:42:44 CUST [2026/10/21 17:42:44 ET]
+Table '4041478492 1' 9-max Seat #4 is the button
+Seat 1: jjmadeira (1071 in chips) 
+Seat 2: erbgor (1441 in chips) 
+Seat 3: bullets685 (1878 in chips) 
+Seat 4: CallTheClock (1238 in chips) 
+Seat 5: BMW328XI (2088 in chips) 
+Seat 6: Alibert2000 (1451 in chips) 
+Seat 7: ChrisL33_98 (1491 in chips) 
+Seat 8: hyde O´C (1491 in chips) 
+Seat 9: diego_alo13 (1351 in chips) 
+jjmadeira: posts the ante 3
+erbgor: posts the ante 3
+bullets685: posts the ante 3
+CallTheClock: posts the ante 3
+BMW328XI: posts the ante 3
+Alibert2000: posts the ante 3
+ChrisL33_98: posts the ante 3
+hyde O´C: posts the ante 3
+diego_alo13: posts the ante 3
+BMW328XI: posts small blind 10
+Alibert2000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [8s 5c]
+ChrisL33_98: raises 24 to 44
+hyde O´C: folds 
+diego_alo13: calls 44
+jjmadeira: calls 44
+erbgor: folds 
+bullets685: folds 
+CallTheClock: calls 44
+BMW328XI: calls 34
+Alibert2000: calls 24
+*** FLOP *** [3c 8d 9c]
+BMW328XI: checks 
+Alibert2000: checks 
+ChrisL33_98: bets 110
+diego_alo13: folds 
+jjmadeira: calls 110
+CallTheClock: folds 
+BMW328XI: calls 110
+Alibert2000: folds 
+*** TURN *** [3c 8d 9c] [Kh]
+BMW328XI: checks 
+ChrisL33_98: checks 
+jjmadeira: checks 
+*** RIVER *** [3c 8d 9c Kh] [4h]
+BMW328XI: checks 
+ChrisL33_98: bets 210
+jjmadeira: folds 
+BMW328XI: calls 210
+*** SHOW DOWN ***
+ChrisL33_98: shows [Qc Ah] (high card Ace)
+BMW328XI: shows [7c 4c] (a pair of Fours)
+BMW328XI collected 1041 from pot
+*** SUMMARY ***
+Total pot 1041 | Rake 0 
+Board [3c 8d 9c Kh 4h]
+Seat 1: jjmadeira folded on the River
+Seat 2: erbgor folded before Flop (didn't bet)
+Seat 3: bullets685 folded before Flop (didn't bet)
+Seat 4: CallTheClock (button) folded on the Flop
+Seat 5: BMW328XI (small blind) showed [7c 4c] and won (1041) with a pair of Fours
+Seat 6: Alibert2000 (big blind) folded on the Flop
+Seat 7: ChrisL33_98 showed [Qc Ah] and lost with high card Ace
+Seat 8: hyde O´C folded before Flop (didn't bet)
+Seat 9: diego_alo13 folded on the Flop
+
+
+
+Betfair Hand #262470442952: Tournament #4041478492, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/21 22:44:33 CUST [2026/10/21 17:44:33 ET]
+Table '4041478492 1' 9-max Seat #5 is the button
+Seat 1: jjmadeira (914 in chips) 
+Seat 2: erbgor (1438 in chips) 
+Seat 3: bullets685 (1875 in chips) 
+Seat 4: CallTheClock (1191 in chips) 
+Seat 5: BMW328XI (2762 in chips) 
+Seat 6: Alibert2000 (1404 in chips) 
+Seat 7: ChrisL33_98 (1124 in chips) 
+Seat 8: hyde O´C (1488 in chips) 
+Seat 9: diego_alo13 (1304 in chips) 
+jjmadeira: posts the ante 4
+erbgor: posts the ante 4
+bullets685: posts the ante 4
+CallTheClock: posts the ante 4
+BMW328XI: posts the ante 4
+Alibert2000: posts the ante 4
+ChrisL33_98: posts the ante 4
+hyde O´C: posts the ante 4
+diego_alo13: posts the ante 4
+Alibert2000: posts small blind 15
+ChrisL33_98: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [6d 5s]
+hyde O´C: folds 
+diego_alo13: folds 
+jjmadeira: calls 30
+erbgor: folds 
+bullets685: folds 
+CallTheClock: folds 
+BMW328XI: calls 30
+Alibert2000: calls 15
+ChrisL33_98: checks 
+*** FLOP *** [9d 2h Ts]
+Alibert2000: checks 
+ChrisL33_98: bets 39
+jjmadeira: calls 39
+BMW328XI: calls 39
+Alibert2000: calls 39
+*** TURN *** [9d 2h Ts] [7h]
+Alibert2000: checks 
+ChrisL33_98: bets 137
+jjmadeira: folds 
+BMW328XI: calls 137
+Alibert2000: raises 723 to 860
+ChrisL33_98: raises 191 to 1051 and is all-in
+BMW328XI: folds 
+Alibert2000: calls 191
+*** RIVER *** [9d 2h Ts 7h] [8c]
+*** SHOW DOWN ***
+Alibert2000: shows [8d Js] (a straight, Seven to Jack)
+ChrisL33_98: shows [Th 7s] (two pair, Tens and Sevens)
+Alibert2000 collected 2551 from pot
+ChrisL33_98 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 2551 | Rake 0 
+Board [9d 2h Ts 7h 8c]
+Seat 1: jjmadeira folded on the Turn
+Seat 2: erbgor folded before Flop (didn't bet)
+Seat 3: bullets685 folded before Flop (didn't bet)
+Seat 4: CallTheClock folded before Flop (didn't bet)
+Seat 5: BMW328XI (button) folded on the Turn
+Seat 6: Alibert2000 (small blind) showed [8d Js] and won (2551) with a straight, Seven to Jack
+Seat 7: ChrisL33_98 (big blind) showed [Th 7s] and lost with two pair, Tens and Sevens
+Seat 8: hyde O´C folded before Flop (didn't bet)
+Seat 9: diego_alo13 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262470456110: Tournament #4041478492, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/21 22:45:43 CUST [2026/10/21 17:45:43 ET]
+Table '4041478492 1' 9-max Seat #6 is the button
+Seat 1: jjmadeira (841 in chips) 
+Seat 2: erbgor (1434 in chips) 
+Seat 3: bullets685 (1871 in chips) 
+Seat 4: CallTheClock (1187 in chips) 
+Seat 5: BMW328XI (2552 in chips) 
+Seat 6: Alibert2000 (2831 in chips) 
+Seat 8: hyde O´C (1484 in chips) 
+Seat 9: diego_alo13 (1300 in chips) 
+jjmadeira: posts the ante 4
+erbgor: posts the ante 4
+bullets685: posts the ante 4
+CallTheClock: posts the ante 4
+BMW328XI: posts the ante 4
+Alibert2000: posts the ante 4
+hyde O´C: posts the ante 4
+diego_alo13: posts the ante 4
+hyde O´C: posts small blind 15
+diego_alo13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [2c 8c]
+jjmadeira: calls 30
+erbgor: folds 
+bullets685: folds 
+CallTheClock: calls 30
+BMW328XI: folds 
+Alibert2000: folds 
+hyde O´C: calls 15
+diego_alo13: checks 
+*** FLOP *** [Ac Jh Ad]
+hyde O´C: checks 
+diego_alo13: checks 
+jjmadeira: checks 
+CallTheClock: bets 76
+hyde O´C: folds 
+diego_alo13: folds 
+jjmadeira: calls 76
+*** TURN *** [Ac Jh Ad] [5d]
+jjmadeira: checks 
+CallTheClock: bets 152
+jjmadeira: calls 152
+*** RIVER *** [Ac Jh Ad 5d] [As]
+jjmadeira: bets 579 and is all-in
+CallTheClock: folds 
+Uncalled bet (579) returned to jjmadeira
+jjmadeira collected 608 from pot
+jjmadeira: doesn't show hand 
+*** SUMMARY ***
+Total pot 608 | Rake 0 
+Board [Ac Jh Ad 5d As]
+Seat 1: jjmadeira collected (608)
+Seat 2: erbgor folded before Flop (didn't bet)
+Seat 3: bullets685 folded before Flop (didn't bet)
+Seat 4: CallTheClock folded on the River
+Seat 5: BMW328XI folded before Flop (didn't bet)
+Seat 6: Alibert2000 (button) folded before Flop (didn't bet)
+Seat 8: hyde O´C (small blind) folded on the Flop
+Seat 9: diego_alo13 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262470472855: Tournament #4041478492, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/21 22:47:14 CUST [2026/10/21 17:47:14 ET]
+Table '4041478492 1' 9-max Seat #8 is the button
+Seat 1: jjmadeira (1187 in chips) 
+Seat 2: erbgor (1430 in chips) 
+Seat 3: bullets685 (1867 in chips) 
+Seat 4: CallTheClock (925 in chips) 
+Seat 5: BMW328XI (2548 in chips) 
+Seat 6: Alibert2000 (2827 in chips) 
+Seat 8: hyde O´C (1450 in chips) 
+Seat 9: diego_alo13 (1266 in chips) 
+jjmadeira: posts the ante 4
+erbgor: posts the ante 4
+bullets685: posts the ante 4
+CallTheClock: posts the ante 4
+BMW328XI: posts the ante 4
+Alibert2000: posts the ante 4
+hyde O´C: posts the ante 4
+diego_alo13: posts the ante 4
+diego_alo13: posts small blind 15
+jjmadeira: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah 5s]
+erbgor: folds 
+bullets685: folds 
+CallTheClock: raises 30 to 60
+BMW328XI: folds 
+Alibert2000: folds 
+hyde O´C: folds 
+diego_alo13: calls 45
+jjmadeira: calls 30
+*** FLOP *** [6d 5d 7h]
+diego_alo13: bets 60
+jjmadeira: calls 60
+CallTheClock: calls 60
+*** TURN *** [6d 5d 7h] [4d]
+diego_alo13: bets 226
+jjmadeira: calls 226
+CallTheClock: folds 
+*** RIVER *** [6d 5d 7h 4d] [As]
+diego_alo13: bets 422
+jjmadeira: calls 422
+*** SHOW DOWN ***
+diego_alo13: shows [8s Kh] (a straight, Four to Eight)
+jjmadeira: mucks hand 
+diego_alo13 collected 1688 from pot
+*** SUMMARY ***
+Total pot 1688 | Rake 0 
+Board [6d 5d 7h 4d As]
+Seat 1: jjmadeira (big blind) mucked [7s 4h]
+Seat 2: erbgor folded before Flop (didn't bet)
+Seat 3: bullets685 folded before Flop (didn't bet)
+Seat 4: CallTheClock folded on the Turn
+Seat 5: BMW328XI folded before Flop (didn't bet)
+Seat 6: Alibert2000 folded before Flop (didn't bet)
+Seat 8: hyde O´C (button) folded before Flop (didn't bet)
+Seat 9: diego_alo13 (small blind) showed [8s Kh] and won (1688) with a straight, Four to Eight
+
+
+
+Betfair Hand #262470486879: Tournament #4041478492, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/21 22:48:30 CUST [2026/10/21 17:48:30 ET]
+Table '4041478492 1' 9-max Seat #9 is the button
+Seat 1: jjmadeira (415 in chips) 
+Seat 2: erbgor (1426 in chips) 
+Seat 3: bullets685 (1863 in chips) 
+Seat 4: CallTheClock (801 in chips) 
+Seat 5: BMW328XI (2544 in chips) 
+Seat 6: Alibert2000 (2823 in chips) 
+Seat 8: hyde O´C (1446 in chips) 
+Seat 9: diego_alo13 (2182 in chips) 
+jjmadeira: posts the ante 4
+erbgor: posts the ante 4
+bullets685: posts the ante 4
+CallTheClock: posts the ante 4
+BMW328XI: posts the ante 4
+Alibert2000: posts the ante 4
+hyde O´C: posts the ante 4
+diego_alo13: posts the ante 4
+jjmadeira: posts small blind 15
+erbgor: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [4c 5d]
+bullets685: folds 
+CallTheClock: folds 
+BMW328XI: raises 107 to 137
+Alibert2000: folds 
+hyde O´C: folds 
+diego_alo13: folds 
+jjmadeira: calls 122
+erbgor: folds 
+*** FLOP *** [2h Kd Js]
+jjmadeira: checks 
+BMW328XI: bets 336
+jjmadeira: calls 274 and is all-in
+Uncalled bet (62) returned to BMW328XI
+*** TURN *** [2h Kd Js] [Jd]
+*** RIVER *** [2h Kd Js Jd] [6h]
+*** SHOW DOWN ***
+jjmadeira: shows [2s 9c] (two pair, Jacks and Deuces)
+BMW328XI: shows [As Jc] (three of a kind, Jacks)
+BMW328XI collected 884 from pot
+jjmadeira finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 884 | Rake 0 
+Board [2h Kd Js Jd 6h]
+Seat 1: jjmadeira (small blind) showed [2s 9c] and lost with two pair, Jacks and Deuces
+Seat 2: erbgor (big blind) folded before Flop
+Seat 3: bullets685 folded before Flop (didn't bet)
+Seat 4: CallTheClock folded before Flop (didn't bet)
+Seat 5: BMW328XI showed [As Jc] and won (884) with three of a kind, Jacks
+Seat 6: Alibert2000 folded before Flop (didn't bet)
+Seat 8: hyde O´C folded before Flop (didn't bet)
+Seat 9: diego_alo13 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262470498286: Tournament #4041478492, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/21 22:49:32 CUST [2026/10/21 17:49:32 ET]
+Table '4041478492 1' 9-max Seat #2 is the button
+Seat 2: erbgor (1392 in chips) 
+Seat 3: bullets685 (1859 in chips) 
+Seat 4: CallTheClock (797 in chips) 
+Seat 5: BMW328XI (3013 in chips) 
+Seat 6: Alibert2000 (2819 in chips) 
+Seat 8: hyde O´C (1442 in chips) 
+Seat 9: diego_alo13 (2178 in chips) 
+erbgor: posts the ante 6
+bullets685: posts the ante 6
+CallTheClock: posts the ante 6
+BMW328XI: posts the ante 6
+Alibert2000: posts the ante 6
+hyde O´C: posts the ante 6
+diego_alo13: posts the ante 6
+bullets685: posts small blind 25
+CallTheClock: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd As]
+BMW328XI: calls 50
+Alibert2000: folds 
+hyde O´C: folds 
+diego_alo13: raises 100 to 150
+erbgor: folds 
+bullets685: calls 125
+CallTheClock: folds 
+BMW328XI: calls 100
+*** FLOP *** [9h 9c Td]
+bullets685: checks 
+BMW328XI: checks 
+diego_alo13: checks 
+*** TURN *** [9h 9c Td] [5c]
+bullets685: bets 200
+BMW328XI: folds 
+diego_alo13: calls 200
+*** RIVER *** [9h 9c Td 5c] [2d]
+bullets685: bets 450
+diego_alo13: raises 450 to 900
+bullets685: calls 450
+*** SHOW DOWN ***
+diego_alo13: shows [Tc 9d] (a full house, Nines full of Tens)
+bullets685: mucks hand 
+diego_alo13 collected 2742 from pot
+*** SUMMARY ***
+Total pot 2742 | Rake 0 
+Board [9h 9c Td 5c 2d]
+Seat 2: erbgor (button) folded before Flop (didn't bet)
+Seat 3: bullets685 (small blind) mucked [Qd As]
+Seat 4: CallTheClock (big blind) folded before Flop
+Seat 5: BMW328XI folded on the Turn
+Seat 6: Alibert2000 folded before Flop (didn't bet)
+Seat 8: hyde O´C folded before Flop (didn't bet)
+Seat 9: diego_alo13 showed [Tc 9d] and won (2742) with a full house, Nines full of Tens
+
+
+
+Betfair Hand #262470515095: Tournament #4041478492, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/21 22:51:03 CUST [2026/10/21 17:51:03 ET]
+Table '4041478492 1' 9-max Seat #3 is the button
+Seat 2: erbgor (1386 in chips) 
+Seat 3: bullets685 (603 in chips) 
+Seat 4: CallTheClock (741 in chips) 
+Seat 5: BMW328XI (2857 in chips) 
+Seat 6: Alibert2000 (2813 in chips) 
+Seat 8: hyde O´C (1436 in chips) 
+Seat 9: diego_alo13 (3664 in chips) 
+erbgor: posts the ante 6
+bullets685: posts the ante 6
+CallTheClock: posts the ante 6
+BMW328XI: posts the ante 6
+Alibert2000: posts the ante 6
+hyde O´C: posts the ante 6
+diego_alo13: posts the ante 6
+CallTheClock: posts small blind 25
+BMW328XI: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [4d Ah]
+Alibert2000: folds 
+hyde O´C: folds 
+diego_alo13: raises 50 to 100
+erbgor: folds 
+bullets685: raises 497 to 597 and is all-in
+CallTheClock: folds 
+BMW328XI: folds 
+diego_alo13: folds 
+Uncalled bet (497) returned to bullets685
+bullets685 collected 317 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 317 | Rake 0 
+Seat 2: erbgor folded before Flop (didn't bet)
+Seat 3: bullets685 (button) collected (317)
+Seat 4: CallTheClock (small blind) folded before Flop
+Seat 5: BMW328XI (big blind) folded before Flop
+Seat 6: Alibert2000 folded before Flop (didn't bet)
+Seat 8: hyde O´C folded before Flop (didn't bet)
+Seat 9: diego_alo13 folded before Flop
+
+
+
+Betfair Hand #262470523275: Tournament #4041478492, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/21 22:51:48 CUST [2026/10/21 17:51:48 ET]
+Table '4041478492 1' 9-max Seat #4 is the button
+Seat 2: erbgor (1380 in chips) 
+Seat 3: bullets685 (814 in chips) 
+Seat 4: CallTheClock (710 in chips) 
+Seat 5: BMW328XI (2801 in chips) 
+Seat 6: Alibert2000 (2807 in chips) 
+Seat 8: hyde O´C (1430 in chips) 
+Seat 9: diego_alo13 (3558 in chips) 
+erbgor: posts the ante 6
+bullets685: posts the ante 6
+CallTheClock: posts the ante 6
+BMW328XI: posts the ante 6
+Alibert2000: posts the ante 6
+hyde O´C: posts the ante 6
+diego_alo13: posts the ante 6
+BMW328XI: posts small blind 25
+Alibert2000: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [4d 8h]
+hyde O´C: folds 
+diego_alo13: folds 
+erbgor: folds 
+bullets685: folds 
+CallTheClock: raises 654 to 704 and is all-in
+BMW328XI: folds 
+Alibert2000: folds 
+Uncalled bet (654) returned to CallTheClock
+CallTheClock collected 167 from pot
+CallTheClock: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Seat 2: erbgor folded before Flop (didn't bet)
+Seat 3: bullets685 folded before Flop (didn't bet)
+Seat 4: CallTheClock (button) collected (167)
+Seat 5: BMW328XI (small blind) folded before Flop
+Seat 6: Alibert2000 (big blind) folded before Flop
+Seat 8: hyde O´C folded before Flop (didn't bet)
+Seat 9: diego_alo13 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262470528142: Tournament #4041478492, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/21 22:52:15 CUST [2026/10/21 17:52:15 ET]
+Table '4041478492 1' 9-max Seat #5 is the button
+Seat 2: erbgor (1374 in chips) 
+Seat 3: bullets685 (808 in chips) 
+Seat 4: CallTheClock (821 in chips) 
+Seat 5: BMW328XI (2770 in chips) 
+Seat 6: Alibert2000 (2751 in chips) 
+Seat 8: hyde O´C (1424 in chips) 
+Seat 9: diego_alo13 (3552 in chips) 
+erbgor: posts the ante 6
+bullets685: posts the ante 6
+CallTheClock: posts the ante 6
+BMW328XI: posts the ante 6
+Alibert2000: posts the ante 6
+hyde O´C: posts the ante 6
+diego_alo13: posts the ante 6
+Alibert2000: posts small blind 25
+hyde O´C: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [5c 6c]
+diego_alo13: raises 150 to 200
+erbgor: folds 
+bullets685: calls 200
+CallTheClock: folds 
+BMW328XI: folds 
+Alibert2000: calls 175
+hyde O´C: folds 
+*** FLOP *** [Kd 7c 4h]
+Alibert2000: checks 
+diego_alo13: bets 250
+bullets685: raises 352 to 602 and is all-in
+Alibert2000: folds 
+diego_alo13: calls 352
+*** TURN *** [Kd 7c 4h] [6d]
+*** RIVER *** [Kd 7c 4h 6d] [Ad]
+*** SHOW DOWN ***
+diego_alo13: shows [Ac Kc] (two pair, Aces and Kings)
+bullets685: shows [5c 6c] (a pair of Sixes)
+diego_alo13 collected 1896 from pot
+bullets685 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 1896 | Rake 0 
+Board [Kd 7c 4h 6d Ad]
+Seat 2: erbgor folded before Flop (didn't bet)
+Seat 3: bullets685 showed [5c 6c] and lost with a pair of Sixes
+Seat 4: CallTheClock folded before Flop (didn't bet)
+Seat 5: BMW328XI (button) folded before Flop (didn't bet)
+Seat 6: Alibert2000 (small blind) folded on the Flop
+Seat 8: hyde O´C (big blind) folded before Flop
+Seat 9: diego_alo13 showed [Ac Kc] and won (1896) with two pair, Aces and Kings
+
+
+

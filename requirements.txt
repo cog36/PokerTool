@@ -13,3 +13,6 @@ pokerkit>=0.5.0
 
 # LLM / AI Chatbot Integration
 openai>=1.0.0
+
+# Environment Variables Management
+python-dotenv>=1.0.0

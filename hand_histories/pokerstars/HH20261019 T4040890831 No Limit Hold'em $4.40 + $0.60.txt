@@ -1,0 +1,3161 @@
+﻿Betfair Hand #262446480857: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/19 15:30:43 CUST [2026/10/19 10:30:43 ET]
+Table '4040890831 1' 9-max Seat #1 is the button
+Seat 1: shakaa01 (1500 in chips) 
+Seat 2: Cowley09 (1500 in chips) 
+Seat 3: BudDyFL (1500 in chips) 
+Seat 4: Surfpoker89 (1500 in chips) 
+Seat 5: scabiosus (1500 in chips) 
+Seat 6: SEMM397 (1500 in chips) 
+Seat 7: bullets685 (1500 in chips) 
+Seat 8: Fran8488 (1500 in chips) 
+Seat 9: Carlaloutre (1500 in chips) 
+shakaa01: posts the ante 3
+Cowley09: posts the ante 3
+BudDyFL: posts the ante 3
+Surfpoker89: posts the ante 3
+scabiosus: posts the ante 3
+SEMM397: posts the ante 3
+bullets685: posts the ante 3
+Fran8488: posts the ante 3
+Carlaloutre: posts the ante 3
+Cowley09: posts small blind 10
+BudDyFL: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 4d]
+Surfpoker89: calls 20
+scabiosus: folds 
+SEMM397: folds 
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: calls 10
+BudDyFL: checks 
+*** FLOP *** [3c 7d 5d]
+Cowley09: checks 
+BudDyFL: checks 
+Surfpoker89: checks 
+*** TURN *** [3c 7d 5d] [2h]
+Cowley09: checks 
+BudDyFL: checks 
+Surfpoker89: checks 
+*** RIVER *** [3c 7d 5d 2h] [9h]
+Cowley09: checks 
+BudDyFL: checks 
+Surfpoker89: checks 
+*** SHOW DOWN ***
+Cowley09: shows [Jc 8s] (high card Jack)
+BudDyFL: shows [2c 4c] (a pair of Deuces)
+Surfpoker89: mucks hand 
+BudDyFL collected 87 from pot
+*** SUMMARY ***
+Total pot 87 | Rake 0 
+Board [3c 7d 5d 2h 9h]
+Seat 1: shakaa01 (button) folded before Flop (didn't bet)
+Seat 2: Cowley09 (small blind) showed [Jc 8s] and lost with high card Jack
+Seat 3: BudDyFL (big blind) showed [2c 4c] and won (87) with a pair of Deuces
+Seat 4: Surfpoker89 mucked [6d Td]
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446492187: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/19 15:32:11 CUST [2026/10/19 10:32:11 ET]
+Table '4040890831 1' 9-max Seat #2 is the button
+Seat 1: shakaa01 (1497 in chips) 
+Seat 2: Cowley09 (1477 in chips) 
+Seat 3: BudDyFL (1564 in chips) 
+Seat 4: Surfpoker89 (1477 in chips) 
+Seat 5: scabiosus (1497 in chips) 
+Seat 6: SEMM397 (1497 in chips) 
+Seat 7: bullets685 (1497 in chips) 
+Seat 8: Fran8488 (1497 in chips) 
+Seat 9: Carlaloutre (1497 in chips) 
+shakaa01: posts the ante 3
+Cowley09: posts the ante 3
+BudDyFL: posts the ante 3
+Surfpoker89: posts the ante 3
+scabiosus: posts the ante 3
+SEMM397: posts the ante 3
+bullets685: posts the ante 3
+Fran8488: posts the ante 3
+Carlaloutre: posts the ante 3
+BudDyFL: posts small blind 10
+Surfpoker89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 2h]
+scabiosus: folds 
+SEMM397: calls 20
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: folds 
+BudDyFL: raises 60 to 80
+Surfpoker89: folds 
+SEMM397: calls 60
+*** FLOP *** [Ts Ah 5h]
+BudDyFL: bets 137
+SEMM397: folds 
+Uncalled bet (137) returned to BudDyFL
+BudDyFL collected 207 from pot
+BudDyFL: doesn't show hand 
+*** SUMMARY ***
+Total pot 207 | Rake 0 
+Board [Ts Ah 5h]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 (button) folded before Flop (didn't bet)
+Seat 3: BudDyFL (small blind) collected (207)
+Seat 4: Surfpoker89 (big blind) folded before Flop
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded on the Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446498875: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/19 15:33:03 CUST [2026/10/19 10:33:03 ET]
+Table '4040890831 1' 9-max Seat #3 is the button
+Seat 1: shakaa01 (1494 in chips) 
+Seat 2: Cowley09 (1474 in chips) 
+Seat 3: BudDyFL (1688 in chips) 
+Seat 4: Surfpoker89 (1454 in chips) 
+Seat 5: scabiosus (1494 in chips) 
+Seat 6: SEMM397 (1414 in chips) 
+Seat 7: bullets685 (1494 in chips) 
+Seat 8: Fran8488 (1494 in chips) 
+Seat 9: Carlaloutre (1494 in chips) 
+shakaa01: posts the ante 3
+Cowley09: posts the ante 3
+BudDyFL: posts the ante 3
+Surfpoker89: posts the ante 3
+scabiosus: posts the ante 3
+SEMM397: posts the ante 3
+bullets685: posts the ante 3
+Fran8488: posts the ante 3
+Carlaloutre: posts the ante 3
+Surfpoker89: posts small blind 10
+scabiosus: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [5s 5h]
+SEMM397: folds 
+bullets685: raises 35 to 55
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: folds 
+BudDyFL: folds 
+Surfpoker89: folds 
+scabiosus: calls 35
+*** FLOP *** [Ts 2c Kd]
+scabiosus: checks 
+bullets685: bets 80
+scabiosus: calls 80
+*** TURN *** [Ts 2c Kd] [Kh]
+scabiosus: checks 
+bullets685: bets 154
+scabiosus: calls 154
+*** RIVER *** [Ts 2c Kd Kh] [Tc]
+scabiosus: checks 
+bullets685: checks 
+*** SHOW DOWN ***
+scabiosus: shows [Ks 7d] (a full house, Kings full of Tens)
+bullets685: mucks hand 
+scabiosus collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | Rake 0 
+Board [Ts 2c Kd Kh Tc]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 3: BudDyFL (button) folded before Flop (didn't bet)
+Seat 4: Surfpoker89 (small blind) folded before Flop
+Seat 5: scabiosus (big blind) showed [Ks 7d] and won (615) with a full house, Kings full of Tens
+Seat 6: SEMM397 folded before Flop (didn't bet)
+Seat 7: bullets685 mucked [5s 5h]
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446508024: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/19 15:34:15 CUST [2026/10/19 10:34:15 ET]
+Table '4040890831 1' 9-max Seat #4 is the button
+Seat 1: shakaa01 (1491 in chips) 
+Seat 2: Cowley09 (1471 in chips) 
+Seat 3: BudDyFL (1685 in chips) 
+Seat 4: Surfpoker89 (1441 in chips) 
+Seat 5: scabiosus (1817 in chips) 
+Seat 6: SEMM397 (1411 in chips) 
+Seat 7: bullets685 (1202 in chips) 
+Seat 8: Fran8488 (1491 in chips) 
+Seat 9: Carlaloutre (1491 in chips) 
+shakaa01: posts the ante 3
+Cowley09: posts the ante 3
+BudDyFL: posts the ante 3
+Surfpoker89: posts the ante 3
+scabiosus: posts the ante 3
+SEMM397: posts the ante 3
+bullets685: posts the ante 3
+Fran8488: posts the ante 3
+Carlaloutre: posts the ante 3
+scabiosus: posts small blind 10
+SEMM397: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [2h 6d]
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: folds 
+BudDyFL: raises 20 to 40
+Surfpoker89: calls 40
+scabiosus: calls 30
+SEMM397: calls 20
+*** FLOP *** [Td Kd Jc]
+scabiosus: bets 60
+SEMM397: calls 60
+BudDyFL: calls 60
+Surfpoker89: calls 60
+*** TURN *** [Td Kd Jc] [8c]
+scabiosus: bets 180
+SEMM397: calls 180
+BudDyFL: calls 180
+Surfpoker89: folds 
+*** RIVER *** [Td Kd Jc 8c] [5s]
+scabiosus: bets 360
+SEMM397: folds 
+BudDyFL: calls 360
+*** SHOW DOWN ***
+scabiosus: shows [As Qs] (a straight, Ten to Ace)
+BudDyFL: mucks hand 
+scabiosus collected 1687 from pot
+*** SUMMARY ***
+Total pot 1687 | Rake 0 
+Board [Td Kd Jc 8c 5s]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 3: BudDyFL mucked [Kc Qc]
+Seat 4: Surfpoker89 (button) folded on the Turn
+Seat 5: scabiosus (small blind) showed [As Qs] and won (1687) with a straight, Ten to Ace
+Seat 6: SEMM397 (big blind) folded on the River
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446519326: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/19 15:35:43 CUST [2026/10/19 10:35:43 ET]
+Table '4040890831 1' 9-max Seat #5 is the button
+Seat 1: shakaa01 (1488 in chips) 
+Seat 2: Cowley09 (1468 in chips) 
+Seat 3: BudDyFL (1042 in chips) 
+Seat 4: Surfpoker89 (1338 in chips) 
+Seat 5: scabiosus (2861 in chips) 
+Seat 6: SEMM397 (1128 in chips) 
+Seat 7: bullets685 (1199 in chips) 
+Seat 8: Fran8488 (1488 in chips) 
+Seat 9: Carlaloutre (1488 in chips) 
+shakaa01: posts the ante 3
+Cowley09: posts the ante 3
+BudDyFL: posts the ante 3
+Surfpoker89: posts the ante 3
+scabiosus: posts the ante 3
+SEMM397: posts the ante 3
+bullets685: posts the ante 3
+Fran8488: posts the ante 3
+Carlaloutre: posts the ante 3
+SEMM397: posts small blind 10
+bullets685: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [6s 2h]
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: folds 
+BudDyFL: raises 20 to 40
+Surfpoker89: folds 
+scabiosus: calls 40
+SEMM397: calls 30
+bullets685: calls 20
+*** FLOP *** [8s 7h Jh]
+SEMM397: checks 
+bullets685: checks 
+BudDyFL: checks 
+scabiosus: bets 187
+SEMM397: folds 
+bullets685: folds 
+BudDyFL: folds 
+Uncalled bet (187) returned to scabiosus
+scabiosus collected 187 from pot
+scabiosus: doesn't show hand 
+*** SUMMARY ***
+Total pot 187 | Rake 0 
+Board [8s 7h Jh]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 3: BudDyFL folded on the Flop
+Seat 4: Surfpoker89 folded before Flop (didn't bet)
+Seat 5: scabiosus (button) collected (187)
+Seat 6: SEMM397 (small blind) folded on the Flop
+Seat 7: bullets685 (big blind) folded on the Flop
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446525337: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/19 15:36:29 CUST [2026/10/19 10:36:29 ET]
+Table '4040890831 1' 9-max Seat #6 is the button
+Seat 1: shakaa01 (1485 in chips) 
+Seat 2: Cowley09 (1465 in chips) 
+Seat 3: BudDyFL (999 in chips) 
+Seat 4: Surfpoker89 (1335 in chips) 
+Seat 5: scabiosus (3005 in chips) 
+Seat 6: SEMM397 (1085 in chips) 
+Seat 7: bullets685 (1156 in chips) 
+Seat 8: Fran8488 (1485 in chips) 
+Seat 9: Carlaloutre (1485 in chips) 
+shakaa01: posts the ante 4
+Cowley09: posts the ante 4
+BudDyFL: posts the ante 4
+Surfpoker89: posts the ante 4
+scabiosus: posts the ante 4
+SEMM397: posts the ante 4
+bullets685: posts the ante 4
+Fran8488: posts the ante 4
+Carlaloutre: posts the ante 4
+bullets685: posts small blind 15
+Fran8488: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [4h 5d]
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: folds 
+BudDyFL: folds 
+Surfpoker89: folds 
+scabiosus: folds 
+SEMM397: folds 
+bullets685: raises 30 to 60
+Fran8488: folds [2c]
+Uncalled bet (30) returned to bullets685
+bullets685 collected 96 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 96 | Rake 0 
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 4: Surfpoker89 folded before Flop (didn't bet)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) collected (96)
+Seat 8: Fran8488 (big blind) folded before Flop
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446532177: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/19 15:37:21 CUST [2026/10/19 10:37:21 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 1: shakaa01 (1481 in chips) 
+Seat 2: Cowley09 (1461 in chips) 
+Seat 3: BudDyFL (995 in chips) 
+Seat 4: Surfpoker89 (1331 in chips) 
+Seat 5: scabiosus (3001 in chips) 
+Seat 6: SEMM397 (1081 in chips) 
+Seat 7: bullets685 (1218 in chips) 
+Seat 8: Fran8488 (1451 in chips) 
+Seat 9: Carlaloutre (1481 in chips) 
+shakaa01: posts the ante 4
+Cowley09: posts the ante 4
+BudDyFL: posts the ante 4
+Surfpoker89: posts the ante 4
+scabiosus: posts the ante 4
+SEMM397: posts the ante 4
+bullets685: posts the ante 4
+Fran8488: posts the ante 4
+Carlaloutre: posts the ante 4
+Fran8488: posts small blind 15
+Carlaloutre: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Kh 8d]
+shakaa01: raises 30 to 60
+Cowley09: folds 
+BudDyFL: folds 
+Surfpoker89: folds 
+scabiosus: folds 
+SEMM397: folds 
+bullets685: calls 60
+Fran8488: calls 45
+Carlaloutre: calls 30
+*** FLOP *** [9c Ad Ah]
+Fran8488: checks 
+Carlaloutre: checks 
+shakaa01: bets 276
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: folds 
+Uncalled bet (276) returned to shakaa01
+shakaa01 collected 276 from pot
+*** SUMMARY ***
+Total pot 276 | Rake 0 
+Board [9c Ad Ah]
+Seat 1: shakaa01 collected (276)
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 4: Surfpoker89 folded before Flop (didn't bet)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded on the Flop
+Seat 8: Fran8488 (small blind) folded on the Flop
+Seat 9: Carlaloutre (big blind) folded on the Flop
+
+
+
+Betfair Hand #262446542993: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/19 15:38:44 CUST [2026/10/19 10:38:44 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 1: shakaa01 (1693 in chips) 
+Seat 2: Cowley09 (1457 in chips) 
+Seat 3: BudDyFL (991 in chips) 
+Seat 4: Surfpoker89 (1327 in chips) 
+Seat 5: scabiosus (2997 in chips) 
+Seat 6: SEMM397 (1077 in chips) 
+Seat 7: bullets685 (1154 in chips) 
+Seat 8: Fran8488 (1387 in chips) 
+Seat 9: Carlaloutre (1417 in chips) 
+shakaa01: posts the ante 4
+Cowley09: posts the ante 4
+BudDyFL: posts the ante 4
+Surfpoker89: posts the ante 4
+scabiosus: posts the ante 4
+SEMM397: posts the ante 4
+bullets685: posts the ante 4
+Fran8488: posts the ante 4
+Carlaloutre: posts the ante 4
+Carlaloutre: posts small blind 15
+shakaa01: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc 9s]
+Cowley09: raises 45 to 75
+BudDyFL: folds 
+Surfpoker89: calls 75
+scabiosus: folds 
+SEMM397: folds 
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+*** FLOP *** [3d 5h 3s]
+Cowley09: checks 
+Surfpoker89: checks 
+*** TURN *** [3d 5h 3s] [2h]
+Cowley09: bets 225
+Surfpoker89: calls 225
+*** RIVER *** [3d 5h 3s 2h] [7d]
+Cowley09: bets 615
+Surfpoker89: folds 
+Uncalled bet (615) returned to Cowley09
+Cowley09 collected 681 from pot
+Cowley09: doesn't show hand 
+*** SUMMARY ***
+Total pot 681 | Rake 0 
+Board [3d 5h 3s 2h 7d]
+Seat 1: shakaa01 (big blind) folded before Flop
+Seat 2: Cowley09 collected (681)
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 4: Surfpoker89 folded on the River
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 (button) folded before Flop (didn't bet)
+Seat 9: Carlaloutre (small blind) folded before Flop
+
+
+
+Betfair Hand #262446553135: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/19 15:40:01 CUST [2026/10/19 10:40:01 ET]
+Table '4040890831 1' 9-max Seat #9 is the button
+Seat 1: shakaa01 (1659 in chips) 
+Seat 2: Cowley09 (1834 in chips) 
+Seat 3: BudDyFL (987 in chips) 
+Seat 4: Surfpoker89 (1023 in chips) 
+Seat 5: scabiosus (2993 in chips) 
+Seat 6: SEMM397 (1073 in chips) 
+Seat 7: bullets685 (1150 in chips) 
+Seat 8: Fran8488 (1383 in chips) 
+Seat 9: Carlaloutre (1398 in chips) 
+shakaa01: posts the ante 4
+Cowley09: posts the ante 4
+BudDyFL: posts the ante 4
+Surfpoker89: posts the ante 4
+scabiosus: posts the ante 4
+SEMM397: posts the ante 4
+bullets685: posts the ante 4
+Fran8488: posts the ante 4
+Carlaloutre: posts the ante 4
+shakaa01: posts small blind 15
+Cowley09: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [5h Tc]
+BudDyFL: folds 
+Surfpoker89: calls 30
+scabiosus: folds 
+SEMM397: raises 90 to 120
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: folds 
+Surfpoker89: calls 90
+*** FLOP *** [5s 6c Ah]
+Surfpoker89: checks 
+SEMM397: bets 120
+Surfpoker89: raises 120 to 240
+SEMM397: calls 120
+*** TURN *** [5s 6c Ah] [Jc]
+Surfpoker89: bets 659 and is all-in
+SEMM397: folds 
+Uncalled bet (659) returned to Surfpoker89
+Surfpoker89 collected 801 from pot
+*** SUMMARY ***
+Total pot 801 | Rake 0 
+Board [5s 6c Ah Jc]
+Seat 1: shakaa01 (small blind) folded before Flop
+Seat 2: Cowley09 (big blind) folded before Flop
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 4: Surfpoker89 collected (801)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded on the Turn
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446561186: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/19 15:41:03 CUST [2026/10/19 10:41:03 ET]
+Table '4040890831 1' 9-max Seat #1 is the button
+Seat 1: shakaa01 (1640 in chips) 
+Seat 2: Cowley09 (1800 in chips) 
+Seat 3: BudDyFL (983 in chips) 
+Seat 4: Surfpoker89 (1460 in chips) 
+Seat 5: scabiosus (2989 in chips) 
+Seat 6: SEMM397 (709 in chips) 
+Seat 7: bullets685 (1146 in chips) 
+Seat 8: Fran8488 (1379 in chips) 
+Seat 9: Carlaloutre (1394 in chips) 
+shakaa01: posts the ante 6
+Cowley09: posts the ante 6
+BudDyFL: posts the ante 6
+Surfpoker89: posts the ante 6
+scabiosus: posts the ante 6
+SEMM397: posts the ante 6
+bullets685: posts the ante 6
+Fran8488: posts the ante 6
+Carlaloutre: posts the ante 6
+Cowley09: posts small blind 25
+BudDyFL: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [8s 5c]
+Surfpoker89: folds 
+scabiosus: folds 
+SEMM397: folds 
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: calls 50
+shakaa01: folds 
+Cowley09: raises 175 to 225
+BudDyFL: folds 
+Carlaloutre: folds 
+Uncalled bet (175) returned to Cowley09
+Cowley09 collected 204 from pot
+Cowley09: doesn't show hand 
+*** SUMMARY ***
+Total pot 204 | Rake 0 
+Seat 1: shakaa01 (button) folded before Flop (didn't bet)
+Seat 2: Cowley09 (small blind) collected (204)
+Seat 3: BudDyFL (big blind) folded before Flop
+Seat 4: Surfpoker89 folded before Flop (didn't bet)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop
+
+
+
+Betfair Hand #262446566315: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/19 15:41:42 CUST [2026/10/19 10:41:42 ET]
+Table '4040890831 1' 9-max Seat #2 is the button
+Seat 1: shakaa01 (1634 in chips) 
+Seat 2: Cowley09 (1948 in chips) 
+Seat 3: BudDyFL (927 in chips) 
+Seat 4: Surfpoker89 (1454 in chips) 
+Seat 5: scabiosus (2983 in chips) 
+Seat 6: SEMM397 (703 in chips) 
+Seat 7: bullets685 (1140 in chips) 
+Seat 8: Fran8488 (1373 in chips) 
+Seat 9: Carlaloutre (1338 in chips) 
+shakaa01: posts the ante 6
+Cowley09: posts the ante 6
+BudDyFL: posts the ante 6
+Surfpoker89: posts the ante 6
+scabiosus: posts the ante 6
+SEMM397: posts the ante 6
+bullets685: posts the ante 6
+Fran8488: posts the ante 6
+Carlaloutre: posts the ante 6
+BudDyFL: posts small blind 25
+Surfpoker89: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [3d 4s]
+scabiosus: folds 
+SEMM397: folds 
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: folds 
+BudDyFL: raises 100 to 150
+Surfpoker89: folds 
+Uncalled bet (100) returned to BudDyFL
+BudDyFL collected 154 from pot
+BudDyFL: doesn't show hand 
+*** SUMMARY ***
+Total pot 154 | Rake 0 
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 (button) folded before Flop (didn't bet)
+Seat 3: BudDyFL (small blind) collected (154)
+Seat 4: Surfpoker89 (big blind) folded before Flop
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446569537: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/19 15:42:07 CUST [2026/10/19 10:42:07 ET]
+Table '4040890831 1' 9-max Seat #3 is the button
+Seat 1: shakaa01 (1628 in chips) 
+Seat 2: Cowley09 (1942 in chips) 
+Seat 3: BudDyFL (1025 in chips) 
+Seat 4: Surfpoker89 (1398 in chips) 
+Seat 5: scabiosus (2977 in chips) 
+Seat 6: SEMM397 (697 in chips) 
+Seat 7: bullets685 (1134 in chips) 
+Seat 8: Fran8488 (1367 in chips) 
+Seat 9: Carlaloutre (1332 in chips) 
+shakaa01: posts the ante 6
+Cowley09: posts the ante 6
+BudDyFL: posts the ante 6
+Surfpoker89: posts the ante 6
+scabiosus: posts the ante 6
+SEMM397: posts the ante 6
+bullets685: posts the ante 6
+Fran8488: posts the ante 6
+Carlaloutre: posts the ante 6
+Surfpoker89: posts small blind 25
+scabiosus: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 7h]
+SEMM397: raises 150 to 200
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: folds 
+BudDyFL: folds 
+Surfpoker89: calls 175
+scabiosus: folds 
+*** FLOP *** [2d Jd Qd]
+Surfpoker89: bets 450
+SEMM397: raises 41 to 491 and is all-in
+Surfpoker89: calls 41
+*** TURN *** [2d Jd Qd] [Kd]
+*** RIVER *** [2d Jd Qd Kd] [Jc]
+*** SHOW DOWN ***
+Surfpoker89: shows [Qc Ks] (two pair, Kings and Queens)
+SEMM397: shows [Ac Js] (three of a kind, Jacks)
+SEMM397 collected 1486 from pot
+*** SUMMARY ***
+Total pot 1486 | Rake 0 
+Board [2d Jd Qd Kd Jc]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 3: BudDyFL (button) folded before Flop (didn't bet)
+Seat 4: Surfpoker89 (small blind) showed [Qc Ks] and lost with two pair, Kings and Queens
+Seat 5: scabiosus (big blind) folded before Flop
+Seat 6: SEMM397 showed [Ac Js] and won (1486) with three of a kind, Jacks
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446574742: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/19 15:42:47 CUST [2026/10/19 10:42:47 ET]
+Table '4040890831 1' 9-max Seat #4 is the button
+Seat 1: shakaa01 (1622 in chips) 
+Seat 2: Cowley09 (1936 in chips) 
+Seat 3: BudDyFL (1019 in chips) 
+Seat 4: Surfpoker89 (701 in chips) 
+Seat 5: scabiosus (2921 in chips) 
+Seat 6: SEMM397 (1486 in chips) 
+Seat 7: bullets685 (1128 in chips) 
+Seat 8: Fran8488 (1361 in chips) 
+Seat 9: Carlaloutre (1326 in chips) 
+shakaa01: posts the ante 6
+Cowley09: posts the ante 6
+BudDyFL: posts the ante 6
+Surfpoker89: posts the ante 6
+scabiosus: posts the ante 6
+SEMM397: posts the ante 6
+bullets685: posts the ante 6
+Fran8488: posts the ante 6
+Carlaloutre: posts the ante 6
+scabiosus: posts small blind 25
+SEMM397: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [6s 5s]
+bullets685: raises 50 to 100
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: folds 
+BudDyFL: folds 
+Surfpoker89: calls 100
+scabiosus: calls 75
+SEMM397: calls 50
+*** FLOP *** [Qs 5h 4h]
+scabiosus: checks 
+SEMM397: checks 
+bullets685: bets 227
+Surfpoker89: folds 
+scabiosus: folds 
+SEMM397: folds 
+Uncalled bet (227) returned to bullets685
+bullets685 collected 454 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 454 | Rake 0 
+Board [Qs 5h 4h]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 4: Surfpoker89 (button) folded on the Flop
+Seat 5: scabiosus (small blind) folded on the Flop
+Seat 6: SEMM397 (big blind) folded on the Flop
+Seat 7: bullets685 collected (454)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446581607: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/19 15:43:39 CUST [2026/10/19 10:43:39 ET]
+Table '4040890831 1' 9-max Seat #5 is the button
+Seat 1: shakaa01 (1616 in chips) 
+Seat 2: Cowley09 (1930 in chips) 
+Seat 3: BudDyFL (1013 in chips) 
+Seat 4: Surfpoker89 (595 in chips) 
+Seat 5: scabiosus (2815 in chips) 
+Seat 6: SEMM397 (1380 in chips) 
+Seat 7: bullets685 (1476 in chips) 
+Seat 8: Fran8488 (1355 in chips) 
+Seat 9: Carlaloutre (1320 in chips) 
+shakaa01: posts the ante 6
+Cowley09: posts the ante 6
+BudDyFL: posts the ante 6
+Surfpoker89: posts the ante 6
+scabiosus: posts the ante 6
+SEMM397: posts the ante 6
+bullets685: posts the ante 6
+Fran8488: posts the ante 6
+Carlaloutre: posts the ante 6
+SEMM397: posts small blind 25
+bullets685: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [9s Jc]
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: raises 50 to 100
+Cowley09: folds 
+BudDyFL: folds 
+Surfpoker89: folds 
+scabiosus: folds 
+SEMM397: folds 
+bullets685: calls 50
+*** FLOP *** [6h 8s Td]
+bullets685: checks 
+shakaa01: bets 140
+bullets685: calls 140
+*** TURN *** [6h 8s Td] [8h]
+bullets685: checks 
+shakaa01: bets 280
+bullets685: calls 280
+*** RIVER *** [6h 8s Td 8h] [5h]
+bullets685: bets 500
+shakaa01: folds 
+Uncalled bet (500) returned to bullets685
+bullets685 collected 1119 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1119 | Rake 0 
+Board [6h 8s Td 8h 5h]
+Seat 1: shakaa01 folded on the River
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 4: Surfpoker89 folded before Flop (didn't bet)
+Seat 5: scabiosus (button) folded before Flop (didn't bet)
+Seat 6: SEMM397 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) collected (1119)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446589006: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/19 15:44:37 CUST [2026/10/19 10:44:37 ET]
+Table '4040890831 1' 9-max Seat #6 is the button
+Seat 1: shakaa01 (1090 in chips) 
+Seat 2: Cowley09 (1924 in chips) 
+Seat 3: BudDyFL (1007 in chips) 
+Seat 4: Surfpoker89 (589 in chips) 
+Seat 5: scabiosus (2809 in chips) 
+Seat 6: SEMM397 (1349 in chips) 
+Seat 7: bullets685 (2069 in chips) 
+Seat 8: Fran8488 (1349 in chips) 
+Seat 9: Carlaloutre (1314 in chips) 
+shakaa01: posts the ante 6
+Cowley09: posts the ante 6
+BudDyFL: posts the ante 6
+Surfpoker89: posts the ante 6
+scabiosus: posts the ante 6
+SEMM397: posts the ante 6
+bullets685: posts the ante 6
+Fran8488: posts the ante 6
+Carlaloutre: posts the ante 6
+bullets685: posts small blind 25
+Fran8488: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [6d 2d]
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: raises 50 to 100
+BudDyFL: folds 
+Surfpoker89: raises 483 to 583 and is all-in
+scabiosus: folds 
+SEMM397: folds 
+bullets685: folds 
+Fran8488: folds 
+Cowley09: folds 
+Uncalled bet (483) returned to Surfpoker89
+Surfpoker89 collected 329 from pot
+*** SUMMARY ***
+Total pot 329 | Rake 0 
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 folded before Flop
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 4: Surfpoker89 collected (329)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: Fran8488 (big blind) folded before Flop
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446593527: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/19 15:45:11 CUST [2026/10/19 10:45:11 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 1: shakaa01 (1084 in chips) 
+Seat 2: Cowley09 (1818 in chips) 
+Seat 3: BudDyFL (1001 in chips) 
+Seat 4: Surfpoker89 (812 in chips) 
+Seat 5: scabiosus (2803 in chips) 
+Seat 6: SEMM397 (1343 in chips) 
+Seat 7: bullets685 (2038 in chips) 
+Seat 8: Fran8488 (1293 in chips) 
+Seat 9: Carlaloutre (1308 in chips) 
+shakaa01: posts the ante 6
+Cowley09: posts the ante 6
+BudDyFL: posts the ante 6
+Surfpoker89: posts the ante 6
+scabiosus: posts the ante 6
+SEMM397: posts the ante 6
+bullets685: posts the ante 6
+Fran8488: posts the ante 6
+Carlaloutre: posts the ante 6
+Fran8488: posts small blind 25
+Carlaloutre: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [8h 8d]
+shakaa01: folds 
+Cowley09: raises 50 to 100
+BudDyFL: folds 
+Surfpoker89: folds 
+scabiosus: folds 
+SEMM397: calls 100
+bullets685: raises 200 to 300
+Fran8488: folds 
+Carlaloutre: folds 
+Cowley09: calls 200
+SEMM397: calls 200
+*** FLOP *** [4s Th 3d]
+Cowley09: checks 
+SEMM397: checks 
+bullets685: bets 750
+Cowley09: folds 
+SEMM397: folds 
+Uncalled bet (750) returned to bullets685
+bullets685 collected 1029 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1029 | Rake 0 
+Board [4s Th 3d]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 folded on the Flop
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 4: Surfpoker89 folded before Flop (didn't bet)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded on the Flop
+Seat 7: bullets685 (button) collected (1029)
+Seat 8: Fran8488 (small blind) folded before Flop
+Seat 9: Carlaloutre (big blind) folded before Flop
+
+
+
+Betfair Hand #262446599969: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 15:46:00 CUST [2026/10/19 10:46:00 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 1: shakaa01 (1078 in chips) 
+Seat 2: Cowley09 (1512 in chips) 
+Seat 3: BudDyFL (995 in chips) 
+Seat 4: Surfpoker89 (806 in chips) 
+Seat 5: scabiosus (2797 in chips) 
+Seat 6: SEMM397 (1037 in chips) 
+Seat 7: bullets685 (2761 in chips) 
+Seat 8: Fran8488 (1262 in chips) 
+Seat 9: Carlaloutre (1252 in chips) 
+shakaa01: posts the ante 10
+Cowley09: posts the ante 10
+BudDyFL: posts the ante 10
+Surfpoker89: posts the ante 10
+scabiosus: posts the ante 10
+SEMM397: posts the ante 10
+bullets685: posts the ante 10
+Fran8488: posts the ante 10
+Carlaloutre: posts the ante 10
+Carlaloutre: posts small blind 40
+shakaa01: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Kc Jh]
+Cowley09: folds 
+BudDyFL: folds 
+Surfpoker89: folds 
+scabiosus: folds 
+SEMM397: raises 240 to 320
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Uncalled bet (240) returned to SEMM397
+SEMM397 collected 290 from pot
+SEMM397: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: shakaa01 (big blind) folded before Flop
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 4: Surfpoker89 folded before Flop (didn't bet)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 collected (290)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 (button) folded before Flop (didn't bet)
+Seat 9: Carlaloutre (small blind) folded before Flop
+
+
+
+Betfair Hand #262446604263: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 15:46:33 CUST [2026/10/19 10:46:33 ET]
+Table '4040890831 1' 9-max Seat #9 is the button
+Seat 1: shakaa01 (988 in chips) 
+Seat 2: Cowley09 (1502 in chips) 
+Seat 3: BudDyFL (985 in chips) 
+Seat 4: Surfpoker89 (796 in chips) 
+Seat 5: scabiosus (2787 in chips) 
+Seat 6: SEMM397 (1237 in chips) 
+Seat 7: bullets685 (2751 in chips) 
+Seat 8: Fran8488 (1252 in chips) 
+Seat 9: Carlaloutre (1202 in chips) 
+shakaa01: posts the ante 10
+Cowley09: posts the ante 10
+BudDyFL: posts the ante 10
+Surfpoker89: posts the ante 10
+scabiosus: posts the ante 10
+SEMM397: posts the ante 10
+bullets685: posts the ante 10
+Fran8488: posts the ante 10
+Carlaloutre: posts the ante 10
+shakaa01: posts small blind 40
+Cowley09: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [8h 3h]
+BudDyFL: folds 
+Surfpoker89: calls 80
+scabiosus: folds 
+SEMM397: folds 
+bullets685: folds 
+Fran8488: calls 80
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: checks 
+*** FLOP *** [2c Kd 3c]
+Cowley09: checks 
+Surfpoker89: bets 160
+Fran8488: folds 
+Cowley09: raises 1252 to 1412 and is all-in
+Surfpoker89: calls 546 and is all-in
+Uncalled bet (706) returned to Cowley09
+*** TURN *** [2c Kd 3c] [8c]
+*** RIVER *** [2c Kd 3c 8c] [As]
+*** SHOW DOWN ***
+Cowley09: shows [3d 2h] (two pair, Threes and Deuces)
+Surfpoker89: shows [5d 5c] (a pair of Fives)
+Cowley09 collected 1782 from pot
+Surfpoker89 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 1782 | Rake 0 
+Board [2c Kd 3c 8c As]
+Seat 1: shakaa01 (small blind) folded before Flop
+Seat 2: Cowley09 (big blind) showed [3d 2h] and won (1782) with two pair, Threes and Deuces
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 4: Surfpoker89 showed [5d 5c] and lost with a pair of Fives
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 folded on the Flop
+Seat 9: Carlaloutre (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446611900: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 15:47:32 CUST [2026/10/19 10:47:32 ET]
+Table '4040890831 1' 9-max Seat #1 is the button
+Seat 1: shakaa01 (938 in chips) 
+Seat 2: Cowley09 (2488 in chips) 
+Seat 3: BudDyFL (975 in chips) 
+Seat 5: scabiosus (2777 in chips) 
+Seat 6: SEMM397 (1227 in chips) 
+Seat 7: bullets685 (2741 in chips) 
+Seat 8: Fran8488 (1162 in chips) 
+Seat 9: Carlaloutre (1192 in chips) 
+shakaa01: posts the ante 10
+Cowley09: posts the ante 10
+BudDyFL: posts the ante 10
+scabiosus: posts the ante 10
+SEMM397: posts the ante 10
+bullets685: posts the ante 10
+Fran8488: posts the ante 10
+Carlaloutre: posts the ante 10
+Cowley09: posts small blind 40
+BudDyFL: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [7c 2c]
+scabiosus: folds 
+SEMM397: folds 
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: raises 80 to 160
+Cowley09: folds 
+BudDyFL: folds 
+Uncalled bet (80) returned to shakaa01
+shakaa01 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: shakaa01 (button) collected (280)
+Seat 2: Cowley09 (small blind) folded before Flop
+Seat 3: BudDyFL (big blind) folded before Flop
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446618016: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 15:48:18 CUST [2026/10/19 10:48:18 ET]
+Table '4040890831 1' 9-max Seat #2 is the button
+Seat 1: shakaa01 (1128 in chips) 
+Seat 2: Cowley09 (2438 in chips) 
+Seat 3: BudDyFL (885 in chips) 
+Seat 5: scabiosus (2767 in chips) 
+Seat 6: SEMM397 (1217 in chips) 
+Seat 7: bullets685 (2731 in chips) 
+Seat 8: Fran8488 (1152 in chips) 
+Seat 9: Carlaloutre (1182 in chips) 
+shakaa01: posts the ante 10
+Cowley09: posts the ante 10
+BudDyFL: posts the ante 10
+scabiosus: posts the ante 10
+SEMM397: posts the ante 10
+bullets685: posts the ante 10
+Fran8488: posts the ante 10
+Carlaloutre: posts the ante 10
+BudDyFL: posts small blind 40
+scabiosus: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [8c Tc]
+SEMM397: calls 80
+bullets685: raises 240 to 320
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: folds 
+BudDyFL: folds 
+scabiosus: folds 
+SEMM397: folds 
+Uncalled bet (240) returned to bullets685
+bullets685 collected 360 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 (button) folded before Flop (didn't bet)
+Seat 3: BudDyFL (small blind) folded before Flop
+Seat 5: scabiosus (big blind) folded before Flop
+Seat 6: SEMM397 folded before Flop
+Seat 7: bullets685 collected (360)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446620913: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 15:48:40 CUST [2026/10/19 10:48:40 ET]
+Table '4040890831 1' 9-max Seat #3 is the button
+Seat 1: shakaa01 (1118 in chips) 
+Seat 2: Cowley09 (2428 in chips) 
+Seat 3: BudDyFL (835 in chips) 
+Seat 5: scabiosus (2677 in chips) 
+Seat 6: SEMM397 (1127 in chips) 
+Seat 7: bullets685 (3001 in chips) 
+Seat 8: Fran8488 (1142 in chips) 
+Seat 9: Carlaloutre (1172 in chips) 
+shakaa01: posts the ante 10
+Cowley09: posts the ante 10
+BudDyFL: posts the ante 10
+scabiosus: posts the ante 10
+SEMM397: posts the ante 10
+bullets685: posts the ante 10
+Fran8488: posts the ante 10
+Carlaloutre: posts the ante 10
+scabiosus: posts small blind 40
+SEMM397: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Td 7d]
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: raises 80 to 160
+Cowley09: folds 
+BudDyFL: raises 665 to 825 and is all-in
+scabiosus: folds 
+SEMM397: folds 
+shakaa01: folds 
+Uncalled bet (665) returned to BudDyFL
+BudDyFL collected 520 from pot
+BudDyFL: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: shakaa01 folded before Flop
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 3: BudDyFL (button) collected (520)
+Seat 5: scabiosus (small blind) folded before Flop
+Seat 6: SEMM397 (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446625137: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 15:49:12 CUST [2026/10/19 10:49:12 ET]
+Table '4040890831 1' 9-max Seat #5 is the button
+Seat 1: shakaa01 (948 in chips) 
+Seat 2: Cowley09 (2418 in chips) 
+Seat 3: BudDyFL (1185 in chips) 
+Seat 5: scabiosus (2627 in chips) 
+Seat 6: SEMM397 (1037 in chips) 
+Seat 7: bullets685 (2991 in chips) 
+Seat 8: Fran8488 (1132 in chips) 
+Seat 9: Carlaloutre (1162 in chips) 
+shakaa01: posts the ante 10
+Cowley09: posts the ante 10
+BudDyFL: posts the ante 10
+scabiosus: posts the ante 10
+SEMM397: posts the ante 10
+bullets685: posts the ante 10
+Fran8488: posts the ante 10
+Carlaloutre: posts the ante 10
+SEMM397: posts small blind 40
+bullets685: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [4d 2d]
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: raises 80 to 160
+Cowley09: folds 
+BudDyFL: folds 
+scabiosus: folds 
+SEMM397: folds 
+bullets685: calls 80
+*** FLOP *** [8h 4s Qs]
+bullets685: checks 
+shakaa01: bets 778 and is all-in
+bullets685: folds 
+Uncalled bet (778) returned to shakaa01
+shakaa01 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [8h 4s Qs]
+Seat 1: shakaa01 collected (440)
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 5: scabiosus (button) folded before Flop (didn't bet)
+Seat 6: SEMM397 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded on the Flop
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446628282: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 15:49:36 CUST [2026/10/19 10:49:36 ET]
+Table '4040890831 1' 9-max Seat #6 is the button
+Seat 1: shakaa01 (1218 in chips) 
+Seat 2: Cowley09 (2408 in chips) 
+Seat 3: BudDyFL (1175 in chips) 
+Seat 5: scabiosus (2617 in chips) 
+Seat 6: SEMM397 (987 in chips) 
+Seat 7: bullets685 (2821 in chips) 
+Seat 8: Fran8488 (1122 in chips) 
+Seat 9: Carlaloutre (1152 in chips) 
+shakaa01: posts the ante 10
+Cowley09: posts the ante 10
+BudDyFL: posts the ante 10
+scabiosus: posts the ante 10
+SEMM397: posts the ante 10
+bullets685: posts the ante 10
+Fran8488: posts the ante 10
+Carlaloutre: posts the ante 10
+bullets685: posts small blind 40
+Fran8488: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [7c 9d]
+Carlaloutre: folds 
+shakaa01: raises 80 to 160
+Cowley09: raises 280 to 440
+BudDyFL: folds 
+scabiosus: folds 
+SEMM397: folds 
+bullets685: folds 
+Fran8488: folds 
+shakaa01: raises 768 to 1208 and is all-in
+Cowley09: calls 768
+*** FLOP *** [Th Qh 9c]
+*** TURN *** [Th Qh 9c] [6s]
+*** RIVER *** [Th Qh 9c 6s] [4s]
+*** SHOW DOWN ***
+shakaa01: shows [Qd Qs] (three of a kind, Queens)
+Cowley09: shows [Ac Kd] (high card Ace)
+shakaa01 collected 2616 from pot
+*** SUMMARY ***
+Total pot 2616 | Rake 0 
+Board [Th Qh 9c 6s 4s]
+Seat 1: shakaa01 showed [Qd Qs] and won (2616) with three of a kind, Queens
+Seat 2: Cowley09 showed [Ac Kd] and lost with high card Ace
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: Fran8488 (big blind) folded before Flop
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446633016: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/19 15:50:12 CUST [2026/10/19 10:50:12 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 1: shakaa01 (2616 in chips) 
+Seat 2: Cowley09 (1190 in chips) 
+Seat 3: BudDyFL (1165 in chips) 
+Seat 5: scabiosus (2607 in chips) 
+Seat 6: SEMM397 (977 in chips) 
+Seat 7: bullets685 (2771 in chips) 
+Seat 8: Fran8488 (1032 in chips) 
+Seat 9: Carlaloutre (1142 in chips) 
+shakaa01: posts the ante 10
+Cowley09: posts the ante 10
+BudDyFL: posts the ante 10
+scabiosus: posts the ante 10
+SEMM397: posts the ante 10
+bullets685: posts the ante 10
+Fran8488: posts the ante 10
+Carlaloutre: posts the ante 10
+Fran8488: posts small blind 40
+Carlaloutre: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd 7h]
+shakaa01: folds 
+Cowley09: folds 
+BudDyFL: folds 
+scabiosus: folds 
+SEMM397: folds 
+bullets685: raises 120 to 200
+Fran8488: folds 
+Carlaloutre: calls 120
+*** FLOP *** [2c 7d Th]
+Carlaloutre: checks 
+bullets685: bets 240
+Carlaloutre: raises 692 to 932 and is all-in
+bullets685: calls 692
+*** TURN *** [2c 7d Th] [5s]
+*** RIVER *** [2c 7d Th 5s] [6h]
+*** SHOW DOWN ***
+Carlaloutre: shows [Qc 7s] (a pair of Sevens)
+bullets685: shows [Qd 7h] (a pair of Sevens)
+Carlaloutre collected 1192 from pot
+bullets685 collected 1192 from pot
+*** SUMMARY ***
+Total pot 2384 | Rake 0 
+Board [2c 7d Th 5s 6h]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded before Flop (didn't bet)
+Seat 7: bullets685 (button) showed [Qd 7h] and won (1192) with a pair of Sevens
+Seat 8: Fran8488 (small blind) folded before Flop
+Seat 9: Carlaloutre (big blind) showed [Qc 7s] and won (1192) with a pair of Sevens
+
+
+
+Betfair Hand #262446642855: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 15:51:27 CUST [2026/10/19 10:51:27 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 1: shakaa01 (2606 in chips) 
+Seat 2: Cowley09 (1180 in chips) 
+Seat 3: BudDyFL (1155 in chips) 
+Seat 5: scabiosus (2597 in chips) 
+Seat 6: SEMM397 (967 in chips) 
+Seat 7: bullets685 (2821 in chips) 
+Seat 8: Fran8488 (982 in chips) 
+Seat 9: Carlaloutre (1192 in chips) 
+shakaa01: posts the ante 15
+Cowley09: posts the ante 15
+BudDyFL: posts the ante 15
+scabiosus: posts the ante 15
+SEMM397: posts the ante 15
+bullets685: posts the ante 15
+Fran8488: posts the ante 15
+Carlaloutre: posts the ante 15
+Carlaloutre: posts small blind 60
+shakaa01: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [7c Ah]
+Cowley09: folds 
+BudDyFL: folds 
+scabiosus: folds 
+SEMM397: folds 
+bullets685: raises 240 to 360
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Uncalled bet (240) returned to bullets685
+bullets685 collected 420 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: shakaa01 (big blind) folded before Flop
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded before Flop (didn't bet)
+Seat 7: bullets685 collected (420)
+Seat 8: Fran8488 (button) folded before Flop (didn't bet)
+Seat 9: Carlaloutre (small blind) folded before Flop
+
+
+
+Betfair Hand #262446646658: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 15:51:56 CUST [2026/10/19 10:51:56 ET]
+Table '4040890831 1' 9-max Seat #9 is the button
+Seat 1: shakaa01 (2471 in chips) 
+Seat 2: Cowley09 (1165 in chips) 
+Seat 3: BudDyFL (1140 in chips) 
+Seat 5: scabiosus (2582 in chips) 
+Seat 6: SEMM397 (952 in chips) 
+Seat 7: bullets685 (3106 in chips) 
+Seat 8: Fran8488 (967 in chips) 
+Seat 9: Carlaloutre (1117 in chips) 
+shakaa01: posts the ante 15
+Cowley09: posts the ante 15
+BudDyFL: posts the ante 15
+scabiosus: posts the ante 15
+SEMM397: posts the ante 15
+bullets685: posts the ante 15
+Fran8488: posts the ante 15
+Carlaloutre: posts the ante 15
+shakaa01: posts small blind 60
+Cowley09: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [8c 5h]
+BudDyFL: folds 
+scabiosus: folds 
+SEMM397: folds 
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: raises 2336 to 2456 and is all-in
+Cowley09: folds 
+Uncalled bet (2336) returned to shakaa01
+shakaa01 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 1: shakaa01 (small blind) collected (360)
+Seat 2: Cowley09 (big blind) folded before Flop
+Seat 3: BudDyFL folded before Flop (didn't bet)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446649933: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 15:52:21 CUST [2026/10/19 10:52:21 ET]
+Table '4040890831 1' 9-max Seat #1 is the button
+Seat 1: shakaa01 (2696 in chips) 
+Seat 2: Cowley09 (1030 in chips) 
+Seat 3: BudDyFL (1125 in chips) 
+Seat 5: scabiosus (2567 in chips) 
+Seat 6: SEMM397 (937 in chips) 
+Seat 7: bullets685 (3091 in chips) 
+Seat 8: Fran8488 (952 in chips) 
+Seat 9: Carlaloutre (1102 in chips) 
+shakaa01: posts the ante 15
+Cowley09: posts the ante 15
+BudDyFL: posts the ante 15
+scabiosus: posts the ante 15
+SEMM397: posts the ante 15
+bullets685: posts the ante 15
+Fran8488: posts the ante 15
+Carlaloutre: posts the ante 15
+Cowley09: posts small blind 60
+BudDyFL: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [6d 9d]
+scabiosus: folds 
+SEMM397: folds 
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: raises 120 to 240
+shakaa01: folds 
+Cowley09: folds 
+BudDyFL: folds 
+Uncalled bet (120) returned to Carlaloutre
+Carlaloutre collected 420 from pot
+Carlaloutre: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: shakaa01 (button) folded before Flop (didn't bet)
+Seat 2: Cowley09 (small blind) folded before Flop
+Seat 3: BudDyFL (big blind) folded before Flop
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 folded before Flop (didn't bet)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre collected (420)
+
+
+
+Betfair Hand #262446653279: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 15:52:46 CUST [2026/10/19 10:52:46 ET]
+Table '4040890831 1' 9-max Seat #2 is the button
+Seat 1: shakaa01 (2681 in chips) 
+Seat 2: Cowley09 (955 in chips) 
+Seat 3: BudDyFL (990 in chips) 
+Seat 5: scabiosus (2552 in chips) 
+Seat 6: SEMM397 (922 in chips) 
+Seat 7: bullets685 (3076 in chips) 
+Seat 8: Fran8488 (937 in chips) 
+Seat 9: Carlaloutre (1387 in chips) 
+shakaa01: posts the ante 15
+Cowley09: posts the ante 15
+BudDyFL: posts the ante 15
+scabiosus: posts the ante 15
+SEMM397: posts the ante 15
+bullets685: posts the ante 15
+Fran8488: posts the ante 15
+Carlaloutre: posts the ante 15
+BudDyFL: posts small blind 60
+scabiosus: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [4d 4s]
+SEMM397: raises 120 to 240
+bullets685: calls 240
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: folds 
+BudDyFL: folds 
+scabiosus: folds 
+*** FLOP *** [Qc Kh Tc]
+SEMM397: checks 
+bullets685: checks 
+*** TURN *** [Qc Kh Tc] [Jh]
+SEMM397: checks 
+bullets685: bets 240
+SEMM397: folds 
+Uncalled bet (240) returned to bullets685
+bullets685 collected 780 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [Qc Kh Tc Jh]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 (button) folded before Flop (didn't bet)
+Seat 3: BudDyFL (small blind) folded before Flop
+Seat 5: scabiosus (big blind) folded before Flop
+Seat 6: SEMM397 folded on the Turn
+Seat 7: bullets685 collected (780)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446660646: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 15:53:42 CUST [2026/10/19 10:53:42 ET]
+Table '4040890831 1' 9-max Seat #3 is the button
+Seat 1: shakaa01 (2666 in chips) 
+Seat 2: Cowley09 (940 in chips) 
+Seat 3: BudDyFL (915 in chips) 
+Seat 5: scabiosus (2417 in chips) 
+Seat 6: SEMM397 (667 in chips) 
+Seat 7: bullets685 (3601 in chips) 
+Seat 8: Fran8488 (922 in chips) 
+Seat 9: Carlaloutre (1372 in chips) 
+shakaa01: posts the ante 15
+Cowley09: posts the ante 15
+BudDyFL: posts the ante 15
+scabiosus: posts the ante 15
+SEMM397: posts the ante 15
+bullets685: posts the ante 15
+Fran8488: posts the ante 15
+Carlaloutre: posts the ante 15
+scabiosus: posts small blind 60
+SEMM397: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Th Qh]
+bullets685: raises 150 to 270
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: calls 270
+BudDyFL: folds 
+scabiosus: folds 
+SEMM397: folds 
+*** FLOP *** [8h 8c 4s]
+bullets685: checks 
+Cowley09: bets 655 and is all-in
+bullets685: folds 
+Uncalled bet (655) returned to Cowley09
+Cowley09 collected 840 from pot
+Cowley09: doesn't show hand 
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [8h 8c 4s]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 collected (840)
+Seat 3: BudDyFL (button) folded before Flop (didn't bet)
+Seat 5: scabiosus (small blind) folded before Flop
+Seat 6: SEMM397 (big blind) folded before Flop
+Seat 7: bullets685 folded on the Flop
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446668499: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 15:54:41 CUST [2026/10/19 10:54:41 ET]
+Table '4040890831 1' 9-max Seat #5 is the button
+Seat 1: shakaa01 (2651 in chips) 
+Seat 2: Cowley09 (1495 in chips) 
+Seat 3: BudDyFL (900 in chips) 
+Seat 5: scabiosus (2342 in chips) 
+Seat 6: SEMM397 (532 in chips) 
+Seat 7: bullets685 (3316 in chips) 
+Seat 8: Fran8488 (907 in chips) 
+Seat 9: Carlaloutre (1357 in chips) 
+shakaa01: posts the ante 15
+Cowley09: posts the ante 15
+BudDyFL: posts the ante 15
+scabiosus: posts the ante 15
+SEMM397: posts the ante 15
+bullets685: posts the ante 15
+Fran8488: posts the ante 15
+Carlaloutre: posts the ante 15
+SEMM397: posts small blind 60
+bullets685: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Jd Jh]
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: raises 120 to 240
+BudDyFL: raises 645 to 885 and is all-in
+scabiosus: folds 
+SEMM397: folds 
+bullets685: raises 2416 to 3301 and is all-in
+Cowley09: folds 
+Uncalled bet (2416) returned to bullets685
+*** FLOP *** [3c 2s 7s]
+*** TURN *** [3c 2s 7s] [Jc]
+*** RIVER *** [3c 2s 7s Jc] [Tc]
+*** SHOW DOWN ***
+bullets685: shows [Jd Jh] (three of a kind, Jacks)
+BudDyFL: shows [Qd Qc] (a pair of Queens)
+bullets685 collected 2190 from pot
+BudDyFL finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 2190 | Rake 0 
+Board [3c 2s 7s Jc Tc]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 folded before Flop
+Seat 3: BudDyFL showed [Qd Qc] and lost with a pair of Queens
+Seat 5: scabiosus (button) folded before Flop (didn't bet)
+Seat 6: SEMM397 (small blind) folded before Flop
+Seat 7: bullets685 (big blind) showed [Jd Jh] and won (2190) with three of a kind, Jacks
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446674237: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/19 15:55:28 CUST [2026/10/19 10:55:28 ET]
+Table '4040890831 1' 9-max Seat #6 is the button
+Seat 1: shakaa01 (2636 in chips) 
+Seat 2: Cowley09 (1240 in chips) 
+Seat 5: scabiosus (2327 in chips) 
+Seat 6: SEMM397 (457 in chips) 
+Seat 7: bullets685 (4606 in chips) 
+Seat 8: Fran8488 (892 in chips) 
+Seat 9: Carlaloutre (1342 in chips) 
+shakaa01: posts the ante 15
+Cowley09: posts the ante 15
+scabiosus: posts the ante 15
+SEMM397: posts the ante 15
+bullets685: posts the ante 15
+Fran8488: posts the ante 15
+Carlaloutre: posts the ante 15
+bullets685: posts small blind 60
+Fran8488: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [7c Js]
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: folds 
+scabiosus: folds 
+SEMM397: raises 322 to 442 and is all-in
+bullets685: calls 382
+Fran8488: raises 435 to 877 and is all-in
+bullets685: calls 435
+*** FLOP *** [5h Ks Tc]
+*** TURN *** [5h Ks Tc] [5d]
+*** RIVER *** [5h Ks Tc 5d] [Jd]
+*** SHOW DOWN ***
+bullets685: shows [7c Js] (two pair, Jacks and Fives)
+Fran8488: shows [Jh Kh] (two pair, Kings and Jacks)
+Fran8488 collected 870 from side pot
+SEMM397: shows [Qd Kd] (two pair, Kings and Fives)
+Fran8488 collected 1431 from main pot
+SEMM397 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 2301 Main pot 1431. Side pot 870. | Rake 0 
+Board [5h Ks Tc 5d Jd]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 6: SEMM397 (button) showed [Qd Kd] and lost with two pair, Kings and Fives
+Seat 7: bullets685 (small blind) showed [7c Js] and lost with two pair, Jacks and Fives
+Seat 8: Fran8488 (big blind) showed [Jh Kh] and won (2301) with two pair, Kings and Jacks
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446678128: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 15:56:06 CUST [2026/10/19 10:56:06 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 1: shakaa01 (2621 in chips) 
+Seat 2: Cowley09 (1225 in chips) 
+Seat 5: scabiosus (2312 in chips) 
+Seat 7: bullets685 (3714 in chips) 
+Seat 8: Fran8488 (2301 in chips) 
+Seat 9: Carlaloutre (1327 in chips) 
+shakaa01: posts the ante 20
+Cowley09: posts the ante 20
+scabiosus: posts the ante 20
+bullets685: posts the ante 20
+Fran8488: posts the ante 20
+Carlaloutre: posts the ante 20
+Fran8488: posts small blind 80
+Carlaloutre: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Ac 8c]
+shakaa01: folds 
+Cowley09: folds 
+scabiosus: raises 240 to 400
+bullets685: raises 240 to 640
+Fran8488: folds 
+Carlaloutre: folds 
+scabiosus: folds 
+Uncalled bet (240) returned to bullets685
+bullets685 collected 1160 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 5: scabiosus folded before Flop
+Seat 7: bullets685 (button) collected (1160)
+Seat 8: Fran8488 (small blind) folded before Flop
+Seat 9: Carlaloutre (big blind) folded before Flop
+
+
+
+Betfair Hand #262446681845: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 15:56:42 CUST [2026/10/19 10:56:42 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 1: shakaa01 (2601 in chips) 
+Seat 2: Cowley09 (1205 in chips) 
+Seat 5: scabiosus (1892 in chips) 
+Seat 7: bullets685 (4454 in chips) 
+Seat 8: Fran8488 (2201 in chips) 
+Seat 9: Carlaloutre (1147 in chips) 
+shakaa01: posts the ante 20
+Cowley09: posts the ante 20
+scabiosus: posts the ante 20
+bullets685: posts the ante 20
+Fran8488: posts the ante 20
+Carlaloutre: posts the ante 20
+Carlaloutre: posts small blind 80
+shakaa01: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [9s 9h]
+Cowley09: folds 
+scabiosus: folds 
+bullets685: raises 200 to 360
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: calls 200
+*** FLOP *** [2c 5d 3h]
+shakaa01: checks 
+bullets685: bets 640
+shakaa01: folds 
+Uncalled bet (640) returned to bullets685
+bullets685 collected 920 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [2c 5d 3h]
+Seat 1: shakaa01 (big blind) folded on the Flop
+Seat 2: Cowley09 folded before Flop (didn't bet)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 7: bullets685 collected (920)
+Seat 8: Fran8488 (button) folded before Flop (didn't bet)
+Seat 9: Carlaloutre (small blind) folded before Flop
+
+
+
+Betfair Hand #262446685894: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 15:57:22 CUST [2026/10/19 10:57:22 ET]
+Table '4040890831 1' 9-max Seat #9 is the button
+Seat 1: shakaa01 (2221 in chips) 
+Seat 2: Cowley09 (1185 in chips) 
+Seat 5: scabiosus (1872 in chips) 
+Seat 7: bullets685 (4994 in chips) 
+Seat 8: Fran8488 (2181 in chips) 
+Seat 9: Carlaloutre (1047 in chips) 
+shakaa01: posts the ante 20
+Cowley09: posts the ante 20
+scabiosus: posts the ante 20
+bullets685: posts the ante 20
+Fran8488: posts the ante 20
+Carlaloutre: posts the ante 20
+shakaa01: posts small blind 80
+Cowley09: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [8h Ad]
+scabiosus: raises 1692 to 1852 and is all-in
+bullets685: folds 
+Fran8488: folds 
+Carlaloutre: folds 
+shakaa01: folds 
+Cowley09: calls 1005 and is all-in
+Uncalled bet (687) returned to scabiosus
+*** FLOP *** [Kd 8d Td]
+*** TURN *** [Kd 8d Td] [Ac]
+*** RIVER *** [Kd 8d Td Ac] [5d]
+*** SHOW DOWN ***
+Cowley09: shows [Jc As] (a pair of Aces)
+scabiosus: shows [8c 8s] (three of a kind, Eights)
+scabiosus collected 2530 from pot
+Cowley09 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 2530 | Rake 0 
+Board [Kd 8d Td Ac 5d]
+Seat 1: shakaa01 (small blind) folded before Flop
+Seat 2: Cowley09 (big blind) showed [Jc As] and lost with a pair of Aces
+Seat 5: scabiosus showed [8c 8s] and won (2530) with three of a kind, Eights
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446688684: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 15:57:49 CUST [2026/10/19 10:57:49 ET]
+Table '4040890831 1' 9-max Seat #1 is the button
+Seat 1: shakaa01 (2121 in chips) 
+Seat 5: scabiosus (3217 in chips) 
+Seat 7: bullets685 (4974 in chips) 
+Seat 8: Fran8488 (2161 in chips) 
+Seat 9: Carlaloutre (1027 in chips) 
+shakaa01: posts the ante 20
+scabiosus: posts the ante 20
+bullets685: posts the ante 20
+Fran8488: posts the ante 20
+Carlaloutre: posts the ante 20
+scabiosus: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc Ah]
+Fran8488: folds 
+Carlaloutre: raises 847 to 1007 and is all-in
+shakaa01: folds 
+scabiosus: folds 
+bullets685: calls 847
+*** FLOP *** [6c 6s Kc]
+*** TURN *** [6c 6s Kc] [5d]
+*** RIVER *** [6c 6s Kc 5d] [Jd]
+*** SHOW DOWN ***
+bullets685: shows [Jc Ah] (two pair, Jacks and Sixes)
+Carlaloutre: shows [Tc Ks] (two pair, Kings and Sixes)
+Carlaloutre collected 2194 from pot
+*** SUMMARY ***
+Total pot 2194 | Rake 0 
+Board [6c 6s Kc 5d Jd]
+Seat 1: shakaa01 (button) folded before Flop (didn't bet)
+Seat 5: scabiosus (small blind) folded before Flop
+Seat 7: bullets685 (big blind) showed [Jc Ah] and lost with two pair, Jacks and Sixes
+Seat 8: Fran8488 folded before Flop (didn't bet)
+Seat 9: Carlaloutre showed [Tc Ks] and won (2194) with two pair, Kings and Sixes
+
+
+
+Betfair Hand #262446691330: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 15:58:16 CUST [2026/10/19 10:58:16 ET]
+Table '4040890831 1' 9-max Seat #5 is the button
+Seat 1: shakaa01 (2101 in chips) 
+Seat 5: scabiosus (3117 in chips) 
+Seat 7: bullets685 (3947 in chips) 
+Seat 8: Fran8488 (2141 in chips) 
+Seat 9: Carlaloutre (2194 in chips) 
+shakaa01: posts the ante 20
+scabiosus: posts the ante 20
+bullets685: posts the ante 20
+Fran8488: posts the ante 20
+Carlaloutre: posts the ante 20
+bullets685: posts small blind 80
+Fran8488: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [7h Qd]
+Carlaloutre: folds 
+shakaa01: folds 
+scabiosus: folds 
+bullets685: folds 
+Uncalled bet (80) returned to Fran8488
+Fran8488 collected 260 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 5: scabiosus (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded before Flop
+Seat 8: Fran8488 (big blind) collected (260)
+Seat 9: Carlaloutre folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446692394: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 15:58:26 CUST [2026/10/19 10:58:26 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 1: shakaa01 (2081 in chips) 
+Seat 5: scabiosus (3097 in chips) 
+Seat 7: bullets685 (3847 in chips) 
+Seat 8: Fran8488 (2301 in chips) 
+Seat 9: Carlaloutre (2174 in chips) 
+shakaa01: posts the ante 20
+scabiosus: posts the ante 20
+bullets685: posts the ante 20
+Fran8488: posts the ante 20
+Carlaloutre: posts the ante 20
+Fran8488: posts small blind 80
+Carlaloutre: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd 2c]
+shakaa01: folds 
+scabiosus: folds 
+bullets685: folds 
+Fran8488: raises 160 to 320
+Carlaloutre: calls 160
+*** FLOP *** [5s 6h As]
+Fran8488: bets 370
+Carlaloutre: folds 
+Uncalled bet (370) returned to Fran8488
+Fran8488 collected 740 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [5s 6h As]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: Fran8488 (small blind) collected (740)
+Seat 9: Carlaloutre (big blind) folded on the Flop
+
+
+
+Betfair Hand #262446695706: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 15:58:57 CUST [2026/10/19 10:58:57 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 1: shakaa01 (2061 in chips) 
+Seat 5: scabiosus (3077 in chips) 
+Seat 7: bullets685 (3827 in chips) 
+Seat 8: Fran8488 (2701 in chips) 
+Seat 9: Carlaloutre (1834 in chips) 
+shakaa01: posts the ante 20
+scabiosus: posts the ante 20
+bullets685: posts the ante 20
+Fran8488: posts the ante 20
+Carlaloutre: posts the ante 20
+Carlaloutre: posts small blind 80
+shakaa01: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Ac 5h]
+scabiosus: folds 
+bullets685: raises 160 to 320
+Fran8488: folds 
+Carlaloutre: calls 240
+shakaa01: folds 
+*** FLOP *** [Ah 4s 9h]
+Carlaloutre: checks 
+bullets685: bets 640
+Carlaloutre: raises 854 to 1494 and is all-in
+bullets685: calls 854
+*** TURN *** [Ah 4s 9h] [Tc]
+*** RIVER *** [Ah 4s 9h Tc] [7h]
+*** SHOW DOWN ***
+Carlaloutre: shows [9d Kd] (a pair of Nines)
+bullets685: shows [Ac 5h] (a pair of Aces)
+bullets685 collected 3888 from pot
+Carlaloutre finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 3888 | Rake 0 
+Board [Ah 4s 9h Tc 7h]
+Seat 1: shakaa01 (big blind) folded before Flop
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 7: bullets685 showed [Ac 5h] and won (3888) with a pair of Aces
+Seat 8: Fran8488 (button) folded before Flop (didn't bet)
+Seat 9: Carlaloutre (small blind) showed [9d Kd] and lost with a pair of Nines
+
+
+
+Betfair Hand #262446700556: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 15:59:44 CUST [2026/10/19 10:59:44 ET]
+Table '4040890831 1' 9-max Seat #1 is the button
+Seat 1: shakaa01 (1881 in chips) 
+Seat 5: scabiosus (3057 in chips) 
+Seat 7: bullets685 (5881 in chips) 
+Seat 8: Fran8488 (2681 in chips) 
+shakaa01: posts the ante 20
+scabiosus: posts the ante 20
+bullets685: posts the ante 20
+Fran8488: posts the ante 20
+scabiosus: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [6c Jc]
+Fran8488: folds 
+shakaa01: raises 1701 to 1861 and is all-in
+scabiosus: folds 
+bullets685: folds 
+Uncalled bet (1701) returned to shakaa01
+shakaa01 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: shakaa01 (button) collected (480)
+Seat 5: scabiosus (small blind) folded before Flop
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: Fran8488 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446702316: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 16:00:01 CUST [2026/10/19 11:00:01 ET]
+Table '4040890831 1' 9-max Seat #5 is the button
+Seat 1: shakaa01 (2181 in chips) 
+Seat 5: scabiosus (2957 in chips) 
+Seat 7: bullets685 (5701 in chips) 
+Seat 8: Fran8488 (2661 in chips) 
+shakaa01: posts the ante 20
+scabiosus: posts the ante 20
+bullets685: posts the ante 20
+Fran8488: posts the ante 20
+bullets685: posts small blind 80
+Fran8488: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd Th]
+shakaa01: folds 
+scabiosus: folds 
+bullets685: calls 80
+Fran8488: checks 
+*** FLOP *** [7s 3c 7h]
+bullets685: checks 
+Fran8488: checks 
+*** TURN *** [7s 3c 7h] [5c]
+bullets685: checks 
+Fran8488: bets 160
+bullets685: folds 
+Uncalled bet (160) returned to Fran8488
+Fran8488 collected 400 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [7s 3c 7h 5c]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 5: scabiosus (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) folded on the Turn
+Seat 8: Fran8488 (big blind) collected (400)
+
+
+
+Betfair Hand #262446705172: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/19 16:00:28 CUST [2026/10/19 11:00:28 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 1: shakaa01 (2161 in chips) 
+Seat 5: scabiosus (2937 in chips) 
+Seat 7: bullets685 (5521 in chips) 
+Seat 8: Fran8488 (2881 in chips) 
+shakaa01: posts the ante 20
+scabiosus: posts the ante 20
+bullets685: posts the ante 20
+Fran8488: posts the ante 20
+Fran8488: posts small blind 80
+shakaa01: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [4d Jh]
+scabiosus: folds 
+bullets685: folds 
+Fran8488: calls 80
+shakaa01: checks 
+*** FLOP *** [Td Qs 6h]
+Fran8488: bets 160
+shakaa01: calls 160
+*** TURN *** [Td Qs 6h] [Ad]
+Fran8488: bets 160
+shakaa01: raises 320 to 480
+Fran8488: calls 320
+*** RIVER *** [Td Qs 6h Ad] [2c]
+Fran8488: bets 320
+shakaa01: folds 
+Uncalled bet (320) returned to Fran8488
+Fran8488 collected 1680 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 1680 | Rake 0 
+Board [Td Qs 6h Ad 2c]
+Seat 1: shakaa01 (big blind) folded on the River
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: Fran8488 (small blind) collected (1680)
+
+
+
+Betfair Hand #262446712381: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:01:27 CUST [2026/10/19 11:01:27 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 1: shakaa01 (1341 in chips) 
+Seat 5: scabiosus (2917 in chips) 
+Seat 7: bullets685 (5501 in chips) 
+Seat 8: Fran8488 (3741 in chips) 
+shakaa01: posts the ante 25
+scabiosus: posts the ante 25
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+shakaa01: posts small blind 100
+scabiosus: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [6h 3s]
+bullets685: folds 
+Fran8488: folds 
+shakaa01: folds 
+Uncalled bet (100) returned to scabiosus
+scabiosus collected 300 from pot
+scabiosus: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: shakaa01 (small blind) folded before Flop
+Seat 5: scabiosus (big blind) collected (300)
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446713441: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:01:35 CUST [2026/10/19 11:01:35 ET]
+Table '4040890831 1' 9-max Seat #1 is the button
+Seat 1: shakaa01 (1216 in chips) 
+Seat 5: scabiosus (3092 in chips) 
+Seat 7: bullets685 (5476 in chips) 
+Seat 8: Fran8488 (3716 in chips) 
+shakaa01: posts the ante 25
+scabiosus: posts the ante 25
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+scabiosus: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Kc Jc]
+Fran8488: folds 
+shakaa01: folds 
+scabiosus: folds 
+Uncalled bet (100) returned to bullets685
+bullets685 collected 300 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: shakaa01 (button) folded before Flop (didn't bet)
+Seat 5: scabiosus (small blind) folded before Flop
+Seat 7: bullets685 (big blind) collected (300)
+Seat 8: Fran8488 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446714800: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:01:45 CUST [2026/10/19 11:01:45 ET]
+Table '4040890831 1' 9-max Seat #5 is the button
+Seat 1: shakaa01 (1191 in chips) 
+Seat 5: scabiosus (2967 in chips) 
+Seat 7: bullets685 (5651 in chips) 
+Seat 8: Fran8488 (3691 in chips) 
+shakaa01: posts the ante 25
+scabiosus: posts the ante 25
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 100
+Fran8488: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [4c Tc]
+shakaa01: folds 
+scabiosus: folds 
+bullets685: calls 100
+Fran8488: checks 
+*** FLOP *** [Td 9c 4h]
+bullets685: bets 200
+Fran8488: raises 200 to 400
+bullets685: calls 200
+*** TURN *** [Td 9c 4h] [3d]
+bullets685: bets 600
+Fran8488: calls 600
+*** RIVER *** [Td 9c 4h 3d] [Th]
+bullets685: bets 800
+Fran8488: calls 800
+*** SHOW DOWN ***
+bullets685: shows [4c Tc] (a full house, Tens full of Fours)
+Fran8488: mucks hand 
+bullets685 collected 4100 from pot
+*** SUMMARY ***
+Total pot 4100 | Rake 0 
+Board [Td 9c 4h 3d Th]
+Seat 1: shakaa01 folded before Flop (didn't bet)
+Seat 5: scabiosus (button) folded before Flop (didn't bet)
+Seat 7: bullets685 (small blind) showed [4c Tc] and won (4100) with a full house, Tens full of Fours
+Seat 8: Fran8488 (big blind) mucked [5s 9d]
+
+
+
+Betfair Hand #262446719748: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:02:25 CUST [2026/10/19 11:02:25 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 1: shakaa01 (1166 in chips) 
+Seat 5: scabiosus (2942 in chips) 
+Seat 7: bullets685 (7726 in chips) 
+Seat 8: Fran8488 (1666 in chips) 
+shakaa01: posts the ante 25
+scabiosus: posts the ante 25
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 100
+shakaa01: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [4d Jd]
+scabiosus: folds 
+bullets685: folds 
+Fran8488: raises 1441 to 1641 and is all-in
+shakaa01: folds 
+Uncalled bet (1441) returned to Fran8488
+Fran8488 collected 500 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: shakaa01 (big blind) folded before Flop
+Seat 5: scabiosus folded before Flop (didn't bet)
+Seat 7: bullets685 (button) folded before Flop (didn't bet)
+Seat 8: Fran8488 (small blind) collected (500)
+
+
+
+Betfair Hand #262446722056: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:02:42 CUST [2026/10/19 11:02:42 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 1: shakaa01 (941 in chips) 
+Seat 5: scabiosus (2917 in chips) 
+Seat 7: bullets685 (7701 in chips) 
+Seat 8: Fran8488 (1941 in chips) 
+shakaa01: posts the ante 25
+scabiosus: posts the ante 25
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+shakaa01: posts small blind 100
+scabiosus: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [8c 4c]
+bullets685: folds 
+Fran8488: raises 1716 to 1916 and is all-in
+shakaa01: folds 
+scabiosus: folds 
+Uncalled bet (1716) returned to Fran8488
+Fran8488 collected 600 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 1: shakaa01 (small blind) folded before Flop
+Seat 5: scabiosus (big blind) folded before Flop
+Seat 7: bullets685 folded before Flop (didn't bet)
+Seat 8: Fran8488 (button) collected (600)
+
+
+
+Betfair Hand #262446724348: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:03:00 CUST [2026/10/19 11:03:00 ET]
+Table '4040890831 1' 9-max Seat #1 is the button
+Seat 1: shakaa01 (816 in chips) 
+Seat 5: scabiosus (2692 in chips) 
+Seat 7: bullets685 (7676 in chips) 
+Seat 8: Fran8488 (2316 in chips) 
+shakaa01: posts the ante 25
+scabiosus: posts the ante 25
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+scabiosus: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [9c 9d]
+Fran8488: folds 
+shakaa01: raises 591 to 791 and is all-in
+scabiosus: folds 
+bullets685: calls 591
+*** FLOP *** [6h 2c Ad]
+*** TURN *** [6h 2c Ad] [3h]
+*** RIVER *** [6h 2c Ad 3h] [3s]
+*** SHOW DOWN ***
+bullets685: shows [9c 9d] (two pair, Nines and Threes)
+shakaa01: shows [Qd Jc] (a pair of Threes)
+bullets685 collected 1782 from pot
+shakaa01 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1782 | Rake 0 
+Board [6h 2c Ad 3h 3s]
+Seat 1: shakaa01 (button) showed [Qd Jc] and lost with a pair of Threes
+Seat 5: scabiosus (small blind) folded before Flop
+Seat 7: bullets685 (big blind) showed [9c 9d] and won (1782) with two pair, Nines and Threes
+Seat 8: Fran8488 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262446726870: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:03:19 CUST [2026/10/19 11:03:19 ET]
+Table '4040890831 1' 9-max Seat #5 is the button
+Seat 5: scabiosus (2567 in chips) 
+Seat 7: bullets685 (8642 in chips) 
+Seat 8: Fran8488 (2291 in chips) 
+scabiosus: posts the ante 25
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 100
+Fran8488: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ac Kc]
+scabiosus: raises 400 to 600
+bullets685: raises 8017 to 8617 and is all-in
+Fran8488: folds 
+scabiosus: calls 1942 and is all-in
+Uncalled bet (6075) returned to bullets685
+*** FLOP *** [5h 7c 9h]
+*** TURN *** [5h 7c 9h] [Kh]
+*** RIVER *** [5h 7c 9h Kh] [3d]
+*** SHOW DOWN ***
+bullets685: shows [Ac Kc] (a pair of Kings)
+scabiosus: shows [Jd Jc] (a pair of Jacks)
+bullets685 collected 5359 from pot
+scabiosus finished the tournament in 3rd place and received $7.92.
+*** SUMMARY ***
+Total pot 5359 | Rake 0 
+Board [5h 7c 9h Kh 3d]
+Seat 5: scabiosus (button) showed [Jd Jc] and lost with a pair of Jacks
+Seat 7: bullets685 (small blind) showed [Ac Kc] and won (5359) with a pair of Kings
+Seat 8: Fran8488 (big blind) folded before Flop
+
+
+
+Betfair Hand #262446730390: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:03:45 CUST [2026/10/19 11:03:45 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (11434 in chips) 
+Seat 8: Fran8488 (2066 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Kd Ks]
+Fran8488: raises 1841 to 2041 and is all-in
+bullets685: calls 1841
+*** FLOP *** [8c 5c 2s]
+*** TURN *** [8c 5c 2s] [Ac]
+*** RIVER *** [8c 5c 2s Ac] [4s]
+*** SHOW DOWN ***
+bullets685: shows [Kd Ks] (a pair of Kings)
+Fran8488: shows [Ah 3h] (a straight, Ace to Five)
+Fran8488 collected 4132 from pot
+*** SUMMARY ***
+Total pot 4132 | Rake 0 
+Board [8c 5c 2s Ac 4s]
+Seat 7: bullets685 (big blind) showed [Kd Ks] and lost with a pair of Kings
+Seat 8: Fran8488 (button) (small blind) showed [Ah 3h] and won (4132) with a straight, Ace to Five
+
+
+
+Betfair Hand #262446732752: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:04:03 CUST [2026/10/19 11:04:03 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (9368 in chips) 
+Seat 8: Fran8488 (4132 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 100
+Fran8488: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 5d]
+bullets685: raises 9143 to 9343 and is all-in
+Fran8488: folds [2h]
+Uncalled bet (9143) returned to bullets685
+bullets685 collected 450 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 7: bullets685 (button) (small blind) collected (450)
+Seat 8: Fran8488 (big blind) folded before Flop
+
+
+
+Betfair Hand #262446734703: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:04:18 CUST [2026/10/19 11:04:18 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (9593 in chips) 
+Seat 8: Fran8488 (3907 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah Js]
+Fran8488: raises 450 to 650
+bullets685: raises 8918 to 9568 and is all-in
+Fran8488: calls 3232 and is all-in
+Uncalled bet (5686) returned to bullets685
+*** FLOP *** [Qc Kd 3h]
+*** TURN *** [Qc Kd 3h] [Qd]
+*** RIVER *** [Qc Kd 3h Qd] [Ac]
+*** SHOW DOWN ***
+bullets685: shows [Ah Js] (two pair, Aces and Queens)
+Fran8488: shows [Qh Ad] (a full house, Queens full of Aces)
+Fran8488 collected 7814 from pot
+*** SUMMARY ***
+Total pot 7814 | Rake 0 
+Board [Qc Kd 3h Qd Ac]
+Seat 7: bullets685 (big blind) showed [Ah Js] and lost with two pair, Aces and Queens
+Seat 8: Fran8488 (button) (small blind) showed [Qh Ad] and won (7814) with a full house, Queens full of Aces
+
+
+
+Betfair Hand #262446737109: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:04:35 CUST [2026/10/19 11:04:35 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (5686 in chips) 
+Seat 8: Fran8488 (7814 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 100
+Fran8488: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [4d Qh]
+bullets685: raises 200 to 400
+Fran8488: calls 200
+*** FLOP *** [Td 6c Kc]
+Fran8488: bets 425
+bullets685: folds 
+Uncalled bet (425) returned to Fran8488
+Fran8488 collected 850 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [Td 6c Kc]
+Seat 7: bullets685 (button) (small blind) folded on the Flop
+Seat 8: Fran8488 (big blind) collected (850)
+
+
+
+Betfair Hand #262446739673: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:04:54 CUST [2026/10/19 11:04:54 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (5261 in chips) 
+Seat 8: Fran8488 (8239 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [9h 5c]
+Fran8488: calls 100
+bullets685: checks 
+*** FLOP *** [5s Th 6s]
+bullets685: bets 200
+Fran8488: calls 200
+*** TURN *** [5s Th 6s] [Js]
+bullets685: checks 
+Fran8488: checks 
+*** RIVER *** [5s Th 6s Js] [2d]
+bullets685: checks 
+Fran8488: bets 600
+bullets685: folds 
+Uncalled bet (600) returned to Fran8488
+Fran8488 collected 850 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [5s Th 6s Js 2d]
+Seat 7: bullets685 (big blind) folded on the River
+Seat 8: Fran8488 (button) (small blind) collected (850)
+
+
+
+Betfair Hand #262446744643: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:05:31 CUST [2026/10/19 11:05:31 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (4836 in chips) 
+Seat 8: Fran8488 (8664 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 100
+Fran8488: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [3d 2h]
+bullets685: folds 
+Uncalled bet (100) returned to Fran8488
+Fran8488 collected 250 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 7: bullets685 (button) (small blind) folded before Flop
+Seat 8: Fran8488 (big blind) collected (250)
+
+
+
+Betfair Hand #262446745605: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/19 16:05:39 CUST [2026/10/19 11:05:39 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (4711 in chips) 
+Seat 8: Fran8488 (8789 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 6c]
+Fran8488: folds 
+Uncalled bet (100) returned to bullets685
+bullets685 collected 250 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 7: bullets685 (big blind) collected (250)
+Seat 8: Fran8488 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262446746880: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:05:48 CUST [2026/10/19 11:05:48 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (4836 in chips) 
+Seat 8: Fran8488 (8664 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 150
+Fran8488: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh 4c]
+bullets685: raises 300 to 600
+Fran8488: calls 300
+*** FLOP *** [4h Qd 9s]
+Fran8488: checks 
+bullets685: bets 900
+Fran8488: folds 
+Uncalled bet (900) returned to bullets685
+bullets685 collected 1250 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [4h Qd 9s]
+Seat 7: bullets685 (button) (small blind) collected (1250)
+Seat 8: Fran8488 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262446750353: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:06:13 CUST [2026/10/19 11:06:13 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (5461 in chips) 
+Seat 8: Fran8488 (8039 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [7s Ac]
+Fran8488: raises 300 to 600
+bullets685: calls 300
+*** FLOP *** [Ks 4s Th]
+bullets685: checks 
+Fran8488: bets 625
+bullets685: folds 
+Uncalled bet (625) returned to Fran8488
+Fran8488 collected 1250 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [Ks 4s Th]
+Seat 7: bullets685 (big blind) folded on the Flop
+Seat 8: Fran8488 (button) (small blind) collected (1250)
+
+
+
+Betfair Hand #262446752826: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:06:32 CUST [2026/10/19 11:06:32 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (4836 in chips) 
+Seat 8: Fran8488 (8664 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 150
+Fran8488: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [5s 3c]
+bullets685: raises 300 to 600
+Fran8488: folds 
+Uncalled bet (300) returned to bullets685
+bullets685 collected 650 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 7: bullets685 (button) (small blind) collected (650)
+Seat 8: Fran8488 (big blind) folded before Flop
+
+
+
+Betfair Hand #262446754006: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:06:41 CUST [2026/10/19 11:06:41 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (5161 in chips) 
+Seat 8: Fran8488 (8339 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [7d Tc]
+Fran8488: raises 300 to 600
+bullets685: calls 300
+*** FLOP *** [4s 6c 7c]
+bullets685: bets 900
+Fran8488: folds 
+Uncalled bet (900) returned to bullets685
+bullets685 collected 1250 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [4s 6c 7c]
+Seat 7: bullets685 (big blind) collected (1250)
+Seat 8: Fran8488 (button) (small blind) folded on the Flop
+
+
+
+Betfair Hand #262446756886: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:07:02 CUST [2026/10/19 11:07:02 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (5786 in chips) 
+Seat 8: Fran8488 (7714 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 150
+Fran8488: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [3c 7d]
+bullets685: folds 
+Uncalled bet (150) returned to Fran8488
+Fran8488 collected 350 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 7: bullets685 (button) (small blind) folded before Flop
+Seat 8: Fran8488 (big blind) collected (350)
+
+
+
+Betfair Hand #262446757677: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:07:09 CUST [2026/10/19 11:07:09 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (5611 in chips) 
+Seat 8: Fran8488 (7889 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [7h 4d]
+Fran8488: raises 300 to 600
+bullets685: folds 
+Uncalled bet (300) returned to Fran8488
+Fran8488 collected 650 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: Fran8488 (button) (small blind) collected (650)
+
+
+
+Betfair Hand #262446758592: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:07:15 CUST [2026/10/19 11:07:15 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (5286 in chips) 
+Seat 8: Fran8488 (8214 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 150
+Fran8488: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah Jc]
+bullets685: raises 300 to 600
+Fran8488: folds 
+Uncalled bet (300) returned to bullets685
+bullets685 collected 650 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 7: bullets685 (button) (small blind) collected (650)
+Seat 8: Fran8488 (big blind) folded before Flop
+
+
+
+Betfair Hand #262446759908: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:07:25 CUST [2026/10/19 11:07:25 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (5611 in chips) 
+Seat 8: Fran8488 (7889 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Ac 6d]
+Fran8488: raises 7564 to 7864 and is all-in
+bullets685: folds 
+Uncalled bet (7564) returned to Fran8488
+Fran8488 collected 650 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: Fran8488 (button) (small blind) collected (650)
+
+
+
+Betfair Hand #262446761409: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:07:36 CUST [2026/10/19 11:07:36 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (5286 in chips) 
+Seat 8: Fran8488 (8214 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 150
+Fran8488: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Qs 4h]
+bullets685: folds 
+Uncalled bet (150) returned to Fran8488
+Fran8488 collected 350 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 7: bullets685 (button) (small blind) folded before Flop
+Seat 8: Fran8488 (big blind) collected (350)
+
+
+
+Betfair Hand #262446762219: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:07:42 CUST [2026/10/19 11:07:42 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (5111 in chips) 
+Seat 8: Fran8488 (8389 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [3h Qh]
+Fran8488: calls 150
+bullets685: checks 
+*** FLOP *** [6d Js 5c]
+bullets685: checks 
+Fran8488: bets 300
+bullets685: folds 
+Uncalled bet (300) returned to Fran8488
+Fran8488 collected 650 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [6d Js 5c]
+Seat 7: bullets685 (big blind) folded on the Flop
+Seat 8: Fran8488 (button) (small blind) collected (650)
+
+
+
+Betfair Hand #262446764044: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:07:56 CUST [2026/10/19 11:07:56 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (4786 in chips) 
+Seat 8: Fran8488 (8714 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 150
+Fran8488: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [6d 2h]
+bullets685: folds 
+Uncalled bet (150) returned to Fran8488
+Fran8488 collected 350 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 7: bullets685 (button) (small blind) folded before Flop
+Seat 8: Fran8488 (big blind) collected (350)
+
+
+
+Betfair Hand #262446764875: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:08:02 CUST [2026/10/19 11:08:02 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (4611 in chips) 
+Seat 8: Fran8488 (8889 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [2c As]
+Fran8488: calls 150
+bullets685: checks 
+*** FLOP *** [8d 5c Jc]
+bullets685: checks 
+Fran8488: bets 300
+bullets685: folds 
+Uncalled bet (300) returned to Fran8488
+Fran8488 collected 650 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [8d 5c Jc]
+Seat 7: bullets685 (big blind) folded on the Flop
+Seat 8: Fran8488 (button) (small blind) collected (650)
+
+
+
+Betfair Hand #262446766727: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:08:16 CUST [2026/10/19 11:08:16 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (4286 in chips) 
+Seat 8: Fran8488 (9214 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 150
+Fran8488: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh Kh]
+bullets685: raises 300 to 600
+Fran8488: raises 8589 to 9189 and is all-in
+bullets685: calls 3661 and is all-in
+Uncalled bet (4928) returned to Fran8488
+*** FLOP *** [7h Ac 4d]
+*** TURN *** [7h Ac 4d] [8h]
+*** RIVER *** [7h Ac 4d 8h] [Td]
+*** SHOW DOWN ***
+Fran8488: shows [Kc 9c] (high card Ace)
+bullets685: shows [Jh Kh] (high card Ace - King+Jack kicker)
+bullets685 collected 8572 from pot
+*** SUMMARY ***
+Total pot 8572 | Rake 0 
+Board [7h Ac 4d 8h Td]
+Seat 7: bullets685 (button) (small blind) showed [Jh Kh] and won (8572) with high card Ace
+Seat 8: Fran8488 (big blind) showed [Kc 9c] and lost with high card Ace
+
+
+
+Betfair Hand #262446768954: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:08:33 CUST [2026/10/19 11:08:33 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (8572 in chips) 
+Seat 8: Fran8488 (4928 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [5c 4s]
+Fran8488: folds 
+Uncalled bet (150) returned to bullets685
+bullets685 collected 350 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 7: bullets685 (big blind) collected (350)
+Seat 8: Fran8488 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262446770087: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:08:41 CUST [2026/10/19 11:08:41 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (8747 in chips) 
+Seat 8: Fran8488 (4753 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 150
+Fran8488: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [4h Qs]
+bullets685: folds 
+Uncalled bet (150) returned to Fran8488
+Fran8488 collected 350 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 7: bullets685 (button) (small blind) folded before Flop
+Seat 8: Fran8488 (big blind) collected (350)
+
+
+
+Betfair Hand #262446771012: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:08:48 CUST [2026/10/19 11:08:48 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (8572 in chips) 
+Seat 8: Fran8488 (4928 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [8c 9h]
+Fran8488: raises 4603 to 4903 and is all-in
+bullets685: folds 
+Uncalled bet (4603) returned to Fran8488
+Fran8488 collected 650 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: Fran8488 (button) (small blind) collected (650)
+
+
+
+Betfair Hand #262446772199: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:08:57 CUST [2026/10/19 11:08:57 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (8247 in chips) 
+Seat 8: Fran8488 (5253 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 150
+Fran8488: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 4c]
+bullets685: folds 
+Uncalled bet (150) returned to Fran8488
+Fran8488 collected 350 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Seat 7: bullets685 (button) (small blind) folded before Flop
+Seat 8: Fran8488 (big blind) collected (350)
+
+
+
+Betfair Hand #262446772956: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:09:03 CUST [2026/10/19 11:09:03 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (8072 in chips) 
+Seat 8: Fran8488 (5428 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [9h Tc]
+Fran8488: calls 150
+bullets685: checks 
+*** FLOP *** [Jc 8s 2c]
+bullets685: checks 
+Fran8488: bets 300
+bullets685: calls 300
+*** TURN *** [Jc 8s 2c] [2h]
+bullets685: checks 
+Fran8488: checks 
+*** RIVER *** [Jc 8s 2c 2h] [Qd]
+bullets685: bets 900
+Fran8488: folds 
+Uncalled bet (900) returned to bullets685
+bullets685 collected 1250 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [Jc 8s 2c 2h Qd]
+Seat 7: bullets685 (big blind) collected (1250)
+Seat 8: Fran8488 (button) (small blind) folded on the River
+
+
+
+Betfair Hand #262446776231: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:09:28 CUST [2026/10/19 11:09:28 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (8697 in chips) 
+Seat 8: Fran8488 (4803 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 150
+Fran8488: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks 2s]
+bullets685: calls 150
+Fran8488: checks 
+*** FLOP *** [5h 4h Ac]
+Fran8488: bets 300
+bullets685: calls 300
+*** TURN *** [5h 4h Ac] [5c]
+Fran8488: bets 300
+bullets685: calls 300
+*** RIVER *** [5h 4h Ac 5c] [Ah]
+Fran8488: bets 300
+bullets685: folds 
+Uncalled bet (300) returned to Fran8488
+Fran8488 collected 1850 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 1850 | Rake 0 
+Board [5h 4h Ac 5c Ah]
+Seat 7: bullets685 (button) (small blind) folded on the River
+Seat 8: Fran8488 (big blind) collected (1850)
+
+
+
+Betfair Hand #262446780821: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:10:02 CUST [2026/10/19 11:10:02 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (7772 in chips) 
+Seat 8: Fran8488 (5728 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [6d 3d]
+Fran8488: calls 150
+bullets685: checks 
+*** FLOP *** [7s 9h Tc]
+bullets685: checks 
+Fran8488: bets 300
+bullets685: calls 300
+*** TURN *** [7s 9h Tc] [Kc]
+bullets685: bets 600
+Fran8488: folds 
+Uncalled bet (600) returned to bullets685
+bullets685 collected 1250 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [7s 9h Tc Kc]
+Seat 7: bullets685 (big blind) collected (1250)
+Seat 8: Fran8488 (button) (small blind) folded on the Turn
+
+
+
+Betfair Hand #262446785474: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/19 16:10:37 CUST [2026/10/19 11:10:37 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (8397 in chips) 
+Seat 8: Fran8488 (5103 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 150
+Fran8488: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [7h 7s]
+bullets685: raises 8072 to 8372 and is all-in
+Fran8488: folds 
+Uncalled bet (8072) returned to bullets685
+bullets685 collected 650 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 7: bullets685 (button) (small blind) collected (650)
+Seat 8: Fran8488 (big blind) folded before Flop
+
+
+
+Betfair Hand #262446787512: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/19 16:10:52 CUST [2026/10/19 11:10:52 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (8722 in chips) 
+Seat 8: Fran8488 (4778 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Td 5h]
+Fran8488: raises 4353 to 4753 and is all-in
+bullets685: folds 
+Uncalled bet (4353) returned to Fran8488
+Fran8488 collected 850 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 7: bullets685 (big blind) folded before Flop
+Seat 8: Fran8488 (button) (small blind) collected (850)
+
+
+
+Betfair Hand #262446788706: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/19 16:11:01 CUST [2026/10/19 11:11:01 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (8297 in chips) 
+Seat 8: Fran8488 (5203 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 200
+Fran8488: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [7s As]
+bullets685: raises 7872 to 8272 and is all-in
+Fran8488: folds 
+Uncalled bet (7872) returned to bullets685
+bullets685 collected 850 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 7: bullets685 (button) (small blind) collected (850)
+Seat 8: Fran8488 (big blind) folded before Flop
+
+
+
+Betfair Hand #262446789888: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/19 16:11:10 CUST [2026/10/19 11:11:10 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (8722 in chips) 
+Seat 8: Fran8488 (4778 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad Jc]
+Fran8488: folds 
+Uncalled bet (200) returned to bullets685
+bullets685 collected 450 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 7: bullets685 (big blind) collected (450)
+Seat 8: Fran8488 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262446790724: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/19 16:11:16 CUST [2026/10/19 11:11:16 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (8947 in chips) 
+Seat 8: Fran8488 (4553 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 200
+Fran8488: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [3h Qs]
+bullets685: folds 
+Uncalled bet (200) returned to Fran8488
+Fran8488 collected 450 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 7: bullets685 (button) (small blind) folded before Flop
+Seat 8: Fran8488 (big blind) collected (450)
+
+
+
+Betfair Hand #262446791645: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/19 16:11:23 CUST [2026/10/19 11:11:23 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (8722 in chips) 
+Seat 8: Fran8488 (4778 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 8h]
+Fran8488: calls 200
+bullets685: checks 
+*** FLOP *** [6c 8s 3h]
+bullets685: bets 800
+Fran8488: folds 
+Uncalled bet (800) returned to bullets685
+bullets685 collected 850 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [6c 8s 3h]
+Seat 7: bullets685 (big blind) collected (850)
+Seat 8: Fran8488 (button) (small blind) folded on the Flop
+
+
+
+Betfair Hand #262446793517: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/19 16:11:37 CUST [2026/10/19 11:11:37 ET]
+Table '4040890831 1' 9-max Seat #7 is the button
+Seat 7: bullets685 (9147 in chips) 
+Seat 8: Fran8488 (4353 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+bullets685: posts small blind 200
+Fran8488: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh 5d]
+bullets685: folds 
+Uncalled bet (200) returned to Fran8488
+Fran8488 collected 450 from pot
+Fran8488: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 7: bullets685 (button) (small blind) folded before Flop
+Seat 8: Fran8488 (big blind) collected (450)
+
+
+
+Betfair Hand #262446794349: Tournament #4040890831, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/19 16:11:43 CUST [2026/10/19 11:11:43 ET]
+Table '4040890831 1' 9-max Seat #8 is the button
+Seat 7: bullets685 (8922 in chips) 
+Seat 8: Fran8488 (4578 in chips) 
+bullets685: posts the ante 25
+Fran8488: posts the ante 25
+Fran8488: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [6h 7d]
+Fran8488: calls 200
+bullets685: checks 
+*** FLOP *** [6d 7c 3s]
+bullets685: checks 
+Fran8488: bets 850
+bullets685: calls 850
+*** TURN *** [6d 7c 3s] [Ac]
+bullets685: bets 800
+Fran8488: raises 2503 to 3303 and is all-in
+bullets685: calls 2503
+*** RIVER *** [6d 7c 3s Ac] [Qh]
+*** SHOW DOWN ***
+bullets685: shows [6h 7d] (two pair, Sevens and Sixes)
+Fran8488: shows [7s 9c] (a pair of Sevens)
+bullets685 collected 9156 from pot
+Fran8488 finished the tournament in 2nd place and received $11.88.
+bullets685 wins the tournament and receives $19.80 - congratulations!
+*** SUMMARY ***
+Total pot 9156 | Rake 0 
+Board [6d 7c 3s Ac Qh]
+Seat 7: bullets685 (big blind) showed [6h 7d] and won (9156) with two pair, Sevens and Sixes
+Seat 8: Fran8488 (button) (small blind) showed [7s 9c] and lost with a pair of Sevens
+
+
+
