@@ -300,7 +300,11 @@ def _leak_flags(hands: list[dict[str, Any]]) -> list[dict[str, str]]:
     return flags
 
 
-def build_hand_history_overview(history_dir: Path = HAND_HISTORY_DIR) -> dict[str, Any]:
+def build_hand_history_overview(history_dir: Path = HAND_HISTORY_DIR, room: str = "all") -> dict[str, Any]:
+    selected_room = {"all": None, "pokerstars": "PokerStars / Betfair", "ggpoker": "GGPoker"}
+    if room not in selected_room:
+        raise ValueError("Unknown poker room")
+    room_filter = selected_room[room]
     hands: list[dict[str, Any]] = []
     file_errors: list[dict[str, str]] = []
     total_files = 0
@@ -337,13 +341,15 @@ def build_hand_history_overview(history_dir: Path = HAND_HISTORY_DIR) -> dict[st
             continue
         hero_hands_in_file = 0
         for raw_hand in raw_hands:
-            room = "GGPoker" if raw_hand.startswith("Poker Hand #") else "PokerStars / Betfair"
-            hero = HERO_BY_FORMAT["gg"] if room == "GGPoker" else HERO_BY_FORMAT["pokerstars"]
+            hand_room = "GGPoker" if raw_hand.startswith("Poker Hand #") else "PokerStars / Betfair"
+            if room_filter and hand_room != room_filter:
+                continue
+            hero = HERO_BY_FORMAT["gg"] if hand_room == "GGPoker" else HERO_BY_FORMAT["pokerstars"]
             if not re.search(r"Dealt to " + re.escape(hero) + r"\s+\[", raw_hand):
                 continue
             hero_hands_in_file += 1
             try:
-                hand = _parse_hand(raw_hand, relative_file, hero, room)
+                hand = _parse_hand(raw_hand, relative_file, hero, hand_room)
             except (TypeError, ValueError, IndexError) as error:
                 file_errors.append({
                     "file": relative_file,
@@ -352,12 +358,12 @@ def build_hand_history_overview(history_dir: Path = HAND_HISTORY_DIR) -> dict[st
                 continue
             if not hand:
                 continue
-            unique_id = (room, hand["hand_id"])
+            unique_id = (hand_room, hand["hand_id"])
             if unique_id in seen_ids:
                 continue
             seen_ids.add(unique_id)
             hands.append(hand)
-        if not hero_hands_in_file:
+        if not hero_hands_in_file and (not room_filter or any(("GGPoker" if raw.startswith("Poker Hand #") else "PokerStars / Betfair") == room_filter for raw in raw_hands)):
             file_errors.append({
                 "file": relative_file,
                 "message": "No hands dealt to the configured player name were found in this file.",
@@ -396,6 +402,7 @@ def build_hand_history_overview(history_dir: Path = HAND_HISTORY_DIR) -> dict[st
         })
 
     return {
+        "room_filter": room,
         "total_hands": hand_count,
         "files_scanned": total_files,
         "source_files": len({hand["source_file"] for hand in hands}),

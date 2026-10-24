@@ -18,7 +18,7 @@ SAMPLE_FILE_PATH = (
     / 'GG20261015-2250 - Daily Hyper 2.txt'
 )
 POKERSTARS_FILE_PATH = next(
-    (PROJECT_ROOT / 'hand_histories' / 'pokerstars').glob('*.txt')
+    (PROJECT_ROOT / 'hand_histories' / 'pokerstars').glob('*T4039880417*.txt')
 )
 
 
@@ -52,6 +52,25 @@ class AnalysisApiTests(unittest.TestCase):
             result['summary']['won_showdowns'],
             sum(hand['won_showdown'] for hand in result['hands']),
         )
+
+    def test_pokerstars_overview_filter_has_only_its_own_hands_and_hud(self):
+        response = self.client.get('/api/hand-history-overview?room=pokerstars')
+        self.assertEqual(response.status_code, 200)
+        result = response.json()
+        hands = result['hands']
+        self.assertEqual(result['total_hands'], 734)
+        self.assertEqual(result['source_files'], 12)
+        self.assertEqual(result['errors'], [])
+        self.assertEqual({hand['room'] for hand in hands}, {'PokerStars / Betfair'})
+        self.assertTrue(all(hand['source_file'].startswith('pokerstars/') for hand in hands))
+        self.assertEqual(len({hand['hand_id'] for hand in hands}), 734)
+        self.assertEqual(result['summary']['vpip_percent'], round(100 * sum(hand['vpip'] for hand in hands) / len(hands), 1))
+        self.assertEqual(sum(row['hands'] for row in result['position_stats']), 734)
+        gg = self.client.get('/api/hand-history-overview?room=ggpoker').json()
+        self.assertEqual({hand['room'] for hand in gg['hands']}, {'GGPoker'})
+        all_rooms = self.client.get('/api/hand-history-overview').json()
+        self.assertEqual(all_rooms['total_hands'], len(hands) + gg['total_hands'])
+        self.assertEqual(self.client.get('/api/hand-history-overview?room=unknown').status_code, 422)
 
     def test_upload_returns_session_summary_and_hand_context(self):
         with SAMPLE_FILE_PATH.open('rb') as history:

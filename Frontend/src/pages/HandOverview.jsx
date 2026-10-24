@@ -12,6 +12,7 @@ export default function HandOverview({ active }) {
   const [loading, setLoading] = useState(false);
   const [refreshKey, setRefreshKey] = useState(0);
   const [search, setSearch] = useState('');
+  const [room, setRoom] = useState('all');
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
   useEffect(() => {
@@ -19,7 +20,7 @@ export default function HandOverview({ active }) {
     const controller = new AbortController();
     setLoading(true);
     setError('');
-    fetch('/api/hand-history-overview', { cache: 'no-store', signal: controller.signal })
+    fetch(`/api/hand-history-overview?room=${room}`, { cache: 'no-store', signal: controller.signal })
       .then(async response => {
         const result = await response.json().catch(() => null);
         if (!response.ok) {
@@ -31,6 +32,7 @@ export default function HandOverview({ active }) {
           throw new Error('The hand-history overview returned an unexpected response.');
         }
         setData(result);
+        setVisibleCount(PAGE_SIZE);
       })
       .catch(failure => {
         if (failure.name !== 'AbortError') {
@@ -43,7 +45,7 @@ export default function HandOverview({ active }) {
         if (!controller.signal.aborted) setLoading(false);
       });
     return () => controller.abort();
-  }, [active, refreshKey]);
+  }, [active, refreshKey, room]);
 
   const filteredHands = useMemo(() => {
     const query = search.trim().toLowerCase();
@@ -55,6 +57,7 @@ export default function HandOverview({ active }) {
       hand.cards,
       hand.board,
       hand.source_file,
+      hand.room,
     ].some(value => String(value ?? '').toLowerCase().includes(query)));
   }, [data, search]);
   const roomCounts = useMemo(() => {
@@ -78,6 +81,7 @@ export default function HandOverview({ active }) {
       </button>
     </div>
 
+    <div className="hand-room-toolbar"><label className="field">Poker room<select value={room} onChange={event => { setRoom(event.target.value); setData(null); setSearch(''); }}><option value="all">All rooms</option><option value="pokerstars">PokerStars / Betfair</option><option value="ggpoker">GG Poker</option></select></label><p className="caption">Includes local files in hand_histories/pokerstars and hand_histories/ggpoker. All statistics below reflect the selected room.</p></div>
     {error && <p className="analysis-message error" role="alert">{error}</p>}
     {loading && !data && <section className="panel analysis-empty" role="status"><p>Reading hand histories…</p></section>}
     {!loading && !data && !error && <section className="panel analysis-empty"><p>Open this tab to load your local hand-history summary.</p></section>}
@@ -142,7 +146,7 @@ export default function HandOverview({ active }) {
           </div>
           <div className="hand-overview-table-wrap">
             <table className="hand-overview-table hand-list-table">
-              <thead><tr><th>Hand / tournament</th><th>Position</th><th>Cards</th><th>Board</th><th>VPIP</th><th>PFR</th><th>3-bet</th><th>C-bet</th><th>Saw flop</th><th>Showdown</th><th>Place</th><th>Source</th></tr></thead>
+              <thead><tr><th>Hand / tournament</th><th>Position</th><th>Cards</th><th>Board</th><th>VPIP</th><th>PFR</th><th>3-bet</th><th>C-bet</th><th>Saw flop</th><th>Showdown</th><th>Place</th><th>Room / source</th></tr></thead>
               <tbody>{filteredHands.slice(0, visibleCount).map(hand => <tr key={`${hand.room}:${hand.hand_id}`}>
                 <td><strong>{hand.hand_id}</strong><small>{hand.tournament_id ? `Tournament ${hand.tournament_id}` : 'Tournament ID unavailable'}</small>
                   <details className="hand-overview-hand-details"><summary>Hand details</summary>
@@ -153,7 +157,7 @@ export default function HandOverview({ active }) {
                 <td>{hand.position}</td><td>{hand.cards || 'Not shown'}</td><td>{hand.board || '—'}</td><td>{hand.vpip ? 'Yes' : 'No'}</td><td>{hand.pfr ? 'Yes' : 'No'}</td>
                 <td>{hand.three_bet_opportunity ? (hand.three_bet ? 'Yes' : 'No') : '—'}</td>
                 <td>{hand.cbet_opportunity ? (hand.cbet ? 'Yes' : 'No') : '—'}</td><td>{hand.saw_flop ? 'Yes' : 'No'}</td>
-                <td>{hand.showdown ? (hand.won_showdown ? 'Won' : 'Lost') : 'No'}</td><td>{hand.place ?? '—'}</td><td>{hand.source_file}</td>
+                <td>{hand.showdown ? (hand.won_showdown ? 'Won' : 'Lost') : 'No'}</td><td>{hand.place ?? '—'}</td><td><strong>{hand.room}</strong><small>{hand.source_file}</small></td>
               </tr>)}</tbody>
             </table>
           </div>

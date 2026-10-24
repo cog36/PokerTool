@@ -89,9 +89,9 @@ def health():
 
 
 @app.get('/api/hand-history-overview')
-def hand_history_overview(response: Response):
+def hand_history_overview(response: Response, room: Literal['all', 'pokerstars', 'ggpoker'] = 'all'):
     response.headers['Cache-Control'] = 'no-store'
-    return build_hand_history_overview()
+    return build_hand_history_overview(room=room)
 
 
 @app.post('/api/analyze')
