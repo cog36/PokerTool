@@ -63,7 +63,7 @@ export default function Overview({ tasks, toggleTask }) {
             <span className="muted">Choose your focus</span>
           </div>
           <div className="focus-grid">
-            <a href="#ranges" className="focus-card"><span className="focus-icon mint">▦</span><span className="card-index">01 / EXPLORE</span><h3>Know your range</h3><p>Get familiar with all 169 starting hands in an interactive matrix.</p><span className="text-link">Open range explorer <b>↗</b></span></a>
+            <a href="#ranges" className="focus-card"><span className="focus-icon mint">▦</span><span className="card-index">01 / EXPLORE</span><h3>Know your range</h3><p>Explore MTT preflop chart frequencies across all 169 starting hands.</p><span className="text-link">Open preflop charts <b>↗</b></span></a>
             <a href="#arena" className="focus-card"><span className="focus-icon lavender">◎</span><span className="card-index">02 / PRACTISE</span><h3>Make the decision</h3><p>Take a seat at the table. Pick your action and learn the reasoning.</p><span className="text-link">Enter AI Arena <b>↗</b></span></a>
             <a href="#notebook" className="focus-card"><span className="focus-icon peach">♧</span><span className="card-index">03 / REVIEW</span><h3>Keep a useful note</h3><p>Save the decisions you want to revisit and questions for your next session.</p><span className="text-link">Open study notebook <b>↗</b></span></a>
           </div>

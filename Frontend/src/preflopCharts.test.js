@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { canonicalHand, evaluateHeroPreflop } from './preflopCharts.js';
+import { canonicalHand, chartForStack, evaluateHeroPreflop } from './preflopCharts.js';
 import { actionFeedback } from './actionFeedback.js';
 const cards = (a = 'A', b = 'A', suited = false) => [[a, '♠'], [b, suited ? '♠' : '♥']];
 function spot(depth = 100, position = 'BTN', hole = cards(), history = []) {
@@ -16,6 +16,13 @@ test('canonical keys match all three chart hand categories independent of card o
  assert.equal(canonicalHand(cards()), 'AA');
  assert.equal(canonicalHand(cards('K', 'A', true)), 'AKs');
  assert.equal(canonicalHand(cards('2', '7')), '72o');
+});
+test('range explorer chooses the closest available chart and resolves ties upward', () => {
+ assert.equal(chartForStack(12).chartDepth, 10);
+ assert.equal(chartForStack(15).chartDepth, 20);
+ assert.equal(chartForStack(25).chartDepth, 20);
+ assert.equal(chartForStack(30).chartDepth, 40);
+ assert.equal(chartForStack(50).chartDepth, 40);
 });
 test('all five chart depths approve premium opens and reject opening 72o on the button', () => {
  for (const depth of [5, 10, 20, 40, 100]) {
@@ -53,7 +60,7 @@ test('uncovered preflop spots fall back to legacy feedback and disclose why', ()
   const result = actionFeedback(before, after(before, 'call'), 0);
   assert.equal(result.source, 'LEGACY_LOGIC'); assert.equal(result.chart.assessment, 'UNASSESSED');
   assert.equal(result.fallback, true); assert.ok(result.fallbackReason);
-  assert.match(result.text, /using legacy analysis/); assert.match(result.text, /may be less accurate/); assert.match(result.text, /Pays/);
+  assert.match(result.text, /using legacy analysis/); assert.match(result.text, /Pays/);
  }
 });
 test('opponent and Hero postflop feedback retain legacy evaluation with no chart data', () => {

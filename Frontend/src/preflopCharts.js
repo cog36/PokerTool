@@ -5,7 +5,18 @@ import chart40 from '../../charts/MTT_40_GTO.json' with { type: 'json' };
 import chart100 from '../../charts/MTT_100_GTO.json' with { type: 'json' };
 
 const charts = { 5: chart5, 10: chart10, 20: chart20, 40: chart40, 100: chart100 };
+export const CHART_STACKS = Object.keys(charts).map(Number).sort((a, b) => a - b);
 const ranks = '23456789TJQKA';
+
+export function chartForStack(depth) {
+  const chartDepth = CHART_STACKS.reduce((closest, candidate) => (
+    Math.abs(candidate - depth) < Math.abs(closest - depth)
+      || (Math.abs(candidate - depth) === Math.abs(closest - depth) && candidate > closest)
+      ? candidate : closest
+  ), CHART_STACKS[0]);
+  return { chart: charts[chartDepth], chartDepth };
+}
+
 export function canonicalHand(cards) {
   const [high, low] = [...cards].sort((a, b) => ranks.indexOf(b[0]) - ranks.indexOf(a[0]));
   return high[0] === low[0] ? high[0] + low[0] : high[0] + low[0] + (high[1] === low[1] ? 's' : 'o');

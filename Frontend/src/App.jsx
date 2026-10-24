@@ -9,7 +9,7 @@ import Analysis from './pages/Analysis';
 import Arena from './pages/Arena';
 import { readStored, writeStored } from './model';
 
-const pages = { overview: ['Overview', '◫'], analysis: ['Session Analysis', '⌁'], ranges: ['Range Explorer', '▦'], arena: ['AI Arena', '♠'], notebook: ['Study Notebook', '▤'], coach: ['AI Coach', '✦'] };
+const pages = { overview: ['Overview', '◫'], analysis: ['Session Analysis', '⌁'], ranges: ['Preflop Charts', '▦'], arena: ['AI Arena', '♠'], notebook: ['Study Notebook', '▤'], coach: ['AI Coach', '✦'] };
 
 function currentPage() {
   const name = location.hash.slice(1);
