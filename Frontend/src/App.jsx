@@ -7,9 +7,10 @@ import Hands from './pages/Hands';
 import Notebook from './pages/Notebook';
 import Coach from './pages/Coach';
 import Analysis from './pages/Analysis';
+import Arena from './pages/Arena';
 import { initialSession, readStored, scoreAnswer, writeStored } from './model';
 
-const pages = { overview: ['Overview', '◫'], analysis: ['Session Analysis', '⌁'], ranges: ['Range Explorer', '▦'], practice: ['Practice Room', '◎'], hands: ['Hand Library', '♧'], notebook: ['Study Notebook', '▤'], coach: ['AI Coach', '✦'] };
+const pages = { overview: ['Overview', '◫'], analysis: ['Session Analysis', '⌁'], ranges: ['Range Explorer', '▦'], practice: ['Practice Room', '◎'], arena: ['AI Arena', '♠'], hands: ['Hand Library', '♧'], notebook: ['Study Notebook', '▤'], coach: ['AI Coach', '✦'] };
 function currentPage() {
   const name = location.hash.slice(1);
   return Object.hasOwn(pages, name) ? name : 'overview';
@@ -51,6 +52,7 @@ export default function App() {
         <div hidden={page !== 'analysis'}><Analysis analysis={analysis} onAnalysis={setAnalysis} /></div>
         <div hidden={page !== 'ranges'}><Ranges /></div>
         <div hidden={page !== 'practice'}><Practice session={session} active={page === 'practice'} onAnswer={correct => setSession(previous => scoreAnswer(previous, correct))} /></div>
+        <div hidden={page !== 'arena'}><Arena active={page === 'arena'} /></div>
         <div hidden={page !== 'hands'}><Hands /></div>
         <div hidden={page !== 'notebook'}><Notebook /></div>
         <div hidden={page !== 'coach'}><Coach /></div>

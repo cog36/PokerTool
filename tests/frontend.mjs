@@ -128,10 +128,14 @@ try {
   });
   await page.getByRole('button', { name: 'Analyze session' }).click();
   await expect(page.getByRole('alert')).toHaveText(/Python API is not responding correctly/);
+  await page.getByRole('navigation').getByRole('link', { name: 'AI Arena' }).click();
+  await expect(page.getByRole('heading', { name: 'AI Arena.' })).toBeVisible();
+  await page.getByRole('button', { name: 'Read the opponent' }).click();
+  await expect(page.getByRole('heading', { name: 'Read the opponent' })).toBeVisible();
 
   for (const width of [1440, 390]) {
     await page.setViewportSize({ width, height: 1000 });
-    for (const route of ['overview', 'analysis', 'ranges', 'practice', 'hands', 'notebook', 'coach']) {
+    for (const route of ['overview', 'analysis', 'ranges', 'practice', 'arena', 'hands', 'notebook', 'coach']) {
       await page.goto(`${baseUrl}/doc.html#${route}`);
       await page.locator(`#${route}`).waitFor({ state: 'visible' });
       if (route === 'overview') await page.screenshot({ path: `/tmp/pokerttool-react-${width}.png`, fullPage: true });
@@ -139,7 +143,7 @@ try {
     }
   }
   assert.deepEqual(errors, []);
-  console.log('PASS: themes, range filters, keyboard scoring, shared session results, hand-history upload display, replays, notebook persistence, chat history, provider errors, retry, both entry points, mobile layout, and no browser errors.');
+  console.log('PASS: themes, range filters, keyboard scoring, shared session results, hand-history analysis, AI Arena, replays, notebook persistence, chat history, both entry points, mobile layout, and no browser errors.');
 } finally {
   await browser.close();
 }

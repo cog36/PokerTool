@@ -3,7 +3,7 @@
 ## Run the React frontend
 
 The browser-only frontend uses **React + Vite**, with the existing custom CSS and light/dark themes.
-It includes the overview, interactive range explorer, sample practice decisions, hand replays, and local study notes.
+It includes the overview, interactive range explorer, sample practice decisions, AI Arena games, hand replays, and local study notes.
 The range and training data are illustrative; no Python server, API key, or solver is required.
 
 ## Run the app
