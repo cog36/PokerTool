@@ -140,6 +140,7 @@ function HoldemGame({ active }) {
   const heroLegal = legalActions(hand, 0) || legalActions(game.hand, 0);
   const event = frame?.event;
   const actor = frame?.actor;
+  const heroReview = reviews.find(item => item.actor === 0);
 
   useEffect(() => {
     if (active && frame?.feedback) showFeedback([frame.feedback]);
@@ -223,6 +224,9 @@ function HoldemGame({ active }) {
     if (!id) return;
     showFeedback(frames.filter(item => item.feedback?.actor === 0).map(item => item.feedback));
     const context = {
+      preflopChart: frames.find(item => item.feedback?.actor === 0)?.feedback.chart || null,
+      evaluationSource: frames.find(item => item.feedback?.actor === 0)?.feedback.source,
+      legacyFallback: frames.find(item => item.feedback?.actor === 0)?.feedback.fallback || false,
       hand: before.number, street: STREETS[before.street], position: before.players[0].position,
       cards: snapshot.cards, board: snapshot.board, stackBB: before.players[0].stack / 2,
       potBB: before.pot / 2, toCallBB: snapshot.legal.callCost / 2,
@@ -239,7 +243,7 @@ function HoldemGame({ active }) {
     const timeout = setTimeout(() => controller.abort(), 45000);
     try {
       const response = await fetch('/api/chat', { method: 'POST', headers: { 'Content-Type': 'application/json' }, signal: controller.signal,
-        body: JSON.stringify({ mode: 'constructive', messages: [{ role: 'user', content: `Review my MTT/SNG chip-EV decision in at most TWO short sentences, maximum 45 words: explain the main tradeoff and one improvement if warranted. No headings or emojis. No solver is connected: do not invent GTO frequencies, exact EV, or claim this is proven correct/incorrect. Qualify assumptions about opponent ranges. Sizes are big blinds, raises are totals. Use only this decision-time snapshot, not future results: ${JSON.stringify(context)}`.slice(0, 6000) }] }) });
+        body: JSON.stringify({ mode: 'constructive', messages: [{ role: 'user', content: `Review my MTT/SNG chip-EV decision in at most TWO short sentences, maximum 45 words: explain the main tradeoff and one improvement if warranted. No headings or emojis. For preflop, use preflopChart as the authoritative assessment: explain its frequencies and assessment without replacing them with your own grade. If legacyFallback is true, state briefly that no matching chart covers this spot and use the existing heuristic analysis instead. Clearly label this legacy coaching; never invent a chart verdict, frequency or exact EV. Charts assess action category, not custom sizing, exact EV or ICM. For postflop (preflopChart is null), retain ordinary heuristic coaching. No live solver is connected: do not invent frequencies or exact EV. Qualify assumptions about opponent ranges. Sizes are big blinds, raises are totals. Use only this decision-time snapshot, not future results: ${JSON.stringify(context)}`.slice(0, 6000) }] }) });
       const data = await response.json();
       if (!response.ok) throw new Error(data?.detail?.message || 'The coach is unavailable. Start the Python API and check its configuration.');
       if (!data.reply?.trim()) throw new Error('The coach returned no feedback.');
@@ -283,10 +287,11 @@ function HoldemGame({ active }) {
     <ol className="arena-streets" aria-label="Hand progress">{STREETS.map((street, index) => <li key={street} aria-current={index === hand.street ? 'step' : undefined} className={index <= hand.street ? 'reached' : ''}>{street}</li>)}</ol>
     <div className={`dealer-status${!busy ? ' your-turn' : ''}`} role="status"><span className="dealer-token" aria-hidden="true">D</span><span>{announcement}</span>{busy && <button type="button" className="skip-playback" onClick={skip}>Skip animations →</button>}</div>
     <section className="decision-reviews" aria-label="Live decision feedback">
-      <header><span className="feedback-dot" /><h2>Table insight</h2><span className="caption">Live · heuristic analysis</span></header>
+      <header><span className="feedback-dot" /><h2>Table insight</h2><span className="caption">Live · {liveFeedback?.source === 'CHART' ? 'preflop chart' : 'legacy analysis'}</span></header>
       <div className="live-feedback" role="status" aria-live="polite">
         {liveFeedback ? <><strong>{liveFeedback.name} · {liveFeedback.position} · {liveFeedback.label}</strong><p>{liveFeedback.text}</p></> : <p>Short feedback appears here as each player acts.</p>}
       </div>
+      {heroReview?.chart && <div className={`hero-chart-note ${heroReview.chart.assessment.toLowerCase()}`} data-assessment={heroReview.fallback ? 'LEGACY_FALLBACK' : heroReview.chart.assessment}><strong>Your preflop review · {heroReview.chart.assessment === 'APPROVED' ? 'Chart match' : heroReview.chart.assessment === 'NOT_RECOMMENDED' ? 'Outside chart' : 'Legacy fallback'}</strong><p>{heroReview.text}</p>{heroReview.fallback && <p className="caption">{heroReview.fallbackReason.replace('Preflop chart: unassessed. ', '')}</p>}</div>}
       {reviews.find(item => item.actor === 0 && item.aiText) && <div className="hero-coach-note"><strong>Your coach</strong><CoachReply text={reviews.find(item => item.actor === 0 && item.aiText).aiText} animate /></div>}
       {reviews.some(item => item.status === 'loading') && <span className="caption">Coach is reviewing your move…</span>}
       {reviews.find(item => item.status === 'error') && <div className="review-retry"><span className="caption">AI coach unavailable. Live feedback is still active.</span><button className="button" onClick={() => { const item = reviews.find(item => item.status === 'error'); setReviews(previous => previous.map(review => review.id === item.id ? { ...review, status: 'loading' } : review)); requestReview(item.id, item.context); }}>Retry coach</button></div>}
@@ -325,7 +330,7 @@ function HoldemGame({ active }) {
     <section className="panel arena-session-summary"><div className="panel-title"><h2>Your drill session</h2><span className="tag">VIRTUAL CHIPS</span></div><div className="practice-metrics"><div><strong>{game.played}</strong><span>Hands finished</span></div><div><strong>{game.wins}</strong><span>Pots shared / won</span></div><div><strong>{bb(game.net / 2)}</strong><span>Realised net bb</span></div></div></section>
     <section className="panel arena-action-log"><div className="panel-title"><h2>Full hand history</h2><span className="tag">EVERY STREET</span></div>{STREETS.map(street => { const entries = hand.history.filter(entry => entry.street === street); return entries.length > 0 && <section className="history-street" key={street}><h3>{street}</h3><ol>{entries.map((entry, index) => <li key={index}>{entry.text}</li>)}</ol></section>; })}</section>
     <section className="panel roster-guide"><div className="panel-title"><h2>At your table</h2><span className="tag">7 OPPONENTS</span></div><p className="roster-intro">Know the tendencies. Watch the decisions.</p><div className="roster-list">{hand.players.slice(1).map(player => { const profile = profileFor(player.archetype); return <article key={player.id}><PlayerPortrait type={player.archetype} className="roster-portrait" /><div><div className="roster-heading"><strong>{player.name}</strong><span>{player.position}</span></div><span className="roster-type">{profile.label}</span><p>{profile.description}</p></div><span className={`roster-status${player.folded ? ' is-folded' : ''}`}>{player.folded ? 'Folded' : player.allIn ? 'All-in' : 'In hand'}</span></article>; })}</div></section>
-    <details className="arena-drill-guide"><summary>How these drills work <span>Format, chip EV &amp; coaching</span></summary><div className="drill-guide-grid"><section><h3>The format</h3><p>Eight players with a randomly chosen starting depth of 5, 10, 20, 40 or 100bb each hand. Everyone starts at the same depth, with 0.5 / 1bb blinds. Each hand draws seven archetypes and new poker positions. Your view stays bottom centre.</p></section><section><h3>Reading opponents</h3><p>Bots use their own cards, the visible board, position and observed actions. Archetypes influence decisions; speech bubbles are fictional table talk.</p></section><section><h3>Understanding feedback</h3><p>Sampled chip EV and AI coaching are estimates, not GTO solver results. Realised net chips are tracked separately. These independent MTT/SNG drills do not model payouts or ICM.</p></section></div></details>
+    <details className="arena-drill-guide"><summary>How these drills work <span>Format, chip EV &amp; coaching</span></summary><div className="drill-guide-grid"><section><h3>The format</h3><p>Eight players with a randomly chosen starting depth of 5, 10, 20, 40 or 100bb each hand. Everyone starts at the same depth, with 0.5 / 1bb blinds. Each hand draws seven archetypes and new poker positions. Your view stays bottom centre.</p></section><section><h3>Reading opponents</h3><p>Bots use their own cards, the visible board, position and observed actions. Archetypes influence decisions; speech bubbles are fictional table talk.</p></section><section><h3>Understanding feedback</h3><p>Hero’s preflop actions are checked against the supplied charts at the exact starting depth. When a chart does not cover a spot, the review uses legacy analysis and labels the fallback. Sizes are not graded by the charts. Opponent decisions and postflop feedback use the existing logic. AI coaching explains these results; it is not a live solver. Realised net chips are tracked separately. These independent MTT/SNG drills do not model payouts or ICM.</p></section></div></details>
   </aside></div>;
 }
 

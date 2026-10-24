@@ -1,3 +1,4 @@
+import { evaluateHeroPreflop } from './preflopCharts.js';
 // Public-information coaching: explain the price and action, never an opponent's
 // hidden holding. These observations are immediate heuristics, not solver grades.
 const format = chips => Number((chips / 2).toFixed(2));
@@ -21,6 +22,10 @@ export function actionFeedback(before, after, actor) {
     const fraction = Math.round(extra / Math.max(1, potAfterCall) * 100);
     text = `${action.label} to ${format(action.total)}bb puts pressure on the remaining players. The raise adds ${format(extra)}bb beyond calling (${fraction}% of the pot after a call); it needs value or enough folds.`;
   }
+  const chart = actor === 0 && before.street === 0 ? evaluateHeroPreflop(before, after) : null;
+  const fallback = chart?.assessment === 'UNASSESSED';
+  if (chart && !fallback) text = chart.text;
+  if (fallback) text = `Chart unavailable — using legacy analysis. ${text}`;
   // Keep the key independent of timing so replay/skip can't duplicate a review.
-  return { id: `${after.number}-${after.history.length}-${actor}`, actor, name: actor === 0 ? 'You' : player.name, position: player.position, type: action.type, label: action.label, street: after.street, text };
+  return { id: `${after.number}-${after.history.length}-${actor}`, actor, name: actor === 0 ? 'You' : player.name, position: player.position, type: action.type, label: action.label, street: after.street, text, source: chart && !fallback ? 'CHART' : 'LEGACY_LOGIC', fallback, fallbackReason: fallback ? chart.text : null, chart };
 }

@@ -272,6 +272,8 @@ function apply(state, action, record) {
   player.lastAction = { type, label: actionLabel, amount, total: player.streetBet, street: state.street, allIn: player.allIn };
   const label = type === 'raise' ? `${actionLabel.toLowerCase()}s to ${money(target)}` : type === 'call' ? `calls ${money(amount)}` : `${type}s`;
   note(state, `${player.name} (${player.position}) ${label}${player.allIn ? ' · all-in' : ''}.`, player.id);
+  // Structured public action context for Hero chart review; bot policy is unchanged.
+  Object.assign(state.history.at(-1), { action: type, position: player.position, to: player.streetBet, allIn: player.allIn });
   if (player.id) {
     const profile = profileFor(player.archetype);
     const lines = { fold: profile.threshold > .7 ? 'Patience. Another hand will come.' : 'Not this time. Keep those chips warm.', check: profile.trap > .3 ? 'A quiet move can still tell a story.' : 'Let’s see what happens next.', call: profile.stickiness > .8 ? 'I do like to see how the story ends.' : 'That price deserves a look.', raise: profile.aggression > .8 ? 'Your move. Let’s make it interesting.' : 'I have a reason to put chips in.' };

@@ -657,3 +657,10 @@
   .dealer-hand { display: none; }
   #arena .arena-reveal-card { animation: none; transform: none; opacity: 1; }
 }
+
+.hero-chart-note { margin-top: 12px; border-left: 3px solid #a8966f; background: #a8966f0c; padding: 10px 14px; border-radius: 0 6px 6px 0; }
+.hero-chart-note.approved { border-color: #92c9a5; }
+.hero-chart-note.not_recommended { border-color: #ed8899; background: #ed88990c; }
+.hero-chart-note > strong { font-size: 14px; color: #e9dfef; }
+.hero-chart-note.not_recommended > strong { color: #ffadb9; }
+.hero-chart-note p { font-size: 15px; line-height: 1.7; margin-top: 5px; }

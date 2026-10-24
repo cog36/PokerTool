@@ -235,3 +235,11 @@ Hero moves also request a two-sentence AI review; the table keeps updating while
 ### Gradual coaching replies
 
 Coach replies are fetched from the Python API as before, then displayed progressively word by word. This is a frontend reveal, not token streaming from the provider. Use **Show full response** to finish immediately, or **New chat** to clear it. The complete reply is retained for conversation context and copying. Arena AI notes use the same reveal; immediate local table insights remain instant. Hand Library has been removed from navigation and the overview links to Study Notebook instead.
+
+### Arena Hero preflop chart evaluation
+
+Hero preflop reviews read the checked-in `charts/MTT_{5,10,20,40,100}_GTO.json` files at the hand's exact starting depth. Cards become canonical pair/suited/offsuit keys. Position mapping follows the chart's nine-seat naming with earliest positions removed for shorter tables (eight-handed UTG → EP2, UTG+1 → EP3). The structured action history selects open/limp, call/3-bet, call-3-bet/4-bet and later matching tables.
+
+Any positive-frequency action is chart-approved, including mixed actions; zero-frequency actions are outside the chart. Fold frequency is the residual after the listed alternatives. Limped/calling multiway sequences, unsupported cold reraises, missing tables/depths and inconsistent frequency totals are marked as a clearly labelled **Legacy fallback**: the chart remains unassessed and the prior heuristic feedback is used instead. The coverage reason is displayed and passed to AI coaching. Charts evaluate action category, not the chosen bet amount, exact EV, or ICM.
+
+The chart verdict remains visible in **Your preflop review** and is included in the AI explanation request. Opponent action selection and feedback are unchanged. Hero postflop reviews continue using the existing legacy feedback and AI coaching. No live GTO solver is added.
