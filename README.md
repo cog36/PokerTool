@@ -3,8 +3,25 @@
 ## Run the React frontend
 
 The browser-only frontend uses **React + Vite**, with the existing custom CSS and light/dark themes.
-It includes the overview, interactive range explorer, sample practice decisions, hand replays, and local study notes.
+It includes the overview, interactive range explorer, sample practice decisions, AI Arena games, hand replays, and local study notes.
 The range and training data are illustrative; no Python server, API key, or solver is required.
+
+## Run the app
+
+After installing dependencies once, run both the Python API and Vite frontend from the project root with:
+
+```powershell
+npm start
+```
+
+Open `http://127.0.0.1:5173/`. Keep the terminal open while using the app; press Ctrl+C to stop both services.
+First-time setup:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r backend\requirements.txt
+npm install
+```
 
 From the `Frontend/` folder, with Node.js 22.12+ (or 20.19+):
 
@@ -66,7 +83,7 @@ Edit `backend/.env` and add your `GROQ_API_KEY` from [Groq Console](https://cons
 `GROQ_MODEL` is configurable; its default is `openai/gpt-oss-120b`. The older Llama model is retired for free/developer accounts. Choose a model available to your account.
 Never put the key in frontend code or a `VITE_` variable.
 
-Start the Python API in one terminal:
+To start the Python API by itself:
 
 ```bash
 source .venv/bin/activate
@@ -84,7 +101,11 @@ Vite proxies `/api` requests to Python. The API reads saved settings on every re
 - The API is for local development. A public deployment needs authentication, abuse limits, and a same-origin `/api` proxy before exposing this paid-provider endpoint.
 - Run API tests with `.venv/bin/python -m unittest discover -s backend -p 'test_*.py'` (mocked provider; no live AI calls).
 
-The remaining GTO and parsing sections describe the proposed scope and are not implemented yet.
+The Session Analysis screen accepts UTF-8 GG Poker `.txt` hand histories containing hands dealt to `Hero`. It sends each file to `POST /api/analyze`, where the API parses and audits it in memory; files are not saved. The response includes session totals, leak counts, and per-hand feedback. These findings use the simplified fixed ranges in `backend/analyzer.py`, not a solver or verified GTO output. Other poker-room formats are not supported by the current parser.
+
+Install the backend dependencies, including `python-multipart`, from `backend/requirements.txt` before starting the API. Run the upload and analysis API tests with `.venv\\Scripts\\python -m unittest discover -s backend -p "test_*.py"` on Windows (or the corresponding activated-environment command on macOS/Linux).
+
+The remaining GTO solver and advanced statistical-analysis sections describe proposed scope and are not implemented yet.
 
 ---
 

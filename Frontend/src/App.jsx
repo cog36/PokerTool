@@ -6,6 +6,11 @@ import Practice from './pages/Practice';
 import Hands from './pages/Hands';
 import Notebook from './pages/Notebook';
 import Coach from './pages/Coach';
+import Analysis from './pages/Analysis';
+import Arena from './pages/Arena';
+import { initialSession, readStored, scoreAnswer, writeStored } from './model';
+
+const pages = { overview: ['Overview', '◫'], analysis: ['Session Analysis', '⌁'], ranges: ['Range Explorer', '▦'], practice: ['Practice Room', '◎'], arena: ['AI Arena', '♠'], hands: ['Hand Library', '♧'], notebook: ['Study Notebook', '▤'], coach: ['AI Coach', '✦'] };
 import Arena from './pages/Arena';
 import { initialSession, readStored, scoreAnswer, writeStored } from './model';
 
@@ -18,6 +23,7 @@ function currentPage() {
 export default function App() {
   const [page, setPage] = useState(currentPage);
   const [session, setSession] = useState(initialSession);
+  const [analysis, setAnalysis] = useState(null);
   const [tasks, setTasks] = useState(() => {
     const stored = readStored('river.tasks', {});
     return stored && typeof stored === 'object' && !Array.isArray(stored) ? stored : {};
@@ -47,8 +53,10 @@ export default function App() {
       <main>
         {/* Keep screens mounted so filters, drafts, and replay position survive navigation. */}
         <div hidden={page !== 'overview'}><Overview session={session} tasks={tasks} toggleTask={toggleTask} /><p className="caption" role="status">{taskStatus}</p></div>
+        <div hidden={page !== 'analysis'}><Analysis analysis={analysis} onAnalysis={setAnalysis} /></div>
         <div hidden={page !== 'ranges'}><Ranges /></div>
         <div hidden={page !== 'practice'}><Practice session={session} active={page === 'practice'} onAnswer={correct => setSession(previous => scoreAnswer(previous, correct))} /></div>
+        <div hidden={page !== 'arena'}><Arena active={page === 'arena'} /></div>
         <div hidden={page !== 'hands'}><Hands /></div>
         <div hidden={page !== 'notebook'}><Notebook /></div>
         <div hidden={page !== 'coach'}><Coach /></div>

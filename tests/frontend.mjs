@@ -157,9 +157,57 @@ try {
   await page.getByRole('button', { name: 'New chat' }).click();
   await expect(page.locator('.coach-message')).toHaveCount(0);
 
+  await page.route('**/api/analyze', route => route.fulfill({ json: {
+    filename: 'sample-hands.txt',
+    total_hands_analyzed: 1,
+    total_mistakes_detected: 1,
+    critical_blunders_count: 1,
+    leak_breakdown: { played_weak_hands: 1, folded_playable_hands: 0, passive_calls_on_premiums: 0 },
+    hands: [{
+      hand_id: 'TM123',
+      matrix_key: '72o',
+      position: 'UTG',
+      stack_depth_bb: 50,
+      facing_action: 'UNOPENED',
+      opener_position: null,
+      net_profit: -10,
+      recommended_action: 'FOLD',
+      deviation_type: 'Played Loose in UTG',
+      feedback: 'You opened 72o from UTG.',
+      severity: 'CRITICAL',
+      raw_cards: '7s 2h',
+      board: '',
+      actions_before_hero: [],
+    }],
+  } }));
+  await page.getByRole('navigation').getByRole('link', { name: 'Session Analysis' }).click();
+  await page.getByLabel('Choose a GG Poker hand-history file').setInputFiles({
+    name: 'sample-hands.txt',
+    mimeType: 'text/plain',
+    buffer: Buffer.from('sample hand history'),
+  });
+  await page.getByRole('button', { name: 'Analyze session' }).click();
+  await expect(page.getByText('Analyzed 1 hands from sample-hands.txt.')).toBeVisible();
+  await expect(page.locator('.analysis-stats strong').first()).toHaveText('1');
+  await expect(page.locator('.analysis-hand summary')).toContainText('72o · UTG');
+  await page.locator('.analysis-hand summary').click();
+  await expect(page.locator('.analysis-hand-content')).toContainText('You opened 72o from UTG.');
+  await page.route('**/api/analyze', route => route.fulfill({ status: 500, contentType: 'text/html', body: 'proxy error' }));
+  await page.getByLabel('Choose a GG Poker hand-history file').setInputFiles({
+    name: 'another-sample.txt',
+    mimeType: 'text/plain',
+    buffer: Buffer.from('sample hand history'),
+  });
+  await page.getByRole('button', { name: 'Analyze session' }).click();
+  await expect(page.getByRole('alert')).toHaveText(/Python API is not responding correctly/);
+  await page.getByRole('navigation').getByRole('link', { name: 'AI Arena' }).click();
+  await expect(page.getByRole('heading', { name: 'AI Arena.' })).toBeVisible();
+  await page.getByRole('button', { name: 'Read the opponent' }).click();
+  await expect(page.getByRole('heading', { name: 'Read the opponent' })).toBeVisible();
+
   for (const width of [1440, 390]) {
     await page.setViewportSize({ width, height: 1000 });
-    for (const route of ['overview', 'ranges', 'practice', 'hands', 'notebook', 'coach', 'arena']) {
+    for (const route of ['overview', 'analysis', 'ranges', 'practice', 'arena', 'hands', 'notebook', 'coach']) {
       await page.goto(`${baseUrl}/doc.html#${route}`);
       await page.locator(`#${route}`).waitFor({ state: 'visible' });
       if (route === 'coach') await page.screenshot({ path: `/tmp/pokerttool-coach-${width}.png`, fullPage: true, animations: 'disabled' });
