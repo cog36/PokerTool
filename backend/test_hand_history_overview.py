@@ -74,6 +74,50 @@ class HandHistoryOverviewTests(unittest.TestCase):
         self.assertTrue(parsed["three_bet_opportunity"])
         self.assertTrue(parsed["three_bet"])
 
+    def test_four_bet_spot_is_not_counted_as_three_bet_opportunity_or_action(self):
+        hand = POKERSTARS_HAND.replace(
+            "Opponent: folds\nbullets685: raises 40 to 60",
+            "Opponent: raises 40 to 60\nPlayer3: raises 100 to 160\nbullets685: raises 300 to 360",
+        )
+        parsed = _parse_hand(hand, "history.txt", "bullets685", "PokerStars / Betfair")
+        self.assertIsNotNone(parsed)
+        assert parsed is not None
+        self.assertFalse(parsed["three_bet_opportunity"])
+        self.assertFalse(parsed["three_bet"])
+
+    def test_preflop_all_in_reaching_board_counts_saw_flop_without_flop_action(self):
+        hand = POKERSTARS_HAND.replace(
+            "bullets685: raises 40 to 60",
+            "bullets685: raises 940 to 1,000 and is all-in",
+        ).replace(
+            "bullets685: bets 60\nPlayer4: folds",
+            "Player4: checks",
+        ).replace(
+            "*** SUMMARY ***",
+            "*** SHOW DOWN ***\nbullets685: shows [As Kd]\n*** SUMMARY ***",
+        ).replace(
+            "bullets685 collected (120)",
+            "Seat 2: bullets685 showed [As Kd] and won (120)",
+        )
+        parsed = _parse_hand(hand, "history.txt", "bullets685", "PokerStars / Betfair")
+        self.assertIsNotNone(parsed)
+        assert parsed is not None
+        self.assertTrue(parsed["saw_flop"])
+        self.assertFalse(parsed["cbet_opportunity"])
+
+    def test_preflop_fold_does_not_count_saw_flop_when_other_players_run_board(self):
+        hand = POKERSTARS_HAND.replace(
+            "bullets685: raises 40 to 60",
+            "bullets685: folds",
+        ).replace(
+            "bullets685 collected (120)",
+            "Seat 2: bullets685 folded before Flop\nSeat 3: Opponent collected (120)",
+        )
+        parsed = _parse_hand(hand, "history.txt", "bullets685", "PokerStars / Betfair")
+        self.assertIsNotNone(parsed)
+        assert parsed is not None
+        self.assertFalse(parsed["saw_flop"])
+
     def test_table_showdown_marker_does_not_count_when_hero_folded(self):
         hand = POKERSTARS_HAND.replace(
             "*** SUMMARY ***",
@@ -106,6 +150,28 @@ class HandHistoryOverviewTests(unittest.TestCase):
         self.assertTrue(parsed["won_hand"])
         self.assertTrue(parsed["won_showdown"])
 
+    def test_hero_summary_without_showdown_section_is_not_a_showdown(self):
+        hand = POKERSTARS_HAND.replace(
+            "bullets685 collected (120)",
+            "Seat 2: bullets685 showed [As Kd] and won (120)",
+        )
+        parsed = _parse_hand(hand, "history.txt", "bullets685", "PokerStars / Betfair")
+        self.assertIsNotNone(parsed)
+        assert parsed is not None
+        self.assertFalse(parsed["showdown"])
+        self.assertFalse(parsed["won_showdown"])
+
+    def test_opponent_bet_before_hero_removes_cbet_opportunity(self):
+        hand = POKERSTARS_HAND.replace(
+            "Player4: checks\nbullets685: bets 60",
+            "Player4: bets 60\nbullets685: calls 60",
+        )
+        parsed = _parse_hand(hand, "history.txt", "bullets685", "PokerStars / Betfair")
+        self.assertIsNotNone(parsed)
+        assert parsed is not None
+        self.assertFalse(parsed["cbet_opportunity"])
+        self.assertFalse(parsed["cbet"])
+
     def test_overview_includes_both_local_room_formats_and_legacy_metrics(self):
         overview = build_hand_history_overview(PROJECT_ROOT / "hand_histories")
         self.assertGreater(overview["total_hands"], 0)
@@ -115,7 +181,21 @@ class HandHistoryOverviewTests(unittest.TestCase):
         self.assertIn("PokerStars / Betfair", overview["summary"]["rooms"])
         self.assertIn("vpip_percent", overview["summary"])
         self.assertIn("three_bet_opportunities", overview["summary"])
-        self.assertLess(overview["summary"]["went_to_showdown_percent"], 20)
+        self.assertLess(overview["summary"]["showdown_hand_percent"], 20)
+        self.assertEqual(
+            overview["summary"]["went_to_showdown_percent"],
+            round(overview["summary"]["showdowns"] / overview["summary"]["saw_flop_hands"] * 100, 1),
+        )
+        self.assertEqual(
+            overview["summary"]["vpip_pfr_gap"],
+            round(
+                100 * (
+                    sum(hand["vpip"] for hand in overview["hands"])
+                    - sum(hand["pfr"] for hand in overview["hands"])
+                ) / overview["total_hands"],
+                1,
+            ),
+        )
         self.assertTrue(overview["position_stats"])
         self.assertTrue(overview["leak_flags"])
 

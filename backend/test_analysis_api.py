@@ -27,6 +27,10 @@ class AnalysisApiTests(unittest.TestCase):
         self.assertEqual(result['summary']['showdowns'], hand_showdowns)
         self.assertEqual(
             result['summary']['went_to_showdown_percent'],
+            round(100 * hand_showdowns / result['summary']['saw_flop_hands'], 1),
+        )
+        self.assertEqual(
+            result['summary']['showdown_hand_percent'],
             round(100 * hand_showdowns / result['total_hands'], 1),
         )
         self.assertLess(hand_showdowns, result['total_hands'])

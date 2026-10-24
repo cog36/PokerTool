@@ -100,7 +100,8 @@ export default function HandOverview({ active }) {
           <div className="hand-overview-hud">
             <div><span>3-bet</span><strong>{percent(summary.three_bet_percent)}</strong><small>{summary.three_bets}/{summary.three_bet_opportunities} opportunities</small></div>
             <div><span>Flop c-bet</span><strong>{percent(summary.c_bet_percent)}</strong><small>{summary.c_bets}/{summary.c_bet_opportunities} opportunities</small></div>
-            <div><span>Went to showdown</span><strong>{percent(summary.went_to_showdown_percent)}</strong><small>{summary.showdowns} hands</small></div>
+            <div><span>WTSD (of flops seen)</span><strong>{percent(summary.went_to_showdown_percent)}</strong><small>{summary.showdowns}/{summary.saw_flop_hands} hands that saw a flop</small></div>
+            <div><span>Showdown / all hands</span><strong>{percent(summary.showdown_hand_percent)}</strong><small>{summary.showdowns}/{data.total_hands} dealt hands</small></div>
             <div><span>Won at showdown</span><strong>{percent(summary.won_at_showdown_percent)}</strong><small>{summary.won_showdowns}/{summary.showdowns} showdowns</small></div>
             <div><span>Postflop bets + raises</span><strong>{summary.postflop_bets_raises.toLocaleString()}</strong><small>aggression actions</small></div>
             <div><span>Postflop calls</span><strong>{summary.postflop_calls.toLocaleString()}</strong><small>aggression ratio {summary.postflop_aggression_ratio.toFixed(2)}</small></div>

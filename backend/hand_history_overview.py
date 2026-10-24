@@ -151,9 +151,10 @@ def _parse_hand(raw: str, source_file: str, hero: str, room: str) -> dict[str, A
         if first_hero_action is not None
         else 0
     )
-    three_bet_opportunity = first_hero_action is not None and prior_raises >= 1
+    three_bet_opportunity = first_hero_action is not None and prior_raises == 1
     three_bet = bool(
         three_bet_opportunity
+        and prior_raises == 1
         and preflop[first_hero_action][1] == "raise"
     )
     last_raiser = next(
@@ -161,16 +162,43 @@ def _parse_hand(raw: str, source_file: str, hero: str, room: str) -> dict[str, A
         None,
     )
     flop_actions = streets["flop"]
-    saw_flop = bool(flop_actions) and any(player == hero for player, _ in flop_actions)
-    cbet_opportunity = saw_flop and last_raiser == hero
     first_flop_aggressor = next(
         (player for player, action in flop_actions if action in ("bet", "raise")),
         None,
     )
-    cbet = bool(cbet_opportunity and first_flop_aggressor == hero)
     summary = raw.split("*** SUMMARY ***")[-1] if "*** SUMMARY ***" in raw else raw
     hero_summary = _hero_summary_line(summary, hero)
-    saw_showdown = bool(re.search(r"\b(?:showed|mucked)\b", hero_summary, re.IGNORECASE))
+    hero_folded_preflop = any(
+        player == hero and action == "fold"
+        for player, action in preflop
+    )
+    hero_folded_before_flop = bool(
+        re.search(r"\bfolded before Flop\b", hero_summary, re.IGNORECASE)
+    )
+    saw_flop = bool(
+        "*** FLOP ***" in raw
+        and not hero_folded_preflop
+        and not hero_folded_before_flop
+    )
+    first_hero_flop_action = next(
+        (index for index, (player, _) in enumerate(flop_actions) if player == hero),
+        None,
+    )
+    cbet_opportunity = bool(
+        saw_flop
+        and last_raiser == hero
+        and first_hero_flop_action is not None
+        and not any(
+            action in ("bet", "raise")
+            for _, action in flop_actions[:first_hero_flop_action]
+        )
+    )
+    cbet = bool(cbet_opportunity and first_flop_aggressor == hero)
+    has_showdown_section = bool(re.search(r"\*\*\* SHOW ?DOWN \*\*\*", raw))
+    saw_showdown = bool(
+        has_showdown_section
+        and re.search(r"\b(?:showed|mucked)\b", hero_summary, re.IGNORECASE)
+    )
     won_hand = bool(re.search(r"\b(?:collected|won)\s*\(", hero_summary, re.IGNORECASE))
     postflop_actions = [
         action
@@ -224,8 +252,8 @@ def _leak_flags(hands: list[dict[str, Any]]) -> list[dict[str, str]]:
     count = len(hands)
     vpip_count = sum(hand["vpip"] for hand in hands)
     pfr_count = sum(hand["pfr"] for hand in hands)
-    vpip = _percentage(vpip_count, count)
-    pfr = _percentage(pfr_count, count)
+    vpip = 100 * vpip_count / count if count else 0.0
+    pfr = 100 * pfr_count / count if count else 0.0
     gap = vpip - pfr
     three_bet_opportunities = sum(hand["three_bet_opportunity"] for hand in hands)
     three_bets = sum(hand["three_bet"] for hand in hands)
@@ -375,7 +403,10 @@ def build_hand_history_overview(history_dir: Path = HAND_HISTORY_DIR) -> dict[st
         "summary": {
             "vpip_percent": _percentage(vpip_count, hand_count),
             "pfr_percent": _percentage(pfr_count, hand_count),
-            "vpip_pfr_gap": round(_percentage(vpip_count, hand_count) - _percentage(pfr_count, hand_count), 1),
+            "vpip_pfr_gap": round(
+                100 * (vpip_count - pfr_count) / hand_count,
+                1,
+            ) if hand_count else 0.0,
             "three_bets": three_bets,
             "three_bet_opportunities": three_bet_opportunities,
             "three_bet_percent": _percentage(three_bets, three_bet_opportunities),
@@ -383,9 +414,11 @@ def build_hand_history_overview(history_dir: Path = HAND_HISTORY_DIR) -> dict[st
             "c_bets": cbets,
             "c_bet_opportunities": cbet_opportunities,
             "c_bet_percent": _percentage(cbets, cbet_opportunities),
+            "saw_flop_hands": flop_count,
             "showdowns": showdowns,
             "won_showdowns": won_showdowns,
-            "went_to_showdown_percent": _percentage(showdowns, hand_count),
+            "went_to_showdown_percent": _percentage(showdowns, flop_count),
+            "showdown_hand_percent": _percentage(showdowns, hand_count),
             "won_at_showdown_percent": _percentage(won_showdowns, showdowns),
             "postflop_bets_raises": postflop_aggression,
             "postflop_calls": postflop_calls,
