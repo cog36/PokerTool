@@ -131,20 +131,23 @@ try {
   await page.route('**/api/chat', async route => {
     submitted.push(route.request().postDataJSON());
     await route.fulfill(chatFails
-      ? { status: 503, json: { detail: 'Add GROQ_API_KEY to the server .env file.' } }
-      : { json: { reply: 'Position gives you more information before acting.' } });
+      ? { status: 503, json: { detail: { code: 'model_unavailable', message: 'The selected AI model is unavailable. Update GROQ_MODEL in backend/.env, then retry.', retryable: false } } }
+      : { json: { reply: '**Position** gives you more information before acting.' } });
   });
   await page.getByRole('navigation').getByRole('link', { name: 'AI Coach' }).click();
   const question = page.getByRole('textbox', { name: 'Your question' });
+  await page.getByRole('button', { name: 'Use a hand template' }).click();
+  await expect(question).toHaveValue(/Position:/);
   await question.fill('Why does position matter?');
   await page.getByRole('button', { name: 'Ask the coach' }).click();
   await expect(page.locator('.coach-message.assistant')).toHaveText(/Position gives you more information/);
+  await expect(page.locator('.coach-message.assistant p strong')).toHaveText('Position');
   assert.equal(submitted[0].messages[0].content, 'Why does position matter?');
   await page.getByRole('combobox', { name: 'Coaching style' }).selectOption('roast');
   chatFails = true;
   await question.fill('Give me an example.');
   await page.getByRole('button', { name: 'Ask the coach' }).click();
-  await expect(page.getByRole('alert')).toHaveText(/Add GROQ_API_KEY/);
+  await expect(page.getByRole('alert')).toHaveText(/selected AI model is unavailable/);
   await expect(question).toHaveValue('Give me an example.');
   assert.equal(submitted[1].mode, 'roast');
   assert.equal(submitted[1].messages.length, 3);
@@ -159,6 +162,7 @@ try {
     for (const route of ['overview', 'ranges', 'practice', 'hands', 'notebook', 'coach', 'arena']) {
       await page.goto(`${baseUrl}/doc.html#${route}`);
       await page.locator(`#${route}`).waitFor({ state: 'visible' });
+      if (route === 'coach') await page.screenshot({ path: `/tmp/pokerttool-coach-${width}.png`, fullPage: true, animations: 'disabled' });
       if (route === 'arena') await expect(page.locator('.arena-stage')).toHaveAttribute('data-dealing', 'false');
       if (route === 'arena') await page.screenshot({ path: `/tmp/pokerttool-arena-${width}.png`, fullPage: true, animations: 'disabled' });
       if (route === 'overview') await page.screenshot({ path: `/tmp/pokerttool-react-${width}.png`, fullPage: true, animations: 'disabled' });

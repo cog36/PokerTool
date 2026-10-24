@@ -3,6 +3,7 @@ import { archetypes, profileFor } from './archetypes.js';
 // Money is stored in half-big-blind chips (2 chips = 1bb). Integer accounting
 // makes blind posting, all-ins, split pots, and odd chips deterministic.
 export const BIG_BLIND = 2;
+export const ARENA_OPPONENTS = 7; // Eight seats including the human player.
 export const STREETS = ['Preflop', 'Flop', 'Turn', 'River'];
 const values = '23456789TJQKA';
 export const handLabels = ['High card', 'One pair', 'Two pair', 'Three of a kind', 'Straight', 'Flush', 'Full house', 'Four of a kind', 'Straight flush'];

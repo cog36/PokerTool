@@ -1,0 +1,244 @@
+/* The reference-inspired game room has its own dark palette, like a real felt table.
+   Other screens continue to follow the user's light/dark preference. */
+#arena .arena-mode-switch .selected {
+  background: #c6b5ff;
+  color: #211a38;
+}
+
+.arena-layout.arena-lounge {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 22px;
+}
+
+.eight-seat-room {
+  --bg: #111017;
+  --panel: #17151f;
+  --text: #f3f0fb;
+  --muted: #a39daf;
+  --border: #37313f;
+  --mint: #cebcff;
+  --green: #a88af3;
+  --red: #ff8d9f;
+  color-scheme: dark;
+  color: var(--text);
+  padding: 24px;
+  border-radius: 22px;
+  border: 1px solid #6e598d;
+  background: radial-gradient(ellipse at 50% 42%, #29203950, transparent 65%), #111017;
+  box-shadow: 0 0 0 6px #a68fe50c, 0 20px 60px #00000020;
+}
+
+.eight-seat-room > .panel-title {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ffffff0b;
+  margin-bottom: 18px;
+  flex-wrap: wrap;
+}
+
+.arena-club-brand { display: flex; align-items: center; gap: 12px; }
+.club-mark { display: grid; place-items: center; background: #d6c6ff; color: #282035; border-radius: 11px; width: 36px; height: 39px; font-size: 28px; }
+.arena-club-brand .eyebrow { color: #c6b5ef; font-size: 8px; letter-spacing: 1.8px; }
+.eight-seat-room .panel-title h2 { font-size: 13px; margin-top: 4px; }
+.eight-seat-room .arena-table-controls .button { border-color: #38313f; background: #1e1a27; color: #c9c3d6; font-size: 9px; padding: 8px 11px; }
+.eight-seat-room .arena-table-controls .button[aria-pressed="true"] { background: #3d2e55; color: #e3d7ff; border-color: #8e72ba; }
+.eight-seat-room .arena-streets { max-width: 420px; margin: 0 auto 16px; }
+.eight-seat-room .arena-streets li { border: 0; color: #777083; font-size: 9px; background: #1b1723; padding: 6px 12px; border-radius: 20px; }
+.eight-seat-room .arena-streets li.reached { color: #cdbbf4; }
+.eight-seat-room .arena-streets [aria-current="step"] { background: #3e2e58; box-shadow: none; color: #f2eaff; }
+.eight-seat-room .dealer-status { border: 0; min-height: 40px; font-size: 10px; background: #ffffff04; color: #b4a9c4; margin-bottom: 4px; padding: 8px 12px; }
+.eight-seat-room .dealer-status.your-turn { color: #e8d4a7; }
+.eight-seat-room .dealer-token { background: #ded3ec; border-color: #8d73a7; color: #30203f; width: 21px; height: 21px; font-size: 10px; }
+.eight-seat-room .skip-playback { color: #cdb9f9; }
+
+/* Seven opponents sit clockwise around the rim; the eighth seat is the human. */
+.eight-seat-room .holdem-table {
+  display: block;
+  position: relative;
+  height: 740px;
+  min-height: 0;
+  padding: 0;
+  overflow: hidden;
+  border-radius: 18px;
+}
+
+.eight-seat-room .holdem-table .arena-felt {
+  inset: 100px 14px 85px;
+  border: 12px solid #181520;
+  outline: 1px solid #74608830;
+  border-radius: 48%;
+  background: radial-gradient(ellipse at 50% 5%, #423156, #282333 58%, #201e2a);
+  box-shadow: 0 -8px 35px #a15aff25, inset 0 2px 0 #a589c514, inset 0 0 60px #0d0a1c66, 0 13px 0 #0a090f;
+}
+
+.eight-seat-room .holdem-table .arena-felt::after { content: ''; position: absolute; inset: 14px; border: 1px solid #c19cfa0e; border-radius: 48%; }
+.eight-seat-room .holdem-table .arena-wordmark { top: 68%; font-size: 21px; color: #b7a0d212; }
+.eight-seat-room .holdem-table .arena-seats { position: absolute; inset: 0; display: block; width: auto; padding: 0; overflow: visible; }
+.eight-seat-room .holdem-table .arena-bot {
+  position: absolute;
+  left: var(--seat-x);
+  top: var(--seat-y);
+  translate: -50% -50%;
+  display: flex;
+  width: 118px;
+  padding: 0;
+  align-items: center;
+  gap: 0;
+}
+
+.eight-seat-room .holdem-table .bot-avatar { width: 63px; height: 63px; font-size: 38px; background: radial-gradient(circle at 30% 20%, #f7c65f, #bb7135); border: 3px solid #f0c071; box-shadow: 0 6px 20px #0005; }
+.eight-seat-room .holdem-table .purple .bot-avatar { background: radial-gradient(circle at 30% 20%, #bd9afa, #64408b); border-color: #bd9afa; }
+.eight-seat-room .holdem-table .teal .bot-avatar { background: radial-gradient(circle at 30% 20%, #9de4cf, #387e77); border-color: #9de4cf; }
+.eight-seat-room .holdem-table .thinking .bot-avatar { border-color: #efda98; box-shadow: 0 0 0 5px #d8bb6a22, 0 0 24px #d4a9fc55; }
+.eight-seat-room .holdem-table .arena-bot h3 { background: none; color: #f5f0fc; font-size: 13px; font-weight: 600; margin: 7px 0 1px; padding: 0; }
+.eight-seat-room .holdem-table .archetype-tag { background: #18121eaa; border: 1px solid #bda0da20; color: #bfb0d4; font-size: 7px; max-width: 118px; border-radius: 4px; padding: 1px 5px; }
+.eight-seat-room .holdem-table .bot-personality { background: none; color: #8d809f; font-size: 8px; margin-top: 2px; }
+.eight-seat-room .holdem-table .bot-stack { background: none; font-weight: 500; font-size: 12px; color: #ded6e9; margin-top: 1px; }
+.eight-seat-room .holdem-table .bot-cards { position: absolute; left: calc(50% + 15px); top: 32px; margin: 0; gap: 0; z-index: 1; }
+.eight-seat-room .holdem-table .bot-cards > span:first-child { rotate: -15deg; }
+.eight-seat-room .holdem-table .bot-cards > span:last-child { rotate: 12deg; margin-left: -8px; }
+.eight-seat-room .holdem-table .hidden-card { background: repeating-linear-gradient(45deg, #41314f 0 3px, #4f3b63 3px 6px); color: #d2bde1; border-color: #b09ac2; }
+.eight-seat-room .holdem-table .fold-label { color: #d6a4b5; background: #341c2a; margin-top: 3px; font-size: 7px; }
+.seat-action { position: absolute; bottom: calc(100% + 9px); color: #c9b8ec; background: #08070dbb; border: 1px solid #a881d51a; padding: 3px 9px; border-radius: 20px; font-size: 8px; white-space: nowrap; }
+.seat-action.is-folded { color: #e18ba2; }
+.eight-seat-room .turn-label { display: none; }
+
+/* Table talk appears for the acting player, or when a seat is hovered/focused.
+   Keeping inactive bubbles tucked away leaves the cards and bet sizes readable. */
+.eight-seat-room .holdem-table .speech-bubble {
+  visibility: hidden;
+  pointer-events: none;
+  opacity: 0;
+  position: absolute;
+  bottom: calc(100% + 9px);
+  left: 50%;
+  translate: -50% 0;
+  width: 160px;
+  min-height: 60px;
+  margin: 0;
+  padding: 9px 11px;
+  border: 1px solid #8f73ab;
+  border-radius: 12px;
+  background: #ece5f5;
+  color: #36273f;
+  z-index: 12;
+  box-shadow: 0 7px 22px #0004;
+}
+.eight-seat-room .holdem-table .speech-bubble p { font-size: 10px; line-height: 1.6; }
+.eight-seat-room .holdem-table .speech-bubble > span { font-size: 6px; color: #7c6889; }
+.eight-seat-room .holdem-table .speech-bubble::after { background: #ece5f5; border-color: #8f73ab; }
+.eight-seat-room .holdem-table .arena-bot:is(.thinking, .speaking, :hover, :focus-within) { z-index: 15; }
+.eight-seat-room .holdem-table .arena-bot:is(.thinking, .speaking, :hover, :focus-within) .speech-bubble { visibility: visible; opacity: 1; }
+.eight-seat-room .holdem-table .arena-bot[data-seat="3"] .speech-bubble,
+.eight-seat-room .holdem-table .arena-bot[data-seat="4"] .speech-bubble,
+.eight-seat-room .holdem-table .arena-bot[data-seat="5"] .speech-bubble { top: calc(100% + 8px); bottom: auto; }
+.eight-seat-room .holdem-table .arena-bot[data-seat="3"] .speech-bubble::after,
+.eight-seat-room .holdem-table .arena-bot[data-seat="4"] .speech-bubble::after,
+.eight-seat-room .holdem-table .arena-bot[data-seat="5"] .speech-bubble::after { top: -6px; bottom: auto; rotate: 180deg; }
+.eight-seat-room .holdem-table .thinking-dots i { background: #8b6baa; }
+
+/* A large pot readout and gently fanned cards anchor the centre of the table. */
+.eight-seat-room .holdem-table .arena-community { position: absolute; top: 35%; left: 50%; translate: -50% 0; width: auto; margin: 0; gap: 18px; z-index: 2; }
+.eight-seat-room .holdem-table .arena-pot { display: flex; flex-direction: column; align-items: center; gap: 3px; background: none; border: 0; border-radius: 0; padding: 0; color: #eee9f8; }
+.eight-seat-room .arena-pot > small { font-size: 8px; letter-spacing: 2px; color: #a99cb8; }
+.eight-seat-room .arena-pot > strong { font-size: 53px; line-height: 1.1; font-weight: 550; letter-spacing: -2px; }
+.eight-seat-room .arena-pot em { font-size: 11px; font-weight: 400; font-style: normal; letter-spacing: 0; color: #a99cb8; margin-left: 5px; }
+.eight-seat-room .arena-community .table-cards { gap: 10px; align-items: center; min-height: 112px; }
+.eight-seat-room .arena-community .card, .eight-seat-room .board-card-space { width: 61px; height: 88px; border-radius: 9px; }
+.eight-seat-room .arena-community .card { font-size: 27px; color: #261f30; background: #f4f0fa; box-shadow: 0 6px 16px #0002; }
+.eight-seat-room .arena-community .card.red { color: #c24c6c; }
+.eight-seat-room .arena-community .card small { font-size: 32px; }
+.eight-seat-room .arena-community .table-cards > :nth-child(1) { rotate: -10deg; translate: 0 10px; }
+.eight-seat-room .arena-community .table-cards > :nth-child(2) { rotate: -5deg; translate: 0 3px; }
+.eight-seat-room .arena-community .table-cards > :nth-child(4) { rotate: 5deg; translate: 0 3px; }
+.eight-seat-room .arena-community .table-cards > :nth-child(5) { rotate: 10deg; translate: 0 10px; }
+.eight-seat-room .board-card-space { border: 1px dashed #a58fb32b; background: #14101e0d; }
+.eight-seat-room .arena-community .arena-street { color: #9a87b1; font-size: 7px; letter-spacing: 1.4px; white-space: nowrap; }
+.eight-seat-room .holdem-table .dealer-deck { left: 8px; bottom: 130px; z-index: 1; }
+.eight-seat-room .dealer-deck > span { color: #d2bde1; background: #48305e; border-color: #ab8bc3; box-shadow: 2px 2px #8a6a9d, 4px 4px #21152e; }
+.eight-seat-room .dealer-deck > small { color: #8c769e; }
+.eight-seat-room .holdem-table .arena-hero { position: absolute; left: 50%; bottom: 14px; translate: -50% 0; margin: 0; z-index: 3; }
+.eight-seat-room .arena-hero .table-cards { gap: 0; min-height: 150px; align-items: center; }
+.eight-seat-room .arena-hero .card, .eight-seat-room .hero-card-space { width: 89px; height: 125px; border-radius: 12px; font-size: 39px; background: #f6f0fc; color: #282130; box-shadow: 0 9px 25px #0004; }
+.eight-seat-room .arena-hero .card.red { color: #c24c6c; }
+.eight-seat-room .arena-hero .card small { font-size: 45px; }
+.eight-seat-room .arena-hero .table-cards > :first-child { rotate: -15deg; translate: 8px 0; }
+.eight-seat-room .arena-hero .table-cards > :last-child { rotate: 13deg; translate: -8px 0; }
+.eight-seat-room .arena-hero > strong { color: #bdb0d3; background: #1b1526; border: 1px solid #4f3c68; font-size: 9px; padding: 6px 14px; border-radius: 20px; margin-top: 4px; }
+.eight-seat-room .hero-active > strong { box-shadow: 0 0 0 3px #bba0ff15, 0 0 22px #ac77ed2b; border-color: #bba0ff; color: #f1e8ff; }
+.arena-bankroll { position: absolute; right: 24px; bottom: 32px; display: flex; flex-direction: column; gap: 4px; z-index: 2; }
+.arena-bankroll > span { font-size: 8px; letter-spacing: 1.5px; color: #9a8aa9; }
+.arena-bankroll > strong { font-size: 35px; line-height: 1; font-weight: 500; color: #f1eafa; }
+.arena-bankroll small { font-size: 11px; color: #998aa9; margin-left: 4px; }
+.arena-turn-indicator { position: absolute; bottom: 32px; left: 24px; border: 1px solid #45394e; border-radius: 30px; padding: 8px 13px; color: #82748e; font-size: 9px; display: flex; gap: 7px; align-items: center; }
+.arena-turn-indicator i { width: 5px; height: 5px; background: #71617f; }
+.arena-turn-indicator.active { border-color: #e1d186; color: #f2e7b7; }
+.arena-turn-indicator.active i { background: #e1d186; }
+
+/* Betting controls are part of the room; detailed history stays immediately below. */
+.eight-seat-room .decision-context { background: #1c1724; border-color: #3c2e4c; margin-top: 12px; padding: 13px 18px; }
+.eight-seat-room .decision-context > span { color: #8f809e; }
+.eight-seat-room .decision-context strong { color: #e9def5; }
+.eight-seat-room .arena-decision { margin-top: 18px; min-height: 32px; font-size: 11px; color: #b4a5c6; }
+.eight-seat-room .arena-actions { gap: 12px; margin-top: 12px; }
+.eight-seat-room .arena-actions .button { border-color: #49355b; background: #241c30; color: #e1c9fb; min-width: 100px; }
+.eight-seat-room .arena-actions .button.primary { background: #c4a9ff; border-color: #c4a9ff; color: #291d3a; }
+.eight-seat-room .arena-actions .button.primary:hover:not(:disabled) { background: #ddcaff; }
+.eight-seat-room .arena-actions .button.arena-fold { background: #301b2a; color: #f18fa7; border-color: #613549; }
+.eight-seat-room .raise-sizing { color: #a08dae; }
+.eight-seat-room .raise-sizing input[type="number"] { background: #191121; border-color: #493457; color: #ebdafa; }
+.eight-seat-room .raise-sizing input[type="range"] { accent-color: #c4a9ff; }
+.arena-lounge > .arena-sidebar { display: grid; grid-template-columns: 1fr 1.4fr 1fr; gap: 18px; align-items: start; }
+.arena-lounge > .arena-sidebar > .learning-note { grid-column: 1 / -1; }
+.arena-lounge .arena-action-log { max-height: 390px; }
+
+@media (max-width: 1100px) {
+  .eight-seat-room .holdem-table { height: 710px; }
+  .eight-seat-room .holdem-table .arena-bot { width: 100px; }
+  .eight-seat-room .holdem-table .bot-avatar { width: 55px; height: 55px; font-size: 33px; }
+  .eight-seat-room .holdem-table .speech-bubble { width: 140px; }
+  .arena-lounge > .arena-sidebar { grid-template-columns: 1fr 1fr; }
+  .arena-lounge > .arena-sidebar > .roster-guide { grid-column: 1 / -1; }
+}
+@media (max-width: 720px) {
+  .eight-seat-room { padding: 17px 12px; border-radius: 15px; }
+  .eight-seat-room .holdem-table { height: 650px; }
+  .eight-seat-room .holdem-table .arena-seats { display: block; overflow: visible; padding: 0; scroll-snap-type: none; }
+  .eight-seat-room .holdem-table .arena-bot { width: 76px; flex: none; left: var(--seat-x); top: var(--seat-y); }
+  .eight-seat-room .holdem-table .bot-avatar { width: 41px; height: 41px; font-size: 25px; border-width: 2px; }
+  .eight-seat-room .holdem-table .arena-bot h3 { font-size: 10px; margin-top: 6px; }
+  .eight-seat-room .holdem-table .archetype-tag { max-width: 76px; font-size: 6px; padding: 1px 3px; }
+  .eight-seat-room .holdem-table .bot-personality { font-size: 7px; }
+  .eight-seat-room .holdem-table .bot-stack { font-size: 10px; }
+  .eight-seat-room .holdem-table .bot-cards { left: calc(50% + 9px); top: 22px; }
+  .eight-seat-room .holdem-table .bot-cards .card, .eight-seat-room .holdem-table .hidden-card, .eight-seat-room .holdem-table .card-space { width: 19px; height: 27px; font-size: 12px; }
+  .eight-seat-room .holdem-table .bot-cards .card small { font-size: 12px; }
+  .eight-seat-room .holdem-table .speech-bubble { width: 108px; min-height: 52px; padding: 7px; border-radius: 9px; }
+  .eight-seat-room .holdem-table .speech-bubble p { font-size: 8px; }
+  .eight-seat-room .holdem-table .speech-bubble > span { font-size: 5px; }
+  .eight-seat-room .holdem-table .arena-community { top: 36%; gap: 13px; }
+  .eight-seat-room .arena-community .table-cards { gap: 5px; min-height: 81px; }
+  .eight-seat-room .arena-community .card, .eight-seat-room .board-card-space { width: 31px; height: 47px; border-radius: 5px; font-size: 18px; }
+  .eight-seat-room .arena-community .card small { font-size: 22px; }
+  .eight-seat-room .arena-pot > strong { font-size: 39px; }
+  .eight-seat-room .arena-pot > small { font-size: 6px; }
+  .eight-seat-room .arena-community .arena-street { font-size: 5px; letter-spacing: .8px; }
+  .eight-seat-room .holdem-table .arena-felt { inset: 83px 0 85px; border-width: 7px; border-radius: 45%; }
+  .eight-seat-room .arena-hero .card, .eight-seat-room .hero-card-space { width: 61px; height: 90px; border-radius: 9px; font-size: 29px; }
+  .eight-seat-room .arena-hero .card small { font-size: 35px; }
+  .eight-seat-room .arena-hero .table-cards { min-height: 112px; }
+  .eight-seat-room .arena-hero > strong { padding: 5px 9px; font-size: 7px; }
+  .arena-bankroll { right: 12px; bottom: 34px; }
+  .arena-bankroll > span { font-size: 6px; }
+  .arena-bankroll > strong { font-size: 25px; }
+  .arena-bankroll small { font-size: 8px; }
+  .arena-turn-indicator { bottom: 34px; left: 5px; padding: 6px 8px; font-size: 7px; gap: 4px; }
+  .seat-action { font-size: 6px; padding: 2px 6px; bottom: calc(100% + 7px); }
+  .eight-seat-room .arena-streets { max-width: 100%; }
+  .eight-seat-room .arena-streets li { padding: 5px 7px; font-size: 8px; }
+  .eight-seat-room .arena-actions { flex-wrap: wrap; gap: 8px; }
+  .eight-seat-room .arena-actions .button { min-width: 85px; padding: 10px; font-size: 10px; }
+  .eight-seat-room .dealer-status { font-size: 9px; padding: 8px 4px; }
+  .eight-seat-room .skip-playback { font-size: 8px; }
+  .arena-lounge > .arena-sidebar { grid-template-columns: 1fr; }
+}

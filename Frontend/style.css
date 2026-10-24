@@ -2512,32 +2512,181 @@ h1>span {
   .hand:hover { scale: none; }
 }
 
-/* AI coach: a readable transcript and a composer that keeps failed drafts intact. */
-.coach-layout { display: grid; grid-template-columns: minmax(0, 2fr) minmax(250px, 1fr); gap: 22px; }
-.coach-chat { min-width: 0; }
-.coach-transcript { height: 390px; overflow-y: auto; display: flex; flex-direction: column; gap: 18px; padding: 10px 5px 20px; }
-.coach-welcome { text-align: center; max-width: 440px; margin: auto; padding: 20px 0; }
-.coach-welcome > span { color: var(--mint); font-size: 35px; }
-.coach-welcome h2 { margin: 10px 0; font-size: 25px; }
-.coach-welcome p { font-size: 12px; color: var(--muted); line-height: 1.9; }
-.coach-starters { display: grid; gap: 9px; margin-top: 24px; }
-.coach-starters button { display: flex; justify-content: space-between; gap: 12px; text-align: left; border: 1px solid var(--border); color: var(--text); background: var(--bg); border-radius: 7px; padding: 12px; font-size: 11px; }
-.coach-starters button:hover { border-color: var(--mint); }
-.coach-starters span { color: var(--mint); }
-.coach-message { max-width: 92%; background: var(--bg); border: 1px solid var(--border); padding: 16px; border-radius: 10px; animation: enter 200ms ease; }
-.coach-message.user { align-self: flex-end; border-color: var(--green); }
-.coach-message > span { color: var(--mint); font-size: 9px; letter-spacing: 1px; }
-.coach-message p { white-space: pre-wrap; overflow-wrap: anywhere; font-size: 13px; line-height: 1.9; margin-top: 8px; }
-.coach-thinking { color: var(--mint); font-size: 12px; }
-.coach-composer { border-top: 1px solid var(--border); padding-top: 18px; }
+/* AI Coach: a focused conversation space, with guidance kept in a quiet side rail. */
+.coach-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.95fr) minmax(265px, .85fr);
+  gap: 22px;
+  align-items: start;
+}
+
+.coach-chat {
+  padding: 0;
+  overflow: hidden;
+  background: linear-gradient(150deg, color-mix(in srgb, var(--green) 4%, var(--panel)), var(--panel) 55%);
+  box-shadow: 0 12px 40px #0000000a;
+}
+
+.coach-chat-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 20px 24px;
+  border-bottom: 1px solid var(--border);
+}
+
+.coach-heading { display: flex; align-items: center; gap: 12px; }
+.coach-heading h2 { font-size: 13px; letter-spacing: -.2px; }
+.coach-mini-avatar {
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  border: 1px solid color-mix(in srgb, var(--green) 40%, var(--border));
+  border-radius: 11px;
+  background: color-mix(in srgb, var(--green) 12%, var(--panel));
+  color: var(--mint);
+  font-size: 23px;
+}
+
+.coach-connection { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 9px; margin-top: 4px; }
+.coach-connection i { width: 5px; height: 5px; background: #d4ac64; }
+.coach-connection.connected i { background: var(--green); }
+.coach-connection.offline i, .coach-connection.issue i, .coach-connection.setup i { background: var(--red); }
+.coach-connection.checking i { animation: connection-pulse 800ms ease-in-out infinite alternate; }
+.coach-new-chat { padding: 7px 10px; font-size: 9px; }
+
+.coach-transcript {
+  height: clamp(490px, 55vh, 620px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 26px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) transparent;
+}
+
+.coach-welcome { width: 100%; margin: auto; text-align: center; padding: 12px 0; }
+.coach-orbit { position: relative; display: grid; place-items: center; width: 80px; height: 80px; margin: 0 auto 22px; border: 1px solid color-mix(in srgb, var(--green) 30%, transparent); border-radius: 50%; background: radial-gradient(circle, color-mix(in srgb, var(--green) 15%, transparent), transparent 72%); }
+.coach-orbit > span { display: grid; place-items: center; width: 50px; height: 50px; border: 1px solid color-mix(in srgb, var(--green) 40%, transparent); border-radius: 17px; background: color-mix(in srgb, var(--green) 13%, var(--panel)); color: var(--mint); font-size: 35px; rotate: -8deg; }
+.coach-orbit > i { position: absolute; width: auto; height: auto; right: -2px; top: 4px; color: var(--mint); font-style: normal; font-size: 19px; animation: coach-float 4s ease-in-out infinite alternate; }
+.coach-intro-label { font-size: 8px; letter-spacing: 1.8px; color: var(--mint); }
+.coach-welcome h2 { font-size: clamp(24px, 2vw, 31px); letter-spacing: -1px; line-height: 1.2; margin: 10px 0 13px; }
+.coach-welcome > p { color: var(--muted); font-size: 12px; line-height: 1.9; max-width: 430px; margin: 0 auto; }
+
+.coach-starters { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; margin: 27px 0 5px; }
+.coach-starters button { position: relative; display: flex; flex-direction: column; gap: 13px; text-align: left; border: 1px solid var(--border); border-radius: 10px; background: var(--bg); color: var(--text); padding: 16px 14px 25px; transition: border-color 160ms, translate 160ms, background 160ms; }
+.coach-starters button:hover { border-color: var(--green); background: color-mix(in srgb, var(--green) 7%, var(--bg)); translate: 0 -3px; }
+.coach-starters .starter-symbol { display: grid; place-items: center; width: 31px; height: 31px; border-radius: 8px; font-size: 20px; color: var(--mint); background: color-mix(in srgb, var(--green) 12%, var(--panel)); }
+.coach-starters button:nth-child(2) .starter-symbol { color: var(--lavender); background: color-mix(in srgb, var(--lavender) 12%, var(--panel)); }
+.coach-starters button:nth-child(3) .starter-symbol { color: var(--peach); background: color-mix(in srgb, var(--peach) 12%, var(--panel)); }
+.coach-starters strong { display: block; font-size: 11px; font-weight: 650; margin-bottom: 7px; }
+.coach-starters small { display: block; color: var(--muted); font-size: 10px; line-height: 1.7; }
+.coach-starters b { position: absolute; right: 12px; bottom: 9px; font-size: 14px; color: var(--mint); font-weight: 400; }
+
+.coach-message { max-width: 94%; background: var(--bg); border: 1px solid var(--border); padding: 17px 19px; border-radius: 12px 12px 12px 3px; animation: enter 200ms ease; }
+.coach-message.user { align-self: flex-end; border-radius: 12px 12px 3px 12px; background: color-mix(in srgb, var(--green) 10%, var(--panel)); border-color: color-mix(in srgb, var(--green) 30%, var(--border)); }
+.coach-message-label { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+.coach-message-label > span { color: var(--mint); font-size: 8px; letter-spacing: 1px; }
+.coach-message.user .coach-message-label > span { color: var(--muted); }
+.coach-message-label button { font-size: 9px; color: var(--muted); border: 0; background: none; padding: 3px; }
+.coach-message-label button:hover { color: var(--mint); }
+.coach-message p { white-space: pre-wrap; overflow-wrap: anywhere; font-size: 13px; line-height: 1.95; margin-top: 10px; }
+.coach-thinking { color: var(--muted); font-size: 11px; display: flex; align-items: center; gap: 12px; }
+.coach-typing { display: inline-flex; gap: 3px; margin-left: 9px; }
+.coach-typing i { width: 3px; height: 3px; background: var(--mint); animation: connection-pulse 700ms ease-in-out infinite alternate; }
+.coach-typing i:nth-child(2) { animation-delay: 150ms; }
+.coach-typing i:nth-child(3) { animation-delay: 300ms; }
+
+.coach-composer { padding: 20px 24px 16px; border-top: 1px solid var(--border); background: color-mix(in srgb, var(--bg) 25%, var(--panel)); }
+.coach-composer .field { font-size: 10px; margin-bottom: 13px; }
+.coach-composer textarea { padding: 14px; border-radius: 9px; min-height: 95px; font-size: 12px; }
+.coach-composer textarea:focus { border-color: var(--green); outline: 2px solid color-mix(in srgb, var(--green) 15%, transparent); outline-offset: 2px; }
 .coach-compose-footer, .coach-compose-footer > div { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
-.coach-error { color: var(--red); font-size: 12px; padding: 12px; border: 1px solid var(--red); border-radius: 7px; margin-bottom: 15px; }
-.coach-sidebar { display: grid; align-content: start; gap: 20px; }
-.coach-sidebar h2 { margin: 12px 0 22px; }
-.coach-sidebar .learning-note p + p { margin-top: 15px; }
-@media (max-width: 980px) { .coach-layout { grid-template-columns: 1fr; } .coach-sidebar { grid-template-columns: 1fr 1fr; } }
-@media (max-width: 620px) { .coach-sidebar { grid-template-columns: 1fr; } .coach-transcript { height: 360px; } .coach-compose-footer { flex-wrap: wrap; } .coach-compose-footer > div { margin-left: auto; } .coach-message { max-width: 100%; } }
-@media (prefers-reduced-motion: reduce) { .coach-message { animation: none; } }
+.coach-compose-footer .caption { font-size: 8px; }
+.coach-footer-note { margin-top: 16px; text-align: center; font-size: 8px; color: var(--muted); }
+.copy-status { display: block; font-size: 10px; color: var(--mint); text-align: center; }
+.copy-status:empty { display: none; }
+
+/* Provider errors explain the next step while keeping the failed question in the editor. */
+.coach-error { display: flex; align-items: flex-start; gap: 11px; color: var(--text); background: color-mix(in srgb, var(--red) 8%, var(--panel)); border: 1px solid color-mix(in srgb, var(--red) 50%, var(--border)); border-radius: 9px; padding: 14px; margin: 0 24px 18px; }
+.coach-error-icon { width: 21px; height: 21px; display: grid; place-items: center; flex-shrink: 0; border-radius: 50%; background: color-mix(in srgb, var(--red) 18%, var(--panel)); color: var(--red); font-size: 12px; font-weight: 700; }
+.coach-error > div { min-width: 0; }
+.coach-error strong { display: block; font-size: 11px; margin: 0 0 5px; }
+.coach-error p { overflow-wrap: anywhere; font-size: 11px; line-height: 1.8; color: var(--muted); }
+.coach-error button { color: var(--mint); margin-left: auto; border: 0; background: none; font-size: 10px; padding: 3px; white-space: nowrap; }
+.coach-error.stopped { border-color: var(--border); background: var(--bg); }
+
+.coach-sidebar { display: grid; align-content: start; gap: 18px; }
+.coach-personality { background: linear-gradient(155deg, color-mix(in srgb, var(--green) 9%, var(--panel)), var(--panel) 75%); }
+.coach-character { display: grid; place-items: center; width: 75px; height: 75px; font-size: 43px; border-radius: 50%; background: color-mix(in srgb, var(--green) 12%, var(--panel)); border: 1px solid color-mix(in srgb, var(--green) 30%, var(--border)); margin-bottom: 24px; box-shadow: 0 0 0 7px color-mix(in srgb, var(--green) 3%, transparent); }
+.coach-character.roast { background: color-mix(in srgb, var(--peach) 12%, var(--panel)); border-color: color-mix(in srgb, var(--peach) 40%, var(--border)); }
+.coach-personality .eyebrow { font-size: 7px; letter-spacing: 1.3px; }
+.coach-personality h2 { font-size: 23px; line-height: 1.25; letter-spacing: -.7px; margin: 11px 0 13px; }
+.coach-personality > p { color: var(--muted); font-size: 11px; line-height: 1.9; margin-bottom: 22px; }
+.coach-personality .field { margin-bottom: 0; font-size: 10px; }
+.coach-hand-guide .eyebrow { font-size: 8px; }
+.coach-hand-guide h3 { font-size: 19px; margin: 10px 0; }
+.coach-hand-guide > p { font-size: 11px; color: var(--muted); line-height: 1.8; }
+.coach-hand-guide ul { padding: 0; list-style: none; margin: 20px 0; }
+.coach-hand-guide li { display: flex; gap: 11px; align-items: center; padding: 10px 0; font-size: 10px; border-bottom: 1px solid var(--border); }
+.coach-hand-guide li > span { font-size: 8px; color: var(--mint); }
+.coach-hand-guide .button { width: 100%; justify-content: space-between; font-size: 10px; }
+.coach-service-note { display: flex; gap: 12px; color: var(--muted); padding: 2px 6px; }
+.coach-service-note > span { font-size: 18px; color: var(--mint); }
+.coach-service-note p { font-size: 9px; line-height: 1.9; }
+.coach-setup-note { background: var(--panel); padding: 14px; border: 1px solid var(--border); border-radius: 8px; }
+.coach-setup-note p { font-size: 10px; color: var(--muted); }
+.coach-setup-note button { border: 0; background: none; color: var(--mint); padding: 9px 0 0; font-size: 10px; }
+@keyframes connection-pulse { to { opacity: .35; } }
+@keyframes coach-float { to { translate: -3px 5px; rotate: 15deg; } }
+
+@media (max-width: 1150px) {
+  .coach-layout { grid-template-columns: minmax(0, 1.7fr) minmax(240px, 1fr); }
+  .coach-starters { grid-template-columns: 1fr; gap: 8px; margin-top: 20px; }
+  .coach-starters button { display: grid; grid-template-columns: 31px 1fr; padding: 11px 26px 11px 12px; align-items: center; }
+  .coach-starters strong { margin-bottom: 3px; }
+  .coach-transcript { height: 570px; }
+  .composer-shortcut { display: none; }
+}
+@media (max-width: 980px) {
+  .coach-layout { grid-template-columns: 1fr; }
+  .coach-sidebar { grid-template-columns: 1fr 1fr; }
+  .coach-starters { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .coach-starters button { display: flex; align-items: flex-start; padding: 15px 13px 24px; }
+  .coach-transcript { height: 510px; }
+}
+@media (max-width: 620px) {
+  .coach-sidebar { grid-template-columns: 1fr; }
+  .coach-chat-header { padding: 16px; gap: 8px; }
+  .coach-heading { gap: 9px; }
+  .coach-heading h2 { font-size: 11px; }
+  .coach-new-chat { font-size: 8px; padding: 6px; }
+  .coach-mini-avatar { width: 29px; height: 29px; font-size: 19px; }
+  .coach-transcript { padding: 20px 16px; height: 545px; }
+  .coach-welcome h2 { font-size: 25px; }
+  .coach-welcome > p { font-size: 11px; }
+  .coach-orbit { width: 65px; height: 65px; margin-bottom: 15px; }
+  .coach-starters { grid-template-columns: 1fr; }
+  .coach-starters button { display: grid; grid-template-columns: 31px 1fr; align-items: center; padding: 10px 25px 10px 12px; gap: 10px; }
+  .coach-starters small { font-size: 9px; }
+  .coach-starters strong { font-size: 10px; }
+  .coach-composer { padding: 16px; }
+  .coach-compose-footer { flex-wrap: wrap; }
+  .coach-compose-footer > div { margin-left: auto; }
+  .coach-message { max-width: 100%; padding: 13px; }
+  .coach-message p { font-size: 12px; }
+  .coach-error { margin: 0 16px 16px; padding: 12px; gap: 8px; }
+  .coach-error p { font-size: 10px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .coach-message, .coach-orbit > i, .coach-typing i, .coach-connection.checking i { animation: none; }
+  .coach-starters button:hover { translate: none; }
+}
 
 /* AI Arena: the felt, seats, and fictional table talk share one responsive stage. */
 .arena-mode-switch { display: inline-flex; margin-bottom: 22px; }

@@ -39,15 +39,15 @@ Practice scores last for the current visit; notes, checklist choices, and theme 
 
 ## Play the AI Arena
 
-Open **AI Arena → Full-hand challenge**. Each new table randomly seats **1–8 opponents**, drawing distinct profiles from TAG, LAG, TP, LP, Nit, Maniac, Calling Station, Rock, Fit-or-Fold, ABC Player, Tricky / Deceptive, Exploitative Regular, and GTO-Oriented Regular.
+Open **AI Arena → Full-hand challenge**. Each new table seats **eight players total: you and seven randomly selected opponents**, drawing distinct profiles from TAG, LAG, TP, LP, Nit, Maniac, Calling Station, Rock, Fit-or-Fold, ABC Player, Tricky / Deceptive, Exploitative Regular, and GTO-Oriented Regular.
 
 Every hand starts **preflop**, with 0.5bb / 1bb blinds and 100bb starting stacks. The button rotates between hands, and busted opponents sit out. Play continues through flop, turn, and river, or ends early when everyone else folds. The screen shows positions, the current bet, chips already committed, the call amount, and a full action history grouped by street.
 
-Use Fold, Check / Call, a custom Bet / Raise-to size, or All-in when legal. The engine tracks minimum raises, short all-ins and reopening, main / side pots, refunds of uncalled bets, and split pots. Amounts are accounted for in integer half-bb chips; odd chips go clockwise from the button. Betting and split-pot behaviour follow the relevant [Poker TDA rules](https://www.pokertda.com/view-poker-tda-rules/). Stacks carry between hands. New random table resets the match and draws a new opponent count and roster.
+Use Fold, Check / Call, a custom Bet / Raise-to size, or All-in when legal. The engine tracks minimum raises, short all-ins and reopening, main / side pots, refunds of uncalled bets, and split pots. Amounts are accounted for in integer half-bb chips; odd chips go clockwise from the button. Betting and split-pot behaviour follow the relevant [Poker TDA rules](https://www.pokertda.com/view-poker-tda-rules/). Stacks carry between hands. New random table resets the match and draws a new seven-opponent roster.
 
 Archetypes affect entry thresholds, aggression, calling persistence, bluffs and traps. The exploitative bot adjusts to observed action frequencies; the GTO-oriented bot mixes heuristic actions and **does not solve GTO**. Bots use their own hole cards and public information, with no access to opponents' cards or future streets. Speech bubbles are fictional table talk, not reliable tells or private model reasoning. No API calls or real money are involved.
 
-Dealer animations, thinking bubbles, chip movements and showdown reveals are retained. Cinematic / Quick play and Skip animations control pacing. Leaving the Arena pauses playback; reduced-motion preferences disable decorative movement. Mobile tables let you swipe through the opponents without squeezing the board.
+Dealer animations, thinking bubbles, chip movements and showdown reveals are retained. Cinematic / Quick play and Skip animations control pacing. Leaving the Arena pauses playback; reduced-motion preferences disable decorative movement. The violet table seats all eight players around an oval, including on mobile. Focus or hover a seat to see table talk; active opponents speak automatically.
 
 The **Read the opponent** quiz remains available as the second game.
 
@@ -59,11 +59,11 @@ The AI Coach screen calls a FastAPI endpoint backed by Groq. Range and training 
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r backend/requirements.txt
-cp .env.example .env
+cp backend/.env.example backend/.env
 ```
 
-Edit `.env` and add your `GROQ_API_KEY` from [Groq Console](https://console.groq.com/keys).
-`GROQ_MODEL` is configurable; its default is `llama-3.3-70b-versatile`. Choose a model available to your account.
+Edit `backend/.env` and add your `GROQ_API_KEY` from [Groq Console](https://console.groq.com/keys).
+`GROQ_MODEL` is configurable; its default is `openai/gpt-oss-120b`. The older Llama model is retired for free/developer accounts. Choose a model available to your account.
 Never put the key in frontend code or a `VITE_` variable.
 
 Start the Python API in one terminal:
@@ -74,7 +74,7 @@ python -m uvicorn backend.main:app --reload --host 127.0.0.1 --port 8000
 ```
 
 Start the frontend in another terminal with `npm run dev`, then open **AI Coach**.
-Vite proxies `/api` requests to Python. Restart the API after changing `.env`.
+Vite proxies `/api` requests to Python. The API reads saved settings on every request. `backend/.env` takes priority over the legacy root `.env`; explicit shell environment variables take priority over both.
 `GET /api/health` reports whether a key is configured, not whether it is valid.
 `POST /api/chat` accepts `{ "messages": [{ "role": "user", "content": "Explain position" }], "mode": "constructive" }`.
 
