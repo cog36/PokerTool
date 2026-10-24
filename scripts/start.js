@@ -72,24 +72,34 @@ function launch(command, args, label) {
 process.on('SIGINT', () => stop(130));
 process.on('SIGTERM', () => stop(143));
 
+// A separately started PokerTool API can be reused without taking ownership of
+// that process. Ctrl+C only stops children launched by this command.
+async function apiReady() {
+  try {
+    const response = await fetch('http://127.0.0.1:8000/api/health', { signal: AbortSignal.timeout(800) });
+    if (!response.ok) return false;
+    const health = await response.json();
+    return health.status === 'ok' && health.provider === 'Groq' && typeof health.configured === 'boolean';
+  } catch { return false; }
+}
+
 // Only start the frontend once Python is actually serving health checks.
 async function waitForApi() {
   const deadline = Date.now() + 15000;
   while (!stopping && Date.now() < deadline) {
-    try {
-      const response = await fetch('http://127.0.0.1:8000/api/health', { signal: AbortSignal.timeout(800) });
-      if (response.ok && (await response.json()).status === 'ok') return true;
-    } catch {
-      // A refused connection is normal while Uvicorn is still booting.
-    }
+    if (await apiReady()) return true;
     await new Promise(resolve => setTimeout(resolve, 200));
   }
   if (!stopping) stop(1, 'Python API did not become ready on port 8000; shutting down.');
   return false;
 }
 
-console.log('Starting Python API on http://127.0.0.1:8000…');
-launch(python, ['-m', 'uvicorn', 'backend.main:app', '--host', '127.0.0.1', '--port', '8000'], 'Python API');
+if (await apiReady()) {
+  console.log('Using the running PokerTool API on http://127.0.0.1:8000.');
+} else {
+  console.log('Starting Python API on http://127.0.0.1:8000…');
+  launch(python, ['-m', 'uvicorn', 'backend.main:app', '--host', '127.0.0.1', '--port', '8000'], 'Python API');
+}
 if (await waitForApi() && !stopping) {
   console.log('Python API is ready. Starting frontend on http://127.0.0.1:5173/');
   launch(process.execPath, [vite, '--host', '127.0.0.1', '--port', '5173', '--strictPort'], 'Frontend');

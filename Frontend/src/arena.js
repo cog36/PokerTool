@@ -42,7 +42,7 @@ function randomFor(state) {
   return state.rng / 4294967296;
 }
 
-export function createMatch({ opponentCount, random = Math.random, randomizeSeats = false, number = 1, trainingMode = null } = {}) {
+export function createMatch({ opponentCount, random = Math.random, randomizeSeats = false, number = 1, trainingMode = null, stackBB = 100 } = {}) {
   const count = opponentCount ?? 1 + Math.floor(random() * 8);
   if (!Number.isInteger(count) || count < 1 || count > 8) throw new Error('Choose 1–8 opponents.');
   const pool = [...archetypes];
@@ -50,8 +50,10 @@ export function createMatch({ opponentCount, random = Math.random, randomizeSeat
     const j = Math.floor(random() * (i + 1));
     [pool[i], pool[j]] = [pool[j], pool[i]];
   }
-  const players = [{ id: 0, name: 'You', stack: 200, stats: { actions: 0, folds: 0, calls: 0, raises: 0 } }, ...pool.slice(0, count).map((profile, index) => ({
-    id: index + 1, name: profile.name, archetype: profile.id, stack: 200,
+  const stack = stackBB * 2;
+  if (!Number.isInteger(stack) || stack < 2) throw new Error('Starting stack must be at least 1bb in half-blind units.');
+  const players = [{ id: 0, name: 'You', stack, stats: { actions: 0, folds: 0, calls: 0, raises: 0 } }, ...pool.slice(0, count).map((profile, index) => ({
+    id: index + 1, name: profile.name, archetype: profile.id, stack,
     stats: { actions: 0, folds: 0, calls: 0, raises: 0 },
   }))];
   const seats = players.map(player => player.id);
@@ -65,13 +67,17 @@ export function createMatch({ opponentCount, random = Math.random, randomizeSeat
   const button = randomizeSeats ? Math.floor(random() * players.length) : 0;
   const hand = dealHand({ players, button, number, seed: Math.floor(random() * 4294967295) });
   hand.trainingMode = trainingMode;
+  hand.stackDepthBB = stackBB;
   return hand;
 }
 
+export const ARENA_STACK_DEPTHS = [5, 10, 20, 40, 100];
+
 export function createTournamentHand({ number = 1, random = Math.random, previous = null } = {}) {
-  let hand = createMatch({ opponentCount: ARENA_OPPONENTS, randomizeSeats: true, number, trainingMode: 'chipEV', random });
+  const stackBB = ARENA_STACK_DEPTHS[Math.floor(random() * ARENA_STACK_DEPTHS.length)];
+  let hand = createMatch({ opponentCount: ARENA_OPPONENTS, randomizeSeats: true, number, trainingMode: 'chipEV', random, stackBB });
   if (!previous) return hand;
-  const players = hand.players.map(player => ({ ...player, stack: 200 }));
+  const players = hand.players.map(player => ({ ...player, stack: stackBB * 2 }));
   const selected = new Set(players.slice(1).map(player => player.archetype));
   if (previous.players.slice(1).every(player => selected.has(player.archetype))) {
     const alternatives = archetypes.filter(profile => !selected.has(profile.id));
@@ -94,12 +100,14 @@ export function createTournamentHand({ number = 1, random = Math.random, previou
     button = nextSeat(players, button, player => player.stack > 0);
   }
   hand.trainingMode = 'chipEV';
+  hand.stackDepthBB = stackBB;
   return hand;
 }
 
 export function dealHand({ players, button = 0, number = 1, seed = 417 } = {}) {
   if (!players) return createMatch();
   const state = {
+    startingStacks: players.map(player => player.stack),
     players: players.map(player => ({ ...player, stats: { ...player.stats }, inHand: player.stack > 0, cards: [], committed: 0, streetBet: 0, folded: false, allIn: false, lastActedBet: null, reopenAt: 0, rank: null, lastAction: null, bubble: player.id ? profileFor(player.archetype).intro : '' })),
     button, number, street: 0, board: [], deck: [], pot: 0, currentBet: BIG_BLIND,
     minRaise: BIG_BLIND, pending: [], actor: null, phase: 'betting', history: [], log: [], winners: [], rng: seed >>> 0, raises: 0, showdown: false,

@@ -1,0 +1,35 @@
+import { chromium, expect } from '@playwright/test';
+const browser = await chromium.launch({ channel: 'chrome', headless: true });
+try {
+  const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
+  const errors = [];
+  page.on('pageerror', error => errors.push(error.message));
+  await page.route('**/api/health', route => route.fulfill({ json: { configured: true } }));
+  const reply = '### Before you open\n\nPosition changes which hands can profitably enter the pot.\n\n- **Early position:** start with a tighter range.\n- **Button:** consider more hands when the blinds fold often.\n\n1. Check effective stacks.\n2. Review the action before you.\n\n| Position | Focus |\n| --- | --- |\n| UTG | Strong starting hands |\n| BTN | Position and blind tendencies |\n\n> Adjust to the players, not just the chart.\n\nTry `AKs` as a starting example. [Reference](https://example.com)\n\n<script>window.coachInjected=true</script>\n\n[Unsafe](javascript:alert(1))\n\n![Tracking image](https://example.com/tracker.png)';
+  await page.route('**/api/chat', route => route.fulfill({ json: { reply } }));
+  await page.goto(`${process.env.FRONTEND_URL || 'http://127.0.0.1:5173'}/#coach`);
+  await expect(page.locator('.coach-welcome')).toBeVisible();
+  await page.getByRole('textbox', { name: 'Message your coach' }).fill('Review **my** opening range.');
+  await page.getByRole('button', { name: 'Send message' }).click();
+  const message = page.locator('.coach-message.assistant');
+  await expect(message.getByRole('heading', { name: 'Before you open' })).toBeVisible();
+  await expect(message.locator('ul > li')).toHaveCount(2);
+  await expect(message.locator('ol > li')).toHaveCount(2);
+  await expect(message.locator('table')).toHaveCount(1);
+  await expect(message.locator('strong').first()).toHaveText('Early position:');
+  await expect(message.locator('code')).toHaveText('AKs');
+  await expect(message).not.toContainText('###');
+  await expect(message.locator('script, img')).toHaveCount(0);
+  await expect(message.locator('a[href^="javascript:"]')).toHaveCount(0);
+  if (await page.evaluate(() => window.coachInjected)) throw new Error('Raw HTML executed');
+  await expect(page.locator('.coach-message.user > p')).toHaveText('Review **my** opening range.');
+  await page.evaluate(() => { document.documentElement.dataset.theme = 'dark'; });
+  await page.screenshot({ path: '/tmp/pokerttool-coach-redesign-desktop.png', fullPage: true });
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.screenshot({ path: '/tmp/pokerttool-coach-redesign-mobile.png', fullPage: true });
+  if (await page.evaluate(() => document.documentElement.scrollWidth > innerWidth)) throw new Error('Mobile page overflow');
+  if (errors.length) throw new Error(errors.join('\n'));
+  await page.getByRole('button', { name: 'New chat' }).click();
+  await expect(page.locator('.coach-welcome')).toBeVisible();
+  console.log('PASS: formatted Markdown, raw HTML/unsafe URLs/images blocked, literal user text, new chat, dark theme, mobile bounds and no runtime errors.');
+} finally { await browser.close(); }

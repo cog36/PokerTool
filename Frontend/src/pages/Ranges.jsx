@@ -18,7 +18,7 @@ export default function Ranges() {
   const suited = selected.endsWith('s');
   const pair = selected.length === 2;
   return <section className="page" id="ranges">
-    <div className="page-title"><div><p className="eyebrow">BUILD YOUR PREFLOP INTUITION</p><h1>Range Explorer<span>.</span></h1><p>Find the hands you want to bring to the table.</p></div><span className="pill outlined">Illustrative study ranges</span></div>
+    <div className="page-title"><div><p className="eyebrow">PREFLOP REFERENCE</p><h1>Range Explorer<span>.</span></h1><p>Compare starting hands by position and inspect each range.</p></div><span className="pill outlined">Illustrative study ranges</span></div>
     <div className="range-layout"><section className="panel matrix-panel">
       <div className="panel-title"><h2>Starting-hand matrix</h2><span className="tag">6-MAX · 100BB</span></div>
       <div className="range-toolbar"><div className="segmented" aria-label="Position">

@@ -1,0 +1,153 @@
+/* The study desk uses paper, ink and felt rather than a collection of bright
+   dashboard cards. Keep game-state colours within the poker tools intact. */
+:root, :root[data-theme="dark"] {
+  --bg: #121816; --panel: #1a211e; --border: #344039;
+  --text: #eeeae0; --muted: #b0b6aa; --mint: #b8d1b5; --green: #79a789;
+  --lavender: #c4baa2; --peach: #cba889; --blue: #a1bbc0;
+}
+:root[data-theme="light"] {
+  --bg: #f3f0e8; --panel: #fcfaf5; --border: #d6d5c9;
+  --text: #243b30; --muted: #626b60; --mint: #315d43; --green: #3b6b4e;
+  --lavender: #766d54; --peach: #8e6545; --blue: #426b75;
+}
+body { font-size: 15px; line-height: 1.65; }
+.sidebar, [data-theme="light"] .sidebar { background: var(--panel); }
+.brand { font-size: 34px; font-weight: 700; letter-spacing: -1.8px; padding-left: 7px; }
+.brand-mark { border-radius: 7px; width: 33px; height: 36px; font-size: 27px; background: var(--mint); }
+.club-label { font-size: 10px; letter-spacing: 1.2px; padding: 16px 8px 30px; }
+.sidebar nav a { font-size: 14px; min-height: 46px; border-radius: 7px; padding: 11px 12px; }
+.sidebar nav a.active, [data-theme="light"] .sidebar nav a.active { background: color-mix(in srgb, var(--green) 12%, var(--panel)); color: var(--mint); border-color: color-mix(in srgb, var(--green) 25%, var(--border)); box-shadow: none; }
+.nav-icon { display: inline-flex; align-items: center; justify-content: center; }
+.sidebar-tip, [data-theme="light"] .sidebar-tip { background: none; border: 0; border-top: 1px solid var(--border); border-radius: 0; padding: 20px 8px; box-shadow: none; }
+.sidebar-tip h3 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; font-size: 24px; line-height: 1.25; letter-spacing: -.4px; }
+.sidebar-tip p, [data-theme="light"] .sidebar-tip p { color: var(--muted); font-size: 13px; line-height: 1.7; }
+.sidebar-tip a { font-size: 13px; color: var(--mint); }
+.tiny-label { font-size: 10px; letter-spacing: 1px; }
+.topbar { background: var(--bg); border-bottom: 1px solid var(--border); }
+.topbar .breadcrumb { font-size: 13px; }
+.local-badge { font-size: 12px; }
+.theme-toggle { font-size: 13px; min-height: 40px; }
+.page-title h1, .arena-intro-copy h1 { font-family: Georgia, 'Times New Roman', serif; font-weight: 400; letter-spacing: -1.5px; line-height: 1.12; font-size: clamp(34px, 3.6vw, 48px); }
+.page-title h1 > span, .arena-intro-copy h1 > span { display: none; }
+.eyebrow { font-size: 11px; font-weight: 600; letter-spacing: 1.25px; color: var(--muted); }
+.page-title p:not(.eyebrow) { font-size: 16px; line-height: 1.6; max-width: 65ch; }
+.panel, .focus-card { border-radius: 10px; box-shadow: none; }
+.button { border-radius: 6px; font-size: 14px; min-height: 40px; }
+.button.primary { background: var(--mint); border-color: var(--mint); color: var(--bg); }
+[data-theme="light"] .button.primary { background: #315d43; color: #fffaf0; border-color: #315d43; }
+.section-heading h2 { font-family: Georgia, 'Times New Roman', serif; font-size: 28px; font-weight: 400; letter-spacing: -.5px; }
+#overview .hero-card { border: 1px solid #4e6b53; border-radius: 12px; background: #294a37; box-shadow: none; }
+#overview .hero-copy { color: #faf4df; }
+#overview .hero-copy h2 { font-family: Georgia, 'Times New Roman', serif; font-size: clamp(30px, 3vw, 42px); font-weight: 400; line-height: 1.15; letter-spacing: -.8px; }
+#overview .hero-copy p { color: #e2e8d8; font-size: 15px; line-height: 1.7; max-width: 36ch; }
+#overview .hero-copy .pill { background: none; color: #d7dfc6; padding: 0; border: 0; border-radius: 0; font-size: 11px; letter-spacing: 1px; }
+#overview .hero-copy .button { background: #eee5ce; border-color: #eee5ce; color: #294333; }
+#overview .hero-footnote { color: #d4dbc9; font-size: 12px; }
+#overview .mini-avatars, #overview .orbit, #overview .art-spark { display: none; }
+#overview .hero-art .playing-card { box-shadow: 3px 10px 20px #0b1b2330; }
+#overview .session-card { display: block; padding: 26px; }
+.study-completion { margin: 22px 0 14px; }
+.study-completion > strong { font-size: 50px; line-height: 1; letter-spacing: -2px; font-weight: 500; }
+.study-completion > strong > span { font-size: 25px; color: var(--muted); letter-spacing: 0; margin-left: 9px; }
+.study-completion p { color: var(--muted); font-size: 14px; margin-top: 7px; }
+.study-plan-list { list-style: none; padding: 0; margin: 20px 0; }
+.study-plan-list li { display: flex; gap: 10px; font-size: 14px; margin: 10px 0; color: var(--muted); }
+.study-plan-list li.done { color: var(--mint); }
+.study-plan-list li > span { width: 18px; }
+#overview .focus-card { background: var(--panel); padding: 24px; border-top: 3px solid var(--border); }
+#overview .focus-card:hover { translate: 0 -2px; border-top-color: var(--green); box-shadow: none; }
+#overview .focus-icon { border-radius: 6px; background: none; color: var(--mint); border: 1px solid var(--border); width: 36px; height: 36px; font-size: 22px; }
+#overview .card-index { font-size: 11px; color: var(--muted); letter-spacing: .7px; }
+#overview .focus-card h3 { font-size: 20px; font-weight: 600; }
+#overview .focus-card p, #overview .check-row small { font-size: 14px; line-height: 1.7; }
+#overview .text-link { font-size: 13px; }
+#overview .check-row strong { font-size: 15px; }
+#overview .quote-card, [data-theme="light"] #overview .quote-card { background: var(--panel); border-color: var(--border); border-radius: 10px; }
+#overview .quote-card h3 { font-family: Georgia, 'Times New Roman', serif; color: var(--text); font-weight: 400; font-size: 28px; line-height: 1.3; }
+#overview .quote-card p, #overview .quote-card .eyebrow, #overview .quote-footer { color: var(--muted); font-size: 14px; }
+#overview .quote-mark { display: none; }
+.page-footer { font-size: 12px; line-height: 1.6; }
+@media (max-width: 720px) {
+ .brand { font-size: 30px; }
+ .sidebar nav a { font-size: 12px; min-height: 42px; }
+ .sidebar-tip { display: none; }
+ #overview .hero-copy h2 { font-size: 30px; }
+ #overview .hero-copy p { font-size: 14px; }
+ #overview .hero-copy { max-width: 70%; }
+ #overview .hero-art { opacity: .45; right: -25px; }
+ #overview .hero-copy .button { position: relative; z-index: 2; }
+ .local-badge { display: none; }
+}
+
+@media (max-width: 480px) {
+  #overview .hero-art { display: none; }
+  #overview .hero-copy { max-width: 100%; }
+  #overview .hero-card { min-height: 0; padding: 28px 24px; }
+}
+
+/* Finishing details: a card-room reference, a margin note, and useful surfaces.
+   These are treatments of the existing layout, not additional interface panels. */
+:root { --brass: #c5ad79; --rule: #b8c5ac18; }
+:root[data-theme="light"] { --brass: #8b7041; --rule: #5c76691c; }
+.brand-mark { border: 1px solid color-mix(in srgb, var(--text) 16%, transparent); box-shadow: inset 0 0 0 3px color-mix(in srgb, var(--panel) 20%, transparent); }
+.sidebar .brand { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; letter-spacing: -1.6px; }
+.sidebar nav a { position: relative; }
+.sidebar nav a::before { content: ''; position: absolute; left: -8px; top: 14px; bottom: 14px; width: 2px; background: transparent; border-radius: 2px; }
+.sidebar nav a.active::before { background: var(--brass); }
+.sidebar-tip .tiny-label { color: var(--brass); }
+.page-title h1, .arena-intro-copy h1 { position: relative; width: fit-content; }
+.page-title h1::after, .arena-intro-copy h1::after { content: ''; display: block; width: 38px; height: 2px; position: absolute; bottom: -7px; left: 1px; background: var(--brass); }
+.page-title p:not(.eyebrow) { margin-top: 19px; }
+.topbar { box-shadow: inset 0 -3px 0 color-mix(in srgb, var(--border) 18%, transparent); }
+#overview .hero-card { background-image: repeating-linear-gradient(0deg, #ffffff02 0px, #ffffff02 1px, transparent 1px, transparent 4px); }
+#overview .hero-card::after { content: ''; position: absolute; inset: 10px; border: 1px solid #d2d9ba38; border-radius: 5px; pointer-events: none; }
+#overview .hero-copy h2 em { font-weight: 400; color: #e7dcba; }
+#overview .hero-copy .pill { color: #e1cd99; }
+#overview .hero-footnote { font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-size: 14px; }
+#overview .hero-card-one { rotate: -13deg; }
+#overview .hero-card-two { rotate: 9deg; }
+#overview .hero-art .chip { border-color: #e1d6ab; background: #8b7846; color: #fff5d4; box-shadow: 0 3px 0 #574a2d; }
+#overview .focus-card { position: relative; border-top-width: 1px; overflow: hidden; }
+#overview .focus-card::after { position: absolute; right: 20px; bottom: 58px; font-family: Georgia, serif; font-size: 50px; line-height: 1; color: color-mix(in srgb, var(--brass) 16%, transparent); pointer-events: none; }
+#overview .focus-card:nth-child(1)::after { content: '♠'; }
+#overview .focus-card:nth-child(2)::after { content: '♣'; }
+#overview .focus-card:nth-child(3)::after { content: '♦'; }
+#overview .focus-card .card-index { color: var(--brass); font-variant-numeric: tabular-nums; }
+#overview .focus-card:hover { border-color: var(--brass); }
+#overview .focus-card .text-link { position: relative; z-index: 1; }
+#overview .quote-card { position: relative; background-image: repeating-linear-gradient(transparent 0 31px, var(--rule) 31px 32px); background-position: 0 11px; }
+#overview .quote-card .eyebrow { color: var(--brass); font-size: 11px; }
+#overview .quote-card h3 { font-style: italic; }
+#overview .quote-footer { letter-spacing: 0; border-color: var(--border); }
+#overview .session-card .tag { border: 1px solid var(--border); background: none; color: var(--muted); letter-spacing: .6px; }
+#overview .check-row input { accent-color: var(--green); width: 16px; height: 16px; }
+#ranges .matrix-panel { border-top: 3px solid var(--brass); }
+#ranges .matrix .hand { font-variant-numeric: tabular-nums; border-radius: 2px; }
+#ranges .inspector { border-top: 3px solid var(--green); }
+#ranges .inspector > h2 { font-family: Georgia, serif; }
+#hands .hand-preview { border-radius: 5px; border-left: 3px solid var(--border); }
+#hands .hand-preview.selected { border-left-color: var(--brass); }
+#hands .hand-preview > span { color: var(--brass); font-variant-numeric: tabular-nums; }
+#hands .replay-panel { border-top: 3px solid var(--brass); }
+#hands .replay-board { box-shadow: inset 0 0 0 6px #00000012; }
+#notebook .notebook-layout > .panel { border-top: 3px solid var(--brass); }
+#notebook .field { font-size: 14px; }
+#notebook .field input, #notebook .field select, #notebook .field textarea { font-size: 16px; }
+#notebook .field textarea { line-height: 32px; padding-top: 10px; background-color: var(--panel); background-image: linear-gradient(90deg, transparent 27px, color-mix(in srgb, var(--red) 22%, transparent) 27px 28px, transparent 28px), repeating-linear-gradient(transparent 0 31px, var(--rule) 31px 32px); background-position: 0 10px; padding-left: 38px; border-color: var(--border); border-radius: 3px; }
+#notebook .saved-note { border-radius: 3px; border-left: 3px solid var(--brass); box-shadow: 2px 3px 0 color-mix(in srgb, var(--border) 35%, transparent); }
+#notebook .saved-note h3 { font-family: Georgia, serif; font-size: 23px; line-height: 1.35; font-weight: 400; }
+#notebook .saved-note p { font-size: 15px; line-height: 1.8; }
+#notebook .empty-notes { border-style: solid; border-top: 3px solid var(--brass); background: color-mix(in srgb, var(--panel) 65%, transparent); }
+#analysis .analysis-upload { border-top: 3px solid var(--brass); }
+#analysis .analysis-hand summary > strong { font-variant-numeric: tabular-nums; }
+#coach .coach-chat { border-top: 3px solid var(--brass); }
+#coach .coach-intro-label, #coach .coach-sidebar .eyebrow { color: var(--brass); }
+#coach .coach-starters button { border-left: 2px solid var(--border); }
+#coach .coach-starters button:hover { border-left-color: var(--brass); }
+#arena .arena-intro-opponents { border-color: color-mix(in srgb, var(--brass) 35%, var(--border)); }
+#arena .holdem-table .arena-felt::after { border-style: dashed; border-color: #d8bd8129; inset: 17px; }
+#arena .arena-club-brand .eyebrow { color: #d0bc91; }
+#arena .arena-club-brand .club-mark { background: #d8ccb0; color: #2c2930; border-radius: 5px; }
+.button, .focus-card, .hand-preview { transition: background-color 150ms, border-color 150ms, box-shadow 150ms; }
+.button:active:not(:disabled) { box-shadow: inset 0 2px 3px #0002; }
+@media (prefers-reduced-motion: reduce) { .button, .focus-card, .hand-preview { transition: none; } }

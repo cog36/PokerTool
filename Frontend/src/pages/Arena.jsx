@@ -2,6 +2,7 @@ import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import PlayingCard from '../components/PlayingCard';
 import PlayerPortrait from '../components/PlayerPortrait';
 import DealerHand from '../components/DealerHand';
+import CoachReply from '../components/CoachReply';
 import { planAction, planOpening, createTournamentHand, decisionView, legalActions, STREETS, handLabels, personalities, tellQuestions } from '../arena';
 import { profileFor } from '../archetypes';
 
@@ -153,7 +154,7 @@ function HoldemGame({ active }) {
     setGame(previous => {
       // Skip and the last playback timer may arrive together; count a hand only once.
       const finished = final.phase === 'complete' && !(previous.hand.phase === 'complete' && previous.hand.number === final.number);
-      return { hand: final, played: previous.played + Number(finished), wins: previous.wins + Number(finished && final.winners.includes(0)), net: previous.net + (finished ? final.players[0].stack - 200 : 0) };
+      return { hand: final, played: previous.played + Number(finished), wins: previous.wins + Number(finished && final.winners.includes(0)), net: previous.net + (finished ? final.players[0].stack - final.startingStacks[0] : 0) };
     });
     setFrame(null); setQueue([]); locked.current = false;
   }
@@ -286,12 +287,12 @@ function HoldemGame({ active }) {
       <div className="live-feedback" role="status" aria-live="polite">
         {liveFeedback ? <><strong>{liveFeedback.name} · {liveFeedback.position} · {liveFeedback.label}</strong><p>{liveFeedback.text}</p></> : <p>Short feedback appears here as each player acts.</p>}
       </div>
-      {reviews.find(item => item.actor === 0 && item.aiText) && <div className="hero-coach-note"><strong>Your coach</strong><p>{reviews.find(item => item.actor === 0 && item.aiText).aiText}</p></div>}
+      {reviews.find(item => item.actor === 0 && item.aiText) && <div className="hero-coach-note"><strong>Your coach</strong><CoachReply text={reviews.find(item => item.actor === 0 && item.aiText).aiText} animate /></div>}
       {reviews.some(item => item.status === 'loading') && <span className="caption">Coach is reviewing your move…</span>}
       {reviews.find(item => item.status === 'error') && <div className="review-retry"><span className="caption">AI coach unavailable. Live feedback is still active.</span><button className="button" onClick={() => { const item = reviews.find(item => item.status === 'error'); setReviews(previous => previous.map(review => review.id === item.id ? { ...review, status: 'loading' } : review)); requestReview(item.id, item.context); }}>Retry coach</button></div>}
       {reviews.length > 0 && <details className="feedback-history"><summary>Recent actions <span>{reviews.length}</span></summary>{reviews.map(review => <article key={review.id}><strong>{review.name} · {STREETS[review.street]} · {review.label}</strong><p>{review.text}</p></article>)}</details>}
     </section>
-    <div className="tournament-mode-note"><span>MTT / SNG · CHIP EV</span><span>100bb drills · no ICM or payouts · new roster &amp; seats each hand</span></div>
+    <div className="tournament-mode-note"><span>MTT / SNG · CHIP EV</span><span>{hand.stackDepthBB}bb starting stacks · no ICM or payouts · new roster &amp; seats each hand</span></div>
     <p className="table-scroll-hint">On smaller screens, swipe the table sideways to see every player.</p>
     <div ref={tableViewport} className="arena-table-viewport" tabIndex={0} role="region" aria-label="Poker table. Scroll sideways to see all seats.">
     <div ref={stage} className={`arena-stage animated-table holdem-table${muted ? ' quiet-table' : ''}${dealing ? ' is-dealing' : ''}${event === 'collect' ? ' is-collecting' : ''}`} data-dealing={dealing} data-playing={frame !== null} aria-label="Eight-seat poker table">
@@ -324,7 +325,7 @@ function HoldemGame({ active }) {
     <section className="panel arena-session-summary"><div className="panel-title"><h2>Your drill session</h2><span className="tag">VIRTUAL CHIPS</span></div><div className="practice-metrics"><div><strong>{game.played}</strong><span>Hands finished</span></div><div><strong>{game.wins}</strong><span>Pots shared / won</span></div><div><strong>{bb(game.net / 2)}</strong><span>Realised net bb</span></div></div></section>
     <section className="panel arena-action-log"><div className="panel-title"><h2>Full hand history</h2><span className="tag">EVERY STREET</span></div>{STREETS.map(street => { const entries = hand.history.filter(entry => entry.street === street); return entries.length > 0 && <section className="history-street" key={street}><h3>{street}</h3><ol>{entries.map((entry, index) => <li key={index}>{entry.text}</li>)}</ol></section>; })}</section>
     <section className="panel roster-guide"><div className="panel-title"><h2>At your table</h2><span className="tag">7 OPPONENTS</span></div><p className="roster-intro">Know the tendencies. Watch the decisions.</p><div className="roster-list">{hand.players.slice(1).map(player => { const profile = profileFor(player.archetype); return <article key={player.id}><PlayerPortrait type={player.archetype} className="roster-portrait" /><div><div className="roster-heading"><strong>{player.name}</strong><span>{player.position}</span></div><span className="roster-type">{profile.label}</span><p>{profile.description}</p></div><span className={`roster-status${player.folded ? ' is-folded' : ''}`}>{player.folded ? 'Folded' : player.allIn ? 'All-in' : 'In hand'}</span></article>; })}</div></section>
-    <details className="arena-drill-guide"><summary>How these drills work <span>Format, chip EV &amp; coaching</span></summary><div className="drill-guide-grid"><section><h3>The format</h3><p>Eight players, fresh 100bb stacks and 0.5 / 1bb blinds. Each hand draws seven archetypes and new poker positions. Your view stays bottom centre.</p></section><section><h3>Reading opponents</h3><p>Bots use their own cards, the visible board, position and observed actions. Archetypes influence decisions; speech bubbles are fictional table talk.</p></section><section><h3>Understanding feedback</h3><p>Sampled chip EV and AI coaching are estimates, not GTO solver results. Realised net chips are tracked separately. These independent MTT/SNG drills do not model payouts or ICM.</p></section></div></details>
+    <details className="arena-drill-guide"><summary>How these drills work <span>Format, chip EV &amp; coaching</span></summary><div className="drill-guide-grid"><section><h3>The format</h3><p>Eight players with a randomly chosen starting depth of 5, 10, 20, 40 or 100bb each hand. Everyone starts at the same depth, with 0.5 / 1bb blinds. Each hand draws seven archetypes and new poker positions. Your view stays bottom centre.</p></section><section><h3>Reading opponents</h3><p>Bots use their own cards, the visible board, position and observed actions. Archetypes influence decisions; speech bubbles are fictional table talk.</p></section><section><h3>Understanding feedback</h3><p>Sampled chip EV and AI coaching are estimates, not GTO solver results. Realised net chips are tracked separately. These independent MTT/SNG drills do not model payouts or ICM.</p></section></div></details>
   </aside></div>;
 }
 
@@ -353,7 +354,7 @@ export default function Arena({ active }) {
   const [mode, setMode] = useState('holdem');
   return <section className="page" id="arena"><header className="arena-intro">
       <div className="arena-intro-copy"><p className="eyebrow">YOUR NEXT SEAT AT THE TABLE</p><h1>AI Arena<span>.</span></h1><p>Read the players. Play your hand. Learn from every decision.</p></div>
-      <div className="arena-intro-opponents"><div className="intro-portrait-line">{['tag', 'maniac', 'tricky', 'nit', 'gto'].map(type => <PlayerPortrait type={type} key={type} />)}</div><div><strong>13 personalities. A different table every hand.</strong><p>8 seats <span>·</span> 100bb stacks <span>·</span> Chip-EV drills</p></div></div>
+      <div className="arena-intro-opponents"><div className="intro-portrait-line">{['tag', 'maniac', 'tricky', 'nit', 'gto'].map(type => <PlayerPortrait type={type} key={type} />)}</div><div><strong>13 personalities. A different table every hand.</strong><p>8 seats <span>·</span> 5–100bb stacks <span>·</span> Chip-EV drills</p></div></div>
     </header>
     <div className="arena-mode-switch segmented" role="group" aria-label="Arena game"><button type="button" className={mode === 'holdem' ? 'selected' : ''} aria-pressed={mode === 'holdem'} onClick={() => setMode('holdem')}>♠ Full-hand challenge</button><button type="button" className={mode === 'read' ? 'selected' : ''} aria-pressed={mode === 'read'} onClick={() => setMode('read')}>☏ Read the opponent</button></div>
     <div hidden={mode !== 'holdem'}><HoldemGame active={active && mode === 'holdem'} /></div><div hidden={mode !== 'read'}><ReadGame /></div>

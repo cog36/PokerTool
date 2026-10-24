@@ -10,7 +10,7 @@ try {
   const errors = [];
   page.on('pageerror', error => errors.push(error.message));
   await page.goto(baseUrl);
-  await page.getByRole('heading', { name: 'Welcome to the table.' }).waitFor();
+  await page.getByRole('heading', { name: /Welcome to the table/ }).waitFor();
   const originalTheme = await page.locator('html').getAttribute('data-theme');
   await page.getByRole('button', { name: /Switch to .* mode/ }).click();
   const selectedTheme = await page.locator('html').getAttribute('data-theme');
@@ -28,12 +28,6 @@ try {
 
   await page.getByRole('navigation').getByRole('link', { name: 'Overview', exact: false }).first().click();
   await page.getByRole('checkbox').first().check();
-  await page.getByRole('navigation').getByRole('link', { name: 'Hand Library', exact: false }).click();
-  await page.getByRole('button', { name: 'Next street' }).click();
-  assert.equal(await page.locator('.replay-board .card').count(), 3);
-  await page.getByRole('button', { name: 'Turn', exact: true }).click();
-  assert.equal(await page.locator('.replay-board .card').count(), 4);
-
   await page.getByRole('navigation').getByRole('link', { name: 'Study Notebook', exact: false }).click();
   await page.getByRole('textbox', { name: 'Title', exact: true }).fill('React migration check');
   await page.getByRole('textbox', { name: 'Your notes', exact: true }).fill('Study the position before acting.');
@@ -124,24 +118,24 @@ try {
       : { json: { reply: '**Position** gives you more information before acting.' } });
   });
   await page.getByRole('navigation').getByRole('link', { name: 'AI Coach' }).click();
-  const question = page.getByRole('textbox', { name: 'Your question' });
+  const question = page.getByRole('textbox', { name: 'Message your coach' });
   await page.getByRole('button', { name: 'Use a hand template' }).click();
   await expect(question).toHaveValue(/Position:/);
   await question.fill('Why does position matter?');
-  await page.getByRole('button', { name: 'Ask the coach' }).click();
+  await page.getByRole('button', { name: 'Send message' }).click();
   await expect(page.locator('.coach-message.assistant')).toHaveText(/Position gives you more information/);
   await expect(page.locator('.coach-message.assistant p strong')).toHaveText('Position');
   assert.equal(submitted[0].messages[0].content, 'Why does position matter?');
   await page.getByRole('combobox', { name: 'Coaching style' }).selectOption('roast');
   chatFails = true;
   await question.fill('Give me an example.');
-  await page.getByRole('button', { name: 'Ask the coach' }).click();
+  await page.getByRole('button', { name: 'Send message' }).click();
   await expect(page.getByRole('alert')).toHaveText(/selected AI model is unavailable/);
   await expect(question).toHaveValue('Give me an example.');
   assert.equal(submitted[1].mode, 'roast');
   assert.equal(submitted[1].messages.length, 3);
   chatFails = false;
-  await page.getByRole('button', { name: 'Ask the coach' }).click();
+  await page.getByRole('button', { name: 'Send message' }).click();
   await expect(page.locator('.coach-message.assistant')).toHaveCount(2);
   await page.getByRole('button', { name: 'New chat' }).click();
   await expect(page.locator('.coach-message')).toHaveCount(0);
@@ -196,7 +190,7 @@ try {
 
   for (const width of [1440, 390]) {
     await page.setViewportSize({ width, height: 1000 });
-    for (const route of ['overview', 'analysis', 'ranges', 'arena', 'hands', 'notebook', 'coach']) {
+    for (const route of ['overview', 'analysis', 'ranges', 'arena', 'notebook', 'coach']) {
       await page.goto(`${baseUrl}/doc.html#${route}`);
       await page.locator(`#${route}`).waitFor({ state: 'visible' });
       if (route === 'coach') await page.screenshot({ path: `/tmp/pokerttool-coach-${width}.png`, fullPage: true, animations: 'disabled' });

@@ -1,4 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
+import CoachReply from '../components/CoachReply';
+import PlayerPortrait from '../components/PlayerPortrait';
+import './Coach.css';
 
 const starters = [
   { icon: '▦', title: 'Find your range', question: 'How should my opening range change from UTG to the button?' },
@@ -10,18 +13,12 @@ const connectionLabels = {
   offline: 'Server offline', setup: 'Setup needed', issue: 'Connection needs attention',
 };
 
-// Models sometimes include emphasis despite a plain-text request. Render only bold
-// spans as React nodes; never interpret model output as HTML.
-function replyText(text) {
-  return text.split(/(\*\*[^*]+\*\*)/g).map((part, index) =>
-    part.startsWith('**') && part.endsWith('**') ? <strong key={index}>{part.slice(2, -2)}</strong> : part);
-}
-
 export default function Coach() {
   const [messages, setMessages] = useState([]);
   const [draft, setDraft] = useState('');
   const [mode, setMode] = useState('constructive');
   const [busy, setBusy] = useState(false);
+  const [revealing, setRevealing] = useState(false);
   const [error, setError] = useState(null);
   const [connection, setConnection] = useState('checking');
   const [pending, setPending] = useState('');
@@ -30,6 +27,7 @@ export default function Coach() {
   const healthRequest = useRef(null);
   const locked = useRef(false);
   const transcript = useRef(null);
+  const followReply = useRef(true);
   const composer = useRef(null);
   const input = useRef(null);
 
@@ -69,7 +67,7 @@ export default function Coach() {
   async function send(event) {
     event.preventDefault();
     const text = draft.trim();
-    if (!text || locked.current) return;
+    if (!text || locked.current || revealing) return;
     const conversation = [...messages, { role: 'user', content: text }];
     const history = conversation.slice(-19);
     if (history.reduce((total, item) => total + item.content.length, 0) > 24000) {
@@ -77,6 +75,7 @@ export default function Coach() {
       return;
     }
     locked.current = true;
+    followReply.current = true;
     setBusy(true); setError(null); setPending(text); setCopyStatus('');
     const controller = new AbortController();
     request.current = controller;
@@ -96,13 +95,13 @@ export default function Coach() {
       }
       if (typeof data?.reply !== 'string' || !data.reply.trim()) throw new Error('No reply arrived. Your question is still here; please try again.');
       setMessages([...conversation, { role: 'assistant', content: data.reply }]);
-      setDraft(''); setConnection('connected');
+      setDraft(''); setConnection('connected'); setRevealing(true);
     } catch (failure) {
       const stopped = failure.name === 'AbortError';
       const offline = failure instanceof TypeError;
       setError({
         code: stopped ? 'stopped' : failure.code || 'request_failed',
-        message: stopped ? 'Request stopped or timed out. Your question is still here.' : offline ? 'Cannot reach the Python API. Start it on port 8000, then try again.' : failure.message,
+        message: stopped ? 'Request stopped or timed out. Your question is still here.' : offline ? 'The coach server is offline. Run npm start in the project folder, open http://127.0.0.1:5173, then retry.' : failure.message,
       });
       if (!stopped) setConnection(offline ? 'offline' : 'issue');
     } finally {
@@ -117,35 +116,36 @@ export default function Coach() {
 
   const roast = mode === 'roast';
   return <section className="page coach-page" id="coach">
-    <div className="page-title"><div><p className="eyebrow">A BETTER DECISION STARTS HERE</p><h1>AI Coach<span>.</span></h1><p>A little perspective. A clearer plan for your next hand.</p></div><span className="pill outlined">AI guidance · not solver output</span></div>
+    <div className="page-title"><div><p className="eyebrow">TALK THROUGH A HAND</p><h1>AI Coach<span>.</span></h1><p>Ask a question or work through a decision with your coach.</p></div><span className="pill outlined">AI guidance · not solver output</span></div>
     <div className="coach-layout">
       <section className="panel coach-chat">
         <header className="coach-chat-header">
-          <div className="coach-heading"><span className="coach-mini-avatar" aria-hidden="true">✦</span><div><h2>Your table-side study partner</h2><span className={`coach-connection ${connection}`} role="status"><i />{connectionLabels[connection]}</span></div></div>
-          <button type="button" className="button coach-new-chat" disabled={busy || (!messages.length && !draft && !error)} onClick={() => { setMessages([]); setDraft(''); setError(null); setCopyStatus(''); input.current?.focus(); }}>New chat ↻</button>
+          <div className="coach-heading"><span className="coach-mini-avatar" aria-hidden="true">✦</span><div><h2>PokerTool Coach</h2><span className={`coach-connection ${connection}`} role="status"><i />{connectionLabels[connection]}</span></div></div>
+          <button type="button" className="button coach-new-chat" disabled={busy || (!messages.length && !draft && !error)} onClick={() => { setRevealing(false); setMessages([]); setDraft(''); setError(null); setCopyStatus(''); input.current?.focus(); }}>New chat ↻</button>
         </header>
-        <div className="coach-transcript" ref={transcript} role="log" aria-live="polite" aria-label="Coaching conversation">
+        <div className="coach-transcript" ref={transcript} onScroll={event => { const log = event.currentTarget; followReply.current = log.scrollHeight - log.scrollTop - log.clientHeight < 80; }} role="log" aria-live="polite" aria-label="Coaching conversation">
           {!messages.length && !busy && <div className="coach-welcome">
             <div className="coach-orbit" aria-hidden="true"><span>♠</span><i>✦</i></div>
-            <span className="coach-intro-label">YOUR NEXT GOOD QUESTION</span><h2>Let’s think through your game.</h2><p>Bring a tricky hand, a new concept, or a decision that didn’t feel quite right. We’ll break it down together.</p>
+            <span className="coach-intro-label">YOUR STUDY SESSION</span><h2>A clearer view of your next move.</h2><p>Review a hand, explore a concept, or work through a difficult spot. Start with a question below.</p>
             <div className="coach-starters">{starters.map(starter => <button key={starter.title} type="button" onClick={() => choosePrompt(starter.question)}><span className="starter-symbol" aria-hidden="true">{starter.icon}</span><span><strong>{starter.title}</strong><small>{starter.question}</small></span><b aria-hidden="true">↗</b></button>)}</div>
           </div>}
-          {messages.map((message, index) => <article className={`coach-message ${message.role}`} key={index}><div className="coach-message-label"><span>{message.role === 'user' ? 'YOU' : '✦ POKERTOOL COACH'}</span>{message.role === 'assistant' && <button type="button" aria-label={`Copy coach reply ${Math.ceil(index / 2)}`} onClick={() => copyReply(message.content)}>Copy ↗</button>}</div><p>{message.role === 'assistant' ? replyText(message.content) : message.content}</p></article>)}
+          {messages.map((message, index) => <article className={`coach-message ${message.role}`} key={index}><div className="coach-message-label"><span>{message.role === 'user' ? 'YOU' : 'POKERTOOL COACH'}</span>{message.role === 'assistant' && <button type="button" aria-label={`Copy coach reply ${Math.ceil(index / 2)}`} onClick={() => copyReply(message.content)}>Copy ↗</button>}</div>{message.role === 'assistant' ? <CoachReply text={message.content} animate={revealing && index === messages.length - 1} onComplete={() => setRevealing(false)} onProgress={() => { const log = transcript.current; if (log && followReply.current) log.scrollTop = log.scrollHeight; }} /> : <p>{message.content}</p>}</article>)}
           {pending && <article className="coach-message user pending-message"><div className="coach-message-label"><span>YOU</span></div><p>{pending}</p></article>}
+          {revealing && <div className="coach-reveal-controls"><span role="status">Coach is writing…</span><button type="button" onClick={() => setRevealing(false)}>Show full response</button></div>}
           {busy && <div className="coach-thinking" role="status"><span className="coach-mini-avatar" aria-hidden="true">✦</span><span>Thinking it through<span className="coach-typing" aria-hidden="true"><i /><i /><i /></span></span></div>}
         </div>
-        {error && <div className={`coach-error${error.code === 'stopped' ? ' stopped' : ''}`} role="alert"><span className="coach-error-icon" aria-hidden="true">{error.code === 'stopped' ? 'Ⅱ' : '!'}</span><div><strong>{error.code === 'model_unavailable' ? 'The coaching model needs an update' : error.code === 'stopped' ? 'Your draft is safe' : 'Let’s reconnect your coach'}</strong><p>{error.message}</p></div><button type="button" disabled={busy || !draft.trim()} onClick={() => composer.current?.requestSubmit()}>Retry ↗</button></div>}
+        {error && <div className={`coach-error${error.code === 'stopped' ? ' stopped' : ''}`} role="alert"><span className="coach-error-icon" aria-hidden="true">{error.code === 'stopped' ? 'Ⅱ' : '!'}</span><div><strong>{error.code === 'model_unavailable' ? 'The coaching model needs an update' : error.code === 'stopped' ? 'Your draft is safe' : 'Let’s reconnect your coach'}</strong><p>{error.message}</p></div><button type="button" disabled={busy || revealing || !draft.trim()} onClick={() => composer.current?.requestSubmit()}>Retry ↗</button></div>}
         <form className="coach-composer" ref={composer} onSubmit={send}>
-          <label className="field">Your question<textarea ref={input} rows={3} maxLength={6000} value={draft} disabled={busy} onChange={event => setDraft(event.target.value)} onKeyDown={event => { if (event.key === 'Enter' && (event.metaKey || event.ctrlKey)) { event.preventDefault(); if (!busy) composer.current?.requestSubmit(); } }} placeholder="What would you like to work on?" required /></label>
-          <div className="coach-compose-footer"><span className="caption">{draft.length.toLocaleString()} / 6,000 <span className="composer-shortcut">· Ctrl / ⌘ + Enter to send</span></span><div>{busy && <button type="button" className="button" onClick={() => request.current?.abort()}>Stop</button>}<button className="button primary" type="submit" disabled={busy || !draft.trim()}>{busy ? 'Thinking…' : 'Ask the coach ↗'}</button></div></div>
+          <label className="field">Message your coach<textarea ref={input} rows={2} maxLength={6000} value={draft} disabled={busy} onChange={event => setDraft(event.target.value)} onKeyDown={event => { if (event.key === 'Enter' && (event.metaKey || event.ctrlKey)) { event.preventDefault(); if (!busy) composer.current?.requestSubmit(); } }} placeholder="What would you like to work on?" required /></label>
+          <div className="coach-compose-footer"><span className="caption">{draft.length.toLocaleString()} / 6,000 <span className="composer-shortcut">· Ctrl / ⌘ + Enter to send</span></span><div>{busy && <button type="button" className="button" onClick={() => request.current?.abort()}>Stop</button>}<button className="button primary" type="submit" disabled={busy || revealing || !draft.trim()}>{busy ? 'Thinking…' : 'Send message ↗'}</button></div></div>
           <p className="coach-footer-note">A study partner, not a solver. Always question the reasoning.</p><span className="copy-status" role="status">{copyStatus}</span>
         </form>
       </section>
       <aside className="coach-sidebar">
-        <section className="panel coach-personality"><div className={`coach-character${roast ? ' roast' : ''}`} aria-hidden="true">{roast ? 'RC' : 'PC'}</div><span className="eyebrow">MEET YOUR CORNER OF THE TABLE</span><h2>{roast ? 'A little spice. Still on your side.' : 'Calm advice. Clear reasoning.'}</h2><p>{roast ? 'Some friendly poker humour, followed by a useful lesson. We roast the decision, not you.' : 'Patient explanations to help you understand the spot and make your next decision with purpose.'}</p><label className="field">Coaching style<select value={mode} disabled={busy} onChange={event => setMode(event.target.value)}><option value="constructive">Constructive coach</option><option value="roast">Friendly roast</option></select></label></section>
+        <section className="panel coach-personality"><div className={`coach-character${roast ? ' roast' : ''}`} aria-hidden="true"><PlayerPortrait type={roast ? 'lag' : 'gto'} /></div><span className="eyebrow">IN YOUR CORNER</span><h2>{roast ? 'A little spice. Still on your side.' : 'A coach for your next decision.'}</h2><p>{roast ? 'Some friendly poker humour, followed by a useful lesson. We roast the decision, not you.' : 'Patient explanations to help you understand the spot and make your next decision with purpose.'}</p><label className="field">Coaching style<select value={mode} disabled={busy} onChange={event => setMode(event.target.value)}><option value="constructive">Constructive coach</option><option value="roast">Friendly roast</option></select></label></section>
         <section className="panel coach-hand-guide"><span className="eyebrow">GET A BETTER ANSWER</span><h3>Set the scene.</h3><p>The more context you bring, the more useful the conversation.</p><ul>{['Position and effective stacks', 'Your cards and the board', 'Bet sizes and earlier actions', 'The decision you’re unsure about'].map((text, index) => <li key={text}><span>0{index + 1}</span>{text}</li>)}</ul><button type="button" className="button" disabled={busy} onClick={() => choosePrompt('Help me review this hand:\nPosition: \nEffective stacks: \nMy hole cards: \nBoard: \nActions and bet sizes: \nMy question: ')}>Use a hand template <span>↗</span></button></section>
         <div className="coach-service-note"><span>◈</span><p>Only the conversation you submit is sent to Groq. Your notebook is private. Arena decision reviews separately send your visible hand context after each move.</p></div>
-        {(connection === 'offline' || connection === 'setup' || connection === 'issue') && <div className="coach-setup-note"><p>{connection === 'setup' ? 'Add your Groq key in backend/.env to connect the coach.' : connection === 'offline' ? 'Start the Python API on port 8000 to connect.' : 'Check the message beside your question, then retry.'}</p><button type="button" disabled={busy} onClick={checkConnection}>Check connection ↗</button></div>}
+        {(connection === 'offline' || connection === 'setup' || connection === 'issue') && <div className="coach-setup-note"><p>{connection === 'setup' ? 'Add your Groq key in backend/.env to connect the coach.' : connection === 'offline' ? 'Run npm start in the project folder, then open http://127.0.0.1:5173.' : 'Check the message beside your question, then retry.'}</p><button type="button" disabled={busy} onClick={checkConnection}>Check connection ↗</button></div>}
       </aside>
     </div>
   </section>;

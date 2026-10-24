@@ -75,7 +75,7 @@ export default function Analysis({ analysis, onAnalysis }) {
 
   return <section className="page" id="analysis">
     <div className="page-title">
-      <div><p className="eyebrow">TURN HAND HISTORIES INTO STUDY NOTES</p><h1>Session Analysis<span>.</span></h1><p>Upload a GG Poker hand-history text file to review parsed hands and heuristic feedback.</p></div>
+      <div><p className="eyebrow">SESSION REVIEW</p><h1>Session Analysis<span>.</span></h1><p>Upload a GG Poker hand-history text file to review parsed hands and heuristic feedback.</p></div>
       <span className="pill outlined">GG Poker · .txt · up to 10 MB</span>
     </div>
 

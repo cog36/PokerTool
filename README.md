@@ -28,7 +28,7 @@ npm start
 
 On Windows, install Python dependencies with `.\.venv\Scripts\python.exe -m pip install -r backend\requirements.txt` (use `.venv`, not `venv`, for this project's environment).
 
-For the frontend alone, run `npm run dev` from the project root with Node.js 22.12+ (or 20.19+).
+`npm run dev` also starts both services. For the frontend alone, run `npm run dev:frontend` from the project root with Node.js 22.12+ (or 20.19+).
 
 Open the local URL printed by Vite (usually `http://127.0.0.1:5173`). Both `/` and `/doc.html` load the React app.
 Use Vite rather than opening the HTML file directly or using Live Server; JSX requires the build tool.
@@ -55,9 +55,9 @@ Practice scores last for the current visit; notes, checklist choices, and theme 
 
 ## Play the AI Arena
 
-Open **AI Arena → Full-hand challenge** for **MTT/SNG chip-EV drills**. Each hand is an independent 100bb exercise with you and seven distinct types drawn from TAG, LAG, TP, LP, Nit, Maniac, Calling Station, Rock, Fit-or-Fold, ABC Player, Tricky / Deceptive, Exploitative Regular, and GTO-Oriented Regular.
+Open **AI Arena → Full-hand challenge** for **MTT/SNG chip-EV drills**. Each hand is an independent exercise at a randomly selected depth of **5, 10, 20, 40, or 100bb** with you and seven distinct types drawn from TAG, LAG, TP, LP, Nit, Maniac, Calling Station, Rock, Fit-or-Fold, ABC Player, Tricky / Deceptive, Exploitative Regular, and GTO-Oriented Regular.
 
-Every new hand redraws the roster and randomizes physical seating and the dealer. The hero and retained archetypes move to different physical seats; the hero's poker position also changes. Identities and archetypes stay fixed during the hand. Blinds and action order follow the physical seat order, even when the hero is not at the bottom of the screen. Each fresh drill restores everyone to 100bb; the session totals track actual chip gains/losses across drills rather than pretending this changing roster is one continuous tournament.
+Every new hand redraws the roster and randomizes physical seating and the dealer. The hero and retained archetypes move to different physical seats; the hero's poker position also changes. Identities and archetypes stay fixed during the hand. Blinds and action order follow the physical seat order, while the view keeps the hero bottom centre. Each fresh drill gives everyone the same randomly chosen starting depth; the session totals track actual chip gains/losses across drills rather than pretending this changing roster is one continuous tournament.
 
 Hands start **preflop**, with 0.5bb / 1bb blinds and no ante, and continue through flop, turn, and river. Every seat has a persistent chip pile for its current street contribution, plus exact action text: for example **Raise to 3bb**, **3-bet to 8bb**, or **Call 5bb** with an 8bb total pile. A call label is the additional amount paid; a raise-to label is the total for that street. Chips stay in front of the player until the betting round closes, then sweep into the pot. The history retains every street and bet size.
 
@@ -69,7 +69,7 @@ The active Arena bots use deterministic Monte Carlo samples of unseen cards (40 
 
 TAG, ABC, exploitative, and GTO-oriented bots use that baseline to filter negative estimated chip-EV calls/bets while retaining their profile's entry ranges and mixed actions. Loose/passive and overly aggressive archetypes intentionally deviate: a Calling Station can make a losing call, and a Maniac can make an excessive bluff. GTO-oriented describes a mixed heuristic profile, not an equilibrium solver.
 
-This is **chip accumulation practice**, not payout-equity training. There is no ICM, bubble risk premium, payout structure, blind clock, or progressive tournament field. It should not be treated as bubble/final-table advice; [chip EV and ICM differ](https://www.pokerstars.com/poker/learn/lesson/icm-and-its-impact-on-tournaments/). Variable stack depths and advanced tournament settings are deferred.
+This is **chip accumulation practice**, not payout-equity training. There is no ICM, bubble risk premium, payout structure, blind clock, or progressive tournament field. It should not be treated as bubble/final-table advice; [chip EV and ICM differ](https://www.pokerstars.com/poker/learn/lesson/icm-and-its-impact-on-tournaments/). Starting depths are sampled equally from 5, 10, 20, 40 and 100bb each hand; repeats are possible. Advanced tournament settings remain deferred.
 
 Dealer animations, thinking bubbles, chip movements and showdown reveals are retained. Cinematic / Quick play and Skip animations control pacing. Leaving the Arena pauses playback; reduced-motion preferences disable decorative movement. The **Read the opponent** quiz remains available as the second game.
 
@@ -95,7 +95,7 @@ source .venv/bin/activate
 python -m uvicorn backend.main:app --reload --host 127.0.0.1 --port 8000
 ```
 
-Start the frontend in another terminal with `npm run dev`, then open **AI Coach**.
+If you started Python separately, run `npm run dev:frontend` in another terminal, then open **AI Coach**. Otherwise use `npm start` or `npm run dev` to start both services together.
 Vite proxies `/api` requests to Python. The API reads saved settings on every request. `backend/.env` takes priority over the legacy root `.env`; explicit shell environment variables take priority over both.
 `GET /api/health` reports whether a key is configured, not whether it is valid.
 `POST /api/chat` accepts `{ "messages": [{ "role": "user", "content": "Explain position" }], "mode": "constructive" }`.
@@ -231,3 +231,7 @@ GTOpen is **not installed or connected**. Its [official API documentation](https
 Every played action now includes a short public-information explanation, displayed as its animation plays. Calls show the immediate price/equity threshold (capped for side-pot coverage); raises explain the extra risk, and checks/folds explain their tradeoff. This is heuristic commentary, not an evaluation against solved ranges or proof a move is correct. Skipping animations retains the skipped actions in the collapsed recent-action list.
 
 Hero moves also request a two-sentence AI review; the table keeps updating while it loads, and works if the coach is offline. Only the latest insight and latest hero review remain expanded. Older actions are capped at twelve entries. Initial avatars replace Arena emoji characters, and table talk starts muted to keep the felt uncluttered.
+
+### Gradual coaching replies
+
+Coach replies are fetched from the Python API as before, then displayed progressively word by word. This is a frontend reveal, not token streaming from the provider. Use **Show full response** to finish immediately, or **New chat** to clear it. The complete reply is retained for conversation context and copying. Arena AI notes use the same reveal; immediate local table insights remain instant. Hand Library has been removed from navigation and the overview links to Study Notebook instead.

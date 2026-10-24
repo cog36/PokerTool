@@ -258,6 +258,7 @@ test('random physical seats determine blinds and action order without changing h
 test('chip-EV tournament hands keep archetypes fixed and conserve chips through sampled decisions', () => {
   for (const seed of [11, 17, 31]) {
     let hand = createTournamentHand({ random: seeded(seed) });
+    const total = hand.stackDepthBB * 2 * 8;
     const roster = hand.players.map(player => [player.id, player.archetype, player.seat]);
     hand = last(planOpening(hand), hand);
     let decisions = 0;
@@ -266,8 +267,34 @@ test('chip-EV tournament hands keep archetypes fixed and conserve chips through 
       const frames = planAction(hand, legal.canCheck ? 'check' : 'call');
       hand = last(frames, hand);
       assert.deepEqual(hand.players.map(player => [player.id, player.archetype, player.seat]), roster);
-      assert.equal(chips(hand), 1600);
+      assert.equal(chips(hand), total);
       assert.ok(++decisions < 200);
     }
+  }
+});
+
+
+test('Arena randomly selects all five starting depths and preserves them through settlement', () => {
+  const depths = [5, 10, 20, 40, 100];
+  let previous = null;
+  for (let index = 0; index < depths.length; index++) {
+    const depth = depths[index];
+    let first = true;
+    const rng = seeded(900 + index);
+    let hand = createTournamentHand({ number: index + 1, previous, random: () => { if (first) { first = false; return (index + .5) / 5; } return rng(); } });
+    assert.equal(hand.stackDepthBB, depth);
+    assert.deepEqual(hand.startingStacks, Array(8).fill(depth * 2));
+    assert.ok(hand.players.every(player => player.stack + player.committed === depth * 2));
+    hand = last(planOpening(hand), hand);
+    let moves = 0;
+    while (hand.phase !== 'complete') {
+      const legal = legalActions(hand);
+      hand = last(planAction(hand, legal.canCheck ? 'check' : 'call'), hand);
+      assert.ok(++moves < 200);
+    }
+    assert.equal(chips(hand), depth * 16);
+    assert.equal(hand.stackDepthBB, depth);
+    assert.equal(hand.startingStacks[0], depth * 2);
+    previous = hand;
   }
 });
