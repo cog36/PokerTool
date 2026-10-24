@@ -1,0 +1,1203 @@
+﻿Betfair Hand #262410197678: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level II (60/120) - 2026/10/15 23:25:00 CUST [2026/10/15 18:25:00 ET]
+Table '4039980540 10' 8-max Seat #6 is the button
+Seat 1: Jowzera9k (6769 in chips) 
+Seat 2: tonytuko69 (9780 in chips) 
+Seat 3: Furhall (4711 in chips) 
+Seat 4: Fridgington (5026 in chips) 
+Seat 5: bullets685 (5000 in chips) is sitting out
+Seat 6: BoskoBiati8! (5208 in chips) 
+Seat 7: dart738 (4811 in chips) 
+Jowzera9k: posts the ante 18
+tonytuko69: posts the ante 18
+Furhall: posts the ante 18
+Fridgington: posts the ante 18
+bullets685: posts the ante 18
+BoskoBiati8!: posts the ante 18
+dart738: posts the ante 18
+dart738: posts small blind 60
+Jowzera9k: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [3d 3h]
+ad.macedo is disconnected 
+tonytuko69: folds 
+Furhall: raises 120 to 240
+Fridgington: folds 
+bullets685: folds 
+BoskoBiati8!: folds 
+dart738: calls 180
+Jowzera9k: folds 
+*** FLOP *** [2s 8s 6d]
+dart738: checks 
+Furhall: checks 
+*** TURN *** [2s 8s 6d] [6c]
+dart738: checks 
+Furhall: checks 
+*** RIVER *** [2s 8s 6d 6c] [Tc]
+dart738: bets 240
+Furhall: calls 240
+*** SHOW DOWN ***
+dart738: shows [Qc Td] (two pair, Tens and Sixes)
+Furhall: shows [Ac Ts] (two pair, Tens and Sixes - Ace kicker)
+Furhall collected 1206 from pot
+*** SUMMARY ***
+Total pot 1206 | Rake 0 
+Board [2s 8s 6d 6c Tc]
+Seat 1: Jowzera9k (big blind) folded before Flop
+Seat 2: tonytuko69 folded before Flop (didn't bet)
+Seat 3: Furhall showed [Ac Ts] and won (1206) with two pair, Tens and Sixes
+Seat 4: Fridgington folded before Flop (didn't bet)
+Seat 5: bullets685 folded before Flop (didn't bet)
+Seat 6: BoskoBiati8! (button) folded before Flop (didn't bet)
+Seat 7: dart738 (small blind) showed [Qc Td] and lost with two pair, Tens and Sixes
+
+
+
+Betfair Hand #262410204584: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level II (60/120) - 2026/10/15 23:25:38 CUST [2026/10/15 18:25:38 ET]
+Table '4039980540 10' 8-max Seat #7 is the button
+Seat 1: Jowzera9k (6631 in chips) 
+Seat 3: Furhall (5419 in chips) 
+Seat 4: Fridgington (5008 in chips) 
+Seat 5: bullets685 (4982 in chips) is sitting out
+Seat 6: BoskoBiati8! (5190 in chips) 
+Seat 7: dart738 (4313 in chips) 
+Seat 8: ad.macedo (5000 in chips) out of hand (moved from another table into small blind)
+ad.macedo will be allowed to play after the button
+Jowzera9k: posts the ante 18
+Furhall: posts the ante 18
+Fridgington: posts the ante 18
+bullets685: posts the ante 18
+BoskoBiati8!: posts the ante 18
+dart738: posts the ante 18
+Jowzera9k: posts small blind 60
+Furhall: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [4c 6d]
+Fridgington: calls 120
+bullets685: folds 
+BoskoBiati8!: raises 480 to 600
+dart738: folds 
+Jowzera9k: folds 
+Diegox1911 is disconnected 
+Furhall: folds 
+Fridgington: calls 480
+*** FLOP *** [Ks 2s Js]
+bullets685 has returned
+Fridgington: bets 360
+BoskoBiati8!: raises 1104 to 1464
+Fridgington: calls 1104
+*** TURN *** [Ks 2s Js] [7s]
+Fridgington: bets 2926 and is all-in
+BoskoBiati8!: calls 2926
+*** RIVER *** [Ks 2s Js 7s] [2d]
+*** SHOW DOWN ***
+Fridgington: shows [9s Jd] (a flush, King high)
+BoskoBiati8!: shows [6s 6h] (a flush, King high - lower cards)
+Fridgington collected 10268 from pot
+*** SUMMARY ***
+Total pot 10268 | Rake 0 
+Board [Ks 2s Js 7s 2d]
+Seat 1: Jowzera9k (small blind) folded before Flop
+Seat 3: Furhall (big blind) folded before Flop
+Seat 4: Fridgington showed [9s Jd] and won (10268) with a flush, King high
+Seat 5: bullets685 folded before Flop (didn't bet)
+Seat 6: BoskoBiati8! showed [6s 6h] and lost with a flush, King high
+Seat 7: dart738 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262410212305: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level II (60/120) - 2026/10/15 23:26:21 CUST [2026/10/15 18:26:21 ET]
+Table '4039980540 10' 8-max Seat #1 is the button
+Seat 1: Jowzera9k (6553 in chips) 
+Seat 2: Diegox1911 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 3: Furhall (5281 in chips) 
+Seat 4: Fridgington (10268 in chips) 
+Seat 5: bullets685 (4964 in chips) 
+Seat 6: BoskoBiati8! (182 in chips) 
+Seat 7: dart738 (4295 in chips) 
+Seat 8: ad.macedo (5000 in chips) 
+Diegox1911 will be allowed to play after the button
+Jowzera9k: posts the ante 18
+Furhall: posts the ante 18
+Fridgington: posts the ante 18
+bullets685: posts the ante 18
+BoskoBiati8!: posts the ante 18
+dart738: posts the ante 18
+ad.macedo: posts the ante 18
+Furhall: posts small blind 60
+Fridgington: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 4c]
+bullets685: folds 
+BoskoBiati8!: raises 44 to 164 and is all-in
+dart738: calls 164
+ad.macedo: calls 164
+Jowzera9k: folds 
+Furhall: folds 
+Fridgington: calls 44
+*** FLOP *** [Ts 4s Js]
+Fridgington: checks 
+dart738: bets 120
+ad.macedo: calls 120
+Fridgington: folds 
+*** TURN *** [Ts 4s Js] [Jc]
+dart738: bets 360
+ad.macedo: calls 360
+*** RIVER *** [Ts 4s Js Jc] [4d]
+dart738: checks 
+ad.macedo: checks 
+*** SHOW DOWN ***
+dart738: shows [Ah 6s] (two pair, Jacks and Fours)
+ad.macedo: shows [Td Ac] (two pair, Jacks and Tens)
+ad.macedo collected 960 from side pot
+BoskoBiati8!: mucks hand 
+ad.macedo collected 842 from main pot
+BoskoBiati8! finished the tournament
+*** SUMMARY ***
+Total pot 1802 Main pot 842. Side pot 960. | Rake 0 
+Board [Ts 4s Js Jc 4d]
+Seat 1: Jowzera9k (button) folded before Flop (didn't bet)
+Seat 3: Furhall (small blind) folded before Flop
+Seat 4: Fridgington (big blind) folded on the Flop
+Seat 5: bullets685 folded before Flop (didn't bet)
+Seat 6: BoskoBiati8! mucked [2c Kd]
+Seat 7: dart738 showed [Ah 6s] and lost with two pair, Jacks and Fours
+Seat 8: ad.macedo showed [Td Ac] and won (1802) with two pair, Jacks and Tens
+
+
+
+Betfair Hand #262410221684: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level II (60/120) - 2026/10/15 23:27:14 CUST [2026/10/15 18:27:14 ET]
+Table '4039980540 10' 8-max Seat #3 is the button
+Seat 1: Jowzera9k (6535 in chips) 
+Seat 2: Diegox1911 (5000 in chips) 
+Seat 3: Furhall (5203 in chips) 
+Seat 4: Fridgington (10086 in chips) 
+Seat 5: bullets685 (4946 in chips) 
+Seat 7: dart738 (3633 in chips) 
+Seat 8: ad.macedo (6140 in chips) 
+Jowzera9k: posts the ante 18
+Diegox1911: posts the ante 18
+Furhall: posts the ante 18
+Fridgington: posts the ante 18
+bullets685: posts the ante 18
+dart738: posts the ante 18
+ad.macedo: posts the ante 18
+Fridgington: posts small blind 60
+bullets685: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [7d 3c]
+dart738: folds 
+ad.macedo: calls 120
+Jowzera9k: folds 
+Diegox1911: folds 
+Furhall: folds 
+Fridgington: folds 
+SECA_KING is disconnected 
+bullets685: checks 
+*** FLOP *** [Ah Ks 5c]
+bullets685: checks 
+ad.macedo: checks 
+*** TURN *** [Ah Ks 5c] [2d]
+bullets685: checks 
+ad.macedo: checks 
+*** RIVER *** [Ah Ks 5c 2d] [4s]
+bullets685: bets 240
+ad.macedo: folds 
+Uncalled bet (240) returned to bullets685
+bullets685 collected 426 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 426 | Rake 0 
+Board [Ah Ks 5c 2d 4s]
+Seat 1: Jowzera9k folded before Flop (didn't bet)
+Seat 2: Diegox1911 folded before Flop (didn't bet)
+Seat 3: Furhall (button) folded before Flop (didn't bet)
+Seat 4: Fridgington (small blind) folded before Flop
+Seat 5: bullets685 (big blind) collected (426)
+Seat 7: dart738 folded before Flop (didn't bet)
+Seat 8: ad.macedo folded on the River
+
+
+
+Betfair Hand #262410233286: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level III (70/140) - 2026/10/15 23:28:20 CUST [2026/10/15 18:28:20 ET]
+Table '4039980540 10' 8-max Seat #4 is the button
+Seat 1: Jowzera9k (6517 in chips) 
+Seat 2: Diegox1911 (4982 in chips) 
+Seat 3: Furhall (5185 in chips) 
+Seat 4: Fridgington (10008 in chips) 
+Seat 5: bullets685 (5234 in chips) 
+Seat 6: SECA_KING (5000 in chips) 
+Seat 7: dart738 (3615 in chips) 
+Seat 8: ad.macedo (6002 in chips) 
+Jowzera9k: posts the ante 21
+Diegox1911: posts the ante 21
+Furhall: posts the ante 21
+Fridgington: posts the ante 21
+bullets685: posts the ante 21
+SECA_KING: posts the ante 21
+dart738: posts the ante 21
+ad.macedo: posts the ante 21
+bullets685: posts small blind 70
+SECA_KING: posts big blind 140
+*** HOLE CARDS ***
+Dealt to bullets685 [7s Kh]
+dart738: raises 140 to 280
+ad.macedo: folds 
+Jowzera9k: folds 
+Diegox1911: folds 
+Furhall: folds 
+Fridgington: folds 
+bullets685: folds 
+SECA_KING: folds 
+Uncalled bet (140) returned to dart738
+dart738 collected 518 from pot
+*** SUMMARY ***
+Total pot 518 | Rake 0 
+Seat 1: Jowzera9k folded before Flop (didn't bet)
+Seat 2: Diegox1911 folded before Flop (didn't bet)
+Seat 3: Furhall folded before Flop (didn't bet)
+Seat 4: Fridgington (button) folded before Flop (didn't bet)
+Seat 5: bullets685 (small blind) folded before Flop
+Seat 6: SECA_KING (big blind) folded before Flop
+Seat 7: dart738 collected (518)
+Seat 8: ad.macedo folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262410236924: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level III (70/140) - 2026/10/15 23:28:40 CUST [2026/10/15 18:28:40 ET]
+Table '4039980540 10' 8-max Seat #5 is the button
+Seat 1: Jowzera9k (6496 in chips) 
+Seat 2: Diegox1911 (4961 in chips) 
+Seat 3: Furhall (5164 in chips) 
+Seat 4: Fridgington (9987 in chips) 
+Seat 5: bullets685 (5143 in chips) 
+Seat 6: SECA_KING (4839 in chips) 
+Seat 7: dart738 (3972 in chips) 
+Jowzera9k: posts the ante 21
+Diegox1911: posts the ante 21
+Furhall: posts the ante 21
+Fridgington: posts the ante 21
+bullets685: posts the ante 21
+SECA_KING: posts the ante 21
+dart738: posts the ante 21
+SECA_KING: posts small blind 70
+dart738: posts big blind 140
+*** HOLE CARDS ***
+Dealt to bullets685 [6c 9s]
+Jowzera9k: folds 
+Diegox1911: raises 154 to 294
+Furhall: folds 
+Fridgington: folds 
+bullets685: folds 
+SECA_KING: calls 224
+dart738: calls 154
+*** FLOP *** [2d Qc Jc]
+SECA_KING: checks 
+dart738: bets 560
+Diegox1911: folds 
+SECA_KING: calls 560
+*** TURN *** [2d Qc Jc] [7s]
+SECA_KING: checks 
+dart738: bets 3097 and is all-in
+SECA_KING: folds 
+Uncalled bet (3097) returned to dart738
+dart738 collected 2149 from pot
+*** SUMMARY ***
+Total pot 2149 | Rake 0 
+Board [2d Qc Jc 7s]
+Seat 1: Jowzera9k folded before Flop (didn't bet)
+Seat 2: Diegox1911 folded on the Flop
+Seat 3: Furhall folded before Flop (didn't bet)
+Seat 4: Fridgington folded before Flop (didn't bet)
+Seat 5: bullets685 (button) folded before Flop (didn't bet)
+Seat 6: SECA_KING (small blind) folded on the Turn
+Seat 7: dart738 (big blind) collected (2149)
+
+
+
+Betfair Hand #262410244887: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level III (70/140) - 2026/10/15 23:29:26 CUST [2026/10/15 18:29:26 ET]
+Table '4039980540 10' 8-max Seat #6 is the button
+Seat 1: Jowzera9k (6475 in chips) 
+Seat 2: Diegox1911 (4646 in chips) 
+Seat 3: Furhall (5143 in chips) 
+Seat 4: Fridgington (9966 in chips) 
+Seat 5: bullets685 (5122 in chips) 
+Seat 6: SECA_KING (3964 in chips) 
+Seat 7: dart738 (5246 in chips) 
+Seat 8: DAUM12 (5000 in chips) 
+Jowzera9k: posts the ante 21
+Diegox1911: posts the ante 21
+Furhall: posts the ante 21
+Fridgington: posts the ante 21
+bullets685: posts the ante 21
+SECA_KING: posts the ante 21
+dart738: posts the ante 21
+DAUM12: posts the ante 21
+dart738: posts small blind 70
+DAUM12: posts big blind 140
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh Ad]
+Jowzera9k: raises 182 to 322
+Diegox1911: calls 322
+Furhall: folds 
+Fridgington: folds 
+bullets685: raises 518 to 840
+SECA_KING: folds 
+dart738: folds 
+DAUM12: calls 700
+Jowzera9k: folds 
+Diegox1911: calls 518
+*** FLOP *** [Kc 7d 8d]
+DAUM12: checks 
+Diegox1911: checks 
+bullets685: bets 1400
+DAUM12: folds 
+Diegox1911: raises 2385 to 3785 and is all-in
+bullets685: folds 
+Uncalled bet (2385) returned to Diegox1911
+Diegox1911 collected 5880 from pot
+Diegox1911: doesn't show hand 
+*** SUMMARY ***
+Total pot 5880 | Rake 0 
+Board [Kc 7d 8d]
+Seat 1: Jowzera9k folded before Flop
+Seat 2: Diegox1911 collected (5880)
+Seat 3: Furhall folded before Flop (didn't bet)
+Seat 4: Fridgington folded before Flop (didn't bet)
+Seat 5: bullets685 folded on the Flop
+Seat 6: SECA_KING (button) folded before Flop (didn't bet)
+Seat 7: dart738 (small blind) folded before Flop
+Seat 8: DAUM12 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262410257138: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level III (70/140) - 2026/10/15 23:30:36 CUST [2026/10/15 18:30:36 ET]
+Table '4039980540 10' 8-max Seat #7 is the button
+Seat 1: Jowzera9k (6132 in chips) 
+Seat 2: Diegox1911 (8265 in chips) 
+Seat 3: Furhall (5122 in chips) 
+Seat 4: Fridgington (9945 in chips) 
+Seat 5: bullets685 (2861 in chips) 
+Seat 6: SECA_KING (3943 in chips) 
+Seat 7: dart738 (5155 in chips) 
+Seat 8: DAUM12 (4139 in chips) 
+Jowzera9k: posts the ante 21
+Diegox1911: posts the ante 21
+Furhall: posts the ante 21
+Fridgington: posts the ante 21
+bullets685: posts the ante 21
+SECA_KING: posts the ante 21
+dart738: posts the ante 21
+DAUM12: posts the ante 21
+DAUM12: posts small blind 70
+Jowzera9k: posts big blind 140
+*** HOLE CARDS ***
+Dealt to bullets685 [3h Kd]
+Diegox1911: folds 
+Furhall: folds 
+Fridgington: folds 
+bullets685: folds 
+SECA_KING: folds 
+dart738: calls 140
+DAUM12: folds 
+Jowzera9k: checks 
+*** FLOP *** [5c Js 5h]
+Jowzera9k: checks 
+dart738: bets 518
+Jowzera9k: folds 
+Uncalled bet (518) returned to dart738
+dart738 collected 518 from pot
+*** SUMMARY ***
+Total pot 518 | Rake 0 
+Board [5c Js 5h]
+Seat 1: Jowzera9k (big blind) folded on the Flop
+Seat 2: Diegox1911 folded before Flop (didn't bet)
+Seat 3: Furhall folded before Flop (didn't bet)
+Seat 4: Fridgington folded before Flop (didn't bet)
+Seat 5: bullets685 folded before Flop (didn't bet)
+Seat 6: SECA_KING folded before Flop (didn't bet)
+Seat 7: dart738 (button) collected (518)
+Seat 8: DAUM12 (small blind) folded before Flop
+
+
+
+Betfair Hand #262410261599: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level III (70/140) - 2026/10/15 23:31:01 CUST [2026/10/15 18:31:01 ET]
+Table '4039980540 10' 8-max Seat #8 is the button
+Seat 1: Jowzera9k (5971 in chips) 
+Seat 2: Diegox1911 (8244 in chips) 
+Seat 3: Furhall (5101 in chips) 
+Seat 4: Fridgington (9924 in chips) 
+Seat 5: bullets685 (2840 in chips) 
+Seat 6: SECA_KING (3922 in chips) 
+Seat 7: dart738 (5512 in chips) 
+Seat 8: DAUM12 (4048 in chips) 
+Jowzera9k: posts the ante 21
+Diegox1911: posts the ante 21
+Furhall: posts the ante 21
+Fridgington: posts the ante 21
+bullets685: posts the ante 21
+SECA_KING: posts the ante 21
+dart738: posts the ante 21
+DAUM12: posts the ante 21
+Jowzera9k: posts small blind 70
+Diegox1911: posts big blind 140
+*** HOLE CARDS ***
+Dealt to bullets685 [7h 4d]
+Furhall: folds 
+Fridgington: raises 140 to 280
+bullets685: folds 
+SECA_KING: folds 
+dart738: folds 
+DAUM12: calls 280
+Jowzera9k: folds 
+Diegox1911: calls 140
+*** FLOP *** [7d 2c Jd]
+Diegox1911: checks 
+Fridgington: bets 420
+DAUM12: calls 420
+Diegox1911: folds 
+*** TURN *** [7d 2c Jd] [7c]
+Fridgington: bets 560
+DAUM12: folds 
+Uncalled bet (560) returned to Fridgington
+Fridgington collected 1918 from pot
+Fridgington: doesn't show hand 
+*** SUMMARY ***
+Total pot 1918 | Rake 0 
+Board [7d 2c Jd 7c]
+Seat 1: Jowzera9k (small blind) folded before Flop
+Seat 2: Diegox1911 (big blind) folded on the Flop
+Seat 3: Furhall folded before Flop (didn't bet)
+Seat 4: Fridgington collected (1918)
+Seat 5: bullets685 folded before Flop (didn't bet)
+Seat 6: SECA_KING folded before Flop (didn't bet)
+Seat 7: dart738 folded before Flop (didn't bet)
+Seat 8: DAUM12 (button) folded on the Turn
+
+
+
+Betfair Hand #262410267889: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level III (70/140) - 2026/10/15 23:31:37 CUST [2026/10/15 18:31:37 ET]
+Table '4039980540 10' 8-max Seat #1 is the button
+Seat 1: Jowzera9k (5880 in chips) 
+Seat 2: Diegox1911 (7943 in chips) 
+Seat 3: Furhall (5080 in chips) 
+Seat 4: Fridgington (11121 in chips) 
+Seat 5: bullets685 (2819 in chips) 
+Seat 6: SECA_KING (3901 in chips) 
+Seat 7: dart738 (5491 in chips) 
+Seat 8: DAUM12 (3327 in chips) 
+Jowzera9k: posts the ante 21
+Diegox1911: posts the ante 21
+Furhall: posts the ante 21
+Fridgington: posts the ante 21
+bullets685: posts the ante 21
+SECA_KING: posts the ante 21
+dart738: posts the ante 21
+DAUM12: posts the ante 21
+Diegox1911: posts small blind 70
+Furhall: posts big blind 140
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 8c]
+Fridgington: raises 140 to 280
+bullets685: folds 
+SECA_KING: folds 
+dart738: calls 280
+DAUM12: folds 
+Jowzera9k: calls 280
+Diegox1911: folds 
+Furhall: folds 
+*** FLOP *** [7s 4c Jh]
+Fridgington: checks 
+dart738: bets 609
+Jowzera9k: folds 
+Fridgington: folds 
+Uncalled bet (609) returned to dart738
+dart738 collected 1218 from pot
+*** SUMMARY ***
+Total pot 1218 | Rake 0 
+Board [7s 4c Jh]
+Seat 1: Jowzera9k (button) folded on the Flop
+Seat 2: Diegox1911 (small blind) folded before Flop
+Seat 3: Furhall (big blind) folded before Flop
+Seat 4: Fridgington folded on the Flop
+Seat 5: bullets685 folded before Flop (didn't bet)
+Seat 6: SECA_KING folded before Flop (didn't bet)
+Seat 7: dart738 collected (1218)
+Seat 8: DAUM12 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262410275603: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level III (70/140) - 2026/10/15 23:32:22 CUST [2026/10/15 18:32:22 ET]
+Table '4039980540 10' 8-max Seat #2 is the button
+Seat 1: Jowzera9k (5579 in chips) 
+Seat 2: Diegox1911 (7852 in chips) 
+Seat 3: Furhall (4919 in chips) 
+Seat 4: Fridgington (10820 in chips) 
+Seat 5: bullets685 (2798 in chips) 
+Seat 6: SECA_KING (3880 in chips) 
+Seat 7: dart738 (6408 in chips) 
+Seat 8: DAUM12 (3306 in chips) 
+Jowzera9k: posts the ante 21
+Diegox1911: posts the ante 21
+Furhall: posts the ante 21
+Fridgington: posts the ante 21
+bullets685: posts the ante 21
+SECA_KING: posts the ante 21
+dart738: posts the ante 21
+DAUM12: posts the ante 21
+Furhall: posts small blind 70
+Fridgington: posts big blind 140
+*** HOLE CARDS ***
+Dealt to bullets685 [8s Th]
+bullets685: folds 
+SECA_KING: folds 
+dart738: raises 140 to 280
+DAUM12: calls 280
+Jowzera9k: folds 
+Diegox1911: folds 
+Furhall: folds 
+Fridgington: calls 140
+*** FLOP *** [7d Jd Qs]
+Fridgington: checks 
+dart738: bets 140
+DAUM12: calls 140
+Fridgington: calls 140
+*** TURN *** [7d Jd Qs] [7s]
+Fridgington: checks 
+dart738: checks 
+DAUM12: checks 
+*** RIVER *** [7d Jd Qs 7s] [8d]
+Fridgington: bets 280
+dart738: calls 280
+DAUM12: folds 
+*** SHOW DOWN ***
+Fridgington: shows [6s 8h] (two pair, Eights and Sevens)
+dart738: shows [Ks Jh] (two pair, Jacks and Sevens)
+dart738 collected 2058 from pot
+*** SUMMARY ***
+Total pot 2058 | Rake 0 
+Board [7d Jd Qs 7s 8d]
+Seat 1: Jowzera9k folded before Flop (didn't bet)
+Seat 2: Diegox1911 (button) folded before Flop (didn't bet)
+Seat 3: Furhall (small blind) folded before Flop
+Seat 4: Fridgington (big blind) showed [6s 8h] and lost with two pair, Eights and Sevens
+Seat 5: bullets685 folded before Flop (didn't bet)
+Seat 6: SECA_KING folded before Flop (didn't bet)
+Seat 7: dart738 showed [Ks Jh] and won (2058) with two pair, Jacks and Sevens
+Seat 8: DAUM12 folded on the River
+
+
+
+Betfair Hand #262410282894: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level IV (80/160) - 2026/10/15 23:33:05 CUST [2026/10/15 18:33:05 ET]
+Table '4039980540 10' 8-max Seat #3 is the button
+Seat 1: Jowzera9k (5558 in chips) 
+Seat 2: Diegox1911 (7831 in chips) 
+Seat 3: Furhall (4828 in chips) 
+Seat 4: Fridgington (10099 in chips) 
+Seat 5: bullets685 (2777 in chips) 
+Seat 6: SECA_KING (3859 in chips) 
+Seat 7: dart738 (7745 in chips) 
+Seat 8: DAUM12 (2865 in chips) 
+Jowzera9k: posts the ante 24
+Diegox1911: posts the ante 24
+Furhall: posts the ante 24
+Fridgington: posts the ante 24
+bullets685: posts the ante 24
+SECA_KING: posts the ante 24
+dart738: posts the ante 24
+DAUM12: posts the ante 24
+Fridgington: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [4h Tc]
+SECA_KING: raises 192 to 352
+dart738: calls 352
+DAUM12: calls 352
+Jowzera9k: folds 
+Diegox1911: folds 
+Furhall: folds 
+Fridgington: calls 272
+bullets685: folds 
+*** FLOP *** [Kh Ks Td]
+Fridgington: bets 320
+SECA_KING: calls 320
+dart738: folds 
+DAUM12: calls 320
+*** TURN *** [Kh Ks Td] [9c]
+Fridgington: bets 320
+SECA_KING: calls 320
+DAUM12: calls 320
+*** RIVER *** [Kh Ks Td 9c] [4s]
+Fridgington: checks 
+SECA_KING: checks 
+DAUM12: checks 
+*** SHOW DOWN ***
+Fridgington: shows [2s 2h] (two pair, Kings and Deuces)
+SECA_KING: mucks hand 
+DAUM12: mucks hand 
+Fridgington collected 3680 from pot
+*** SUMMARY ***
+Total pot 3680 | Rake 0 
+Board [Kh Ks Td 9c 4s]
+Seat 1: Jowzera9k folded before Flop (didn't bet)
+Seat 2: Diegox1911 folded before Flop (didn't bet)
+Seat 3: Furhall (button) folded before Flop (didn't bet)
+Seat 4: Fridgington (small blind) showed [2s 2h] and won (3680) with two pair, Kings and Deuces
+Seat 5: bullets685 (big blind) folded before Flop
+Seat 6: SECA_KING mucked [As Qd]
+Seat 7: dart738 folded on the Flop
+Seat 8: DAUM12 mucked [Ad Jh]
+
+
+
+Betfair Hand #262410292447: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level IV (80/160) - 2026/10/15 23:34:01 CUST [2026/10/15 18:34:01 ET]
+Table '4039980540 10' 8-max Seat #4 is the button
+Seat 1: Jowzera9k (5534 in chips) 
+Seat 2: Diegox1911 (7807 in chips) 
+Seat 3: Furhall (4804 in chips) 
+Seat 4: Fridgington (12763 in chips) 
+Seat 5: bullets685 (2593 in chips) 
+Seat 6: SECA_KING (2843 in chips) 
+Seat 7: dart738 (7369 in chips) 
+Seat 8: DAUM12 (1849 in chips) 
+Jowzera9k: posts the ante 24
+Diegox1911: posts the ante 24
+Furhall: posts the ante 24
+Fridgington: posts the ante 24
+bullets685: posts the ante 24
+SECA_KING: posts the ante 24
+dart738: posts the ante 24
+DAUM12: posts the ante 24
+bullets685: posts small blind 80
+SECA_KING: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [7c 7h]
+dart738: calls 160
+DAUM12: folds 
+Jowzera9k: folds 
+Diegox1911: raises 400 to 560
+Furhall: folds 
+Fridgington: folds 
+bullets685: raises 2009 to 2569 and is all-in
+SECA_KING: folds 
+dart738: folds 
+Diegox1911: folds 
+Uncalled bet (2009) returned to bullets685
+bullets685 collected 1632 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1632 | Rake 0 
+Seat 1: Jowzera9k folded before Flop (didn't bet)
+Seat 2: Diegox1911 folded before Flop
+Seat 3: Furhall folded before Flop (didn't bet)
+Seat 4: Fridgington (button) folded before Flop (didn't bet)
+Seat 5: bullets685 (small blind) collected (1632)
+Seat 6: SECA_KING (big blind) folded before Flop
+Seat 7: dart738 folded before Flop
+Seat 8: DAUM12 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262410297959: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level IV (80/160) - 2026/10/15 23:34:34 CUST [2026/10/15 18:34:34 ET]
+Table '4039980540 10' 8-max Seat #5 is the button
+Seat 1: Jowzera9k (5510 in chips) 
+Seat 2: Diegox1911 (7223 in chips) 
+Seat 3: Furhall (4780 in chips) 
+Seat 4: Fridgington (12739 in chips) 
+Seat 5: bullets685 (3641 in chips) 
+Seat 6: SECA_KING (2659 in chips) 
+Seat 7: dart738 (7185 in chips) 
+Seat 8: DAUM12 (1825 in chips) 
+Jowzera9k: posts the ante 24
+Diegox1911: posts the ante 24
+Furhall: posts the ante 24
+Fridgington: posts the ante 24
+bullets685: posts the ante 24
+SECA_KING: posts the ante 24
+dart738: posts the ante 24
+DAUM12: posts the ante 24
+SECA_KING: posts small blind 80
+dart738: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [5d 6h]
+DAUM12: folds 
+Jowzera9k: folds 
+Diegox1911: folds 
+Furhall: raises 160 to 320
+Fridgington: folds 
+bullets685: folds 
+SECA_KING: folds 
+dart738: folds 
+Uncalled bet (160) returned to Furhall
+Furhall collected 592 from pot
+Furhall: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: Jowzera9k folded before Flop (didn't bet)
+Seat 2: Diegox1911 folded before Flop (didn't bet)
+Seat 3: Furhall collected (592)
+Seat 4: Fridgington folded before Flop (didn't bet)
+Seat 5: bullets685 (button) folded before Flop (didn't bet)
+Seat 6: SECA_KING (small blind) folded before Flop
+Seat 7: dart738 (big blind) folded before Flop
+Seat 8: DAUM12 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262410300198: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level IV (80/160) - 2026/10/15 23:34:47 CUST [2026/10/15 18:34:47 ET]
+Table '4039980540 10' 8-max Seat #6 is the button
+Seat 1: Jowzera9k (5486 in chips) 
+Seat 2: Diegox1911 (7199 in chips) 
+Seat 3: Furhall (5188 in chips) 
+Seat 4: Fridgington (12715 in chips) 
+Seat 5: bullets685 (3617 in chips) 
+Seat 6: SECA_KING (2555 in chips) 
+Seat 7: dart738 (7001 in chips) 
+Seat 8: DAUM12 (1801 in chips) 
+Jowzera9k: posts the ante 24
+Diegox1911: posts the ante 24
+Furhall: posts the ante 24
+Fridgington: posts the ante 24
+bullets685: posts the ante 24
+SECA_KING: posts the ante 24
+dart738: posts the ante 24
+DAUM12: posts the ante 24
+dart738: posts small blind 80
+DAUM12: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc 4h]
+Jowzera9k: folds 
+Diegox1911: raises 160 to 320
+Furhall: folds 
+Fridgington: folds 
+bullets685: folds 
+SECA_KING: folds 
+dart738: calls 240
+DAUM12: folds 
+*** FLOP *** [8d 3h Kc]
+dart738: checks 
+Diegox1911: bets 240
+dart738: folds 
+Uncalled bet (240) returned to Diegox1911
+Diegox1911 collected 992 from pot
+Diegox1911: doesn't show hand 
+*** SUMMARY ***
+Total pot 992 | Rake 0 
+Board [8d 3h Kc]
+Seat 1: Jowzera9k folded before Flop (didn't bet)
+Seat 2: Diegox1911 collected (992)
+Seat 3: Furhall folded before Flop (didn't bet)
+Seat 4: Fridgington folded before Flop (didn't bet)
+Seat 5: bullets685 folded before Flop (didn't bet)
+Seat 6: SECA_KING (button) folded before Flop (didn't bet)
+Seat 7: dart738 (small blind) folded on the Flop
+Seat 8: DAUM12 (big blind) folded before Flop
+
+
+
+Betfair Hand #262410307175: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level IV (80/160) - 2026/10/15 23:35:28 CUST [2026/10/15 18:35:28 ET]
+Table '4039980540 10' 8-max Seat #7 is the button
+Seat 1: Jowzera9k (5462 in chips) 
+Seat 2: Diegox1911 (7847 in chips) 
+Seat 3: Furhall (5164 in chips) 
+Seat 4: Fridgington (12691 in chips) 
+Seat 5: bullets685 (3593 in chips) 
+Seat 6: SECA_KING (2531 in chips) 
+Seat 7: dart738 (6657 in chips) 
+Seat 8: DAUM12 (1617 in chips) 
+Jowzera9k: posts the ante 24
+Diegox1911: posts the ante 24
+Furhall: posts the ante 24
+Fridgington: posts the ante 24
+bullets685: posts the ante 24
+SECA_KING: posts the ante 24
+dart738: posts the ante 24
+DAUM12: posts the ante 24
+DAUM12: posts small blind 80
+Jowzera9k: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [As 7d]
+Diegox1911: folds 
+Furhall: folds 
+Fridgington: raises 160 to 320
+bullets685: calls 320
+SECA_KING: folds 
+dart738: calls 320
+DAUM12: raises 1273 to 1593 and is all-in
+Jowzera9k: folds 
+Fridgington: calls 1273
+bullets685: folds 
+dart738: folds 
+*** FLOP *** [4c 4s 2d]
+*** TURN *** [4c 4s 2d] [5s]
+*** RIVER *** [4c 4s 2d 5s] [8h]
+*** SHOW DOWN ***
+DAUM12: shows [Qc Qd] (two pair, Queens and Fours)
+Fridgington: shows [Jh Kd] (a pair of Fours)
+DAUM12 collected 4178 from pot
+*** SUMMARY ***
+Total pot 4178 | Rake 0 
+Board [4c 4s 2d 5s 8h]
+Seat 1: Jowzera9k (big blind) folded before Flop
+Seat 2: Diegox1911 folded before Flop (didn't bet)
+Seat 3: Furhall folded before Flop (didn't bet)
+Seat 4: Fridgington showed [Jh Kd] and lost with a pair of Fours
+Seat 5: bullets685 folded before Flop
+Seat 6: SECA_KING folded before Flop (didn't bet)
+Seat 7: dart738 (button) folded before Flop
+Seat 8: DAUM12 (small blind) showed [Qc Qd] and won (4178) with two pair, Queens and Fours
+
+
+
+Betfair Hand #262410314920: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level IV (80/160) - 2026/10/15 23:36:13 CUST [2026/10/15 18:36:13 ET]
+Table '4039980540 10' 8-max Seat #8 is the button
+Seat 1: Jowzera9k (5278 in chips) 
+Seat 2: Diegox1911 (7823 in chips) 
+Seat 3: Furhall (5140 in chips) 
+Seat 4: Fridgington (11074 in chips) 
+Seat 5: bullets685 (3249 in chips) 
+Seat 6: SECA_KING (2507 in chips) 
+Seat 7: dart738 (6313 in chips) 
+Seat 8: DAUM12 (4178 in chips) 
+Jowzera9k: posts the ante 24
+Diegox1911: posts the ante 24
+Furhall: posts the ante 24
+Fridgington: posts the ante 24
+bullets685: posts the ante 24
+SECA_KING: posts the ante 24
+dart738: posts the ante 24
+DAUM12: posts the ante 24
+Jowzera9k: posts small blind 80
+Diegox1911: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [9h Jh]
+Furhall: folds 
+Fridgington: folds 
+bullets685: raises 160 to 320
+SECA_KING: folds 
+dart738: calls 320
+DAUM12: folds 
+Jowzera9k: calls 240
+Diegox1911: calls 160
+*** FLOP *** [6h 9c Js]
+Jowzera9k: checks 
+Diegox1911: checks 
+bullets685: bets 640
+dart738: folds 
+Jowzera9k: folds 
+Diegox1911: calls 640
+*** TURN *** [6h 9c Js] [Ah]
+Diegox1911: checks 
+bullets685: bets 1920
+Diegox1911: folds 
+Uncalled bet (1920) returned to bullets685
+bullets685 collected 2752 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 2752 | Rake 0 
+Board [6h 9c Js Ah]
+Seat 1: Jowzera9k (small blind) folded on the Flop
+Seat 2: Diegox1911 (big blind) folded on the Turn
+Seat 3: Furhall folded before Flop (didn't bet)
+Seat 4: Fridgington folded before Flop (didn't bet)
+Seat 5: bullets685 collected (2752)
+Seat 6: SECA_KING folded before Flop (didn't bet)
+Seat 7: dart738 folded on the Flop
+Seat 8: DAUM12 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262410326902: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level IV (80/160) - 2026/10/15 23:37:22 CUST [2026/10/15 18:37:22 ET]
+Table '4039980540 10' 8-max Seat #1 is the button
+Seat 1: Jowzera9k (4934 in chips) 
+Seat 2: Diegox1911 (6839 in chips) 
+Seat 4: Fridgington (11050 in chips) 
+Seat 5: bullets685 (5017 in chips) 
+Seat 6: SECA_KING (2483 in chips) 
+Seat 7: dart738 (5969 in chips) 
+Seat 8: DAUM12 (4154 in chips) 
+Jowzera9k: posts the ante 24
+Diegox1911: posts the ante 24
+Fridgington: posts the ante 24
+bullets685: posts the ante 24
+SECA_KING: posts the ante 24
+dart738: posts the ante 24
+DAUM12: posts the ante 24
+Diegox1911: posts small blind 80
+Fridgington: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Th Ad]
+bullets685: raises 192 to 352
+SECA_KING: folds 
+dart738: folds 
+DAUM12: calls 352
+Jowzera9k: folds 
+Diegox1911: raises 6463 to 6815 and is all-in
+Fridgington: folds 
+bullets685: folds 
+DAUM12: folds 
+Uncalled bet (6463) returned to Diegox1911
+Diegox1911 collected 1384 from pot
+Diegox1911: doesn't show hand 
+*** SUMMARY ***
+Total pot 1384 | Rake 0 
+Seat 1: Jowzera9k (button) folded before Flop (didn't bet)
+Seat 2: Diegox1911 (small blind) collected (1384)
+Seat 4: Fridgington (big blind) folded before Flop
+Seat 5: bullets685 folded before Flop
+Seat 6: SECA_KING folded before Flop (didn't bet)
+Seat 7: dart738 folded before Flop (didn't bet)
+Seat 8: DAUM12 folded before Flop
+
+
+
+Betfair Hand #262410331628: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level V (100/200) - 2026/10/15 23:37:50 CUST [2026/10/15 18:37:50 ET]
+Table '4039980540 10' 8-max Seat #2 is the button
+Seat 1: Jowzera9k (4910 in chips) 
+Seat 2: Diegox1911 (7847 in chips) 
+Seat 4: Fridgington (10866 in chips) 
+Seat 5: bullets685 (4641 in chips) 
+Seat 6: SECA_KING (2459 in chips) 
+Seat 7: dart738 (5945 in chips) 
+Seat 8: DAUM12 (3778 in chips) 
+Jowzera9k: posts the ante 30
+Diegox1911: posts the ante 30
+Fridgington: posts the ante 30
+bullets685: posts the ante 30
+SECA_KING: posts the ante 30
+dart738: posts the ante 30
+DAUM12: posts the ante 30
+Fridgington: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [6d Kh]
+SECA_KING: folds 
+dart738: folds 
+DAUM12: raises 400 to 600
+Jowzera9k: folds 
+Diegox1911: folds 
+Fridgington: folds 
+bullets685: folds 
+Uncalled bet (400) returned to DAUM12
+DAUM12 collected 710 from pot
+DAUM12: doesn't show hand 
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Seat 1: Jowzera9k folded before Flop (didn't bet)
+Seat 2: Diegox1911 (button) folded before Flop (didn't bet)
+Seat 4: Fridgington (small blind) folded before Flop
+Seat 5: bullets685 (big blind) folded before Flop
+Seat 6: SECA_KING folded before Flop (didn't bet)
+Seat 7: dart738 folded before Flop (didn't bet)
+Seat 8: DAUM12 collected (710)
+
+
+
+Betfair Hand #262410335129: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level V (100/200) - 2026/10/15 23:38:11 CUST [2026/10/15 18:38:11 ET]
+Table '4039980540 10' 8-max Seat #4 is the button
+Seat 1: Jowzera9k (4880 in chips) 
+Seat 2: Diegox1911 (7817 in chips) 
+Seat 4: Fridgington (10736 in chips) 
+Seat 5: bullets685 (4411 in chips) 
+Seat 6: SECA_KING (2429 in chips) 
+Seat 7: dart738 (5915 in chips) 
+Seat 8: DAUM12 (4258 in chips) 
+Jowzera9k: posts the ante 30
+Diegox1911: posts the ante 30
+Fridgington: posts the ante 30
+bullets685: posts the ante 30
+SECA_KING: posts the ante 30
+dart738: posts the ante 30
+DAUM12: posts the ante 30
+bullets685: posts small blind 100
+SECA_KING: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts Qs]
+dart738: raises 200 to 400
+DAUM12: calls 400
+Jowzera9k: folds 
+Diegox1911: folds 
+Fridgington: folds 
+bullets685: calls 300
+SECA_KING: folds 
+*** FLOP *** [9c Ac Td]
+bullets685: bets 800
+dart738: calls 800
+DAUM12: raises 3028 to 3828 and is all-in
+bullets685: folds 
+dart738: folds 
+Uncalled bet (3028) returned to DAUM12
+DAUM12 collected 4010 from pot
+DAUM12: doesn't show hand 
+*** SUMMARY ***
+Total pot 4010 | Rake 0 
+Board [9c Ac Td]
+Seat 1: Jowzera9k folded before Flop (didn't bet)
+Seat 2: Diegox1911 folded before Flop (didn't bet)
+Seat 4: Fridgington (button) folded before Flop (didn't bet)
+Seat 5: bullets685 (small blind) folded on the Flop
+Seat 6: SECA_KING (big blind) folded before Flop
+Seat 7: dart738 folded on the Flop
+Seat 8: DAUM12 collected (4010)
+
+
+
+Betfair Hand #262410345320: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level V (100/200) - 2026/10/15 23:39:11 CUST [2026/10/15 18:39:11 ET]
+Table '4039980540 10' 8-max Seat #5 is the button
+Seat 1: Jowzera9k (4850 in chips) 
+Seat 2: Diegox1911 (7787 in chips) 
+Seat 3: Simi11simi (5000 in chips) 
+Seat 4: Fridgington (10706 in chips) 
+Seat 5: bullets685 (3181 in chips) 
+Seat 6: SECA_KING (2199 in chips) 
+Seat 7: dart738 (4685 in chips) 
+Seat 8: DAUM12 (7038 in chips) 
+Jowzera9k: posts the ante 30
+Diegox1911: posts the ante 30
+Simi11simi: posts the ante 30
+Fridgington: posts the ante 30
+bullets685: posts the ante 30
+SECA_KING: posts the ante 30
+dart738: posts the ante 30
+DAUM12: posts the ante 30
+SECA_KING: posts small blind 100
+dart738: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [2s 2c]
+DAUM12: folds 
+Jowzera9k: folds 
+Diegox1911: folds 
+Simi11simi: calls 200
+Fridgington: calls 200
+bullets685: calls 200
+SECA_KING: folds 
+dart738: raises 4455 to 4655 and is all-in
+Simi11simi: folds 
+Fridgington: folds 
+bullets685: folds 
+Uncalled bet (4455) returned to dart738
+dart738 collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Seat 1: Jowzera9k folded before Flop (didn't bet)
+Seat 2: Diegox1911 folded before Flop (didn't bet)
+Seat 3: Simi11simi folded before Flop
+Seat 4: Fridgington folded before Flop
+Seat 5: bullets685 (button) folded before Flop
+Seat 6: SECA_KING (small blind) folded before Flop
+Seat 7: dart738 (big blind) collected (1140)
+Seat 8: DAUM12 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262410350123: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level V (100/200) - 2026/10/15 23:39:39 CUST [2026/10/15 18:39:39 ET]
+Table '4039980540 10' 8-max Seat #6 is the button
+Seat 1: Jowzera9k (4820 in chips) 
+Seat 2: Diegox1911 (7757 in chips) 
+Seat 3: Simi11simi (4770 in chips) 
+Seat 4: Fridgington (10476 in chips) 
+Seat 5: bullets685 (2951 in chips) 
+Seat 6: SECA_KING (2069 in chips) 
+Seat 7: dart738 (5595 in chips) 
+Seat 8: DAUM12 (7008 in chips) 
+Jowzera9k: posts the ante 30
+Diegox1911: posts the ante 30
+Simi11simi: posts the ante 30
+Fridgington: posts the ante 30
+bullets685: posts the ante 30
+SECA_KING: posts the ante 30
+dart738: posts the ante 30
+DAUM12: posts the ante 30
+dart738: posts small blind 100
+DAUM12: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [7c 5h]
+Jowzera9k: folds 
+Diegox1911: folds 
+Simi11simi: folds 
+Fridgington: raises 200 to 400
+bullets685: folds 
+SECA_KING: folds 
+dart738: folds 
+DAUM12: calls 200
+*** FLOP *** [As Td Th]
+DAUM12: checks 
+Fridgington: checks 
+*** TURN *** [As Td Th] [6d]
+DAUM12: bets 200
+Fridgington: calls 200
+*** RIVER *** [As Td Th 6d] [6h]
+DAUM12: checks 
+Fridgington: bets 600
+DAUM12: folds 
+Uncalled bet (600) returned to Fridgington
+Fridgington collected 1540 from pot
+Fridgington: doesn't show hand 
+*** SUMMARY ***
+Total pot 1540 | Rake 0 
+Board [As Td Th 6d 6h]
+Seat 1: Jowzera9k folded before Flop (didn't bet)
+Seat 2: Diegox1911 folded before Flop (didn't bet)
+Seat 3: Simi11simi folded before Flop (didn't bet)
+Seat 4: Fridgington collected (1540)
+Seat 5: bullets685 folded before Flop (didn't bet)
+Seat 6: SECA_KING (button) folded before Flop (didn't bet)
+Seat 7: dart738 (small blind) folded before Flop
+Seat 8: DAUM12 (big blind) folded on the River
+
+
+
+Betfair Hand #262410356163: Tournament #4039980540, $0.49+$0.49+$0.12 USD Hold'em No Limit - Level V (100/200) - 2026/10/15 23:40:15 CUST [2026/10/15 18:40:15 ET]
+Table '4039980540 10' 8-max Seat #7 is the button
+Seat 1: Jowzera9k (4790 in chips) 
+Seat 2: Diegox1911 (7727 in chips) 
+Seat 3: Simi11simi (4740 in chips) 
+Seat 4: Fridgington (11386 in chips) 
+Seat 5: bullets685 (2921 in chips) 
+Seat 6: SECA_KING (2039 in chips) 
+Seat 7: dart738 (5465 in chips) 
+Seat 8: DAUM12 (6378 in chips) 
+Jowzera9k: posts the ante 30
+Diegox1911: posts the ante 30
+Simi11simi: posts the ante 30
+Fridgington: posts the ante 30
+bullets685: posts the ante 30
+SECA_KING: posts the ante 30
+dart738: posts the ante 30
+DAUM12: posts the ante 30
+DAUM12: posts small blind 100
+Jowzera9k: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [5s 5h]
+Diegox1911: folds 
+Simi11simi: folds 
+Fridgington: calls 200
+bullets685: calls 200
+SECA_KING: folds 
+dart738: raises 5235 to 5435 and is all-in
+DAUM12: folds 
+Jowzera9k: folds 
+Fridgington: folds 
+bullets685: calls 2691 and is all-in
+Uncalled bet (2544) returned to dart738
+*** FLOP *** [As 9d Ks]
+*** TURN *** [As 9d Ks] [Jd]
+*** RIVER *** [As 9d Ks Jd] [8d]
+*** SHOW DOWN ***
+bullets685: shows [5s 5h] (a pair of Fives)
+dart738: shows [Qd Qc] (a pair of Queens)
+dart738 collected 6522 from pot
+bullets685 finished the tournament
+*** SUMMARY ***
+Total pot 6522 | Rake 0 
+Board [As 9d Ks Jd 8d]
+Seat 1: Jowzera9k (big blind) folded before Flop
+Seat 2: Diegox1911 folded before Flop (didn't bet)
+Seat 3: Simi11simi folded before Flop (didn't bet)
+Seat 4: Fridgington folded before Flop
+Seat 5: bullets685 showed [5s 5h] and lost with a pair of Fives
+Seat 6: SECA_KING folded before Flop (didn't bet)
+Seat 7: dart738 (button) showed [Qd Qc] and won (6522) with a pair of Queens
+Seat 8: DAUM12 (small blind) folded before Flop
+
+
+

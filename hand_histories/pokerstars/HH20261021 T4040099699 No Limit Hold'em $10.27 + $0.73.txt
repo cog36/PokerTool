@@ -1,0 +1,4558 @@
+﻿Betfair Hand #262466388634: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level I (40/80) - 2026/10/21 16:24:59 CUST [2026/10/21 11:24:59 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: sweaty mountain (10000 in chips) 
+Seat 3: johnymcc (10000 in chips) 
+Seat 4: MrsIrinaM (10000 in chips) 
+Seat 5: rogiodnilag (10000 in chips) 
+Seat 6: Beirario2728 (10000 in chips) is sitting out
+Seat 7: luucca153 (10000 in chips) 
+Seat 8: bullets685 (10000 in chips) 
+sweaty mountain: posts the ante 8
+johnymcc: posts the ante 8
+MrsIrinaM: posts the ante 8
+rogiodnilag: posts the ante 8
+Beirario2728: posts the ante 8
+luucca153: posts the ante 8
+bullets685: posts the ante 8
+johnymcc: posts small blind 40
+MrsIrinaM: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Kh Ks]
+rogiodnilag: folds 
+Beirario2728: folds 
+luucca153: calls 80
+Beirario2728 has returned
+bullets685: raises 280 to 360
+sweaty mountain: folds 
+johnymcc: folds 
+MrsIrinaM: calls 280
+luucca153: calls 280
+*** FLOP *** [3h 6c 5h]
+MrsIrinaM: checks 
+luucca153: checks 
+bullets685: bets 588
+MrsIrinaM: folds 
+luucca153: folds 
+Uncalled bet (588) returned to bullets685
+bullets685 collected 1176 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1176 | Rake 0 
+Board [3h 6c 5h]
+Seat 1: sweaty mountain (button) folded before Flop (didn't bet)
+Seat 3: johnymcc (small blind) folded before Flop
+Seat 4: MrsIrinaM (big blind) folded on the Flop
+Seat 5: rogiodnilag folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: luucca153 folded on the Flop
+Seat 8: bullets685 collected (1176)
+
+
+
+Betfair Hand #262466396737: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level I (40/80) - 2026/10/21 16:25:59 CUST [2026/10/21 11:25:59 ET]
+Table '4040099699 2' 8-max Seat #3 is the button
+Seat 1: sweaty mountain (9992 in chips) 
+Seat 3: johnymcc (9952 in chips) 
+Seat 4: MrsIrinaM (9632 in chips) 
+Seat 5: rogiodnilag (9992 in chips) 
+Seat 6: Beirario2728 (9992 in chips) 
+Seat 7: luucca153 (9632 in chips) 
+Seat 8: bullets685 (10808 in chips) 
+sweaty mountain: posts the ante 8
+johnymcc: posts the ante 8
+MrsIrinaM: posts the ante 8
+rogiodnilag: posts the ante 8
+Beirario2728: posts the ante 8
+luucca153: posts the ante 8
+bullets685: posts the ante 8
+MrsIrinaM: posts small blind 40
+rogiodnilag: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc 2s]
+Beirario2728: raises 256 to 336
+luucca153: folds 
+bullets685: folds 
+sweaty mountain: folds 
+johnymcc: folds 
+MrsIrinaM: folds 
+rogiodnilag: calls 256
+*** FLOP *** [5d 4d 3h]
+rogiodnilag: checks 
+Beirario2728: bets 768
+rogiodnilag: folds 
+Uncalled bet (768) returned to Beirario2728
+Beirario2728 collected 768 from pot
+*** SUMMARY ***
+Total pot 768 | Rake 0 
+Board [5d 4d 3h]
+Seat 1: sweaty mountain folded before Flop (didn't bet)
+Seat 3: johnymcc (button) folded before Flop (didn't bet)
+Seat 4: MrsIrinaM (small blind) folded before Flop
+Seat 5: rogiodnilag (big blind) folded on the Flop
+Seat 6: Beirario2728 collected (768)
+Seat 7: luucca153 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466401803: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level I (40/80) - 2026/10/21 16:26:36 CUST [2026/10/21 11:26:36 ET]
+Table '4040099699 2' 8-max Seat #4 is the button
+Seat 1: sweaty mountain (9984 in chips) 
+Seat 3: johnymcc (9944 in chips) 
+Seat 4: MrsIrinaM (9584 in chips) 
+Seat 5: rogiodnilag (9648 in chips) 
+Seat 6: Beirario2728 (10416 in chips) 
+Seat 7: luucca153 (9624 in chips) 
+Seat 8: bullets685 (10800 in chips) 
+sweaty mountain: posts the ante 8
+johnymcc: posts the ante 8
+MrsIrinaM: posts the ante 8
+rogiodnilag: posts the ante 8
+Beirario2728: posts the ante 8
+luucca153: posts the ante 8
+bullets685: posts the ante 8
+rogiodnilag: posts small blind 40
+Beirario2728: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [9d Qh]
+luucca153: folds 
+bullets685: folds 
+sweaty mountain: folds 
+johnymcc: folds 
+MrsIrinaM: folds 
+rogiodnilag: raises 160 to 240
+Beirario2728: folds 
+Uncalled bet (160) returned to rogiodnilag
+rogiodnilag collected 216 from pot
+rogiodnilag: doesn't show hand 
+*** SUMMARY ***
+Total pot 216 | Rake 0 
+Seat 1: sweaty mountain folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: MrsIrinaM (button) folded before Flop (didn't bet)
+Seat 5: rogiodnilag (small blind) collected (216)
+Seat 6: Beirario2728 (big blind) folded before Flop
+Seat 7: luucca153 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466409055: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level I (40/80) - 2026/10/21 16:27:28 CUST [2026/10/21 11:27:28 ET]
+Table '4040099699 2' 8-max Seat #5 is the button
+Seat 1: sweaty mountain (9976 in chips) 
+Seat 3: johnymcc (9936 in chips) 
+Seat 4: MrsIrinaM (9576 in chips) 
+Seat 5: rogiodnilag (9776 in chips) 
+Seat 6: Beirario2728 (10328 in chips) 
+Seat 7: luucca153 (9616 in chips) 
+Seat 8: bullets685 (10792 in chips) 
+sweaty mountain: posts the ante 8
+johnymcc: posts the ante 8
+MrsIrinaM: posts the ante 8
+rogiodnilag: posts the ante 8
+Beirario2728: posts the ante 8
+luucca153: posts the ante 8
+bullets685: posts the ante 8
+Beirario2728: posts small blind 40
+luucca153: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [2c 5h]
+bullets685: folds 
+sweaty mountain: calls 80
+luucca153 is disconnected 
+johnymcc: raises 560 to 640
+MrsIrinaM: folds 
+luucca153 is disconnected 
+rogiodnilag: raises 640 to 1280
+Beirario2728: folds 
+luucca153: folds 
+sweaty mountain: folds 
+johnymcc: raises 8648 to 9928 and is all-in
+rogiodnilag: calls 8488 and is all-in
+Uncalled bet (160) returned to johnymcc
+*** FLOP *** [Kc 6d Tc]
+*** TURN *** [Kc 6d Tc] [Kd]
+*** RIVER *** [Kc 6d Tc Kd] [Qs]
+B022 is disconnected 
+*** SHOW DOWN ***
+johnymcc: shows [Qd Qh] (a full house, Queens full of Kings)
+rogiodnilag: shows [Ad As] (two pair, Aces and Kings)
+johnymcc collected 19792 from pot
+rogiodnilag finished the tournament
+*** SUMMARY ***
+Total pot 19792 | Rake 0 
+Board [Kc 6d Tc Kd Qs]
+Seat 1: sweaty mountain folded before Flop
+Seat 3: johnymcc showed [Qd Qh] and won (19792) with a full house, Queens full of Kings
+Seat 4: MrsIrinaM folded before Flop (didn't bet)
+Seat 5: rogiodnilag (button) showed [Ad As] and lost with two pair, Aces and Kings
+Seat 6: Beirario2728 (small blind) folded before Flop
+Seat 7: luucca153 (big blind) folded before Flop
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466415530: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level I (40/80) - 2026/10/21 16:28:14 CUST [2026/10/21 11:28:14 ET]
+Table '4040099699 2' 8-max Seat #6 is the button
+Seat 1: sweaty mountain (9888 in chips) 
+Seat 2: B022 (10000 in chips) 
+Seat 3: johnymcc (19952 in chips) 
+Seat 4: MrsIrinaM (9568 in chips) 
+Seat 6: Beirario2728 (10280 in chips) 
+Seat 7: luucca153 (9528 in chips) 
+Seat 8: bullets685 (10784 in chips) 
+sweaty mountain: posts the ante 8
+B022: posts the ante 8
+johnymcc: posts the ante 8
+MrsIrinaM: posts the ante 8
+Beirario2728: posts the ante 8
+luucca153: posts the ante 8
+bullets685: posts the ante 8
+luucca153: posts small blind 40
+bullets685: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc Ad]
+sweaty mountain: folds 
+B022: folds 
+johnymcc: folds 
+MrsIrinaM: folds 
+Beirario2728: folds 
+luucca153: calls 40
+Kverty88 is disconnected 
+bullets685: raises 280 to 360
+luucca153: calls 280
+*** FLOP *** [Ts Qd 9h]
+luucca153: checks 
+bullets685: bets 388
+luucca153: calls 388
+*** TURN *** [Ts Qd 9h] [4c]
+luucca153: checks 
+bullets685: checks 
+*** RIVER *** [Ts Qd 9h 4c] [5s]
+luucca153: checks 
+bullets685: bets 800
+luucca153: folds 
+Uncalled bet (800) returned to bullets685
+bullets685 collected 1552 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1552 | Rake 0 
+Board [Ts Qd 9h 4c 5s]
+Seat 1: sweaty mountain folded before Flop (didn't bet)
+Seat 2: B022 folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: MrsIrinaM folded before Flop (didn't bet)
+Seat 6: Beirario2728 (button) folded before Flop (didn't bet)
+Seat 7: luucca153 (small blind) folded on the River
+Seat 8: bullets685 (big blind) collected (1552)
+
+
+
+Betfair Hand #262466421321: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level I (40/80) - 2026/10/21 16:28:56 CUST [2026/10/21 11:28:56 ET]
+Table '4040099699 2' 8-max Seat #7 is the button
+Seat 1: sweaty mountain (9880 in chips) 
+Seat 2: B022 (9992 in chips) 
+Seat 3: johnymcc (19944 in chips) 
+Seat 4: MrsIrinaM (9560 in chips) 
+Seat 5: Kverty88 (10000 in chips) 
+Seat 6: Beirario2728 (10272 in chips) 
+Seat 7: luucca153 (8772 in chips) 
+Seat 8: bullets685 (11580 in chips) 
+sweaty mountain: posts the ante 8
+B022: posts the ante 8
+johnymcc: posts the ante 8
+MrsIrinaM: posts the ante 8
+Kverty88: posts the ante 8
+Beirario2728: posts the ante 8
+luucca153: posts the ante 8
+bullets685: posts the ante 8
+bullets685: posts small blind 40
+sweaty mountain: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [7s 8c]
+B022: folds 
+johnymcc: folds 
+MrsIrinaM: folds 
+Kverty88: raises 184 to 264
+Beirario2728: folds 
+luucca153: raises 184 to 448
+bullets685: folds 
+sweaty mountain: folds 
+Kverty88: calls 184
+*** FLOP *** [Ts 8h Qd]
+Kverty88: checks 
+luucca153: checks 
+*** TURN *** [Ts 8h Qd] [6h]
+Kverty88: checks 
+luucca153: bets 1080
+Kverty88: folds 
+Uncalled bet (1080) returned to luucca153
+luucca153 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [Ts 8h Qd 6h]
+Seat 1: sweaty mountain (big blind) folded before Flop
+Seat 2: B022 folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: MrsIrinaM folded before Flop (didn't bet)
+Seat 5: Kverty88 folded on the Turn
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: luucca153 (button) collected (1080)
+Seat 8: bullets685 (small blind) folded before Flop
+
+
+
+Betfair Hand #262466427887: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level II (50/100) - 2026/10/21 16:29:43 CUST [2026/10/21 11:29:43 ET]
+Table '4040099699 2' 8-max Seat #8 is the button
+Seat 1: sweaty mountain (9792 in chips) 
+Seat 2: B022 (9984 in chips) 
+Seat 3: johnymcc (19936 in chips) 
+Seat 5: Kverty88 (9544 in chips) 
+Seat 6: Beirario2728 (10264 in chips) 
+Seat 7: luucca153 (9396 in chips) 
+Seat 8: bullets685 (11532 in chips) 
+sweaty mountain: posts the ante 10
+B022: posts the ante 10
+johnymcc: posts the ante 10
+Kverty88: posts the ante 10
+Beirario2728: posts the ante 10
+luucca153: posts the ante 10
+bullets685: posts the ante 10
+sweaty mountain: posts small blind 50
+B022: posts big blind 100
+*** HOLE CARDS ***
+Dealt to bullets685 [3h 4d]
+johnymcc: folds 
+Kverty88: raises 230 to 330
+Beirario2728: calls 330
+luucca153: calls 330
+bullets685: folds 
+sweaty mountain: folds 
+B022: folds 
+*** FLOP *** [9s 8d Ah]
+Kverty88: checks 
+Beirario2728: bets 605
+luucca153: folds 
+Kverty88: calls 605
+*** TURN *** [9s 8d Ah] [2h]
+Kverty88: checks 
+Beirario2728: bets 9319 and is all-in
+Kverty88: calls 8599 and is all-in
+Uncalled bet (720) returned to Beirario2728
+*** RIVER *** [9s 8d Ah 2h] [8s]
+*** SHOW DOWN ***
+Kverty88: shows [2c Ac] (two pair, Aces and Eights)
+Beirario2728: shows [As 9d] (two pair, Aces and Nines)
+Beirario2728 collected 19618 from pot
+Kverty88 finished the tournament
+*** SUMMARY ***
+Total pot 19618 | Rake 0 
+Board [9s 8d Ah 2h 8s]
+Seat 1: sweaty mountain (small blind) folded before Flop
+Seat 2: B022 (big blind) folded before Flop
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 5: Kverty88 showed [2c Ac] and lost with two pair, Aces and Eights
+Seat 6: Beirario2728 showed [As 9d] and won (19618) with two pair, Aces and Nines
+Seat 7: luucca153 folded on the Flop
+Seat 8: bullets685 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466436324: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level II (50/100) - 2026/10/21 16:30:44 CUST [2026/10/21 11:30:44 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: sweaty mountain (9732 in chips) 
+Seat 2: B022 (9874 in chips) 
+Seat 3: johnymcc (19926 in chips) 
+Seat 6: Beirario2728 (20338 in chips) 
+Seat 7: luucca153 (9056 in chips) 
+Seat 8: bullets685 (11522 in chips) 
+sweaty mountain: posts the ante 10
+B022: posts the ante 10
+johnymcc: posts the ante 10
+Beirario2728: posts the ante 10
+luucca153: posts the ante 10
+bullets685: posts the ante 10
+B022: posts small blind 50
+johnymcc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to bullets685 [2d 2s]
+Beirario2728: folds 
+luucca153: calls 100
+bullets685: raises 200 to 300
+sweaty mountain: calls 300
+B022: calls 250
+johnymcc: folds 
+luucca153: calls 200
+*** FLOP *** [8d 2c Qs]
+B022: checks 
+luucca153: checks 
+bullets685: bets 400
+sweaty mountain: raises 950 to 1350
+B022: folds 
+luucca153: folds 
+bullets685: calls 950
+*** TURN *** [8d 2c Qs] [4s]
+bullets685: checks 
+sweaty mountain: checks 
+*** RIVER *** [8d 2c Qs 4s] [Jc]
+bullets685: bets 3000
+sweaty mountain: folds 
+Uncalled bet (3000) returned to bullets685
+bullets685 collected 4060 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 4060 | Rake 0 
+Board [8d 2c Qs 4s Jc]
+Seat 1: sweaty mountain (button) folded on the River
+Seat 2: B022 (small blind) folded on the Flop
+Seat 3: johnymcc (big blind) folded before Flop
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: luucca153 folded on the Flop
+Seat 8: bullets685 collected (4060)
+
+
+
+Betfair Hand #262466449078: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level II (50/100) - 2026/10/21 16:32:16 CUST [2026/10/21 11:32:16 ET]
+Table '4040099699 2' 8-max Seat #2 is the button
+Seat 1: sweaty mountain (8072 in chips) 
+Seat 2: B022 (9564 in chips) 
+Seat 3: johnymcc (19816 in chips) 
+Seat 4: eltavan (9570 in chips) 
+Seat 6: Beirario2728 (20328 in chips) 
+Seat 7: luucca153 (8746 in chips) 
+Seat 8: bullets685 (13922 in chips) 
+sweaty mountain: posts the ante 10
+B022: posts the ante 10
+johnymcc: posts the ante 10
+eltavan: posts the ante 10
+Beirario2728: posts the ante 10
+luucca153: posts the ante 10
+bullets685: posts the ante 10
+johnymcc: posts small blind 50
+eltavan: posts big blind 100
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc 2c]
+Beirario2728: folds 
+luucca153 has timed out
+luucca153: folds 
+luucca153 is sitting out
+bullets685: folds 
+sweaty mountain: folds 
+B022: calls 100
+johnymcc: folds 
+eltavan: raises 200 to 300
+B022: calls 200
+*** FLOP *** [Th 9d 4d]
+oldbarny is disconnected 
+luucca153 has returned
+eltavan: bets 700
+B022: calls 700
+*** TURN *** [Th 9d 4d] [Jh]
+eltavan: bets 8560 and is all-in
+B022: calls 8554 and is all-in
+Uncalled bet (6) returned to eltavan
+*** RIVER *** [Th 9d 4d Jh] [Ac]
+*** SHOW DOWN ***
+eltavan: shows [Td As] (two pair, Aces and Tens)
+B022: shows [4h Jd] (two pair, Jacks and Fours)
+eltavan collected 19228 from pot
+B022 finished the tournament
+*** SUMMARY ***
+Total pot 19228 | Rake 0 
+Board [Th 9d 4d Jh Ac]
+Seat 1: sweaty mountain folded before Flop (didn't bet)
+Seat 2: B022 (button) showed [4h Jd] and lost with two pair, Jacks and Fours
+Seat 3: johnymcc (small blind) folded before Flop
+Seat 4: eltavan (big blind) showed [Td As] and won (19228) with two pair, Aces and Tens
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: luucca153 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466458521: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level III (75/150) - 2026/10/21 16:33:24 CUST [2026/10/21 11:33:24 ET]
+Table '4040099699 2' 8-max Seat #3 is the button
+Seat 1: sweaty mountain (8062 in chips) 
+Seat 3: johnymcc (19756 in chips) 
+Seat 4: eltavan (19234 in chips) 
+Seat 5: oldbarny (10000 in chips) 
+Seat 6: Beirario2728 (20318 in chips) 
+Seat 7: luucca153 (8736 in chips) 
+Seat 8: bullets685 (13912 in chips) 
+sweaty mountain: posts the ante 15
+johnymcc: posts the ante 15
+eltavan: posts the ante 15
+oldbarny: posts the ante 15
+Beirario2728: posts the ante 15
+luucca153: posts the ante 15
+bullets685: posts the ante 15
+eltavan: posts small blind 75
+oldbarny: posts big blind 150
+*** HOLE CARDS ***
+Dealt to bullets685 [5s 8d]
+Beirario2728: calls 150
+luucca153: calls 150
+bullets685: folds 
+sweaty mountain: calls 150
+johnymcc: calls 150
+eltavan: calls 75
+oldbarny: checks 
+*** FLOP *** [2d 8h 5h]
+eltavan: checks 
+oldbarny: checks 
+Beirario2728: bets 150
+luucca153: calls 150
+sweaty mountain: folds 
+johnymcc: calls 150
+eltavan: folds 
+oldbarny: calls 150
+*** TURN *** [2d 8h 5h] [Qs]
+oldbarny: checks 
+Beirario2728: checks 
+luucca153: checks 
+johnymcc: checks 
+*** RIVER *** [2d 8h 5h Qs] [8c]
+oldbarny: checks 
+Beirario2728: bets 150
+luucca153: folds 
+johnymcc: calls 150
+oldbarny: folds 
+*** SHOW DOWN ***
+Beirario2728: shows [Ah 2h] (two pair, Eights and Deuces)
+johnymcc: shows [Th Ts] (two pair, Tens and Eights)
+johnymcc collected 1905 from pot
+*** SUMMARY ***
+Total pot 1905 | Rake 0 
+Board [2d 8h 5h Qs 8c]
+Seat 1: sweaty mountain folded on the Flop
+Seat 3: johnymcc (button) showed [Th Ts] and won (1905) with two pair, Tens and Eights
+Seat 4: eltavan (small blind) folded on the Flop
+Seat 5: oldbarny (big blind) folded on the River
+Seat 6: Beirario2728 showed [Ah 2h] and lost with two pair, Eights and Deuces
+Seat 7: luucca153 folded on the River
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466469304: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level III (75/150) - 2026/10/21 16:34:41 CUST [2026/10/21 11:34:41 ET]
+Table '4040099699 2' 8-max Seat #4 is the button
+Seat 1: sweaty mountain (7897 in chips) 
+Seat 3: johnymcc (21196 in chips) 
+Seat 4: eltavan (19069 in chips) 
+Seat 5: oldbarny (9685 in chips) 
+Seat 6: Beirario2728 (19853 in chips) 
+Seat 7: luucca153 (8421 in chips) 
+Seat 8: bullets685 (13897 in chips) 
+sweaty mountain: posts the ante 15
+johnymcc: posts the ante 15
+eltavan: posts the ante 15
+oldbarny: posts the ante 15
+Beirario2728: posts the ante 15
+luucca153: posts the ante 15
+bullets685: posts the ante 15
+oldbarny: posts small blind 75
+Beirario2728: posts big blind 150
+*** HOLE CARDS ***
+Dealt to bullets685 [9s 5c]
+luucca153: folds 
+bullets685: folds 
+sweaty mountain: raises 300 to 450
+johnymcc: folds 
+eltavan: folds 
+oldbarny: calls 375
+Beirario2728: calls 300
+*** FLOP *** [2s Qd Jc]
+oldbarny: bets 1455
+Beirario2728: folds 
+sweaty mountain: folds 
+Uncalled bet (1455) returned to oldbarny
+oldbarny collected 1455 from pot
+oldbarny: doesn't show hand 
+*** SUMMARY ***
+Total pot 1455 | Rake 0 
+Board [2s Qd Jc]
+Seat 1: sweaty mountain folded on the Flop
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan (button) folded before Flop (didn't bet)
+Seat 5: oldbarny (small blind) collected (1455)
+Seat 6: Beirario2728 (big blind) folded on the Flop
+Seat 7: luucca153 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466474360: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level III (75/150) - 2026/10/21 16:35:17 CUST [2026/10/21 11:35:17 ET]
+Table '4040099699 2' 8-max Seat #5 is the button
+Seat 1: sweaty mountain (7432 in chips) 
+Seat 2: Leotrancozo (10000 in chips) 
+Seat 3: johnymcc (21181 in chips) 
+Seat 4: eltavan (19054 in chips) 
+Seat 5: oldbarny (10675 in chips) 
+Seat 6: Beirario2728 (19388 in chips) 
+Seat 8: bullets685 (13882 in chips) 
+sweaty mountain: posts the ante 15
+Leotrancozo: posts the ante 15
+johnymcc: posts the ante 15
+eltavan: posts the ante 15
+oldbarny: posts the ante 15
+Beirario2728: posts the ante 15
+bullets685: posts the ante 15
+Beirario2728: posts small blind 75
+bullets685: posts big blind 150
+*** HOLE CARDS ***
+Dealt to bullets685 [7s Ks]
+sweaty mountain: folds 
+Leotrancozo: folds 
+johnymcc: raises 195 to 345
+eltavan: calls 345
+oldbarny: folds 
+Beirario2728: folds 
+bullets685: calls 195
+*** FLOP *** [5s 9c Ad]
+bullets685: checks 
+johnymcc: bets 401
+eltavan: calls 401
+bullets685: folds 
+*** TURN *** [5s 9c Ad] [5c]
+johnymcc: checks 
+eltavan: bets 600
+johnymcc: calls 600
+*** RIVER *** [5s 9c Ad 5c] [9h]
+johnymcc: checks 
+eltavan: bets 3217
+johnymcc: folds 
+Uncalled bet (3217) returned to eltavan
+eltavan collected 3217 from pot
+*** SUMMARY ***
+Total pot 3217 | Rake 0 
+Board [5s 9c Ad 5c 9h]
+Seat 1: sweaty mountain folded before Flop (didn't bet)
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc folded on the River
+Seat 4: eltavan collected (3217)
+Seat 5: oldbarny (button) folded before Flop (didn't bet)
+Seat 6: Beirario2728 (small blind) folded before Flop
+Seat 8: bullets685 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262466481185: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level III (75/150) - 2026/10/21 16:36:05 CUST [2026/10/21 11:36:05 ET]
+Table '4040099699 2' 8-max Seat #6 is the button
+Seat 1: sweaty mountain (7417 in chips) 
+Seat 2: Leotrancozo (9985 in chips) 
+Seat 3: johnymcc (19820 in chips) 
+Seat 4: eltavan (20910 in chips) 
+Seat 5: oldbarny (10660 in chips) 
+Seat 6: Beirario2728 (19298 in chips) 
+Seat 8: bullets685 (13522 in chips) 
+sweaty mountain: posts the ante 15
+Leotrancozo: posts the ante 15
+johnymcc: posts the ante 15
+eltavan: posts the ante 15
+oldbarny: posts the ante 15
+Beirario2728: posts the ante 15
+bullets685: posts the ante 15
+bullets685: posts small blind 75
+sweaty mountain: posts big blind 150
+*** HOLE CARDS ***
+Dealt to bullets685 [Js 8s]
+Leotrancozo: folds 
+johnymcc: folds 
+eltavan: raises 300 to 450
+oldbarny: folds 
+Beirario2728: folds 
+bullets685: calls 375
+sweaty mountain: calls 300
+*** FLOP *** [Jc Tc 6d]
+bullets685: checks 
+sweaty mountain: checks 
+eltavan: bets 600
+bullets685: calls 600
+sweaty mountain: folds 
+*** TURN *** [Jc Tc 6d] [8c]
+bullets685: bets 1350
+eltavan: folds 
+Uncalled bet (1350) returned to bullets685
+bullets685 collected 2655 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 2655 | Rake 0 
+Board [Jc Tc 6d 8c]
+Seat 1: sweaty mountain (big blind) folded on the Flop
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan folded on the Turn
+Seat 5: oldbarny folded before Flop (didn't bet)
+Seat 6: Beirario2728 (button) folded before Flop (didn't bet)
+Seat 8: bullets685 (small blind) collected (2655)
+
+
+
+Betfair Hand #262466487800: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level III (75/150) - 2026/10/21 16:36:52 CUST [2026/10/21 11:36:52 ET]
+Table '4040099699 2' 8-max Seat #8 is the button
+Seat 1: sweaty mountain (6952 in chips) 
+Seat 2: Leotrancozo (9970 in chips) 
+Seat 3: johnymcc (19805 in chips) 
+Seat 4: eltavan (19845 in chips) 
+Seat 5: oldbarny (10645 in chips) 
+Seat 6: Beirario2728 (19283 in chips) 
+Seat 8: bullets685 (15112 in chips) 
+sweaty mountain: posts the ante 15
+Leotrancozo: posts the ante 15
+johnymcc: posts the ante 15
+eltavan: posts the ante 15
+oldbarny: posts the ante 15
+Beirario2728: posts the ante 15
+bullets685: posts the ante 15
+sweaty mountain: posts small blind 75
+Leotrancozo: posts big blind 150
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc 6d]
+johnymcc: folds 
+eltavan: calls 150
+oldbarny: calls 150
+Beirario2728: calls 150
+bullets685: folds 
+sweaty mountain: raises 6787 to 6937 and is all-in
+Leotrancozo: folds 
+eltavan: raises 12893 to 19830 and is all-in
+oldbarny: folds 
+Beirario2728: folds 
+Uncalled bet (12893) returned to eltavan
+*** FLOP *** [5d 3c 8c]
+*** TURN *** [5d 3c 8c] [2s]
+*** RIVER *** [5d 3c 8c 2s] [5c]
+*** SHOW DOWN ***
+sweaty mountain: shows [4d 4h] (two pair, Fives and Fours)
+eltavan: shows [Js Ah] (a pair of Fives)
+sweaty mountain collected 14429 from pot
+*** SUMMARY ***
+Total pot 14429 | Rake 0 
+Board [5d 3c 8c 2s 5c]
+Seat 1: sweaty mountain (small blind) showed [4d 4h] and won (14429) with two pair, Fives and Fours
+Seat 2: Leotrancozo (big blind) folded before Flop
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan showed [Js Ah] and lost with a pair of Fives
+Seat 5: oldbarny folded before Flop
+Seat 6: Beirario2728 folded before Flop
+Seat 8: bullets685 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466493815: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level IV (100/200) - 2026/10/21 16:37:35 CUST [2026/10/21 11:37:35 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: sweaty mountain (14429 in chips) 
+Seat 2: Leotrancozo (9805 in chips) 
+Seat 3: johnymcc (19790 in chips) 
+Seat 4: eltavan (12893 in chips) 
+Seat 5: oldbarny (10480 in chips) 
+Seat 6: Beirario2728 (19118 in chips) 
+Seat 8: bullets685 (15097 in chips) 
+sweaty mountain: posts the ante 20
+Leotrancozo: posts the ante 20
+johnymcc: posts the ante 20
+eltavan: posts the ante 20
+oldbarny: posts the ante 20
+Beirario2728: posts the ante 20
+bullets685: posts the ante 20
+Leotrancozo: posts small blind 100
+johnymcc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [6c 2s]
+eltavan: folds 
+oldbarny: raises 200 to 400
+Beirario2728: folds 
+bullets685: folds 
+sweaty mountain: folds 
+Leotrancozo: raises 200 to 600
+johnymcc: folds 
+oldbarny: calls 200
+*** FLOP *** [Td Ah 5s]
+Leotrancozo: bets 770
+oldbarny: raises 1030 to 1800
+Leotrancozo: folds 
+Uncalled bet (1030) returned to oldbarny
+oldbarny collected 3080 from pot
+oldbarny: doesn't show hand 
+*** SUMMARY ***
+Total pot 3080 | Rake 0 
+Board [Td Ah 5s]
+Seat 1: sweaty mountain (button) folded before Flop (didn't bet)
+Seat 2: Leotrancozo (small blind) folded on the Flop
+Seat 3: johnymcc (big blind) folded before Flop
+Seat 4: eltavan folded before Flop (didn't bet)
+Seat 5: oldbarny collected (3080)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466498830: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level IV (100/200) - 2026/10/21 16:38:11 CUST [2026/10/21 11:38:11 ET]
+Table '4040099699 2' 8-max Seat #2 is the button
+Seat 1: sweaty mountain (14409 in chips) 
+Seat 2: Leotrancozo (8415 in chips) 
+Seat 3: johnymcc (19570 in chips) 
+Seat 4: eltavan (12873 in chips) 
+Seat 5: oldbarny (12170 in chips) 
+Seat 6: Beirario2728 (19098 in chips) 
+Seat 8: bullets685 (15077 in chips) 
+sweaty mountain: posts the ante 20
+Leotrancozo: posts the ante 20
+johnymcc: posts the ante 20
+eltavan: posts the ante 20
+oldbarny: posts the ante 20
+Beirario2728: posts the ante 20
+bullets685: posts the ante 20
+johnymcc: posts small blind 100
+eltavan: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Kh 7h]
+oldbarny: calls 200
+Beirario2728: calls 200
+bullets685: raises 800 to 1000
+sweaty mountain: folds 
+Leotrancozo: folds 
+johnymcc: folds 
+eltavan: folds 
+oldbarny: calls 800
+Beirario2728: calls 800
+*** FLOP *** [Qs Kc 3h]
+oldbarny: bets 200
+Beirario2728: raises 200 to 400
+bullets685: raises 1600 to 2000
+oldbarny: folds 
+Beirario2728: raises 16078 to 18078 and is all-in
+bullets685: folds 
+Uncalled bet (16078) returned to Beirario2728
+Beirario2728 collected 7640 from pot
+*** SUMMARY ***
+Total pot 7640 | Rake 0 
+Board [Qs Kc 3h]
+Seat 1: sweaty mountain folded before Flop (didn't bet)
+Seat 2: Leotrancozo (button) folded before Flop (didn't bet)
+Seat 3: johnymcc (small blind) folded before Flop
+Seat 4: eltavan (big blind) folded before Flop
+Seat 5: oldbarny folded on the Flop
+Seat 6: Beirario2728 collected (7640)
+Seat 8: bullets685 folded on the Flop
+
+
+
+Betfair Hand #262466507891: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level IV (100/200) - 2026/10/21 16:39:15 CUST [2026/10/21 11:39:15 ET]
+Table '4040099699 2' 8-max Seat #3 is the button
+Seat 1: sweaty mountain (14389 in chips) 
+Seat 2: Leotrancozo (8395 in chips) 
+Seat 3: johnymcc (19450 in chips) 
+Seat 4: eltavan (12653 in chips) 
+Seat 5: oldbarny (10950 in chips) 
+Seat 6: Beirario2728 (23718 in chips) 
+Seat 8: bullets685 (12057 in chips) 
+sweaty mountain: posts the ante 20
+Leotrancozo: posts the ante 20
+johnymcc: posts the ante 20
+eltavan: posts the ante 20
+oldbarny: posts the ante 20
+Beirario2728: posts the ante 20
+bullets685: posts the ante 20
+eltavan: posts small blind 100
+oldbarny: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc 4s]
+Beirario2728: calls 200
+bullets685: folds 
+sweaty mountain: folds 
+Leotrancozo: calls 200
+johnymcc: folds 
+eltavan: calls 100
+oldbarny: checks 
+*** FLOP *** [Ac Jd Ks]
+eltavan: checks 
+oldbarny: bets 400
+Beirario2728: calls 400
+Leotrancozo: raises 7775 to 8175 and is all-in
+eltavan: folds 
+oldbarny: folds 
+Beirario2728: folds 
+Uncalled bet (7775) returned to Leotrancozo
+Leotrancozo collected 2140 from pot
+Leotrancozo: doesn't show hand 
+*** SUMMARY ***
+Total pot 2140 | Rake 0 
+Board [Ac Jd Ks]
+Seat 1: sweaty mountain folded before Flop (didn't bet)
+Seat 2: Leotrancozo collected (2140)
+Seat 3: johnymcc (button) folded before Flop (didn't bet)
+Seat 4: eltavan (small blind) folded on the Flop
+Seat 5: oldbarny (big blind) folded on the Flop
+Seat 6: Beirario2728 folded on the Flop
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466513888: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level IV (100/200) - 2026/10/21 16:39:58 CUST [2026/10/21 11:39:58 ET]
+Table '4040099699 2' 8-max Seat #4 is the button
+Seat 1: sweaty mountain (14369 in chips) 
+Seat 2: Leotrancozo (9915 in chips) 
+Seat 3: johnymcc (19430 in chips) 
+Seat 4: eltavan (12433 in chips) 
+Seat 5: oldbarny (10330 in chips) 
+Seat 6: Beirario2728 (23098 in chips) 
+Seat 8: bullets685 (12037 in chips) 
+sweaty mountain: posts the ante 20
+Leotrancozo: posts the ante 20
+johnymcc: posts the ante 20
+eltavan: posts the ante 20
+oldbarny: posts the ante 20
+Beirario2728: posts the ante 20
+bullets685: posts the ante 20
+oldbarny: posts small blind 100
+Beirario2728: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [5c 5d]
+bullets685: raises 360 to 560
+sweaty mountain: calls 560
+Leotrancozo: folds 
+johnymcc: folds 
+eltavan: folds 
+oldbarny: folds 
+Beirario2728: folds 
+*** FLOP *** [Kc 8s 8h]
+bullets685: bets 600
+sweaty mountain: folds 
+Uncalled bet (600) returned to bullets685
+bullets685 collected 1560 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1560 | Rake 0 
+Board [Kc 8s 8h]
+Seat 1: sweaty mountain folded on the Flop
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan (button) folded before Flop (didn't bet)
+Seat 5: oldbarny (small blind) folded before Flop
+Seat 6: Beirario2728 (big blind) folded before Flop
+Seat 8: bullets685 collected (1560)
+
+
+
+Betfair Hand #262466519186: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level IV (100/200) - 2026/10/21 16:40:35 CUST [2026/10/21 11:40:35 ET]
+Table '4040099699 2' 8-max Seat #5 is the button
+Seat 1: sweaty mountain (13789 in chips) 
+Seat 2: Leotrancozo (9895 in chips) 
+Seat 3: johnymcc (19410 in chips) 
+Seat 4: eltavan (12413 in chips) 
+Seat 5: oldbarny (10210 in chips) 
+Seat 6: Beirario2728 (22878 in chips) 
+Seat 8: bullets685 (13017 in chips) 
+sweaty mountain: posts the ante 20
+Leotrancozo: posts the ante 20
+johnymcc: posts the ante 20
+eltavan: posts the ante 20
+oldbarny: posts the ante 20
+Beirario2728: posts the ante 20
+bullets685: posts the ante 20
+Beirario2728: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ac Jh]
+sweaty mountain: folds 
+Leotrancozo: folds 
+johnymcc: folds 
+eltavan: folds 
+oldbarny: calls 200
+Beirario2728: calls 100
+bullets685: raises 700 to 900
+oldbarny: calls 700
+Beirario2728: calls 700
+*** FLOP *** [2s Td 4h]
+Beirario2728: checks 
+bullets685: checks 
+oldbarny: bets 2840
+Beirario2728: folds 
+bullets685: folds 
+Uncalled bet (2840) returned to oldbarny
+oldbarny collected 2840 from pot
+oldbarny: doesn't show hand 
+*** SUMMARY ***
+Total pot 2840 | Rake 0 
+Board [2s Td 4h]
+Seat 1: sweaty mountain folded before Flop (didn't bet)
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan folded before Flop (didn't bet)
+Seat 5: oldbarny (button) collected (2840)
+Seat 6: Beirario2728 (small blind) folded on the Flop
+Seat 8: bullets685 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262466525519: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level V (125/250) - 2026/10/21 16:41:19 CUST [2026/10/21 11:41:19 ET]
+Table '4040099699 2' 8-max Seat #6 is the button
+Seat 1: sweaty mountain (13769 in chips) 
+Seat 2: Leotrancozo (9875 in chips) 
+Seat 3: johnymcc (19390 in chips) 
+Seat 4: eltavan (12393 in chips) 
+Seat 5: oldbarny (12130 in chips) 
+Seat 6: Beirario2728 (21958 in chips) 
+Seat 8: bullets685 (12097 in chips) 
+sweaty mountain: posts the ante 25
+Leotrancozo: posts the ante 25
+johnymcc: posts the ante 25
+eltavan: posts the ante 25
+oldbarny: posts the ante 25
+Beirario2728: posts the ante 25
+bullets685: posts the ante 25
+bullets685: posts small blind 125
+sweaty mountain: posts big blind 250
+*** HOLE CARDS ***
+Dealt to bullets685 [Td 5s]
+Leotrancozo: calls 250
+johnymcc: folds 
+eltavan: folds 
+oldbarny: folds 
+Beirario2728: calls 250
+bullets685: folds 
+sweaty mountain: checks 
+*** FLOP *** [Ts 5c As]
+sweaty mountain: checks 
+Leotrancozo: bets 525
+Beirario2728: folds 
+sweaty mountain: folds 
+Uncalled bet (525) returned to Leotrancozo
+Leotrancozo collected 1050 from pot
+Leotrancozo: doesn't show hand 
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Ts 5c As]
+Seat 1: sweaty mountain (big blind) folded on the Flop
+Seat 2: Leotrancozo collected (1050)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan folded before Flop (didn't bet)
+Seat 5: oldbarny folded before Flop (didn't bet)
+Seat 6: Beirario2728 (button) folded on the Flop
+Seat 8: bullets685 (small blind) folded before Flop
+
+
+
+Betfair Hand #262466531838: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level V (125/250) - 2026/10/21 16:42:04 CUST [2026/10/21 11:42:04 ET]
+Table '4040099699 2' 8-max Seat #8 is the button
+Seat 1: sweaty mountain (13494 in chips) 
+Seat 2: Leotrancozo (10650 in chips) 
+Seat 3: johnymcc (19365 in chips) 
+Seat 4: eltavan (12368 in chips) 
+Seat 5: oldbarny (12105 in chips) 
+Seat 6: Beirario2728 (21683 in chips) 
+Seat 8: bullets685 (11947 in chips) 
+sweaty mountain: posts the ante 25
+Leotrancozo: posts the ante 25
+johnymcc: posts the ante 25
+eltavan: posts the ante 25
+oldbarny: posts the ante 25
+Beirario2728: posts the ante 25
+bullets685: posts the ante 25
+sweaty mountain: posts small blind 125
+Leotrancozo: posts big blind 250
+*** HOLE CARDS ***
+Dealt to bullets685 [3d As]
+johnymcc: folds 
+eltavan: calls 250
+oldbarny: folds 
+Beirario2728: calls 250
+bullets685: raises 750 to 1000
+sweaty mountain: folds 
+Leotrancozo: folds 
+eltavan: calls 750
+Beirario2728: calls 750
+*** FLOP *** [Kd 3c 9s]
+eltavan: checks 
+Beirario2728: checks 
+bullets685: bets 1775
+eltavan: folds 
+Beirario2728: calls 1775
+*** TURN *** [Kd 3c 9s] [7d]
+Beirario2728: checks 
+bullets685: bets 2500
+Beirario2728: calls 2500
+*** RIVER *** [Kd 3c 9s 7d] [2d]
+Beirario2728: bets 16383 and is all-in
+bullets685: folds 
+Uncalled bet (16383) returned to Beirario2728
+Beirario2728 collected 12100 from pot
+*** SUMMARY ***
+Total pot 12100 | Rake 0 
+Board [Kd 3c 9s 7d 2d]
+Seat 1: sweaty mountain (small blind) folded before Flop
+Seat 2: Leotrancozo (big blind) folded before Flop
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan folded on the Flop
+Seat 5: oldbarny folded before Flop (didn't bet)
+Seat 6: Beirario2728 collected (12100)
+Seat 8: bullets685 (button) folded on the River
+
+
+
+Betfair Hand #262466540545: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level V (125/250) - 2026/10/21 16:43:06 CUST [2026/10/21 11:43:06 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: sweaty mountain (13344 in chips) 
+Seat 2: Leotrancozo (10375 in chips) 
+Seat 3: johnymcc (19340 in chips) 
+Seat 4: eltavan (11343 in chips) 
+Seat 5: oldbarny (12080 in chips) 
+Seat 6: Beirario2728 (28483 in chips) 
+Seat 8: bullets685 (6647 in chips) 
+sweaty mountain: posts the ante 25
+Leotrancozo: posts the ante 25
+johnymcc: posts the ante 25
+eltavan: posts the ante 25
+oldbarny: posts the ante 25
+Beirario2728: posts the ante 25
+bullets685: posts the ante 25
+Leotrancozo: posts small blind 125
+johnymcc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to bullets685 [7s 4s]
+eltavan: folds 
+oldbarny: calls 250
+Beirario2728: calls 250
+bullets685: folds 
+sweaty mountain: calls 250
+Leotrancozo: folds 
+johnymcc: checks 
+*** FLOP *** [8c Ac 4c]
+johnymcc: checks 
+oldbarny: checks 
+Beirario2728: checks 
+sweaty mountain: checks 
+*** TURN *** [8c Ac 4c] [3s]
+johnymcc: checks 
+oldbarny: bets 750
+Beirario2728: calls 750
+sweaty mountain: folds 
+johnymcc: folds 
+*** RIVER *** [8c Ac 4c 3s] [9c]
+oldbarny: checks 
+Beirario2728: bets 2800
+oldbarny: folds 
+Uncalled bet (2800) returned to Beirario2728
+Beirario2728 collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Board [8c Ac 4c 3s 9c]
+Seat 1: sweaty mountain (button) folded on the Turn
+Seat 2: Leotrancozo (small blind) folded before Flop
+Seat 3: johnymcc (big blind) folded on the Turn
+Seat 4: eltavan folded before Flop (didn't bet)
+Seat 5: oldbarny folded on the River
+Seat 6: Beirario2728 collected (2800)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466549994: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level V (125/250) - 2026/10/21 16:44:13 CUST [2026/10/21 11:44:13 ET]
+Table '4040099699 2' 8-max Seat #2 is the button
+Seat 1: sweaty mountain (13069 in chips) 
+Seat 2: Leotrancozo (10225 in chips) 
+Seat 3: johnymcc (19065 in chips) 
+Seat 4: eltavan (11318 in chips) 
+Seat 5: oldbarny (11055 in chips) 
+Seat 6: Beirario2728 (30258 in chips) 
+Seat 8: bullets685 (6622 in chips) 
+sweaty mountain: posts the ante 25
+Leotrancozo: posts the ante 25
+johnymcc: posts the ante 25
+eltavan: posts the ante 25
+oldbarny: posts the ante 25
+Beirario2728: posts the ante 25
+bullets685: posts the ante 25
+johnymcc: posts small blind 125
+eltavan: posts big blind 250
+*** HOLE CARDS ***
+Dealt to bullets685 [Js 4d]
+oldbarny: calls 250
+Beirario2728: raises 250 to 500
+bullets685: folds 
+sweaty mountain: folds 
+Leotrancozo: folds 
+johnymcc: folds 
+eltavan: calls 250
+oldbarny: calls 250
+*** FLOP *** [9h Qc Jd]
+eltavan: checks 
+oldbarny: bets 500
+Beirario2728: calls 500
+eltavan: folds 
+*** TURN *** [9h Qc Jd] [4s]
+oldbarny: bets 750
+Beirario2728: raises 750 to 1500
+oldbarny: folds 
+Uncalled bet (750) returned to Beirario2728
+Beirario2728 collected 4300 from pot
+*** SUMMARY ***
+Total pot 4300 | Rake 0 
+Board [9h Qc Jd 4s]
+Seat 1: sweaty mountain folded before Flop (didn't bet)
+Seat 2: Leotrancozo (button) folded before Flop (didn't bet)
+Seat 3: johnymcc (small blind) folded before Flop
+Seat 4: eltavan (big blind) folded on the Flop
+Seat 5: oldbarny folded on the Turn
+Seat 6: Beirario2728 collected (4300)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466557957: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VI (150/300) - 2026/10/21 16:45:09 CUST [2026/10/21 11:45:09 ET]
+Table '4040099699 2' 8-max Seat #3 is the button
+Seat 1: sweaty mountain (13044 in chips) 
+Seat 2: Leotrancozo (10200 in chips) 
+Seat 3: johnymcc (18915 in chips) 
+Seat 4: eltavan (10793 in chips) 
+Seat 5: oldbarny (9280 in chips) 
+Seat 6: Beirario2728 (32783 in chips) 
+Seat 8: bullets685 (6597 in chips) 
+sweaty mountain: posts the ante 30
+Leotrancozo: posts the ante 30
+johnymcc: posts the ante 30
+eltavan: posts the ante 30
+oldbarny: posts the ante 30
+Beirario2728: posts the ante 30
+bullets685: posts the ante 30
+eltavan: posts small blind 150
+oldbarny: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 3c]
+Beirario2728: folds 
+bullets685: folds 
+sweaty mountain: folds 
+Leotrancozo: raises 600 to 900
+johnymcc: folds 
+eltavan: folds 
+oldbarny: calls 600
+*** FLOP *** [Jc Ad Jd]
+oldbarny: bets 2160
+Leotrancozo: raises 7110 to 9270 and is all-in
+oldbarny: calls 6190 and is all-in
+Uncalled bet (920) returned to Leotrancozo
+*** TURN *** [Jc Ad Jd] [Qd]
+*** RIVER *** [Jc Ad Jd Qd] [Td]
+*** SHOW DOWN ***
+oldbarny: shows [8c As] (two pair, Aces and Jacks)
+Leotrancozo: shows [Tc Kh] (a straight, Ten to Ace)
+Leotrancozo collected 18860 from pot
+oldbarny finished the tournament
+*** SUMMARY ***
+Total pot 18860 | Rake 0 
+Board [Jc Ad Jd Qd Td]
+Seat 1: sweaty mountain folded before Flop (didn't bet)
+Seat 2: Leotrancozo showed [Tc Kh] and won (18860) with a straight, Ten to Ace
+Seat 3: johnymcc (button) folded before Flop (didn't bet)
+Seat 4: eltavan (small blind) folded before Flop
+Seat 5: oldbarny (big blind) showed [8c As] and lost with two pair, Aces and Jacks
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466563369: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VI (150/300) - 2026/10/21 16:45:48 CUST [2026/10/21 11:45:48 ET]
+Table '4040099699 2' 8-max Seat #4 is the button
+Seat 1: sweaty mountain (13014 in chips) 
+Seat 2: Leotrancozo (19780 in chips) 
+Seat 3: johnymcc (18885 in chips) 
+Seat 4: eltavan (10613 in chips) 
+Seat 6: Beirario2728 (32753 in chips) 
+Seat 8: bullets685 (6567 in chips) 
+sweaty mountain: posts the ante 30
+Leotrancozo: posts the ante 30
+johnymcc: posts the ante 30
+eltavan: posts the ante 30
+Beirario2728: posts the ante 30
+bullets685: posts the ante 30
+Beirario2728: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Qs 7d]
+sweaty mountain: calls 300
+Leotrancozo: folds 
+johnymcc: folds 
+eltavan: folds 
+Beirario2728: calls 150
+bullets685: checks 
+*** FLOP *** [3h 9h Qc]
+Beirario2728 is disconnected 
+Beirario2728 is connected 
+Beirario2728: bets 300
+bullets685: raises 1680 to 1980
+sweaty mountain: folds 
+Beirario2728: raises 1680 to 3660
+bullets685: raises 1680 to 5340
+Beirario2728: raises 27083 to 32423 and is all-in
+bullets685: calls 897 and is all-in
+Uncalled bet (26186) returned to Beirario2728
+*** TURN *** [3h 9h Qc] [7h]
+*** RIVER *** [3h 9h Qc 7h] [Jd]
+*** SHOW DOWN ***
+Beirario2728: shows [9s 3s] (two pair, Nines and Threes)
+bullets685: shows [Qs 7d] (two pair, Queens and Sevens)
+bullets685 collected 13554 from pot
+*** SUMMARY ***
+Total pot 13554 | Rake 0 
+Board [3h 9h Qc 7h Jd]
+Seat 1: sweaty mountain folded on the Flop
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan (button) folded before Flop (didn't bet)
+Seat 6: Beirario2728 (small blind) showed [9s 3s] and lost with two pair, Nines and Threes
+Seat 8: bullets685 (big blind) showed [Qs 7d] and won (13554) with two pair, Queens and Sevens
+
+
+
+Betfair Hand #262466569477: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VI (150/300) - 2026/10/21 16:46:31 CUST [2026/10/21 11:46:31 ET]
+Table '4040099699 2' 8-max Seat #6 is the button
+Seat 1: sweaty mountain (12684 in chips) 
+Seat 2: Leotrancozo (19750 in chips) 
+Seat 3: johnymcc (18855 in chips) 
+Seat 4: eltavan (10583 in chips) 
+Seat 5: iago ed350 (38417 in chips) 
+Seat 6: Beirario2728 (26186 in chips) 
+Seat 8: bullets685 (13554 in chips) 
+sweaty mountain: posts the ante 30
+Leotrancozo: posts the ante 30
+johnymcc: posts the ante 30
+eltavan: posts the ante 30
+iago ed350: posts the ante 30
+Beirario2728: posts the ante 30
+bullets685: posts the ante 30
+bullets685: posts small blind 150
+sweaty mountain: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Js 5h]
+Leotrancozo: folds 
+johnymcc: folds 
+eltavan: folds 
+iago ed350: folds 
+Beirario2728: calls 300
+bullets685: calls 150
+sweaty mountain: checks 
+*** FLOP *** [6c As Tc]
+bullets685: checks 
+sweaty mountain: checks 
+Beirario2728: bets 1110
+bullets685: folds 
+sweaty mountain: folds 
+Uncalled bet (1110) returned to Beirario2728
+Beirario2728 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | Rake 0 
+Board [6c As Tc]
+Seat 1: sweaty mountain (big blind) folded on the Flop
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan folded before Flop (didn't bet)
+Seat 5: iago ed350 folded before Flop (didn't bet)
+Seat 6: Beirario2728 (button) collected (1110)
+Seat 8: bullets685 (small blind) folded on the Flop
+
+
+
+Betfair Hand #262466574807: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VI (150/300) - 2026/10/21 16:47:09 CUST [2026/10/21 11:47:09 ET]
+Table '4040099699 2' 8-max Seat #8 is the button
+Seat 1: sweaty mountain (12354 in chips) 
+Seat 2: Leotrancozo (19720 in chips) 
+Seat 3: johnymcc (18825 in chips) 
+Seat 4: eltavan (10553 in chips) 
+Seat 5: iago ed350 (38387 in chips) 
+Seat 6: Beirario2728 (26966 in chips) 
+Seat 8: bullets685 (13224 in chips) 
+sweaty mountain: posts the ante 30
+Leotrancozo: posts the ante 30
+johnymcc: posts the ante 30
+eltavan: posts the ante 30
+iago ed350: posts the ante 30
+Beirario2728: posts the ante 30
+bullets685: posts the ante 30
+sweaty mountain: posts small blind 150
+Leotrancozo: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [9c Jd]
+johnymcc: folds 
+eltavan: calls 300
+iago ed350: folds 
+Beirario2728: folds 
+bullets685: raises 900 to 1200
+sweaty mountain: folds 
+Leotrancozo: folds 
+eltavan: raises 9323 to 10523 and is all-in
+bullets685: folds 
+Uncalled bet (9323) returned to eltavan
+eltavan collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | Rake 0 
+Seat 1: sweaty mountain (small blind) folded before Flop
+Seat 2: Leotrancozo (big blind) folded before Flop
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan collected (3060)
+Seat 5: iago ed350 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 8: bullets685 (button) folded before Flop
+
+
+
+Betfair Hand #262466578122: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VI (150/300) - 2026/10/21 16:47:32 CUST [2026/10/21 11:47:32 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: sweaty mountain (12174 in chips) 
+Seat 2: Leotrancozo (19390 in chips) 
+Seat 3: johnymcc (18795 in chips) 
+Seat 4: eltavan (12383 in chips) 
+Seat 5: iago ed350 (38357 in chips) 
+Seat 6: Beirario2728 (26936 in chips) 
+Seat 8: bullets685 (11994 in chips) 
+sweaty mountain: posts the ante 30
+Leotrancozo: posts the ante 30
+johnymcc: posts the ante 30
+eltavan: posts the ante 30
+iago ed350: posts the ante 30
+Beirario2728: posts the ante 30
+bullets685: posts the ante 30
+Leotrancozo: posts small blind 150
+johnymcc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts 7h]
+eltavan: folds 
+iago ed350: folds 
+Beirario2728: calls 300
+bullets685: folds 
+sweaty mountain: folds 
+Leotrancozo: folds 
+johnymcc: checks 
+*** FLOP *** [Kd 8d 7c]
+johnymcc: checks 
+Beirario2728: checks 
+*** TURN *** [Kd 8d 7c] [4d]
+johnymcc: checks 
+Beirario2728: bets 960
+johnymcc: folds 
+Uncalled bet (960) returned to Beirario2728
+Beirario2728 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Kd 8d 7c 4d]
+Seat 1: sweaty mountain (button) folded before Flop (didn't bet)
+Seat 2: Leotrancozo (small blind) folded before Flop
+Seat 3: johnymcc (big blind) folded on the Turn
+Seat 4: eltavan folded before Flop (didn't bet)
+Seat 5: iago ed350 folded before Flop (didn't bet)
+Seat 6: Beirario2728 collected (960)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466583534: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VI (150/300) - 2026/10/21 16:48:11 CUST [2026/10/21 11:48:11 ET]
+Table '4040099699 2' 8-max Seat #2 is the button
+Seat 1: sweaty mountain (12144 in chips) 
+Seat 2: Leotrancozo (19210 in chips) 
+Seat 3: johnymcc (18465 in chips) 
+Seat 4: eltavan (12353 in chips) 
+Seat 5: iago ed350 (38327 in chips) 
+Seat 6: Beirario2728 (27566 in chips) 
+Seat 8: bullets685 (11964 in chips) 
+sweaty mountain: posts the ante 30
+Leotrancozo: posts the ante 30
+johnymcc: posts the ante 30
+eltavan: posts the ante 30
+iago ed350: posts the ante 30
+Beirario2728: posts the ante 30
+bullets685: posts the ante 30
+johnymcc: posts small blind 150
+eltavan: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd Kd]
+iago ed350: folds 
+Beirario2728: folds 
+bullets685: raises 540 to 840
+sweaty mountain: calls 840
+Leotrancozo: raises 1680 to 2520
+johnymcc: folds 
+eltavan: folds 
+bullets685: raises 9414 to 11934 and is all-in
+sweaty mountain: folds 
+Leotrancozo: calls 9414
+*** FLOP *** [6s 2c 4d]
+*** TURN *** [6s 2c 4d] [9s]
+*** RIVER *** [6s 2c 4d 9s] [5h]
+*** SHOW DOWN ***
+bullets685: shows [Qd Kd] (high card King)
+Leotrancozo: shows [Tc Kc] (high card King - lower kicker)
+bullets685 collected 25368 from pot
+*** SUMMARY ***
+Total pot 25368 | Rake 0 
+Board [6s 2c 4d 9s 5h]
+Seat 1: sweaty mountain folded before Flop
+Seat 2: Leotrancozo (button) showed [Tc Kc] and lost with high card King
+Seat 3: johnymcc (small blind) folded before Flop
+Seat 4: eltavan (big blind) folded before Flop
+Seat 5: iago ed350 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 8: bullets685 showed [Qd Kd] and won (25368) with high card King
+
+
+
+Betfair Hand #262466591941: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VII (175/350) - 2026/10/21 16:49:11 CUST [2026/10/21 11:49:11 ET]
+Table '4040099699 2' 8-max Seat #3 is the button
+Seat 1: sweaty mountain (11274 in chips) 
+Seat 2: Leotrancozo (7246 in chips) 
+Seat 3: johnymcc (18285 in chips) 
+Seat 4: eltavan (12023 in chips) 
+Seat 5: iago ed350 (38297 in chips) 
+Seat 6: Beirario2728 (27536 in chips) 
+Seat 8: bullets685 (25368 in chips) 
+sweaty mountain: posts the ante 35
+Leotrancozo: posts the ante 35
+johnymcc: posts the ante 35
+eltavan: posts the ante 35
+iago ed350: posts the ante 35
+Beirario2728: posts the ante 35
+bullets685: posts the ante 35
+eltavan: posts small blind 175
+iago ed350: posts big blind 350
+*** HOLE CARDS ***
+Dealt to bullets685 [2d 6s]
+Beirario2728: raises 350 to 700
+bullets685: folds 
+sweaty mountain: folds 
+Leotrancozo: raises 6511 to 7211 and is all-in
+johnymcc: folds 
+eltavan: folds 
+iago ed350: calls 6861
+Beirario2728: raises 20290 to 27501 and is all-in
+iago ed350: calls 20290
+*** FLOP *** [Jc Td Qd]
+*** TURN *** [Jc Td Qd] [3c]
+*** RIVER *** [Jc Td Qd 3c] [5s]
+*** SHOW DOWN ***
+iago ed350: shows [Ks Kd] (a pair of Kings)
+Beirario2728: shows [Ah As] (a pair of Aces)
+Beirario2728 collected 40580 from side pot
+Leotrancozo: shows [Jh Tc] (two pair, Jacks and Tens)
+Leotrancozo collected 22053 from main pot
+*** SUMMARY ***
+Total pot 62633 Main pot 22053. Side pot 40580. | Rake 0 
+Board [Jc Td Qd 3c 5s]
+Seat 1: sweaty mountain folded before Flop (didn't bet)
+Seat 2: Leotrancozo showed [Jh Tc] and won (22053) with two pair, Jacks and Tens
+Seat 3: johnymcc (button) folded before Flop (didn't bet)
+Seat 4: eltavan (small blind) folded before Flop
+Seat 5: iago ed350 (big blind) showed [Ks Kd] and lost with a pair of Kings
+Seat 6: Beirario2728 showed [Ah As] and won (40580) with a pair of Aces
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466596881: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VII (175/350) - 2026/10/21 16:49:47 CUST [2026/10/21 11:49:47 ET]
+Table '4040099699 2' 8-max Seat #4 is the button
+Seat 1: sweaty mountain (11239 in chips) 
+Seat 2: Leotrancozo (22053 in chips) 
+Seat 3: johnymcc (18250 in chips) 
+Seat 4: eltavan (11813 in chips) 
+Seat 5: iago ed350 (10761 in chips) 
+Seat 6: Beirario2728 (40580 in chips) 
+Seat 8: bullets685 (25333 in chips) 
+sweaty mountain: posts the ante 35
+Leotrancozo: posts the ante 35
+johnymcc: posts the ante 35
+eltavan: posts the ante 35
+iago ed350: posts the ante 35
+Beirario2728: posts the ante 35
+bullets685: posts the ante 35
+iago ed350: posts small blind 175
+Beirario2728: posts big blind 350
+*** HOLE CARDS ***
+Dealt to bullets685 [9c Ks]
+bullets685: folds 
+sweaty mountain: folds 
+Leotrancozo: folds 
+johnymcc: folds 
+eltavan: folds 
+iago ed350: calls 175
+Beirario2728: checks 
+*** FLOP *** [5h 2d 9h]
+iago ed350: checks 
+Beirario2728: checks 
+*** TURN *** [5h 2d 9h] [Kh]
+iago ed350: checks 
+Beirario2728: bets 350
+iago ed350: folds 
+Uncalled bet (350) returned to Beirario2728
+Beirario2728 collected 945 from pot
+*** SUMMARY ***
+Total pot 945 | Rake 0 
+Board [5h 2d 9h Kh]
+Seat 1: sweaty mountain folded before Flop (didn't bet)
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan (button) folded before Flop (didn't bet)
+Seat 5: iago ed350 (small blind) folded on the Turn
+Seat 6: Beirario2728 (big blind) collected (945)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466602105: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VII (175/350) - 2026/10/21 16:50:24 CUST [2026/10/21 11:50:24 ET]
+Table '4040099699 2' 8-max Seat #5 is the button
+Seat 1: sweaty mountain (11204 in chips) 
+Seat 2: Leotrancozo (22018 in chips) 
+Seat 3: johnymcc (18215 in chips) 
+Seat 4: eltavan (11778 in chips) 
+Seat 5: iago ed350 (10376 in chips) 
+Seat 6: Beirario2728 (41140 in chips) 
+Seat 8: bullets685 (25298 in chips) 
+sweaty mountain: posts the ante 35
+Leotrancozo: posts the ante 35
+johnymcc: posts the ante 35
+eltavan: posts the ante 35
+iago ed350: posts the ante 35
+Beirario2728: posts the ante 35
+bullets685: posts the ante 35
+Beirario2728: posts small blind 175
+bullets685: posts big blind 350
+*** HOLE CARDS ***
+Dealt to bullets685 [4d 3h]
+sweaty mountain: folds 
+Leotrancozo: folds 
+johnymcc: folds 
+eltavan: folds 
+iago ed350: folds 
+Beirario2728: calls 175
+bullets685: checks 
+*** FLOP *** [8d Kd Qh]
+Beirario2728: checks 
+bullets685: checks 
+*** TURN *** [8d Kd Qh] [3d]
+Beirario2728: checks 
+bullets685: bets 350
+Beirario2728: folds 
+Uncalled bet (350) returned to bullets685
+bullets685 collected 945 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 945 | Rake 0 
+Board [8d Kd Qh 3d]
+Seat 1: sweaty mountain folded before Flop (didn't bet)
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan folded before Flop (didn't bet)
+Seat 5: iago ed350 (button) folded before Flop (didn't bet)
+Seat 6: Beirario2728 (small blind) folded on the Turn
+Seat 8: bullets685 (big blind) collected (945)
+
+
+
+Betfair Hand #262466606480: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VII (175/350) - 2026/10/21 16:50:55 CUST [2026/10/21 11:50:55 ET]
+Table '4040099699 2' 8-max Seat #6 is the button
+Seat 1: sweaty mountain (11169 in chips) 
+Seat 2: Leotrancozo (21983 in chips) 
+Seat 3: johnymcc (18180 in chips) 
+Seat 4: eltavan (11743 in chips) 
+Seat 5: iago ed350 (10341 in chips) 
+Seat 6: Beirario2728 (40755 in chips) 
+Seat 8: bullets685 (25858 in chips) 
+sweaty mountain: posts the ante 35
+Leotrancozo: posts the ante 35
+johnymcc: posts the ante 35
+eltavan: posts the ante 35
+iago ed350: posts the ante 35
+Beirario2728: posts the ante 35
+bullets685: posts the ante 35
+bullets685: posts small blind 175
+sweaty mountain: posts big blind 350
+*** HOLE CARDS ***
+Dealt to bullets685 [5d 9d]
+Leotrancozo: folds 
+johnymcc: folds 
+eltavan: folds 
+iago ed350: folds 
+Beirario2728: folds 
+bullets685: calls 175
+sweaty mountain: checks 
+*** FLOP *** [2c Qd Kd]
+bullets685: bets 700
+sweaty mountain: folds 
+Uncalled bet (700) returned to bullets685
+bullets685 collected 945 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 945 | Rake 0 
+Board [2c Qd Kd]
+Seat 1: sweaty mountain (big blind) folded on the Flop
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan folded before Flop (didn't bet)
+Seat 5: iago ed350 folded before Flop (didn't bet)
+Seat 6: Beirario2728 (button) folded before Flop (didn't bet)
+Seat 8: bullets685 (small blind) collected (945)
+
+
+
+Betfair Hand #262466609724: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VII (175/350) - 2026/10/21 16:51:17 CUST [2026/10/21 11:51:17 ET]
+Table '4040099699 2' 8-max Seat #8 is the button
+Seat 1: sweaty mountain (10784 in chips) 
+Seat 2: Leotrancozo (21948 in chips) 
+Seat 3: johnymcc (18145 in chips) 
+Seat 4: eltavan (11708 in chips) 
+Seat 5: iago ed350 (10306 in chips) 
+Seat 6: Beirario2728 (40720 in chips) 
+Seat 8: bullets685 (26418 in chips) 
+sweaty mountain: posts the ante 35
+Leotrancozo: posts the ante 35
+johnymcc: posts the ante 35
+eltavan: posts the ante 35
+iago ed350: posts the ante 35
+Beirario2728: posts the ante 35
+bullets685: posts the ante 35
+sweaty mountain: posts small blind 175
+Leotrancozo: posts big blind 350
+*** HOLE CARDS ***
+Dealt to bullets685 [7c Jh]
+johnymcc: folds 
+eltavan: calls 350
+senia138 is disconnected 
+iago ed350: calls 350
+Beirario2728: calls 350
+bullets685: folds 
+sweaty mountain: calls 175
+Leotrancozo: checks 
+*** FLOP *** [2s As Jd]
+sweaty mountain: checks 
+Leotrancozo: checks 
+eltavan: checks 
+iago ed350: bets 998
+Beirario2728: calls 998
+sweaty mountain: folds 
+Leotrancozo: folds 
+eltavan: folds 
+*** TURN *** [2s As Jd] [Qh]
+iago ed350: bets 1996
+Beirario2728: raises 37341 to 39337 and is all-in
+iago ed350: calls 6927 and is all-in
+Uncalled bet (30414) returned to Beirario2728
+*** RIVER *** [2s As Jd Qh] [Ks]
+*** SHOW DOWN ***
+iago ed350: shows [Ac 6s] (a pair of Aces)
+Beirario2728: shows [Tc Kc] (a straight, Ten to Ace)
+Beirario2728 collected 21837 from pot
+iago ed350 finished the tournament
+*** SUMMARY ***
+Total pot 21837 | Rake 0 
+Board [2s As Jd Qh Ks]
+Seat 1: sweaty mountain (small blind) folded on the Flop
+Seat 2: Leotrancozo (big blind) folded on the Flop
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan folded on the Flop
+Seat 5: iago ed350 showed [Ac 6s] and lost with a pair of Aces
+Seat 6: Beirario2728 showed [Tc Kc] and won (21837) with a straight, Ten to Ace
+Seat 8: bullets685 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466616474: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VII (175/350) - 2026/10/21 16:52:05 CUST [2026/10/21 11:52:05 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: sweaty mountain (10399 in chips) 
+Seat 2: Leotrancozo (21563 in chips) 
+Seat 3: johnymcc (18110 in chips) 
+Seat 4: eltavan (11323 in chips) 
+Seat 6: Beirario2728 (52251 in chips) 
+Seat 7: senia138 (10000 in chips) 
+Seat 8: bullets685 (26383 in chips) 
+sweaty mountain: posts the ante 35
+Leotrancozo: posts the ante 35
+johnymcc: posts the ante 35
+eltavan: posts the ante 35
+Beirario2728: posts the ante 35
+senia138: posts the ante 35
+bullets685: posts the ante 35
+Leotrancozo: posts small blind 175
+johnymcc: posts big blind 350
+*** HOLE CARDS ***
+Dealt to bullets685 [3d Kh]
+eltavan: folds 
+Beirario2728: calls 350
+senia138: folds 
+bullets685: folds 
+sweaty mountain: raises 1400 to 1750
+Leotrancozo: folds 
+johnymcc: folds 
+Beirario2728: calls 1400
+*** FLOP *** [Ad 9h 2d]
+Beirario2728: checks 
+sweaty mountain: bets 2135
+Beirario2728: raises 48331 to 50466 and is all-in
+sweaty mountain: calls 6479 and is all-in
+Uncalled bet (41852) returned to Beirario2728
+*** TURN *** [Ad 9h 2d] [9d]
+*** RIVER *** [Ad 9h 2d 9d] [3c]
+*** SHOW DOWN ***
+Beirario2728: shows [4d Td] (a flush, Ace high)
+sweaty mountain: shows [Ks Ac] (two pair, Aces and Nines)
+Beirario2728 collected 21498 from pot
+sweaty mountain finished the tournament
+*** SUMMARY ***
+Total pot 21498 | Rake 0 
+Board [Ad 9h 2d 9d 3c]
+Seat 1: sweaty mountain (button) showed [Ks Ac] and lost with two pair, Aces and Nines
+Seat 2: Leotrancozo (small blind) folded before Flop
+Seat 3: johnymcc (big blind) folded before Flop
+Seat 4: eltavan folded before Flop (didn't bet)
+Seat 6: Beirario2728 showed [4d Td] and won (21498) with a flush, Ace high
+Seat 7: senia138 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466627244: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VIII (200/400) - 2026/10/21 16:53:20 CUST [2026/10/21 11:53:20 ET]
+Table '4040099699 2' 8-max Seat #2 is the button
+Seat 2: Leotrancozo (21353 in chips) 
+Seat 3: johnymcc (17725 in chips) 
+Seat 4: eltavan (11288 in chips) 
+Seat 6: Beirario2728 (63350 in chips) 
+Seat 7: senia138 (9965 in chips) 
+Seat 8: bullets685 (26348 in chips) 
+Leotrancozo: posts the ante 40
+johnymcc: posts the ante 40
+eltavan: posts the ante 40
+Beirario2728: posts the ante 40
+senia138: posts the ante 40
+bullets685: posts the ante 40
+johnymcc: posts small blind 200
+eltavan: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [8h Kd]
+Beirario2728: folds 
+senia138: folds 
+bullets685: folds 
+Leotrancozo: raises 800 to 1200
+johnymcc: folds 
+eltavan: calls 800
+*** FLOP *** [7d Th 4c]
+eltavan: checks 
+Leotrancozo: bets 1420
+eltavan: folds 
+Uncalled bet (1420) returned to Leotrancozo
+Leotrancozo collected 2840 from pot
+Leotrancozo: doesn't show hand 
+*** SUMMARY ***
+Total pot 2840 | Rake 0 
+Board [7d Th 4c]
+Seat 2: Leotrancozo (button) collected (2840)
+Seat 3: johnymcc (small blind) folded before Flop
+Seat 4: eltavan (big blind) folded on the Flop
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: senia138 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466632162: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VIII (200/400) - 2026/10/21 16:53:54 CUST [2026/10/21 11:53:54 ET]
+Table '4040099699 2' 8-max Seat #3 is the button
+Seat 2: Leotrancozo (22953 in chips) 
+Seat 3: johnymcc (17485 in chips) 
+Seat 4: eltavan (10048 in chips) 
+Seat 5: jack6733 (22427 in chips) 
+Seat 6: Beirario2728 (63310 in chips) 
+Seat 7: senia138 (9925 in chips) 
+Seat 8: bullets685 (26308 in chips) 
+Leotrancozo: posts the ante 40
+johnymcc: posts the ante 40
+eltavan: posts the ante 40
+jack6733: posts the ante 40
+Beirario2728: posts the ante 40
+senia138: posts the ante 40
+bullets685: posts the ante 40
+eltavan: posts small blind 200
+jack6733: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc 4h]
+Beirario2728: calls 400
+senia138: folds 
+bullets685: folds 
+Leotrancozo: folds 
+johnymcc: folds 
+eltavan: calls 200
+jack6733: checks 
+*** FLOP *** [8d 9d 6c]
+eltavan: checks 
+jack6733: checks 
+Beirario2728: checks 
+*** TURN *** [8d 9d 6c] [Th]
+eltavan: bets 400
+jack6733: calls 400
+Beirario2728: folds 
+*** RIVER *** [8d 9d 6c Th] [Jh]
+eltavan: bets 1200
+jack6733: raises 4680 to 5880
+eltavan: calls 4680
+*** SHOW DOWN ***
+jack6733: shows [Js Qs] (a straight, Eight to Queen)
+eltavan: shows [Qd 5h] (a straight, Eight to Queen)
+eltavan collected 7020 from pot
+jack6733 collected 7020 from pot
+*** SUMMARY ***
+Total pot 14040 | Rake 0 
+Board [8d 9d 6c Th Jh]
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc (button) folded before Flop (didn't bet)
+Seat 4: eltavan (small blind) showed [Qd 5h] and won (7020) with a straight, Eight to Queen
+Seat 5: jack6733 (big blind) showed [Js Qs] and won (7020) with a straight, Eight to Queen
+Seat 6: Beirario2728 folded on the Turn
+Seat 7: senia138 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466639165: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VIII (200/400) - 2026/10/21 16:54:44 CUST [2026/10/21 11:54:44 ET]
+Table '4040099699 2' 8-max Seat #4 is the button
+Seat 2: Leotrancozo (22913 in chips) 
+Seat 3: johnymcc (17445 in chips) 
+Seat 4: eltavan (10348 in chips) 
+Seat 5: jack6733 (22727 in chips) 
+Seat 6: Beirario2728 (62870 in chips) 
+Seat 7: senia138 (9885 in chips) 
+Seat 8: bullets685 (26268 in chips) 
+Leotrancozo: posts the ante 40
+johnymcc: posts the ante 40
+eltavan: posts the ante 40
+jack6733: posts the ante 40
+Beirario2728: posts the ante 40
+senia138: posts the ante 40
+bullets685: posts the ante 40
+jack6733: posts small blind 200
+Beirario2728: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah 4h]
+senia138: folds 
+bullets685: raises 720 to 1120
+Leotrancozo: folds 
+johnymcc: folds 
+eltavan: calls 1120
+jack6733: folds 
+Beirario2728: calls 720
+*** FLOP *** [9h 5c Jh]
+Beirario2728: checks 
+bullets685: bets 1920
+eltavan: raises 7268 to 9188 and is all-in
+Beirario2728: folds 
+bullets685: calls 7268
+*** TURN *** [9h 5c Jh] [8c]
+*** RIVER *** [9h 5c Jh 8c] [6h]
+*** SHOW DOWN ***
+bullets685: shows [Ah 4h] (a flush, Ace high)
+eltavan: shows [9d 6d] (two pair, Nines and Sixes)
+bullets685 collected 22216 from pot
+eltavan finished the tournament
+*** SUMMARY ***
+Total pot 22216 | Rake 0 
+Board [9h 5c Jh 8c 6h]
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: eltavan (button) showed [9d 6d] and lost with two pair, Nines and Sixes
+Seat 5: jack6733 (small blind) folded before Flop
+Seat 6: Beirario2728 (big blind) folded on the Flop
+Seat 7: senia138 folded before Flop (didn't bet)
+Seat 8: bullets685 showed [Ah 4h] and won (22216) with a flush, Ace high
+
+
+
+Betfair Hand #262466681412: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VIII (200/400) - 2026/10/21 17:00:48 CUST [2026/10/21 12:00:48 ET]
+Table '4040099699 2' 8-max Seat #5 is the button
+Seat 1: GoodmanAR (10000 in chips) 
+Seat 2: Leotrancozo (22873 in chips) 
+Seat 3: johnymcc (17405 in chips) 
+Seat 4: tederjan (10000 in chips) 
+Seat 5: jack6733 (22487 in chips) 
+Seat 6: Beirario2728 (61710 in chips) 
+Seat 7: senia138 (9845 in chips) 
+Seat 8: bullets685 (38136 in chips) 
+GoodmanAR: posts the ante 40
+Leotrancozo: posts the ante 40
+johnymcc: posts the ante 40
+tederjan: posts the ante 40
+jack6733: posts the ante 40
+Beirario2728: posts the ante 40
+senia138: posts the ante 40
+bullets685: posts the ante 40
+Beirario2728: posts small blind 200
+senia138: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc 5c]
+bullets685: folds 
+GoodmanAR: folds 
+Leotrancozo: folds 
+johnymcc: folds 
+tederjan: calls 400
+jack6733: calls 400
+Beirario2728: calls 200
+senia138: checks 
+*** FLOP *** [4s As 8h]
+Beirario2728 is connected 
+Beirario2728 is disconnected 
+Beirario2728 is connected 
+Beirario2728: checks 
+senia138: checks 
+tederjan: checks 
+jack6733: bets 22047 and is all-in
+Beirario2728: folds 
+senia138: folds 
+tederjan: calls 9560 and is all-in
+Uncalled bet (12487) returned to jack6733
+*** TURN *** [4s As 8h] [Jd]
+*** RIVER *** [4s As 8h Jd] [Qh]
+*** SHOW DOWN ***
+tederjan: shows [Ks Ah] (a pair of Aces)
+jack6733: shows [Ac Kh] (a pair of Aces)
+tederjan collected 10520 from pot
+jack6733 collected 10520 from pot
+*** SUMMARY ***
+Total pot 21040 | Rake 0 
+Board [4s As 8h Jd Qh]
+Seat 1: GoodmanAR folded before Flop (didn't bet)
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: tederjan showed [Ks Ah] and won (10520) with a pair of Aces
+Seat 5: jack6733 (button) showed [Ac Kh] and won (10520) with a pair of Aces
+Seat 6: Beirario2728 (small blind) folded on the Flop
+Seat 7: senia138 (big blind) folded on the Flop
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466694007: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level VIII (200/400) - 2026/10/21 17:02:21 CUST [2026/10/21 12:02:21 ET]
+Table '4040099699 2' 8-max Seat #6 is the button
+Seat 1: GoodmanAR (9960 in chips) 
+Seat 2: Leotrancozo (22833 in chips) 
+Seat 3: johnymcc (17365 in chips) 
+Seat 4: tederjan (10520 in chips) 
+Seat 5: jack6733 (23007 in chips) 
+Seat 6: Beirario2728 (61270 in chips) 
+Seat 7: senia138 (9405 in chips) 
+Seat 8: bullets685 (38096 in chips) 
+GoodmanAR: posts the ante 40
+Leotrancozo: posts the ante 40
+johnymcc: posts the ante 40
+tederjan: posts the ante 40
+jack6733: posts the ante 40
+Beirario2728: posts the ante 40
+senia138: posts the ante 40
+bullets685: posts the ante 40
+senia138: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [6c 3c]
+GoodmanAR: folds 
+Leotrancozo: folds 
+johnymcc: raises 400 to 800
+tederjan: folds 
+jack6733: folds 
+Beirario2728: folds 
+senia138: folds 
+bullets685: calls 400
+*** FLOP *** [Qs 9c Ks]
+bullets685: checks 
+johnymcc: bets 848
+bullets685: folds 
+Uncalled bet (848) returned to johnymcc
+johnymcc collected 2120 from pot
+johnymcc: doesn't show hand 
+*** SUMMARY ***
+Total pot 2120 | Rake 0 
+Board [Qs 9c Ks]
+Seat 1: GoodmanAR folded before Flop (didn't bet)
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc collected (2120)
+Seat 4: tederjan folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 (button) folded before Flop (didn't bet)
+Seat 7: senia138 (small blind) folded before Flop
+Seat 8: bullets685 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262466700512: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level IX (250/500) - 2026/10/21 17:03:07 CUST [2026/10/21 12:03:07 ET]
+Table '4040099699 2' 8-max Seat #7 is the button
+Seat 1: GoodmanAR (9920 in chips) 
+Seat 2: Leotrancozo (22793 in chips) 
+Seat 3: johnymcc (18645 in chips) 
+Seat 4: tederjan (10480 in chips) 
+Seat 5: jack6733 (22967 in chips) 
+Seat 6: Beirario2728 (61230 in chips) 
+Seat 7: senia138 (9165 in chips) 
+Seat 8: bullets685 (37256 in chips) 
+GoodmanAR: posts the ante 50
+Leotrancozo: posts the ante 50
+johnymcc: posts the ante 50
+tederjan: posts the ante 50
+jack6733: posts the ante 50
+Beirario2728: posts the ante 50
+senia138: posts the ante 50
+bullets685: posts the ante 50
+bullets685: posts small blind 250
+GoodmanAR: posts big blind 500
+*** HOLE CARDS ***
+Dealt to bullets685 [5d 8h]
+Leotrancozo: folds 
+johnymcc: folds 
+tederjan: folds 
+jack6733: folds 
+Beirario2728: folds 
+senia138: raises 500 to 1000
+bullets685: folds 
+GoodmanAR: raises 8870 to 9870 and is all-in
+senia138: folds 
+Uncalled bet (8870) returned to GoodmanAR
+GoodmanAR collected 2650 from pot
+*** SUMMARY ***
+Total pot 2650 | Rake 0 
+Seat 1: GoodmanAR (big blind) collected (2650)
+Seat 2: Leotrancozo folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: tederjan folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: senia138 (button) folded before Flop
+Seat 8: bullets685 (small blind) folded before Flop
+
+
+
+Betfair Hand #262466707496: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level IX (250/500) - 2026/10/21 17:03:55 CUST [2026/10/21 12:03:55 ET]
+Table '4040099699 2' 8-max Seat #8 is the button
+Seat 1: GoodmanAR (11520 in chips) 
+Seat 3: johnymcc (18595 in chips) 
+Seat 4: tederjan (10430 in chips) 
+Seat 5: jack6733 (22917 in chips) 
+Seat 6: Beirario2728 (61180 in chips) 
+Seat 7: senia138 (8115 in chips) 
+Seat 8: bullets685 (36956 in chips) 
+GoodmanAR: posts the ante 50
+johnymcc: posts the ante 50
+tederjan: posts the ante 50
+jack6733: posts the ante 50
+Beirario2728: posts the ante 50
+senia138: posts the ante 50
+bullets685: posts the ante 50
+GoodmanAR: posts small blind 250
+johnymcc: posts big blind 500
+*** HOLE CARDS ***
+Dealt to bullets685 [As Qh]
+tederjan: raises 1600 to 2100
+jack6733: folds 
+Beirario2728: folds 
+senia138: folds 
+bullets685: calls 2100
+GoodmanAR: folds 
+johnymcc: folds 
+*** FLOP *** [5c 5s Qc]
+tederjan: bets 8280 and is all-in
+bullets685: calls 8280
+*** TURN *** [5c 5s Qc] [3h]
+*** RIVER *** [5c 5s Qc 3h] [7d]
+*** SHOW DOWN ***
+tederjan: shows [4s 4c] (two pair, Fives and Fours)
+bullets685: shows [As Qh] (two pair, Queens and Fives)
+bullets685 collected 21860 from pot
+tederjan finished the tournament
+*** SUMMARY ***
+Total pot 21860 | Rake 0 
+Board [5c 5s Qc 3h 7d]
+Seat 1: GoodmanAR (small blind) folded before Flop
+Seat 3: johnymcc (big blind) folded before Flop
+Seat 4: tederjan showed [4s 4c] and lost with two pair, Fives and Fours
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: senia138 folded before Flop (didn't bet)
+Seat 8: bullets685 (button) showed [As Qh] and won (21860) with two pair, Queens and Fives
+
+
+
+Betfair Hand #262466713817: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level IX (250/500) - 2026/10/21 17:04:39 CUST [2026/10/21 12:04:39 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: GoodmanAR (11220 in chips) 
+Seat 3: johnymcc (18045 in chips) 
+Seat 5: jack6733 (22867 in chips) 
+Seat 6: Beirario2728 (61130 in chips) 
+Seat 7: senia138 (8065 in chips) 
+Seat 8: bullets685 (48386 in chips) 
+GoodmanAR: posts the ante 50
+johnymcc: posts the ante 50
+jack6733: posts the ante 50
+Beirario2728: posts the ante 50
+senia138: posts the ante 50
+bullets685: posts the ante 50
+johnymcc: posts small blind 250
+jack6733: posts big blind 500
+*** HOLE CARDS ***
+Dealt to bullets685 [9d 3s]
+mihauku is disconnected 
+Beirario2728: folds 
+senia138: folds 
+bullets685: folds 
+GoodmanAR: folds 
+johnymcc: folds 
+Uncalled bet (250) returned to jack6733
+jack6733 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 1: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 3: johnymcc (small blind) folded before Flop
+Seat 5: jack6733 (big blind) collected (800)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: senia138 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466715693: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level IX (250/500) - 2026/10/21 17:04:52 CUST [2026/10/21 12:04:52 ET]
+Table '4040099699 2' 8-max Seat #3 is the button
+Seat 1: GoodmanAR (11170 in chips) 
+Seat 3: johnymcc (17745 in chips) 
+Seat 4: mihauku (10000 in chips) out of hand (moved from another table into small blind)
+Seat 5: jack6733 (23367 in chips) 
+Seat 6: Beirario2728 (61080 in chips) 
+Seat 7: senia138 (8015 in chips) 
+Seat 8: bullets685 (48336 in chips) 
+mihauku will be allowed to play after the button
+GoodmanAR: posts the ante 50
+johnymcc: posts the ante 50
+jack6733: posts the ante 50
+Beirario2728: posts the ante 50
+senia138: posts the ante 50
+bullets685: posts the ante 50
+jack6733: posts small blind 250
+Beirario2728: posts big blind 500
+*** HOLE CARDS ***
+Dealt to bullets685 [7c Ad]
+senia138: folds 
+bullets685: folds 
+GoodmanAR: raises 500 to 1000
+johnymcc: folds 
+jack6733: calls 750
+Beirario2728: calls 500
+*** FLOP *** [As 6h Ah]
+jack6733: checks 
+Beirario2728: checks 
+GoodmanAR: bets 1089
+jack6733: folds 
+Beirario2728: folds 
+Uncalled bet (1089) returned to GoodmanAR
+GoodmanAR collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Board [As 6h Ah]
+Seat 1: GoodmanAR collected (3300)
+Seat 3: johnymcc (button) folded before Flop (didn't bet)
+Seat 5: jack6733 (small blind) folded on the Flop
+Seat 6: Beirario2728 (big blind) folded on the Flop
+Seat 7: senia138 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466725584: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level IX (250/500) - 2026/10/21 17:06:00 CUST [2026/10/21 12:06:00 ET]
+Table '4040099699 2' 8-max Seat #5 is the button
+Seat 1: GoodmanAR (13420 in chips) 
+Seat 3: johnymcc (17695 in chips) 
+Seat 4: mihauku (10000 in chips) 
+Seat 5: jack6733 (22317 in chips) 
+Seat 6: Beirario2728 (60030 in chips) 
+Seat 7: senia138 (7965 in chips) 
+Seat 8: bullets685 (48286 in chips) 
+GoodmanAR: posts the ante 50
+johnymcc: posts the ante 50
+mihauku: posts the ante 50
+jack6733: posts the ante 50
+Beirario2728: posts the ante 50
+senia138: posts the ante 50
+bullets685: posts the ante 50
+Beirario2728: posts small blind 250
+senia138: posts big blind 500
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah 7c]
+bullets685: folds 
+GoodmanAR: folds 
+johnymcc: folds 
+mihauku: raises 9450 to 9950 and is all-in
+jack6733: folds 
+Beirario2728: calls 9700
+phil1961 is disconnected 
+senia138: folds 
+*** FLOP *** [6s 2h Qs]
+*** TURN *** [6s 2h Qs] [4h]
+*** RIVER *** [6s 2h Qs 4h] [Kc]
+*** SHOW DOWN ***
+Beirario2728: shows [8d Ad] (high card Ace)
+mihauku: shows [8c 8s] (a pair of Eights)
+mihauku collected 20750 from pot
+*** SUMMARY ***
+Total pot 20750 | Rake 0 
+Board [6s 2h Qs 4h Kc]
+Seat 1: GoodmanAR folded before Flop (didn't bet)
+Seat 3: johnymcc folded before Flop (didn't bet)
+Seat 4: mihauku showed [8c 8s] and won (20750) with a pair of Eights
+Seat 5: jack6733 (button) folded before Flop (didn't bet)
+Seat 6: Beirario2728 (small blind) showed [8d Ad] and lost with high card Ace
+Seat 7: senia138 (big blind) folded before Flop
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466733168: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level X (300/600) - 2026/10/21 17:06:51 CUST [2026/10/21 12:06:51 ET]
+Table '4040099699 2' 8-max Seat #6 is the button
+Seat 1: GoodmanAR (13370 in chips) 
+Seat 2: phil1961 (10000 in chips) 
+Seat 4: mihauku (20750 in chips) 
+Seat 5: jack6733 (22267 in chips) 
+Seat 6: Beirario2728 (50030 in chips) 
+Seat 7: senia138 (7415 in chips) 
+Seat 8: bullets685 (48236 in chips) 
+GoodmanAR: posts the ante 60
+phil1961: posts the ante 60
+mihauku: posts the ante 60
+jack6733: posts the ante 60
+Beirario2728: posts the ante 60
+senia138: posts the ante 60
+bullets685: posts the ante 60
+senia138: posts small blind 300
+bullets685: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [2h Ks]
+GoodmanAR: raises 600 to 1200
+phil1961: folds 
+jack6733 is disconnected 
+mihauku: folds 
+jack6733: folds 
+Beirario2728: folds 
+senia138: raises 6155 to 7355 and is all-in
+bullets685: folds 
+GoodmanAR: folds 
+Uncalled bet (6155) returned to senia138
+senia138 collected 3420 from pot
+al1en0 is disconnected 
+*** SUMMARY ***
+Total pot 3420 | Rake 0 
+Seat 1: GoodmanAR folded before Flop
+Seat 2: phil1961 folded before Flop (didn't bet)
+Seat 4: mihauku folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 (button) folded before Flop (didn't bet)
+Seat 7: senia138 (small blind) collected (3420)
+Seat 8: bullets685 (big blind) folded before Flop
+
+
+
+Betfair Hand #262466738697: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level X (300/600) - 2026/10/21 17:07:30 CUST [2026/10/21 12:07:30 ET]
+Table '4040099699 2' 8-max Seat #7 is the button
+Seat 1: GoodmanAR (12110 in chips) 
+Seat 2: phil1961 (9940 in chips) 
+Seat 3: al1en0 (10000 in chips) 
+Seat 4: mihauku (20690 in chips) 
+Seat 5: jack6733 (22207 in chips) 
+Seat 6: Beirario2728 (49970 in chips) 
+Seat 7: senia138 (9575 in chips) 
+Seat 8: bullets685 (47576 in chips) 
+GoodmanAR: posts the ante 60
+phil1961: posts the ante 60
+al1en0: posts the ante 60
+mihauku: posts the ante 60
+jack6733: posts the ante 60
+Beirario2728: posts the ante 60
+senia138: posts the ante 60
+bullets685: posts the ante 60
+bullets685: posts small blind 300
+GoodmanAR: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [2s Tc]
+phil1961: folds 
+al1en0: folds 
+mihauku: folds 
+jack6733: folds 
+Beirario2728: calls 600
+senia138: folds 
+jack6733 is disconnected 
+bullets685: calls 300
+GoodmanAR: checks 
+*** FLOP *** [8h 3d 8d]
+jack6733 is disconnected 
+bullets685: checks 
+GoodmanAR: checks 
+Beirario2728: checks 
+*** TURN *** [8h 3d 8d] [Jd]
+bullets685: checks 
+GoodmanAR: bets 1710
+Beirario2728: calls 1710
+bullets685: folds 
+*** RIVER *** [8h 3d 8d Jd] [Qh]
+GoodmanAR: bets 4275
+Beirario2728: folds 
+Uncalled bet (4275) returned to GoodmanAR
+GoodmanAR collected 5700 from pot
+*** SUMMARY ***
+Total pot 5700 | Rake 0 
+Board [8h 3d 8d Jd Qh]
+Seat 1: GoodmanAR (big blind) collected (5700)
+Seat 2: phil1961 folded before Flop (didn't bet)
+Seat 3: al1en0 folded before Flop (didn't bet)
+Seat 4: mihauku folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded on the River
+Seat 7: senia138 (button) folded before Flop (didn't bet)
+Seat 8: bullets685 (small blind) folded on the Turn
+
+
+
+Betfair Hand #262466750429: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level X (300/600) - 2026/10/21 17:08:48 CUST [2026/10/21 12:08:48 ET]
+Table '4040099699 2' 8-max Seat #8 is the button
+Seat 1: GoodmanAR (15440 in chips) 
+Seat 2: phil1961 (9880 in chips) 
+Seat 3: al1en0 (9940 in chips) 
+Seat 4: mihauku (20630 in chips) 
+Seat 5: jack6733 (22147 in chips) 
+Seat 6: Beirario2728 (47600 in chips) 
+Seat 7: senia138 (9515 in chips) 
+Seat 8: bullets685 (46916 in chips) 
+GoodmanAR: posts the ante 60
+phil1961: posts the ante 60
+al1en0: posts the ante 60
+mihauku: posts the ante 60
+jack6733: posts the ante 60
+Beirario2728: posts the ante 60
+senia138: posts the ante 60
+bullets685: posts the ante 60
+GoodmanAR: posts small blind 300
+phil1961: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 8h]
+al1en0: raises 600 to 1200
+mihauku: folds 
+jack6733: folds 
+Beirario2728: folds 
+senia138: folds 
+bullets685: calls 1200
+GoodmanAR: folds 
+phil1961: calls 600
+*** FLOP *** [Ah Ts 7c]
+phil1961: checks 
+al1en0: bets 1095
+bullets685: calls 1095
+phil1961: calls 1095
+*** TURN *** [Ah Ts 7c] [4h]
+phil1961: checks 
+al1en0: bets 7585 and is all-in
+bullets685: calls 7585
+phil1961: folds 
+*** RIVER *** [Ah Ts 7c 4h] [2s]
+*** SHOW DOWN ***
+al1en0: shows [Kd Kh] (a pair of Kings)
+bullets685: shows [Ad 8h] (a pair of Aces)
+bullets685 collected 22835 from pot
+al1en0 finished the tournament
+*** SUMMARY ***
+Total pot 22835 | Rake 0 
+Board [Ah Ts 7c 4h 2s]
+Seat 1: GoodmanAR (small blind) folded before Flop
+Seat 2: phil1961 (big blind) folded on the Turn
+Seat 3: al1en0 showed [Kd Kh] and lost with a pair of Kings
+Seat 4: mihauku folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: senia138 folded before Flop (didn't bet)
+Seat 8: bullets685 (button) showed [Ad 8h] and won (22835) with a pair of Aces
+
+
+
+Betfair Hand #262466762618: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level X (300/600) - 2026/10/21 17:10:10 CUST [2026/10/21 12:10:10 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: GoodmanAR (15080 in chips) 
+Seat 2: phil1961 (7525 in chips) 
+Seat 4: mihauku (20570 in chips) 
+Seat 5: jack6733 (22087 in chips) 
+Seat 6: Beirario2728 (47540 in chips) 
+Seat 7: senia138 (9455 in chips) 
+Seat 8: bullets685 (59811 in chips) 
+GoodmanAR: posts the ante 60
+phil1961: posts the ante 60
+mihauku: posts the ante 60
+jack6733: posts the ante 60
+Beirario2728: posts the ante 60
+senia138: posts the ante 60
+bullets685: posts the ante 60
+phil1961: posts small blind 300
+mihauku: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [6d 5d]
+jack6733: folds 
+Beirario2728: raises 46880 to 47480 and is all-in
+senia138: folds 
+bullets685: folds 
+GoodmanAR: folds 
+phil1961: folds 
+mihauku: folds 
+Uncalled bet (46880) returned to Beirario2728
+Beirario2728 collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | Rake 0 
+Seat 1: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 2: phil1961 (small blind) folded before Flop
+Seat 4: mihauku (big blind) folded before Flop
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 collected (1920)
+Seat 7: senia138 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466766476: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level X (300/600) - 2026/10/21 17:10:36 CUST [2026/10/21 12:10:36 ET]
+Table '4040099699 2' 8-max Seat #2 is the button
+Seat 1: GoodmanAR (15020 in chips) 
+Seat 2: phil1961 (7165 in chips) 
+Seat 4: mihauku (19910 in chips) 
+Seat 5: jack6733 (22027 in chips) 
+Seat 6: Beirario2728 (48800 in chips) 
+Seat 7: senia138 (9395 in chips) 
+Seat 8: bullets685 (59751 in chips) 
+GoodmanAR: posts the ante 60
+phil1961: posts the ante 60
+mihauku: posts the ante 60
+jack6733: posts the ante 60
+Beirario2728: posts the ante 60
+senia138: posts the ante 60
+bullets685: posts the ante 60
+mihauku: posts small blind 300
+jack6733: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [2c Ad]
+Beirario2728: folds 
+senia138: folds 
+bullets685: folds 
+GoodmanAR: raises 600 to 1200
+phil1961: folds 
+mihauku: folds 
+jack6733: folds 
+Uncalled bet (600) returned to GoodmanAR
+GoodmanAR collected 1920 from pot
+*** SUMMARY ***
+Total pot 1920 | Rake 0 
+Seat 1: GoodmanAR collected (1920)
+Seat 2: phil1961 (button) folded before Flop (didn't bet)
+Seat 4: mihauku (small blind) folded before Flop
+Seat 5: jack6733 (big blind) folded before Flop
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: senia138 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466772286: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XI (350/700) - 2026/10/21 17:11:14 CUST [2026/10/21 12:11:14 ET]
+Table '4040099699 2' 8-max Seat #4 is the button
+Seat 1: GoodmanAR (16280 in chips) 
+Seat 2: phil1961 (7105 in chips) 
+Seat 4: mihauku (19550 in chips) 
+Seat 5: jack6733 (21367 in chips) 
+Seat 6: Beirario2728 (48740 in chips) 
+Seat 7: senia138 (9335 in chips) 
+Seat 8: bullets685 (59691 in chips) 
+GoodmanAR: posts the ante 70
+phil1961: posts the ante 70
+mihauku: posts the ante 70
+jack6733: posts the ante 70
+Beirario2728: posts the ante 70
+senia138: posts the ante 70
+bullets685: posts the ante 70
+jack6733: posts small blind 350
+Beirario2728: posts big blind 700
+*** HOLE CARDS ***
+Dealt to bullets685 [4c 7d]
+senia138: folds 
+bullets685: folds 
+GoodmanAR: raises 700 to 1400
+phil1961: folds 
+mihauku: folds 
+jack6733: folds 
+Beirario2728: calls 700
+*** FLOP *** [Qh 5d 6h]
+Beirario2728: checks 
+GoodmanAR: bets 1201
+Beirario2728: folds 
+Uncalled bet (1201) returned to GoodmanAR
+GoodmanAR collected 3640 from pot
+*** SUMMARY ***
+Total pot 3640 | Rake 0 
+Board [Qh 5d 6h]
+Seat 1: GoodmanAR collected (3640)
+Seat 2: phil1961 folded before Flop (didn't bet)
+Seat 4: mihauku (button) folded before Flop (didn't bet)
+Seat 5: jack6733 (small blind) folded before Flop
+Seat 6: Beirario2728 (big blind) folded on the Flop
+Seat 7: senia138 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466776527: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XI (350/700) - 2026/10/21 17:11:43 CUST [2026/10/21 12:11:43 ET]
+Table '4040099699 2' 8-max Seat #5 is the button
+Seat 1: GoodmanAR (18450 in chips) 
+Seat 2: phil1961 (7035 in chips) 
+Seat 4: mihauku (19480 in chips) 
+Seat 5: jack6733 (20947 in chips) 
+Seat 6: Beirario2728 (47270 in chips) 
+Seat 7: senia138 (9265 in chips) 
+Seat 8: bullets685 (59621 in chips) 
+GoodmanAR: posts the ante 70
+phil1961: posts the ante 70
+mihauku: posts the ante 70
+jack6733: posts the ante 70
+Beirario2728: posts the ante 70
+senia138: posts the ante 70
+bullets685: posts the ante 70
+Beirario2728: posts small blind 350
+senia138: posts big blind 700
+*** HOLE CARDS ***
+Dealt to bullets685 [Kh 9s]
+bullets685: folds 
+GoodmanAR: folds 
+phil1961: folds 
+mihauku: raises 840 to 1540
+jack6733: folds 
+Beirario2728: folds 
+senia138: folds 
+Uncalled bet (840) returned to mihauku
+mihauku collected 2240 from pot
+mihauku: doesn't show hand 
+*** SUMMARY ***
+Total pot 2240 | Rake 0 
+Seat 1: GoodmanAR folded before Flop (didn't bet)
+Seat 2: phil1961 folded before Flop (didn't bet)
+Seat 4: mihauku collected (2240)
+Seat 5: jack6733 (button) folded before Flop (didn't bet)
+Seat 6: Beirario2728 (small blind) folded before Flop
+Seat 7: senia138 (big blind) folded before Flop
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466781022: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XI (350/700) - 2026/10/21 17:12:12 CUST [2026/10/21 12:12:12 ET]
+Table '4040099699 2' 8-max Seat #6 is the button
+Seat 1: GoodmanAR (18380 in chips) 
+Seat 2: phil1961 (6965 in chips) 
+Seat 4: mihauku (20950 in chips) 
+Seat 5: jack6733 (20877 in chips) 
+Seat 6: Beirario2728 (46850 in chips) 
+Seat 7: senia138 (8495 in chips) 
+Seat 8: bullets685 (59551 in chips) 
+GoodmanAR: posts the ante 70
+phil1961: posts the ante 70
+mihauku: posts the ante 70
+jack6733: posts the ante 70
+Beirario2728: posts the ante 70
+senia138: posts the ante 70
+bullets685: posts the ante 70
+senia138: posts small blind 350
+bullets685: posts big blind 700
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 3c]
+GoodmanAR: folds 
+phil1961: folds 
+mihauku: raises 770 to 1470
+jack6733: calls 1470
+Beirario2728: raises 770 to 2240
+senia138: folds 
+bullets685: folds 
+mihauku: calls 770
+jack6733: calls 770
+*** FLOP *** [7s Ks 9h]
+mihauku: checks 
+jack6733: checks 
+Beirario2728: checks 
+*** TURN *** [7s Ks 9h] [7d]
+mihauku: bets 4200
+Stümpper88 is disconnected 
+jack6733: folds 
+Beirario2728: raises 40340 to 44540 and is all-in
+mihauku: folds 
+Uncalled bet (40340) returned to Beirario2728
+Beirario2728 collected 16660 from pot
+*** SUMMARY ***
+Total pot 16660 | Rake 0 
+Board [7s Ks 9h 7d]
+Seat 1: GoodmanAR folded before Flop (didn't bet)
+Seat 2: phil1961 folded before Flop (didn't bet)
+Seat 4: mihauku folded on the Turn
+Seat 5: jack6733 folded on the Turn
+Seat 6: Beirario2728 (button) collected (16660)
+Seat 7: senia138 (small blind) folded before Flop
+Seat 8: bullets685 (big blind) folded before Flop
+
+
+
+Betfair Hand #262466794179: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XI (350/700) - 2026/10/21 17:13:39 CUST [2026/10/21 12:13:39 ET]
+Table '4040099699 2' 8-max Seat #7 is the button
+Seat 1: GoodmanAR (18310 in chips) 
+Seat 2: phil1961 (6895 in chips) 
+Seat 3: Stümpper88 (10000 in chips) 
+Seat 5: jack6733 (18567 in chips) 
+Seat 6: Beirario2728 (57000 in chips) 
+Seat 7: senia138 (8075 in chips) 
+Seat 8: bullets685 (58781 in chips) 
+GoodmanAR: posts the ante 70
+phil1961: posts the ante 70
+Stümpper88: posts the ante 70
+jack6733: posts the ante 70
+Beirario2728: posts the ante 70
+senia138: posts the ante 70
+bullets685: posts the ante 70
+bullets685: posts small blind 350
+GoodmanAR: posts big blind 700
+*** HOLE CARDS ***
+Dealt to bullets685 [2s 6h]
+phil1961: folds 
+kissaregu is disconnected 
+Stümpper88: folds 
+jack6733: folds 
+Beirario2728: calls 700
+senia138: folds 
+bullets685: folds 
+GoodmanAR: raises 2800 to 3500
+Beirario2728: folds 
+Uncalled bet (2800) returned to GoodmanAR
+GoodmanAR collected 2240 from pot
+*** SUMMARY ***
+Total pot 2240 | Rake 0 
+Seat 1: GoodmanAR (big blind) collected (2240)
+Seat 2: phil1961 folded before Flop (didn't bet)
+Seat 3: Stümpper88 folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop
+Seat 7: senia138 (button) folded before Flop (didn't bet)
+Seat 8: bullets685 (small blind) folded before Flop
+
+
+
+Betfair Hand #262466800687: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XI (350/700) - 2026/10/21 17:14:22 CUST [2026/10/21 12:14:22 ET]
+Table '4040099699 2' 8-max Seat #8 is the button
+Seat 1: GoodmanAR (19780 in chips) 
+Seat 2: phil1961 (6825 in chips) 
+Seat 3: Stümpper88 (9930 in chips) 
+Seat 4: kissaregu (10000 in chips) 
+Seat 5: jack6733 (18497 in chips) 
+Seat 6: Beirario2728 (56230 in chips) 
+Seat 7: senia138 (8005 in chips) 
+Seat 8: bullets685 (58361 in chips) 
+GoodmanAR: posts the ante 70
+phil1961: posts the ante 70
+Stümpper88: posts the ante 70
+kissaregu: posts the ante 70
+jack6733: posts the ante 70
+Beirario2728: posts the ante 70
+senia138: posts the ante 70
+bullets685: posts the ante 70
+GoodmanAR: posts small blind 350
+phil1961: posts big blind 700
+*** HOLE CARDS ***
+Dealt to bullets685 [2s 3s]
+Stümpper88: folds 
+kissaregu: folds 
+jack6733: folds 
+Beirario2728: folds 
+senia138: raises 700 to 1400
+bullets685: calls 1400
+GoodmanAR: folds 
+phil1961: raises 5355 to 6755 and is all-in
+senia138: folds 
+bullets685: calls 5355
+*** FLOP *** [2c 9h Jh]
+*** TURN *** [2c 9h Jh] [Js]
+*** RIVER *** [2c 9h Jh Js] [Kc]
+*** SHOW DOWN ***
+phil1961: shows [Ts As] (a pair of Jacks)
+bullets685: shows [2s 3s] (two pair, Jacks and Deuces)
+bullets685 collected 15820 from pot
+phil1961 finished the tournament
+*** SUMMARY ***
+Total pot 15820 | Rake 0 
+Board [2c 9h Jh Js Kc]
+Seat 1: GoodmanAR (small blind) folded before Flop
+Seat 2: phil1961 (big blind) showed [Ts As] and lost with a pair of Jacks
+Seat 3: Stümpper88 folded before Flop (didn't bet)
+Seat 4: kissaregu folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: senia138 folded before Flop
+Seat 8: bullets685 (button) showed [2s 3s] and won (15820) with two pair, Jacks and Deuces
+
+
+
+Betfair Hand #262466809598: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XII (400/800) - 2026/10/21 17:15:19 CUST [2026/10/21 12:15:19 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: GoodmanAR (19360 in chips) 
+Seat 3: Stümpper88 (9860 in chips) 
+Seat 4: kissaregu (9930 in chips) 
+Seat 5: jack6733 (18427 in chips) 
+Seat 6: Beirario2728 (56160 in chips) 
+Seat 7: senia138 (6535 in chips) 
+Seat 8: bullets685 (67356 in chips) 
+GoodmanAR: posts the ante 80
+Stümpper88: posts the ante 80
+kissaregu: posts the ante 80
+jack6733: posts the ante 80
+Beirario2728: posts the ante 80
+senia138: posts the ante 80
+bullets685: posts the ante 80
+Stümpper88: posts small blind 400
+kissaregu: posts big blind 800
+*** HOLE CARDS ***
+Dealt to bullets685 [9s 2h]
+jack6733 has timed out
+jack6733: folds 
+jack6733 is sitting out
+jack6733 has returned
+Beirario2728: folds 
+senia138: folds 
+bullets685: folds 
+GoodmanAR: folds 
+Stümpper88: raises 8980 to 9780 and is all-in
+kissaregu: calls 8980
+*** FLOP *** [Js 2c Ks]
+*** TURN *** [Js 2c Ks] [8d]
+*** RIVER *** [Js 2c Ks 8d] [Kc]
+*** SHOW DOWN ***
+Stümpper88: shows [Qh 3h] (a pair of Kings)
+kissaregu: shows [Ac Td] (a pair of Kings - Ace kicker)
+kissaregu collected 20120 from pot
+Stümpper88 finished the tournament
+*** SUMMARY ***
+Total pot 20120 | Rake 0 
+Board [Js 2c Ks 8d Kc]
+Seat 1: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 3: Stümpper88 (small blind) showed [Qh 3h] and lost with a pair of Kings
+Seat 4: kissaregu (big blind) showed [Ac Td] and won (20120) with a pair of Kings
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: senia138 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466817766: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XII (400/800) - 2026/10/21 17:16:12 CUST [2026/10/21 12:16:12 ET]
+Table '4040099699 2' 8-max Seat #4 is the button
+Seat 1: GoodmanAR (19280 in chips) 
+Seat 4: kissaregu (20190 in chips) 
+Seat 5: jack6733 (18347 in chips) 
+Seat 6: Beirario2728 (56080 in chips) 
+Seat 7: senia138 (6455 in chips) 
+Seat 8: bullets685 (67276 in chips) 
+GoodmanAR: posts the ante 80
+kissaregu: posts the ante 80
+jack6733: posts the ante 80
+Beirario2728: posts the ante 80
+senia138: posts the ante 80
+bullets685: posts the ante 80
+jack6733: posts small blind 400
+Beirario2728: posts big blind 800
+*** HOLE CARDS ***
+Dealt to bullets685 [4c 4s]
+senia138: raises 5575 to 6375 and is all-in
+borri30 is disconnected 
+bullets685: folds 
+GoodmanAR: folds 
+kissaregu: raises 13735 to 20110 and is all-in
+jack6733: calls 17867 and is all-in
+Beirario2728: folds 
+Uncalled bet (1843) returned to kissaregu
+*** FLOP *** [Kd 9h 6d]
+*** TURN *** [Kd 9h 6d] [8c]
+*** RIVER *** [Kd 9h 6d 8c] [Kh]
+*** SHOW DOWN ***
+jack6733: shows [Jh Jd] (two pair, Kings and Jacks)
+kissaregu: shows [Qh Ad] (a pair of Kings)
+jack6733 collected 23784 from side pot
+senia138: shows [Ts Ac] (a pair of Kings)
+jack6733 collected 20405 from main pot
+senia138 finished the tournament
+*** SUMMARY ***
+Total pot 44189 Main pot 20405. Side pot 23784. | Rake 0 
+Board [Kd 9h 6d 8c Kh]
+Seat 1: GoodmanAR folded before Flop (didn't bet)
+Seat 4: kissaregu (button) showed [Qh Ad] and lost with a pair of Kings
+Seat 5: jack6733 (small blind) showed [Jh Jd] and won (44189) with two pair, Kings and Jacks
+Seat 6: Beirario2728 (big blind) folded before Flop
+Seat 7: senia138 showed [Ts Ac] and lost with a pair of Kings
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466822042: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XII (400/800) - 2026/10/21 17:16:39 CUST [2026/10/21 12:16:39 ET]
+Table '4040099699 2' 8-max Seat #5 is the button
+Seat 1: GoodmanAR (19200 in chips) 
+Seat 2: borri30 (41383 in chips) 
+Seat 4: kissaregu (1843 in chips) 
+Seat 5: jack6733 (44189 in chips) 
+Seat 6: Beirario2728 (55200 in chips) 
+Seat 8: bullets685 (67196 in chips) 
+GoodmanAR: posts the ante 80
+borri30: posts the ante 80
+kissaregu: posts the ante 80
+jack6733: posts the ante 80
+Beirario2728: posts the ante 80
+bullets685: posts the ante 80
+Beirario2728: posts small blind 400
+bullets685: posts big blind 800
+*** HOLE CARDS ***
+Dealt to bullets685 [4c 3c]
+GoodmanAR: folds 
+NicoGodoy93 is disconnected 
+borri30: folds 
+kissaregu: folds 
+jack6733: folds 
+Beirario2728: folds 
+Uncalled bet (400) returned to bullets685
+bullets685 collected 1280 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1280 | Rake 0 
+Seat 1: GoodmanAR folded before Flop (didn't bet)
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 4: kissaregu folded before Flop (didn't bet)
+Seat 5: jack6733 (button) folded before Flop (didn't bet)
+Seat 6: Beirario2728 (small blind) folded before Flop
+Seat 8: bullets685 (big blind) collected (1280)
+
+
+
+Betfair Hand #262466826074: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XII (400/800) - 2026/10/21 17:17:05 CUST [2026/10/21 12:17:05 ET]
+Table '4040099699 2' 8-max Seat #6 is the button
+Seat 1: GoodmanAR (19120 in chips) 
+Seat 2: borri30 (41303 in chips) 
+Seat 3: NicoGodoy93 (10459 in chips) 
+Seat 4: kissaregu (1763 in chips) 
+Seat 5: jack6733 (44109 in chips) 
+Seat 6: Beirario2728 (54720 in chips) 
+Seat 7: madden2018 (33140 in chips) out of hand (moved from another table into small blind)
+Seat 8: bullets685 (67996 in chips) 
+madden2018 will be allowed to play after the button
+GoodmanAR: posts the ante 80
+borri30: posts the ante 80
+NicoGodoy93: posts the ante 80
+kissaregu: posts the ante 80
+jack6733: posts the ante 80
+Beirario2728: posts the ante 80
+bullets685: posts the ante 80
+bullets685: posts small blind 400
+GoodmanAR: posts big blind 800
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 3d]
+borri30: folds 
+NicoGodoy93: raises 800 to 1600
+kissaregu: folds 
+jack6733 has timed out
+jack6733: folds 
+jack6733 is sitting out
+jack6733 has returned
+Beirario2728: folds 
+bullets685: folds 
+GoodmanAR: calls 800
+*** FLOP *** [6d Th Ad]
+GoodmanAR: checks 
+NicoGodoy93: bets 1373
+GoodmanAR: calls 1373
+*** TURN *** [6d Th Ad] [Jc]
+GoodmanAR: checks 
+NicoGodoy93: bets 2762
+GoodmanAR: folds 
+Uncalled bet (2762) returned to NicoGodoy93
+NicoGodoy93 collected 6906 from pot
+*** SUMMARY ***
+Total pot 6906 | Rake 0 
+Board [6d Th Ad Jc]
+Seat 1: GoodmanAR (big blind) folded on the Turn
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 3: NicoGodoy93 collected (6906)
+Seat 4: kissaregu folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 (button) folded before Flop (didn't bet)
+Seat 8: bullets685 (small blind) folded before Flop
+
+
+
+Betfair Hand #262466835603: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XII (400/800) - 2026/10/21 17:18:06 CUST [2026/10/21 12:18:06 ET]
+Table '4040099699 2' 8-max Seat #8 is the button
+Seat 1: GoodmanAR (16067 in chips) 
+Seat 2: borri30 (41223 in chips) 
+Seat 3: NicoGodoy93 (14312 in chips) 
+Seat 4: kissaregu (1683 in chips) 
+Seat 5: jack6733 (44029 in chips) 
+Seat 6: Beirario2728 (54640 in chips) 
+Seat 7: madden2018 (33140 in chips) 
+Seat 8: bullets685 (67516 in chips) 
+GoodmanAR: posts the ante 80
+borri30: posts the ante 80
+NicoGodoy93: posts the ante 80
+kissaregu: posts the ante 80
+jack6733: posts the ante 80
+Beirario2728: posts the ante 80
+madden2018: posts the ante 80
+bullets685: posts the ante 80
+GoodmanAR: posts small blind 400
+borri30: posts big blind 800
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah 5s]
+NicoGodoy93: folds 
+kissaregu: folds 
+jack6733 has timed out
+jack6733: folds 
+jack6733 is sitting out
+Beirario2728: raises 2640 to 3440
+madden2018: calls 3440
+bullets685: folds 
+GoodmanAR: folds 
+jack6733 has returned
+borri30: folds 
+*** FLOP *** [5c Jc Jd]
+Beirario2728: bets 8720
+madden2018: calls 8720
+*** TURN *** [5c Jc Jd] [5h]
+Beirario2728: bets 42400 and is all-in
+madden2018: calls 20900 and is all-in
+Uncalled bet (21500) returned to Beirario2728
+*** RIVER *** [5c Jc Jd 5h] [Ts]
+*** SHOW DOWN ***
+Beirario2728: shows [As Ad] (two pair, Aces and Jacks)
+madden2018: shows [Kc Jh] (a full house, Jacks full of Fives)
+madden2018 collected 67960 from pot
+*** SUMMARY ***
+Total pot 67960 | Rake 0 
+Board [5c Jc Jd 5h Ts]
+Seat 1: GoodmanAR (small blind) folded before Flop
+Seat 2: borri30 (big blind) folded before Flop
+Seat 3: NicoGodoy93 folded before Flop (didn't bet)
+Seat 4: kissaregu folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 showed [As Ad] and lost with two pair, Aces and Jacks
+Seat 7: madden2018 showed [Kc Jh] and won (67960) with a full house, Jacks full of Fives
+Seat 8: bullets685 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466847736: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XIII (500/1000) - 2026/10/21 17:19:23 CUST [2026/10/21 12:19:23 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: GoodmanAR (15587 in chips) 
+Seat 2: borri30 (40343 in chips) 
+Seat 3: NicoGodoy93 (14232 in chips) 
+Seat 4: kissaregu (1603 in chips) 
+Seat 5: jack6733 (43949 in chips) 
+Seat 6: Beirario2728 (21500 in chips) 
+Seat 7: madden2018 (67960 in chips) 
+Seat 8: bullets685 (67436 in chips) 
+GoodmanAR: posts the ante 100
+borri30: posts the ante 100
+NicoGodoy93: posts the ante 100
+kissaregu: posts the ante 100
+jack6733: posts the ante 100
+Beirario2728: posts the ante 100
+madden2018: posts the ante 100
+bullets685: posts the ante 100
+borri30: posts small blind 500
+NicoGodoy93: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts Qs]
+kissaregu: raises 503 to 1503 and is all-in
+jack6733: folds 
+Beirario2728: calls 1503
+madden2018: raises 66357 to 67860 and is all-in
+bullets685: folds 
+GoodmanAR: folds 
+borri30: folds 
+NicoGodoy93: folds 
+Beirario2728: folds 
+Uncalled bet (66357) returned to madden2018
+*** FLOP *** [6c 3d 3h]
+*** TURN *** [6c 3d 3h] [5s]
+*** RIVER *** [6c 3d 3h 5s] [7h]
+*** SHOW DOWN ***
+kissaregu: shows [8h Jc] (a pair of Threes)
+madden2018: shows [Jh Ad] (a pair of Threes - Ace kicker)
+madden2018 collected 6809 from pot
+kissaregu finished the tournament in 59th place
+*** SUMMARY ***
+Total pot 6809 | Rake 0 
+Board [6c 3d 3h 5s 7h]
+Seat 1: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 2: borri30 (small blind) folded before Flop
+Seat 3: NicoGodoy93 (big blind) folded before Flop
+Seat 4: kissaregu showed [8h Jc] and lost with a pair of Threes
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop
+Seat 7: madden2018 showed [Jh Ad] and won (6809) with a pair of Threes
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466859360: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XIII (500/1000) - 2026/10/21 17:20:38 CUST [2026/10/21 12:20:38 ET]
+Table '4040099699 2' 8-max Seat #2 is the button
+Seat 1: GoodmanAR (15487 in chips) 
+Seat 2: borri30 (39743 in chips) 
+Seat 3: NicoGodoy93 (13132 in chips) 
+Seat 5: jack6733 (43849 in chips) 
+Seat 6: Beirario2728 (19897 in chips) 
+Seat 7: madden2018 (73166 in chips) 
+Seat 8: bullets685 (67336 in chips) 
+GoodmanAR: posts the ante 100
+borri30: posts the ante 100
+NicoGodoy93: posts the ante 100
+jack6733: posts the ante 100
+Beirario2728: posts the ante 100
+madden2018: posts the ante 100
+bullets685: posts the ante 100
+NicoGodoy93: posts small blind 500
+jack6733: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to bullets685 [4s Tc]
+Beirario2728: folds 
+madden2018: calls 1000
+bullets685: folds 
+GoodmanAR: folds 
+borri30 has timed out
+borri30: folds 
+borri30 is sitting out
+borri30 has returned
+NicoGodoy93: raises 12032 to 13032 and is all-in
+jack6733: folds 
+madden2018: folds 
+Uncalled bet (12032) returned to NicoGodoy93
+NicoGodoy93 collected 3700 from pot
+*** SUMMARY ***
+Total pot 3700 | Rake 0 
+Seat 1: GoodmanAR folded before Flop (didn't bet)
+Seat 2: borri30 (button) folded before Flop (didn't bet)
+Seat 3: NicoGodoy93 (small blind) collected (3700)
+Seat 5: jack6733 (big blind) folded before Flop
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: madden2018 folded before Flop
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466866310: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XIII (500/1000) - 2026/10/21 17:21:22 CUST [2026/10/21 12:21:22 ET]
+Table '4040099699 2' 8-max Seat #3 is the button
+Seat 1: GoodmanAR (15387 in chips) 
+Seat 2: borri30 (39643 in chips) 
+Seat 3: NicoGodoy93 (15732 in chips) 
+Seat 5: jack6733 (42749 in chips) 
+Seat 6: Beirario2728 (19797 in chips) 
+Seat 7: madden2018 (72066 in chips) 
+Seat 8: bullets685 (67236 in chips) 
+GoodmanAR: posts the ante 100
+borri30: posts the ante 100
+NicoGodoy93: posts the ante 100
+jack6733: posts the ante 100
+Beirario2728: posts the ante 100
+madden2018: posts the ante 100
+bullets685: posts the ante 100
+jack6733: posts small blind 500
+Beirario2728: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to bullets685 [9d 8d]
+madden2018: calls 1000
+bullets685: raises 1000 to 2000
+GoodmanAR: calls 2000
+borri30: folds 
+NicoGodoy93: folds 
+jack6733: folds 
+Beirario2728: calls 1000
+madden2018: calls 1000
+*** FLOP *** [As 4c 6c]
+Beirario2728: checks 
+madden2018: checks 
+bullets685: checks 
+GoodmanAR: checks 
+*** TURN *** [As 4c 6c] [Th]
+Beirario2728: checks 
+madden2018: checks 
+bullets685: bets 3000
+jack6733 is disconnected 
+jack6733 is disconnected 
+GoodmanAR: calls 3000
+Beirario2728: calls 3000
+madden2018: folds 
+*** RIVER *** [As 4c 6c Th] [Ts]
+Beirario2728: checks 
+bullets685: bets 9000
+GoodmanAR: raises 1287 to 10287 and is all-in
+Beirario2728: folds 
+bullets685: folds 
+Uncalled bet (1287) returned to GoodmanAR
+GoodmanAR collected 36200 from pot
+*** SUMMARY ***
+Total pot 36200 | Rake 0 
+Board [As 4c 6c Th Ts]
+Seat 1: GoodmanAR collected (36200)
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 3: NicoGodoy93 (button) folded before Flop (didn't bet)
+Seat 5: jack6733 (small blind) folded before Flop
+Seat 6: Beirario2728 (big blind) folded on the River
+Seat 7: madden2018 folded on the Turn
+Seat 8: bullets685 folded on the River
+
+
+
+Betfair Hand #262466887830: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XIV (600/1200) - 2026/10/21 17:23:39 CUST [2026/10/21 12:23:39 ET]
+Table '4040099699 2' 8-max Seat #5 is the button
+Seat 1: GoodmanAR (37487 in chips) 
+Seat 2: borri30 (39543 in chips) 
+Seat 3: NicoGodoy93 (15632 in chips) 
+Seat 4: das1969 (12905 in chips) 
+Seat 5: jack6733 (42149 in chips) 
+Seat 6: Beirario2728 (14697 in chips) 
+Seat 7: madden2018 (69966 in chips) 
+Seat 8: bullets685 (53136 in chips) 
+GoodmanAR: posts the ante 120
+borri30: posts the ante 120
+NicoGodoy93: posts the ante 120
+das1969: posts the ante 120
+jack6733: posts the ante 120
+Beirario2728: posts the ante 120
+madden2018: posts the ante 120
+bullets685: posts the ante 120
+Beirario2728: posts small blind 600
+madden2018: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to bullets685 [4c 7h]
+bullets685: folds 
+GoodmanAR: folds 
+borri30: folds 
+NicoGodoy93: folds 
+das1969: folds 
+jack6733: folds 
+Beirario2728: calls 600
+madden2018: checks 
+*** FLOP *** [5s Kc Qd]
+Beirario2728: checks 
+madden2018: checks 
+*** TURN *** [5s Kc Qd] [7c]
+Beirario2728: checks 
+madden2018: checks 
+*** RIVER *** [5s Kc Qd 7c] [3c]
+Beirario2728: checks 
+madden2018: checks 
+*** SHOW DOWN ***
+Beirario2728: shows [2d Ad] (high card Ace)
+madden2018: mucks hand 
+Beirario2728 collected 3360 from pot
+*** SUMMARY ***
+Total pot 3360 | Rake 0 
+Board [5s Kc Qd 7c 3c]
+Seat 1: GoodmanAR folded before Flop (didn't bet)
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 3: NicoGodoy93 folded before Flop (didn't bet)
+Seat 4: das1969 folded before Flop (didn't bet)
+Seat 5: jack6733 (button) folded before Flop (didn't bet)
+Seat 6: Beirario2728 (small blind) showed [2d Ad] and won (3360) with high card Ace
+Seat 7: madden2018 (big blind) mucked [6c 9s]
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466894423: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XIV (600/1200) - 2026/10/21 17:24:21 CUST [2026/10/21 12:24:21 ET]
+Table '4040099699 2' 8-max Seat #6 is the button
+Seat 1: GoodmanAR (37367 in chips) 
+Seat 2: borri30 (39423 in chips) 
+Seat 3: NicoGodoy93 (15512 in chips) 
+Seat 4: das1969 (12785 in chips) 
+Seat 5: jack6733 (42029 in chips) 
+Seat 6: Beirario2728 (16737 in chips) 
+Seat 7: madden2018 (68646 in chips) 
+Seat 8: bullets685 (53016 in chips) 
+GoodmanAR: posts the ante 120
+borri30: posts the ante 120
+NicoGodoy93: posts the ante 120
+das1969: posts the ante 120
+jack6733: posts the ante 120
+Beirario2728: posts the ante 120
+madden2018: posts the ante 120
+bullets685: posts the ante 120
+madden2018: posts small blind 600
+bullets685: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to bullets685 [9s 3c]
+GoodmanAR: raises 1200 to 2400
+borri30: folds 
+NicoGodoy93: folds 
+das1969: folds 
+jack6733: folds 
+Beirario2728: folds 
+madden2018: calls 1800
+bullets685: folds 
+*** FLOP *** [3d Qd Qh]
+madden2018: checks 
+GoodmanAR: bets 2297
+madden2018: folds 
+Uncalled bet (2297) returned to GoodmanAR
+GoodmanAR collected 6960 from pot
+*** SUMMARY ***
+Total pot 6960 | Rake 0 
+Board [3d Qd Qh]
+Seat 1: GoodmanAR collected (6960)
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 3: NicoGodoy93 folded before Flop (didn't bet)
+Seat 4: das1969 folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 (button) folded before Flop (didn't bet)
+Seat 7: madden2018 (small blind) folded on the Flop
+Seat 8: bullets685 (big blind) folded before Flop
+
+
+
+Betfair Hand #262466906686: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XIV (600/1200) - 2026/10/21 17:25:41 CUST [2026/10/21 12:25:41 ET]
+Table '4040099699 2' 8-max Seat #7 is the button
+Seat 1: GoodmanAR (41807 in chips) 
+Seat 2: borri30 (39303 in chips) 
+Seat 3: NicoGodoy93 (15392 in chips) 
+Seat 5: jack6733 (41909 in chips) 
+Seat 6: Beirario2728 (16617 in chips) 
+Seat 7: madden2018 (66126 in chips) 
+Seat 8: bullets685 (51696 in chips) 
+GoodmanAR: posts the ante 120
+borri30: posts the ante 120
+NicoGodoy93: posts the ante 120
+jack6733: posts the ante 120
+Beirario2728: posts the ante 120
+madden2018: posts the ante 120
+bullets685: posts the ante 120
+bullets685: posts small blind 600
+GoodmanAR: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to bullets685 [6h 3d]
+borri30: folds 
+NicoGodoy93: folds 
+jack6733: folds 
+Beirario2728: folds 
+madden2018: folds 
+bullets685: calls 600
+GoodmanAR: checks 
+*** FLOP *** [6d 6c Td]
+bullets685: checks 
+GoodmanAR: checks 
+*** TURN *** [6d 6c Td] [Ks]
+bullets685: bets 2400
+GoodmanAR: folds 
+Uncalled bet (2400) returned to bullets685
+bullets685 collected 3240 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 3240 | Rake 0 
+Board [6d 6c Td Ks]
+Seat 1: GoodmanAR (big blind) folded on the Turn
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 3: NicoGodoy93 folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: madden2018 (button) folded before Flop (didn't bet)
+Seat 8: bullets685 (small blind) collected (3240)
+
+
+
+Betfair Hand #262466915509: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XV (800/1600) - 2026/10/21 17:26:39 CUST [2026/10/21 12:26:39 ET]
+Table '4040099699 2' 8-max Seat #8 is the button
+Seat 1: GoodmanAR (40487 in chips) 
+Seat 2: borri30 (39183 in chips) 
+Seat 3: NicoGodoy93 (15272 in chips) 
+Seat 4: Bananmats (33269 in chips) 
+Seat 5: jack6733 (41789 in chips) 
+Seat 6: Beirario2728 (16497 in chips) 
+Seat 7: madden2018 (66006 in chips) 
+Seat 8: bullets685 (53616 in chips) 
+GoodmanAR: posts the ante 160
+borri30: posts the ante 160
+NicoGodoy93: posts the ante 160
+Bananmats: posts the ante 160
+jack6733: posts the ante 160
+Beirario2728: posts the ante 160
+madden2018: posts the ante 160
+bullets685: posts the ante 160
+GoodmanAR: posts small blind 800
+borri30: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh 7c]
+NicoGodoy93: folds 
+Bananmats: raises 1600 to 3200
+jack6733: folds 
+Beirario2728: folds 
+madden2018: folds 
+bullets685: folds 
+GoodmanAR: folds 
+borri30: folds 
+Uncalled bet (1600) returned to Bananmats
+Bananmats collected 5280 from pot
+Bananmats: doesn't show hand 
+*** SUMMARY ***
+Total pot 5280 | Rake 0 
+Seat 1: GoodmanAR (small blind) folded before Flop
+Seat 2: borri30 (big blind) folded before Flop
+Seat 3: NicoGodoy93 folded before Flop (didn't bet)
+Seat 4: Bananmats collected (5280)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: madden2018 folded before Flop (didn't bet)
+Seat 8: bullets685 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466918520: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XV (800/1600) - 2026/10/21 17:26:59 CUST [2026/10/21 12:26:59 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: GoodmanAR (39527 in chips) 
+Seat 2: borri30 (37423 in chips) 
+Seat 3: NicoGodoy93 (15112 in chips) 
+Seat 4: Bananmats (36789 in chips) 
+Seat 5: jack6733 (41629 in chips) 
+Seat 6: Beirario2728 (16337 in chips) 
+Seat 7: madden2018 (65846 in chips) 
+Seat 8: bullets685 (53456 in chips) 
+GoodmanAR: posts the ante 160
+borri30: posts the ante 160
+NicoGodoy93: posts the ante 160
+Bananmats: posts the ante 160
+jack6733: posts the ante 160
+Beirario2728: posts the ante 160
+madden2018: posts the ante 160
+bullets685: posts the ante 160
+borri30: posts small blind 800
+NicoGodoy93: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to bullets685 [3s 2d]
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: raises 14577 to 16177 and is all-in
+madden2018: folds 
+bullets685: folds 
+GoodmanAR: folds 
+borri30: raises 21086 to 37263 and is all-in
+NicoGodoy93: folds 
+Uncalled bet (21086) returned to borri30
+*** FLOP *** [2s 8s 2h]
+*** TURN *** [2s 8s 2h] [Qh]
+*** RIVER *** [2s 8s 2h Qh] [4c]
+*** SHOW DOWN ***
+borri30: shows [Ah Td] (a pair of Deuces)
+Beirario2728: shows [Ac Qs] (two pair, Queens and Deuces)
+Beirario2728 collected 35234 from pot
+*** SUMMARY ***
+Total pot 35234 | Rake 0 
+Board [2s 8s 2h Qh 4c]
+Seat 1: GoodmanAR (button) folded before Flop (didn't bet)
+Seat 2: borri30 (small blind) showed [Ah Td] and lost with a pair of Deuces
+Seat 3: NicoGodoy93 (big blind) folded before Flop
+Seat 4: Bananmats folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 showed [Ac Qs] and won (35234) with two pair, Queens and Deuces
+Seat 7: madden2018 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466923494: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XV (800/1600) - 2026/10/21 17:27:32 CUST [2026/10/21 12:27:32 ET]
+Table '4040099699 2' 8-max Seat #2 is the button
+Seat 1: GoodmanAR (39367 in chips) 
+Seat 2: borri30 (21086 in chips) 
+Seat 3: NicoGodoy93 (13352 in chips) 
+Seat 4: Bananmats (36629 in chips) 
+Seat 5: jack6733 (41469 in chips) 
+Seat 6: Beirario2728 (35234 in chips) 
+Seat 7: madden2018 (65686 in chips) 
+Seat 8: bullets685 (53296 in chips) 
+GoodmanAR: posts the ante 160
+borri30: posts the ante 160
+NicoGodoy93: posts the ante 160
+Bananmats: posts the ante 160
+jack6733: posts the ante 160
+Beirario2728: posts the ante 160
+madden2018: posts the ante 160
+bullets685: posts the ante 160
+NicoGodoy93: posts small blind 800
+Bananmats: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to bullets685 [Jd 5d]
+jack6733: folds 
+Beirario2728: folds 
+madden2018: calls 1600
+bullets685: folds 
+GoodmanAR: folds 
+borri30: folds 
+NicoGodoy93: calls 800
+Bananmats: checks 
+*** FLOP *** [9c 6d 7h]
+NicoGodoy93: checks 
+Bananmats: checks 
+madden2018: checks 
+*** TURN *** [9c 6d 7h] [Qs]
+Beirario2728 is disconnected 
+NicoGodoy93: checks 
+Bananmats: checks 
+Beirario2728 is disconnected 
+madden2018: checks 
+*** RIVER *** [9c 6d 7h Qs] [8d]
+NicoGodoy93: checks 
+Bananmats: checks 
+madden2018: checks 
+*** SHOW DOWN ***
+NicoGodoy93: shows [4h 6c] (a pair of Sixes)
+Bananmats: mucks hand 
+madden2018: mucks hand 
+NicoGodoy93 collected 6080 from pot
+*** SUMMARY ***
+Total pot 6080 | Rake 0 
+Board [9c 6d 7h Qs 8d]
+Seat 1: GoodmanAR folded before Flop (didn't bet)
+Seat 2: borri30 (button) folded before Flop (didn't bet)
+Seat 3: NicoGodoy93 (small blind) showed [4h 6c] and won (6080) with a pair of Sixes
+Seat 4: Bananmats (big blind) mucked [4c Jc]
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: madden2018 mucked [2h Ad]
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466939037: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XV (800/1600) - 2026/10/21 17:29:12 CUST [2026/10/21 12:29:12 ET]
+Table '4040099699 2' 8-max Seat #3 is the button
+Seat 1: GoodmanAR (39207 in chips) 
+Seat 2: borri30 (20926 in chips) 
+Seat 3: NicoGodoy93 (17672 in chips) 
+Seat 4: Bananmats (34869 in chips) 
+Seat 5: jack6733 (41309 in chips) 
+Seat 6: Beirario2728 (35074 in chips) 
+Seat 7: madden2018 (63926 in chips) 
+Seat 8: bullets685 (53136 in chips) 
+GoodmanAR: posts the ante 160
+borri30: posts the ante 160
+NicoGodoy93: posts the ante 160
+Bananmats: posts the ante 160
+jack6733: posts the ante 160
+Beirario2728: posts the ante 160
+madden2018: posts the ante 160
+bullets685: posts the ante 160
+Bananmats: posts small blind 800
+jack6733: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to bullets685 [2d Jd]
+Beirario2728 has timed out
+Beirario2728: folds 
+Beirario2728 is sitting out
+madden2018: folds 
+Beirario2728 has returned
+bullets685: folds 
+GoodmanAR: raises 1600 to 3200
+borri30: folds 
+NicoGodoy93: folds 
+Bananmats: raises 31509 to 34709 and is all-in
+jack6733: folds 
+GoodmanAR: folds 
+Uncalled bet (31509) returned to Bananmats
+Bananmats collected 9280 from pot
+Bananmats: doesn't show hand 
+*** SUMMARY ***
+Total pot 9280 | Rake 0 
+Seat 1: GoodmanAR folded before Flop
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 3: NicoGodoy93 (button) folded before Flop (didn't bet)
+Seat 4: Bananmats (small blind) collected (9280)
+Seat 5: jack6733 (big blind) folded before Flop
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: madden2018 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466949171: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XV (800/1600) - 2026/10/21 17:30:15 CUST [2026/10/21 12:30:15 ET]
+Table '4040099699 2' 8-max Seat #4 is the button
+Seat 2: borri30 (20766 in chips) 
+Seat 3: NicoGodoy93 (17512 in chips) 
+Seat 4: Bananmats (40789 in chips) 
+Seat 5: jack6733 (39549 in chips) 
+Seat 6: Beirario2728 (34914 in chips) 
+Seat 7: madden2018 (63766 in chips) 
+Seat 8: bullets685 (52976 in chips) 
+borri30: posts the ante 160
+NicoGodoy93: posts the ante 160
+Bananmats: posts the ante 160
+jack6733: posts the ante 160
+Beirario2728: posts the ante 160
+madden2018: posts the ante 160
+bullets685: posts the ante 160
+jack6733: posts small blind 800
+Beirario2728: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to bullets685 [6h 5d]
+madden2018: folds 
+bullets685: folds 
+borri30: folds 
+luckascbr is disconnected 
+NicoGodoy93: raises 15752 to 17352 and is all-in
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: calls 15752
+*** FLOP *** [Ks Jh Qs]
+*** TURN *** [Ks Jh Qs] [6s]
+*** RIVER *** [Ks Jh Qs 6s] [Ts]
+*** SHOW DOWN ***
+Beirario2728: shows [Js Qh] (a flush, King high)
+NicoGodoy93: shows [Ad 5s] (a flush, King high - lower cards)
+Beirario2728 collected 36624 from pot
+NicoGodoy93 finished the tournament in 40th place
+*** SUMMARY ***
+Total pot 36624 | Rake 0 
+Board [Ks Jh Qs 6s Ts]
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 3: NicoGodoy93 showed [Ad 5s] and lost with a flush, King high
+Seat 4: Bananmats (button) folded before Flop (didn't bet)
+Seat 5: jack6733 (small blind) folded before Flop
+Seat 6: Beirario2728 (big blind) showed [Js Qh] and won (36624) with a flush, King high
+Seat 7: madden2018 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466956116: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVI (1000/2000) - 2026/10/21 17:30:55 CUST [2026/10/21 12:30:55 ET]
+Table '4040099699 2' 8-max Seat #5 is the button
+Seat 1: luckascbr (73145 in chips) 
+Seat 2: borri30 (20606 in chips) 
+Seat 4: Bananmats (40629 in chips) 
+Seat 5: jack6733 (38589 in chips) 
+Seat 6: Beirario2728 (54026 in chips) 
+Seat 7: madden2018 (63606 in chips) 
+Seat 8: bullets685 (52816 in chips) 
+luckascbr: posts the ante 200
+borri30: posts the ante 200
+Bananmats: posts the ante 200
+jack6733: posts the ante 200
+Beirario2728: posts the ante 200
+madden2018: posts the ante 200
+bullets685: posts the ante 200
+Beirario2728: posts small blind 1000
+madden2018: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to bullets685 [5s 5h]
+bullets685: calls 2000
+luckascbr: folds 
+borri30: raises 18406 to 20406 and is all-in
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: folds 
+madden2018: folds 
+bullets685: folds 
+Uncalled bet (18406) returned to borri30
+borri30 collected 8400 from pot
+borri30: doesn't show hand 
+*** SUMMARY ***
+Total pot 8400 | Rake 0 
+Seat 1: luckascbr folded before Flop (didn't bet)
+Seat 2: borri30 collected (8400)
+Seat 4: Bananmats folded before Flop (didn't bet)
+Seat 5: jack6733 (button) folded before Flop (didn't bet)
+Seat 6: Beirario2728 (small blind) folded before Flop
+Seat 7: madden2018 (big blind) folded before Flop
+Seat 8: bullets685 folded before Flop
+
+
+
+Betfair Hand #262466960122: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVI (1000/2000) - 2026/10/21 17:31:18 CUST [2026/10/21 12:31:18 ET]
+Table '4040099699 2' 8-max Seat #6 is the button
+Seat 1: luckascbr (72945 in chips) 
+Seat 2: borri30 (26806 in chips) 
+Seat 4: Bananmats (40429 in chips) 
+Seat 5: jack6733 (38389 in chips) 
+Seat 6: Beirario2728 (52826 in chips) 
+Seat 7: madden2018 (61406 in chips) 
+Seat 8: bullets685 (50616 in chips) 
+luckascbr: posts the ante 200
+borri30: posts the ante 200
+Bananmats: posts the ante 200
+jack6733: posts the ante 200
+Beirario2728: posts the ante 200
+madden2018: posts the ante 200
+bullets685: posts the ante 200
+madden2018: posts small blind 1000
+bullets685: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to bullets685 [7s 8c]
+luckascbr: folds 
+borri30: raises 24606 to 26606 and is all-in
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: folds 
+madden2018: folds 
+bullets685: folds 
+Uncalled bet (24606) returned to borri30
+borri30 collected 6400 from pot
+borri30: doesn't show hand 
+*** SUMMARY ***
+Total pot 6400 | Rake 0 
+Seat 1: luckascbr folded before Flop (didn't bet)
+Seat 2: borri30 collected (6400)
+Seat 4: Bananmats folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 (button) folded before Flop (didn't bet)
+Seat 7: madden2018 (small blind) folded before Flop
+Seat 8: bullets685 (big blind) folded before Flop
+
+
+
+Betfair Hand #262466965706: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVI (1000/2000) - 2026/10/21 17:31:51 CUST [2026/10/21 12:31:51 ET]
+Table '4040099699 2' 8-max Seat #7 is the button
+Seat 1: luckascbr (72745 in chips) 
+Seat 2: borri30 (31006 in chips) 
+Seat 4: Bananmats (40229 in chips) 
+Seat 5: jack6733 (38189 in chips) 
+Seat 6: Beirario2728 (52626 in chips) 
+Seat 7: madden2018 (60206 in chips) 
+Seat 8: bullets685 (48416 in chips) 
+luckascbr: posts the ante 200
+borri30: posts the ante 200
+Bananmats: posts the ante 200
+jack6733: posts the ante 200
+Beirario2728: posts the ante 200
+madden2018: posts the ante 200
+bullets685: posts the ante 200
+bullets685: posts small blind 1000
+luckascbr: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to bullets685 [5d 8s]
+borri30: folds 
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: folds 
+madden2018: folds 
+bullets685: folds 
+Uncalled bet (1000) returned to luckascbr
+luckascbr collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | Rake 0 
+Seat 1: luckascbr (big blind) collected (3400)
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 4: Bananmats folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: madden2018 (button) folded before Flop (didn't bet)
+Seat 8: bullets685 (small blind) folded before Flop
+
+
+
+Betfair Hand #262466968411: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVI (1000/2000) - 2026/10/21 17:32:07 CUST [2026/10/21 12:32:07 ET]
+Table '4040099699 2' 8-max Seat #8 is the button
+Seat 1: luckascbr (74945 in chips) 
+Seat 2: borri30 (30806 in chips) 
+Seat 4: Bananmats (40029 in chips) 
+Seat 5: jack6733 (37989 in chips) 
+Seat 6: Beirario2728 (52426 in chips) 
+Seat 7: madden2018 (60006 in chips) 
+Seat 8: bullets685 (47216 in chips) 
+luckascbr: posts the ante 200
+borri30: posts the ante 200
+Bananmats: posts the ante 200
+jack6733: posts the ante 200
+Beirario2728: posts the ante 200
+madden2018: posts the ante 200
+bullets685: posts the ante 200
+luckascbr: posts small blind 1000
+borri30: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh 5h]
+Bananmats: folds 
+jack6733: raises 35789 to 37789 and is all-in
+Beirario2728: folds 
+madden2018: folds 
+bullets685: folds 
+luckascbr: folds 
+borri30: folds 
+Uncalled bet (35789) returned to jack6733
+jack6733 collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | Rake 0 
+Seat 1: luckascbr (small blind) folded before Flop
+Seat 2: borri30 (big blind) folded before Flop
+Seat 4: Bananmats folded before Flop (didn't bet)
+Seat 5: jack6733 collected (6400)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: madden2018 folded before Flop (didn't bet)
+Seat 8: bullets685 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466974710: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVI (1000/2000) - 2026/10/21 17:32:43 CUST [2026/10/21 12:32:43 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: luckascbr (73745 in chips) 
+Seat 2: borri30 (28606 in chips) 
+Seat 4: Bananmats (39829 in chips) 
+Seat 5: jack6733 (42189 in chips) 
+Seat 6: Beirario2728 (52226 in chips) 
+Seat 7: madden2018 (59806 in chips) 
+Seat 8: bullets685 (47016 in chips) 
+luckascbr: posts the ante 200
+borri30: posts the ante 200
+Bananmats: posts the ante 200
+jack6733: posts the ante 200
+Beirario2728: posts the ante 200
+madden2018: posts the ante 200
+bullets685: posts the ante 200
+borri30: posts small blind 1000
+Bananmats: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to bullets685 [Ac 8d]
+jack6733: folds 
+Beirario2728: calls 2000
+madden2018: folds 
+bullets685: folds 
+luckascbr: folds 
+borri30: folds 
+Bananmats: checks 
+*** FLOP *** [2h 7d 3s]
+Bananmats: checks 
+Beirario2728: checks 
+*** TURN *** [2h 7d 3s] [4d]
+Bananmats: checks 
+Beirario2728: checks 
+*** RIVER *** [2h 7d 3s 4d] [Js]
+Bananmats: checks 
+Beirario2728: checks 
+*** SHOW DOWN ***
+Bananmats: shows [Ad Jd] (a pair of Jacks)
+Beirario2728: mucks hand 
+Bananmats collected 6400 from pot
+*** SUMMARY ***
+Total pot 6400 | Rake 0 
+Board [2h 7d 3s 4d Js]
+Seat 1: luckascbr (button) folded before Flop (didn't bet)
+Seat 2: borri30 (small blind) folded before Flop
+Seat 4: Bananmats (big blind) showed [Ad Jd] and won (6400) with a pair of Jacks
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 mucked [Td As]
+Seat 7: madden2018 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466986307: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVI (1000/2000) - 2026/10/21 17:33:51 CUST [2026/10/21 12:33:51 ET]
+Table '4040099699 2' 8-max Seat #2 is the button
+Seat 1: luckascbr (73545 in chips) 
+Seat 2: borri30 (27406 in chips) 
+Seat 4: Bananmats (44029 in chips) 
+Seat 5: jack6733 (41989 in chips) 
+Seat 6: Beirario2728 (50026 in chips) 
+Seat 7: madden2018 (59606 in chips) 
+Seat 8: bullets685 (46816 in chips) 
+luckascbr: posts the ante 200
+borri30: posts the ante 200
+Bananmats: posts the ante 200
+jack6733: posts the ante 200
+Beirario2728: posts the ante 200
+madden2018: posts the ante 200
+bullets685: posts the ante 200
+Bananmats: posts small blind 1000
+jack6733: posts big blind 2000
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts 2d]
+Beirario2728: folds 
+madden2018: folds 
+bullets685: folds 
+luckascbr: raises 2000 to 4000
+borri30: folds 
+Bananmats: folds 
+jack6733: calls 2000
+*** FLOP *** [Jc Jh Th]
+jack6733: checks 
+luckascbr: bets 2600
+jack6733: raises 2600 to 5200
+luckascbr: folds 
+Uncalled bet (2600) returned to jack6733
+Beirario2728 is disconnected 
+jack6733 collected 15600 from pot
+*** SUMMARY ***
+Total pot 15600 | Rake 0 
+Board [Jc Jh Th]
+Seat 1: luckascbr folded on the Flop
+Seat 2: borri30 (button) folded before Flop (didn't bet)
+Seat 4: Bananmats (small blind) folded before Flop
+Seat 5: jack6733 (big blind) collected (15600)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: madden2018 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262466994805: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVII (1500/3000) - 2026/10/21 17:34:41 CUST [2026/10/21 12:34:41 ET]
+Table '4040099699 2' 8-max Seat #4 is the button
+Seat 1: luckascbr (66745 in chips) 
+Seat 2: borri30 (27206 in chips) 
+Seat 4: Bananmats (42829 in chips) 
+Seat 5: jack6733 (50789 in chips) 
+Seat 6: Beirario2728 (49826 in chips) 
+Seat 7: madden2018 (59406 in chips) 
+Seat 8: bullets685 (46616 in chips) 
+luckascbr: posts the ante 300
+borri30: posts the ante 300
+Bananmats: posts the ante 300
+jack6733: posts the ante 300
+Beirario2728: posts the ante 300
+madden2018: posts the ante 300
+bullets685: posts the ante 300
+jack6733: posts small blind 1500
+Beirario2728: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc 4s]
+madden2018: calls 3000
+bullets685: folds 
+luckascbr: folds 
+borri30: folds 
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: checks 
+*** FLOP *** [6h 8h 3d]
+Beirario2728: checks 
+madden2018: bets 3000
+Beirario2728: folds 
+Uncalled bet (3000) returned to madden2018
+madden2018 collected 9600 from pot
+*** SUMMARY ***
+Total pot 9600 | Rake 0 
+Board [6h 8h 3d]
+Seat 1: luckascbr folded before Flop (didn't bet)
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 4: Bananmats (button) folded before Flop (didn't bet)
+Seat 5: jack6733 (small blind) folded before Flop
+Seat 6: Beirario2728 (big blind) folded on the Flop
+Seat 7: madden2018 collected (9600)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262467002223: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVII (1500/3000) - 2026/10/21 17:35:25 CUST [2026/10/21 12:35:25 ET]
+Table '4040099699 2' 8-max Seat #5 is the button
+Seat 1: luckascbr (66445 in chips) 
+Seat 2: borri30 (26906 in chips) 
+Seat 4: Bananmats (42529 in chips) 
+Seat 5: jack6733 (48989 in chips) 
+Seat 6: Beirario2728 (46526 in chips) 
+Seat 7: madden2018 (65706 in chips) 
+Seat 8: bullets685 (46316 in chips) 
+luckascbr: posts the ante 300
+borri30: posts the ante 300
+Bananmats: posts the ante 300
+jack6733: posts the ante 300
+Beirario2728: posts the ante 300
+madden2018: posts the ante 300
+bullets685: posts the ante 300
+Beirario2728: posts small blind 1500
+madden2018: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to bullets685 [Kh Jh]
+bullets685: calls 3000
+luckascbr: raises 7500 to 10500
+borri30: folds 
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: folds 
+madden2018: folds 
+bullets685: calls 7500
+*** FLOP *** [Ac 2d 3s]
+bullets685: checks 
+luckascbr: bets 6900
+bullets685: folds 
+Uncalled bet (6900) returned to luckascbr
+luckascbr collected 27600 from pot
+*** SUMMARY ***
+Total pot 27600 | Rake 0 
+Board [Ac 2d 3s]
+Seat 1: luckascbr collected (27600)
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 4: Bananmats folded before Flop (didn't bet)
+Seat 5: jack6733 (button) folded before Flop (didn't bet)
+Seat 6: Beirario2728 (small blind) folded before Flop
+Seat 7: madden2018 (big blind) folded before Flop
+Seat 8: bullets685 folded on the Flop
+
+
+
+Betfair Hand #262467010542: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVII (1500/3000) - 2026/10/21 17:36:14 CUST [2026/10/21 12:36:14 ET]
+Table '4040099699 2' 8-max Seat #6 is the button
+Seat 1: luckascbr (83245 in chips) 
+Seat 2: borri30 (26606 in chips) 
+Seat 4: Bananmats (42229 in chips) 
+Seat 5: jack6733 (48689 in chips) 
+Seat 6: Beirario2728 (44726 in chips) 
+Seat 7: madden2018 (62406 in chips) 
+Seat 8: bullets685 (35516 in chips) 
+luckascbr: posts the ante 300
+borri30: posts the ante 300
+Bananmats: posts the ante 300
+jack6733: posts the ante 300
+Beirario2728: posts the ante 300
+madden2018: posts the ante 300
+bullets685: posts the ante 300
+madden2018: posts small blind 1500
+bullets685: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc Jh]
+luckascbr: folds 
+borri30: folds 
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: folds 
+madden2018: calls 1500
+bullets685: checks 
+*** FLOP *** [9s Ts 2c]
+madden2018: checks 
+bullets685: checks 
+*** TURN *** [9s Ts 2c] [3s]
+madden2018: checks 
+bullets685: checks 
+*** RIVER *** [9s Ts 2c 3s] [3h]
+madden2018: bets 3000
+bullets685: folds 
+Uncalled bet (3000) returned to madden2018
+madden2018 collected 8100 from pot
+*** SUMMARY ***
+Total pot 8100 | Rake 0 
+Board [9s Ts 2c 3s 3h]
+Seat 1: luckascbr folded before Flop (didn't bet)
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 4: Bananmats folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 (button) folded before Flop (didn't bet)
+Seat 7: madden2018 (small blind) collected (8100)
+Seat 8: bullets685 (big blind) folded on the River
+
+
+
+Betfair Hand #262467022268: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVII (1500/3000) - 2026/10/21 17:37:25 CUST [2026/10/21 12:37:25 ET]
+Table '4040099699 2' 8-max Seat #7 is the button
+Seat 1: luckascbr (82945 in chips) 
+Seat 2: borri30 (26306 in chips) 
+Seat 4: Bananmats (41929 in chips) 
+Seat 5: jack6733 (48389 in chips) 
+Seat 6: Beirario2728 (44426 in chips) 
+Seat 7: madden2018 (67206 in chips) 
+Seat 8: bullets685 (32216 in chips) 
+luckascbr: posts the ante 300
+borri30: posts the ante 300
+Bananmats: posts the ante 300
+jack6733: posts the ante 300
+Beirario2728: posts the ante 300
+madden2018: posts the ante 300
+bullets685: posts the ante 300
+bullets685: posts small blind 1500
+luckascbr: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 5h]
+borri30: folds 
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: folds 
+madden2018: folds 
+bullets685: folds 
+Uncalled bet (1500) returned to luckascbr
+luckascbr collected 5100 from pot
+*** SUMMARY ***
+Total pot 5100 | Rake 0 
+Seat 1: luckascbr (big blind) collected (5100)
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 4: Bananmats folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: madden2018 (button) folded before Flop (didn't bet)
+Seat 8: bullets685 (small blind) folded before Flop
+
+
+
+Betfair Hand #262467026795: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVII (1500/3000) - 2026/10/21 17:37:53 CUST [2026/10/21 12:37:53 ET]
+Table '4040099699 2' 8-max Seat #8 is the button
+Seat 1: luckascbr (86245 in chips) 
+Seat 2: borri30 (26006 in chips) 
+Seat 4: Bananmats (41629 in chips) 
+Seat 5: jack6733 (48089 in chips) 
+Seat 6: Beirario2728 (44126 in chips) 
+Seat 7: madden2018 (66906 in chips) 
+Seat 8: bullets685 (30416 in chips) 
+luckascbr: posts the ante 300
+borri30: posts the ante 300
+Bananmats: posts the ante 300
+jack6733: posts the ante 300
+Beirario2728: posts the ante 300
+madden2018: posts the ante 300
+bullets685: posts the ante 300
+luckascbr: posts small blind 1500
+borri30: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to bullets685 [4h 7d]
+Bananmats: folds 
+jack6733: raises 3000 to 6000
+Beirario2728: folds 
+madden2018: folds 
+bullets685: folds 
+luckascbr: folds 
+borri30: folds 
+Uncalled bet (3000) returned to jack6733
+jack6733 collected 9600 from pot
+*** SUMMARY ***
+Total pot 9600 | Rake 0 
+Seat 1: luckascbr (small blind) folded before Flop
+Seat 2: borri30 (big blind) folded before Flop
+Seat 4: Bananmats folded before Flop (didn't bet)
+Seat 5: jack6733 collected (9600)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: madden2018 folded before Flop (didn't bet)
+Seat 8: bullets685 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262467029745: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVII (1500/3000) - 2026/10/21 17:38:11 CUST [2026/10/21 12:38:11 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: luckascbr (84445 in chips) 
+Seat 2: borri30 (22706 in chips) 
+Seat 4: Bananmats (41329 in chips) 
+Seat 5: jack6733 (54389 in chips) 
+Seat 6: Beirario2728 (43826 in chips) 
+Seat 7: madden2018 (66606 in chips) 
+Seat 8: bullets685 (30116 in chips) 
+luckascbr: posts the ante 300
+borri30: posts the ante 300
+Bananmats: posts the ante 300
+jack6733: posts the ante 300
+Beirario2728: posts the ante 300
+madden2018: posts the ante 300
+bullets685: posts the ante 300
+borri30: posts small blind 1500
+Bananmats: posts big blind 3000
+*** HOLE CARDS ***
+Dealt to bullets685 [6c 9c]
+jack6733: folds 
+Beirario2728: raises 3000 to 6000
+madden2018: folds 
+bullets685: folds 
+luckascbr: folds 
+borri30: folds 
+Bananmats: folds 
+Uncalled bet (3000) returned to Beirario2728
+Beirario2728 collected 9600 from pot
+*** SUMMARY ***
+Total pot 9600 | Rake 0 
+Seat 1: luckascbr (button) folded before Flop (didn't bet)
+Seat 2: borri30 (small blind) folded before Flop
+Seat 4: Bananmats (big blind) folded before Flop
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 collected (9600)
+Seat 7: madden2018 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262467035115: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVIII (2000/4000) - 2026/10/21 17:38:43 CUST [2026/10/21 12:38:43 ET]
+Table '4040099699 2' 8-max Seat #2 is the button
+Seat 1: luckascbr (84145 in chips) 
+Seat 2: borri30 (20906 in chips) 
+Seat 4: Bananmats (38029 in chips) 
+Seat 5: jack6733 (54089 in chips) 
+Seat 6: Beirario2728 (50126 in chips) 
+Seat 7: madden2018 (66306 in chips) 
+Seat 8: bullets685 (29816 in chips) 
+luckascbr: posts the ante 400
+borri30: posts the ante 400
+Bananmats: posts the ante 400
+jack6733: posts the ante 400
+Beirario2728: posts the ante 400
+madden2018: posts the ante 400
+bullets685: posts the ante 400
+Bananmats: posts small blind 2000
+jack6733: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to bullets685 [5c 6d]
+Beirario2728: folds 
+madden2018: folds 
+bullets685: folds 
+luckascbr: raises 79745 to 83745 and is all-in
+borri30: folds 
+Bananmats: folds 
+jack6733: folds 
+Uncalled bet (79745) returned to luckascbr
+luckascbr collected 12800 from pot
+*** SUMMARY ***
+Total pot 12800 | Rake 0 
+Seat 1: luckascbr collected (12800)
+Seat 2: borri30 (button) folded before Flop (didn't bet)
+Seat 4: Bananmats (small blind) folded before Flop
+Seat 5: jack6733 (big blind) folded before Flop
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 7: madden2018 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262467038913: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVIII (2000/4000) - 2026/10/21 17:39:06 CUST [2026/10/21 12:39:06 ET]
+Table '4040099699 2' 8-max Seat #4 is the button
+Seat 1: luckascbr (92545 in chips) 
+Seat 2: borri30 (20506 in chips) 
+Seat 3: wogelstein (69770 in chips) 
+Seat 4: Bananmats (35629 in chips) 
+Seat 5: jack6733 (49689 in chips) 
+Seat 6: Beirario2728 (49726 in chips) 
+Seat 7: madden2018 (65906 in chips) 
+Seat 8: bullets685 (29416 in chips) 
+luckascbr: posts the ante 400
+borri30: posts the ante 400
+wogelstein: posts the ante 400
+Bananmats: posts the ante 400
+jack6733: posts the ante 400
+Beirario2728: posts the ante 400
+madden2018: posts the ante 400
+bullets685: posts the ante 400
+jack6733: posts small blind 2000
+Beirario2728: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah Ks]
+madden2018: calls 4000
+bullets685: raises 25016 to 29016 and is all-in
+luckascbr: folds 
+borri30: folds 
+wogelstein: folds 
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: folds 
+madden2018: folds 
+Uncalled bet (25016) returned to bullets685
+bullets685 collected 17200 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 17200 | Rake 0 
+Seat 1: luckascbr folded before Flop (didn't bet)
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 3: wogelstein folded before Flop (didn't bet)
+Seat 4: Bananmats (button) folded before Flop (didn't bet)
+Seat 5: jack6733 (small blind) folded before Flop
+Seat 6: Beirario2728 (big blind) folded before Flop
+Seat 7: madden2018 folded before Flop
+Seat 8: bullets685 collected (17200)
+
+
+
+Betfair Hand #262467045416: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVIII (2000/4000) - 2026/10/21 17:39:46 CUST [2026/10/21 12:39:46 ET]
+Table '4040099699 2' 8-max Seat #5 is the button
+Seat 1: luckascbr (92145 in chips) 
+Seat 2: borri30 (20106 in chips) 
+Seat 3: wogelstein (69370 in chips) 
+Seat 4: Bananmats (35229 in chips) 
+Seat 5: jack6733 (47289 in chips) 
+Seat 6: Beirario2728 (45326 in chips) 
+Seat 7: madden2018 (61506 in chips) 
+Seat 8: bullets685 (42216 in chips) 
+luckascbr: posts the ante 400
+borri30: posts the ante 400
+wogelstein: posts the ante 400
+Bananmats: posts the ante 400
+jack6733: posts the ante 400
+Beirario2728: posts the ante 400
+madden2018: posts the ante 400
+bullets685: posts the ante 400
+Beirario2728: posts small blind 2000
+madden2018: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to bullets685 [3c 8c]
+bullets685: folds 
+luckascbr: folds 
+borri30: folds 
+wogelstein: raises 8000 to 12000
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: folds 
+madden2018: calls 8000
+*** FLOP *** [Qc 9h As]
+madden2018: checks 
+wogelstein: bets 16000
+madden2018: calls 16000
+*** TURN *** [Qc 9h As] [9d]
+madden2018: checks 
+wogelstein: bets 40970 and is all-in
+madden2018: calls 33106 and is all-in
+Uncalled bet (7864) returned to wogelstein
+*** RIVER *** [Qc 9h As 9d] [7h]
+*** SHOW DOWN ***
+madden2018: shows [Ac 7s] (two pair, Aces and Nines)
+wogelstein: shows [Ah Kh] (two pair, Aces and Nines - King kicker)
+wogelstein collected 127412 from pot
+madden2018 finished the tournament in 31st place
+*** SUMMARY ***
+Total pot 127412 | Rake 0 
+Board [Qc 9h As 9d 7h]
+Seat 1: luckascbr folded before Flop (didn't bet)
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 3: wogelstein showed [Ah Kh] and won (127412) with two pair, Aces and Nines
+Seat 4: Bananmats folded before Flop (didn't bet)
+Seat 5: jack6733 (button) folded before Flop (didn't bet)
+Seat 6: Beirario2728 (small blind) folded before Flop
+Seat 7: madden2018 (big blind) showed [Ac 7s] and lost with two pair, Aces and Nines
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262467054359: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVIII (2000/4000) - 2026/10/21 17:40:42 CUST [2026/10/21 12:40:42 ET]
+Table '4040099699 2' 8-max Seat #6 is the button
+Seat 1: luckascbr (91745 in chips) 
+Seat 2: borri30 (19706 in chips) 
+Seat 3: wogelstein (135276 in chips) 
+Seat 4: Bananmats (34829 in chips) 
+Seat 5: jack6733 (46889 in chips) 
+Seat 6: Beirario2728 (42926 in chips) 
+Seat 8: bullets685 (41816 in chips) 
+luckascbr: posts the ante 400
+borri30: posts the ante 400
+wogelstein: posts the ante 400
+Bananmats: posts the ante 400
+jack6733: posts the ante 400
+Beirario2728: posts the ante 400
+bullets685: posts the ante 400
+bullets685: posts small blind 2000
+luckascbr: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to bullets685 [2d Kc]
+borri30: folds 
+wogelstein: folds 
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: folds 
+bullets685: folds 
+Uncalled bet (2000) returned to luckascbr
+luckascbr collected 6800 from pot
+*** SUMMARY ***
+Total pot 6800 | Rake 0 
+Seat 1: luckascbr (big blind) collected (6800)
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 3: wogelstein folded before Flop (didn't bet)
+Seat 4: Bananmats folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 (button) folded before Flop (didn't bet)
+Seat 8: bullets685 (small blind) folded before Flop
+
+
+
+Betfair Hand #262467058479: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVIII (2000/4000) - 2026/10/21 17:41:07 CUST [2026/10/21 12:41:07 ET]
+Table '4040099699 2' 8-max Seat #8 is the button
+Seat 1: luckascbr (96145 in chips) 
+Seat 2: borri30 (19306 in chips) 
+Seat 3: wogelstein (134876 in chips) 
+Seat 4: Bananmats (34429 in chips) 
+Seat 5: jack6733 (46489 in chips) 
+Seat 6: Beirario2728 (42526 in chips) 
+Seat 8: bullets685 (39416 in chips) 
+luckascbr: posts the ante 400
+borri30: posts the ante 400
+wogelstein: posts the ante 400
+Bananmats: posts the ante 400
+jack6733: posts the ante 400
+Beirario2728: posts the ante 400
+bullets685: posts the ante 400
+luckascbr: posts small blind 2000
+borri30: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to bullets685 [3d Jh]
+wogelstein: raises 4000 to 8000
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: raises 34126 to 42126 and is all-in
+bullets685: folds 
+luckascbr: folds 
+borri30: folds 
+wogelstein: folds 
+Uncalled bet (34126) returned to Beirario2728
+Beirario2728 collected 24800 from pot
+*** SUMMARY ***
+Total pot 24800 | Rake 0 
+Seat 1: luckascbr (small blind) folded before Flop
+Seat 2: borri30 (big blind) folded before Flop
+Seat 3: wogelstein folded before Flop
+Seat 4: Bananmats folded before Flop (didn't bet)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 collected (24800)
+Seat 8: bullets685 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262467064568: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVIII (2000/4000) - 2026/10/21 17:41:44 CUST [2026/10/21 12:41:44 ET]
+Table '4040099699 2' 8-max Seat #1 is the button
+Seat 1: luckascbr (93745 in chips) 
+Seat 2: borri30 (14906 in chips) 
+Seat 3: wogelstein (126476 in chips) 
+Seat 4: Bananmats (34029 in chips) 
+Seat 5: jack6733 (46089 in chips) 
+Seat 6: Beirario2728 (58926 in chips) 
+Seat 8: bullets685 (39016 in chips) 
+luckascbr: posts the ante 400
+borri30: posts the ante 400
+wogelstein: posts the ante 400
+Bananmats: posts the ante 400
+jack6733: posts the ante 400
+Beirario2728: posts the ante 400
+bullets685: posts the ante 400
+borri30: posts small blind 2000
+wogelstein: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh 2s]
+Bananmats: raises 29629 to 33629 and is all-in
+jack6733: folds 
+Beirario2728: folds 
+bullets685: folds 
+luckascbr: folds 
+borri30: folds 
+wogelstein: folds 
+Uncalled bet (29629) returned to Bananmats
+Bananmats collected 12800 from pot
+Bananmats: doesn't show hand 
+*** SUMMARY ***
+Total pot 12800 | Rake 0 
+Seat 1: luckascbr (button) folded before Flop (didn't bet)
+Seat 2: borri30 (small blind) folded before Flop
+Seat 3: wogelstein (big blind) folded before Flop
+Seat 4: Bananmats collected (12800)
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 8: bullets685 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262467070825: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XVIII (2000/4000) - 2026/10/21 17:42:23 CUST [2026/10/21 12:42:23 ET]
+Table '4040099699 2' 8-max Seat #2 is the button
+Seat 1: luckascbr (93345 in chips) 
+Seat 2: borri30 (12506 in chips) 
+Seat 3: wogelstein (122076 in chips) 
+Seat 4: Bananmats (42429 in chips) 
+Seat 5: jack6733 (45689 in chips) 
+Seat 6: Beirario2728 (58526 in chips) 
+Seat 8: bullets685 (38616 in chips) 
+luckascbr: posts the ante 400
+borri30: posts the ante 400
+wogelstein: posts the ante 400
+Bananmats: posts the ante 400
+jack6733: posts the ante 400
+Beirario2728: posts the ante 400
+bullets685: posts the ante 400
+wogelstein: posts small blind 2000
+Bananmats: posts big blind 4000
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah 8c]
+jack6733: folds 
+Beirario2728: folds 
+bullets685: raises 34216 to 38216 and is all-in
+luckascbr: folds 
+borri30: calls 12106 and is all-in
+wogelstein: folds 
+Bananmats: folds 
+Uncalled bet (26110) returned to bullets685
+*** FLOP *** [Th As 7d]
+*** TURN *** [Th As 7d] [Jd]
+*** RIVER *** [Th As 7d Jd] [5d]
+*** SHOW DOWN ***
+bullets685: shows [Ah 8c] (a pair of Aces)
+borri30: shows [Qc Kc] (a straight, Ten to Ace)
+borri30 collected 33012 from pot
+*** SUMMARY ***
+Total pot 33012 | Rake 0 
+Board [Th As 7d Jd 5d]
+Seat 1: luckascbr folded before Flop (didn't bet)
+Seat 2: borri30 (button) showed [Qc Kc] and won (33012) with a straight, Ten to Ace
+Seat 3: wogelstein (small blind) folded before Flop
+Seat 4: Bananmats (big blind) folded before Flop
+Seat 5: jack6733 folded before Flop (didn't bet)
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 8: bullets685 showed [Ah 8c] and lost with a pair of Aces
+
+
+
+Betfair Hand #262467080149: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XIX (3000/6000) - 2026/10/21 17:43:21 CUST [2026/10/21 12:43:21 ET]
+Table '4040099699 2' 8-max Seat #3 is the button
+Seat 1: luckascbr (92945 in chips) 
+Seat 2: borri30 (33012 in chips) 
+Seat 3: wogelstein (119676 in chips) 
+Seat 4: Bananmats (38029 in chips) 
+Seat 5: jack6733 (45289 in chips) 
+Seat 6: Beirario2728 (58126 in chips) 
+Seat 8: bullets685 (26110 in chips) 
+luckascbr: posts the ante 600
+borri30: posts the ante 600
+wogelstein: posts the ante 600
+Bananmats: posts the ante 600
+jack6733: posts the ante 600
+Beirario2728: posts the ante 600
+bullets685: posts the ante 600
+Bananmats: posts small blind 3000
+jack6733: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to bullets685 [7s 9s]
+Beirario2728: folds 
+bullets685: raises 19510 to 25510 and is all-in
+luckascbr: folds 
+borri30: folds 
+wogelstein: folds 
+Bananmats: folds 
+jack6733: folds 
+Uncalled bet (19510) returned to bullets685
+bullets685 collected 19200 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 19200 | Rake 0 
+Seat 1: luckascbr folded before Flop (didn't bet)
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 3: wogelstein (button) folded before Flop (didn't bet)
+Seat 4: Bananmats (small blind) folded before Flop
+Seat 5: jack6733 (big blind) folded before Flop
+Seat 6: Beirario2728 folded before Flop (didn't bet)
+Seat 8: bullets685 collected (19200)
+
+
+
+Betfair Hand #262467087034: Tournament #4040099699, $10.27+$0.73 USD Hold'em No Limit - Level XIX (3000/6000) - 2026/10/21 17:44:04 CUST [2026/10/21 12:44:04 ET]
+Table '4040099699 2' 8-max Seat #4 is the button
+Seat 1: luckascbr (92345 in chips) 
+Seat 2: borri30 (32412 in chips) 
+Seat 3: wogelstein (119076 in chips) 
+Seat 4: Bananmats (34429 in chips) 
+Seat 5: jack6733 (38689 in chips) 
+Seat 6: Beirario2728 (57526 in chips) 
+Seat 8: bullets685 (38710 in chips) 
+luckascbr: posts the ante 600
+borri30: posts the ante 600
+wogelstein: posts the ante 600
+Bananmats: posts the ante 600
+jack6733: posts the ante 600
+Beirario2728: posts the ante 600
+bullets685: posts the ante 600
+jack6733: posts small blind 3000
+Beirario2728: posts big blind 6000
+*** HOLE CARDS ***
+Dealt to bullets685 [9s Ad]
+bullets685: raises 32110 to 38110 and is all-in
+luckascbr: calls 38110
+borri30: folds 
+wogelstein: folds 
+Bananmats: folds 
+jack6733: folds 
+Beirario2728: folds 
+*** FLOP *** [2s 2c 4d]
+*** TURN *** [2s 2c 4d] [4s]
+*** RIVER *** [2s 2c 4d 4s] [Ts]
+*** SHOW DOWN ***
+bullets685: shows [9s Ad] (two pair, Fours and Deuces)
+luckascbr: shows [Qc Qd] (two pair, Queens and Fours)
+luckascbr collected 89420 from pot
+bullets685 finished the tournament in 28th place
+*** SUMMARY ***
+Total pot 89420 | Rake 0 
+Board [2s 2c 4d 4s Ts]
+Seat 1: luckascbr showed [Qc Qd] and won (89420) with two pair, Queens and Fours
+Seat 2: borri30 folded before Flop (didn't bet)
+Seat 3: wogelstein folded before Flop (didn't bet)
+Seat 4: Bananmats (button) folded before Flop (didn't bet)
+Seat 5: jack6733 (small blind) folded before Flop
+Seat 6: Beirario2728 (big blind) folded before Flop
+Seat 8: bullets685 showed [9s Ad] and lost with two pair, Fours and Deuces
+
+
+

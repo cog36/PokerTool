@@ -1,0 +1,2047 @@
+﻿Betfair Hand #262458070314: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/20 18:40:17 CUST [2026/10/20 13:40:17 ET]
+Table '4041177272 1' 9-max Seat #1 is the button
+Seat 1: Laichici38 (1500 in chips) 
+Seat 2: bullets685 (1500 in chips) 
+Seat 3: gabamauri (1500 in chips) 
+Seat 4: CADILLACJET (1500 in chips) 
+Seat 5: tw superfoot (1500 in chips) 
+Seat 6: kilometerObrien (1500 in chips) 
+Seat 7: clipper24 (1500 in chips) 
+Seat 8: BudDyFL (1500 in chips) 
+Seat 9: kdwan (1500 in chips) 
+Laichici38: posts the ante 3
+bullets685: posts the ante 3
+gabamauri: posts the ante 3
+CADILLACJET: posts the ante 3
+tw superfoot: posts the ante 3
+kilometerObrien: posts the ante 3
+clipper24: posts the ante 3
+BudDyFL: posts the ante 3
+kdwan: posts the ante 3
+bullets685: posts small blind 10
+gabamauri: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts Js]
+CADILLACJET: folds 
+tw superfoot: raises 20 to 40
+kilometerObrien: folds 
+clipper24: raises 20 to 60
+BudDyFL: folds 
+kdwan: folds 
+Laichici38: calls 60
+bullets685: calls 50
+gabamauri: folds 
+tw superfoot: calls 20
+*** FLOP *** [As 6c 5h]
+bullets685: checks 
+tw superfoot: checks 
+clipper24: bets 80
+Laichici38: calls 80
+bullets685: folds 
+tw superfoot: raises 244 to 324
+clipper24: calls 244
+Laichici38: calls 244
+*** TURN *** [As 6c 5h] [5s]
+tw superfoot: bets 630
+clipper24: raises 483 to 1113 and is all-in
+Laichici38: folds 
+tw superfoot: calls 483 and is all-in
+*** RIVER *** [As 6c 5h 5s] [Ah]
+*** SHOW DOWN ***
+tw superfoot: shows [6d Ad] (a full house, Aces full of Sixes)
+clipper24: shows [3h Ac] (a full house, Aces full of Fives)
+tw superfoot collected 3485 from pot
+clipper24 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 3485 | Rake 0 
+Board [As 6c 5h 5s Ah]
+Seat 1: Laichici38 (button) folded on the Turn
+Seat 2: bullets685 (small blind) folded on the Flop
+Seat 3: gabamauri (big blind) folded before Flop
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot showed [6d Ad] and won (3485) with a full house, Aces full of Sixes
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 7: clipper24 showed [3h Ac] and lost with a full house, Aces full of Fives
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458087295: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/20 18:41:50 CUST [2026/10/20 13:41:50 ET]
+Table '4041177272 1' 9-max Seat #2 is the button
+Seat 1: Laichici38 (1113 in chips) 
+Seat 2: bullets685 (1437 in chips) 
+Seat 3: gabamauri (1477 in chips) 
+Seat 4: CADILLACJET (1497 in chips) 
+Seat 5: tw superfoot (3485 in chips) 
+Seat 6: kilometerObrien (1497 in chips) 
+Seat 8: BudDyFL (1497 in chips) 
+Seat 9: kdwan (1497 in chips) 
+Laichici38: posts the ante 3
+bullets685: posts the ante 3
+gabamauri: posts the ante 3
+CADILLACJET: posts the ante 3
+tw superfoot: posts the ante 3
+kilometerObrien: posts the ante 3
+BudDyFL: posts the ante 3
+kdwan: posts the ante 3
+gabamauri: posts small blind 10
+CADILLACJET: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd 3s]
+tw superfoot: folds 
+kilometerObrien: folds 
+BudDyFL: raises 20 to 40
+kdwan: raises 80 to 120
+Laichici38: calls 120
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: folds 
+BudDyFL: calls 80
+*** FLOP *** [7s 8s 4d]
+BudDyFL: checks 
+kdwan: checks 
+Laichici38: bets 80
+BudDyFL: calls 80
+kdwan: calls 80
+*** TURN *** [7s 8s 4d] [5s]
+BudDyFL: checks 
+kdwan: checks 
+Laichici38: checks 
+*** RIVER *** [7s 8s 4d 5s] [7h]
+BudDyFL: checks 
+kdwan: checks 
+Laichici38: checks 
+*** SHOW DOWN ***
+BudDyFL: shows [Tc Ts] (two pair, Tens and Sevens)
+kdwan: mucks hand 
+Laichici38: mucks hand 
+BudDyFL collected 654 from pot
+*** SUMMARY ***
+Total pot 654 | Rake 0 
+Board [7s 8s 4d 5s 7h]
+Seat 1: Laichici38 mucked [Qh 8d]
+Seat 2: bullets685 (button) folded before Flop (didn't bet)
+Seat 3: gabamauri (small blind) folded before Flop
+Seat 4: CADILLACJET (big blind) folded before Flop
+Seat 5: tw superfoot folded before Flop (didn't bet)
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL showed [Tc Ts] and won (654) with two pair, Tens and Sevens
+Seat 9: kdwan mucked [Qc Ah]
+
+
+
+Betfair Hand #262458101352: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/20 18:43:06 CUST [2026/10/20 13:43:06 ET]
+Table '4041177272 1' 9-max Seat #3 is the button
+Seat 1: Laichici38 (910 in chips) 
+Seat 2: bullets685 (1434 in chips) 
+Seat 3: gabamauri (1464 in chips) 
+Seat 4: CADILLACJET (1474 in chips) 
+Seat 5: tw superfoot (3482 in chips) 
+Seat 6: kilometerObrien (1494 in chips) 
+Seat 8: BudDyFL (1948 in chips) 
+Seat 9: kdwan (1294 in chips) 
+Laichici38: posts the ante 3
+bullets685: posts the ante 3
+gabamauri: posts the ante 3
+CADILLACJET: posts the ante 3
+tw superfoot: posts the ante 3
+kilometerObrien: posts the ante 3
+BudDyFL: posts the ante 3
+kdwan: posts the ante 3
+CADILLACJET: posts small blind 10
+tw superfoot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [Td Ks]
+kilometerObrien: raises 40 to 60
+BudDyFL: folds 
+kdwan: folds 
+Laichici38: calls 60
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: folds 
+tw superfoot: calls 40
+*** FLOP *** [8c 7h 5d]
+tw superfoot: checks 
+kilometerObrien: checks 
+Laichici38: bets 60
+tw superfoot: calls 60
+kilometerObrien: raises 60 to 120
+Laichici38: calls 60
+tw superfoot: calls 60
+*** TURN *** [8c 7h 5d] [2c]
+tw superfoot: checks 
+kilometerObrien: checks 
+Laichici38: bets 727 and is all-in
+tw superfoot: folds 
+kilometerObrien: calls 727
+*** RIVER *** [8c 7h 5d 2c] [8h]
+*** SHOW DOWN ***
+kilometerObrien: shows [Jd Jc] (two pair, Jacks and Eights)
+Laichici38: shows [9h Tc] (a pair of Eights)
+kilometerObrien collected 2028 from pot
+Laichici38 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 2028 | Rake 0 
+Board [8c 7h 5d 2c 8h]
+Seat 1: Laichici38 showed [9h Tc] and lost with a pair of Eights
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri (button) folded before Flop (didn't bet)
+Seat 4: CADILLACJET (small blind) folded before Flop
+Seat 5: tw superfoot (big blind) folded on the Turn
+Seat 6: kilometerObrien showed [Jd Jc] and won (2028) with two pair, Jacks and Eights
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458117631: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/20 18:44:36 CUST [2026/10/20 13:44:36 ET]
+Table '4041177272 1' 9-max Seat #4 is the button
+Seat 2: bullets685 (1431 in chips) 
+Seat 3: gabamauri (1461 in chips) 
+Seat 4: CADILLACJET (1461 in chips) 
+Seat 5: tw superfoot (3299 in chips) 
+Seat 6: kilometerObrien (2612 in chips) 
+Seat 8: BudDyFL (1945 in chips) 
+Seat 9: kdwan (1291 in chips) 
+bullets685: posts the ante 3
+gabamauri: posts the ante 3
+CADILLACJET: posts the ante 3
+tw superfoot: posts the ante 3
+kilometerObrien: posts the ante 3
+BudDyFL: posts the ante 3
+kdwan: posts the ante 3
+tw superfoot: posts small blind 10
+kilometerObrien: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [3h Tc]
+BudDyFL: raises 20 to 40
+kdwan: folds 
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: calls 40
+tw superfoot: calls 30
+kilometerObrien: folds 
+*** FLOP *** [9s Jd Qd]
+tw superfoot: checks 
+BudDyFL: checks 
+CADILLACJET: checks 
+*** TURN *** [9s Jd Qd] [Ad]
+tw superfoot: checks 
+BudDyFL: checks 
+CADILLACJET: bets 81
+tw superfoot: calls 81
+BudDyFL: folds 
+*** RIVER *** [9s Jd Qd Ad] [8c]
+tw superfoot: checks 
+CADILLACJET: checks 
+*** SHOW DOWN ***
+tw superfoot: shows [Qh Ts] (a straight, Eight to Queen)
+CADILLACJET: mucks hand 
+tw superfoot collected 323 from pot
+*** SUMMARY ***
+Total pot 323 | Rake 0 
+Board [9s Jd Qd Ad 8c]
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET (button) mucked [Jc As]
+Seat 5: tw superfoot (small blind) showed [Qh Ts] and won (323) with a straight, Eight to Queen
+Seat 6: kilometerObrien (big blind) folded before Flop
+Seat 8: BudDyFL folded on the Turn
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458132794: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/20 18:45:58 CUST [2026/10/20 13:45:58 ET]
+Table '4041177272 1' 9-max Seat #5 is the button
+Seat 2: bullets685 (1428 in chips) 
+Seat 3: gabamauri (1458 in chips) 
+Seat 4: CADILLACJET (1337 in chips) 
+Seat 5: tw superfoot (3498 in chips) 
+Seat 6: kilometerObrien (2589 in chips) 
+Seat 8: BudDyFL (1902 in chips) 
+Seat 9: kdwan (1288 in chips) 
+bullets685: posts the ante 4
+gabamauri: posts the ante 4
+CADILLACJET: posts the ante 4
+tw superfoot: posts the ante 4
+kilometerObrien: posts the ante 4
+BudDyFL: posts the ante 4
+kdwan: posts the ante 4
+kilometerObrien: posts small blind 15
+BudDyFL: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah Td]
+kdwan: folds 
+bullets685: raises 37 to 67
+gabamauri: folds 
+CADILLACJET: folds 
+tw superfoot: folds 
+kilometerObrien: calls 52
+BudDyFL: calls 37
+*** FLOP *** [9d 3h Jd]
+kilometerObrien: checks 
+BudDyFL: checks 
+bullets685: bets 120
+kilometerObrien: folds 
+BudDyFL: calls 120
+*** TURN *** [9d 3h Jd] [7h]
+BudDyFL: checks 
+bullets685: checks 
+*** RIVER *** [9d 3h Jd 7h] [Tc]
+BudDyFL: bets 309
+bullets685: calls 309
+*** SHOW DOWN ***
+BudDyFL: shows [2d 5d] (high card Jack)
+bullets685: shows [Ah Td] (a pair of Tens)
+bullets685 collected 1087 from pot
+*** SUMMARY ***
+Total pot 1087 | Rake 0 
+Board [9d 3h Jd 7h Tc]
+Seat 2: bullets685 showed [Ah Td] and won (1087) with a pair of Tens
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot (button) folded before Flop (didn't bet)
+Seat 6: kilometerObrien (small blind) folded on the Flop
+Seat 8: BudDyFL (big blind) showed [2d 5d] and lost with high card Jack
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458151868: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/20 18:47:42 CUST [2026/10/20 13:47:42 ET]
+Table '4041177272 1' 9-max Seat #6 is the button
+Seat 2: bullets685 (2015 in chips) 
+Seat 3: gabamauri (1454 in chips) 
+Seat 4: CADILLACJET (1333 in chips) 
+Seat 5: tw superfoot (3494 in chips) 
+Seat 6: kilometerObrien (2518 in chips) 
+Seat 8: BudDyFL (1402 in chips) 
+Seat 9: kdwan (1284 in chips) 
+bullets685: posts the ante 4
+gabamauri: posts the ante 4
+CADILLACJET: posts the ante 4
+tw superfoot: posts the ante 4
+kilometerObrien: posts the ante 4
+BudDyFL: posts the ante 4
+kdwan: posts the ante 4
+BudDyFL: posts small blind 15
+kdwan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [2h 8c]
+bullets685: folds 
+gabamauri: raises 30 to 60
+CADILLACJET: folds 
+tw superfoot: folds 
+kilometerObrien: calls 60
+BudDyFL: folds 
+kdwan: folds 
+*** FLOP *** [7d Qs Td]
+gabamauri: bets 71
+kilometerObrien: calls 71
+*** TURN *** [7d Qs Td] [6s]
+gabamauri: bets 168
+kilometerObrien: raises 168 to 336
+gabamauri: raises 983 to 1319 and is all-in
+kilometerObrien: folds 
+Uncalled bet (983) returned to gabamauri
+gabamauri collected 1007 from pot
+gabamauri: doesn't show hand 
+*** SUMMARY ***
+Total pot 1007 | Rake 0 
+Board [7d Qs Td 6s]
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri collected (1007)
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot folded before Flop (didn't bet)
+Seat 6: kilometerObrien (button) folded on the Turn
+Seat 8: BudDyFL (small blind) folded before Flop
+Seat 9: kdwan (big blind) folded before Flop
+
+
+
+Betfair Hand #262458159928: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/20 18:48:25 CUST [2026/10/20 13:48:25 ET]
+Table '4041177272 1' 9-max Seat #8 is the button
+Seat 2: bullets685 (2011 in chips) 
+Seat 3: gabamauri (1990 in chips) 
+Seat 4: CADILLACJET (1329 in chips) 
+Seat 5: tw superfoot (3490 in chips) 
+Seat 6: kilometerObrien (2047 in chips) 
+Seat 8: BudDyFL (1383 in chips) 
+Seat 9: kdwan (1250 in chips) 
+bullets685: posts the ante 4
+gabamauri: posts the ante 4
+CADILLACJET: posts the ante 4
+tw superfoot: posts the ante 4
+kilometerObrien: posts the ante 4
+BudDyFL: posts the ante 4
+kdwan: posts the ante 4
+kdwan: posts small blind 15
+bullets685: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Ac Qd]
+gabamauri: folds 
+CADILLACJET: folds 
+tw superfoot: raises 30 to 60
+kilometerObrien: folds 
+BudDyFL: raises 120 to 180
+kdwan: folds 
+bullets685: calls 150
+tw superfoot: calls 120
+*** FLOP *** [Jd Kd 5c]
+bullets685: checks 
+tw superfoot: checks 
+BudDyFL: bets 192
+bullets685: calls 192
+tw superfoot: folds 
+*** TURN *** [Jd Kd 5c] [3s]
+bullets685: checks 
+BudDyFL: bets 241
+bullets685: calls 241
+*** RIVER *** [Jd Kd 5c 3s] [9h]
+bullets685: checks 
+BudDyFL: bets 30
+bullets685: calls 30
+*** SHOW DOWN ***
+BudDyFL: shows [Js Jh] (three of a kind, Jacks)
+bullets685: mucks hand 
+BudDyFL collected 1509 from pot
+*** SUMMARY ***
+Total pot 1509 | Rake 0 
+Board [Jd Kd 5c 3s 9h]
+Seat 2: bullets685 (big blind) mucked [Ac Qd]
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot folded on the Flop
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL (button) showed [Js Jh] and won (1509) with three of a kind, Jacks
+Seat 9: kdwan (small blind) folded before Flop
+
+
+
+Betfair Hand #262458174337: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/20 18:49:44 CUST [2026/10/20 13:49:44 ET]
+Table '4041177272 1' 9-max Seat #9 is the button
+Seat 2: bullets685 (1364 in chips) 
+Seat 3: gabamauri (1986 in chips) 
+Seat 4: CADILLACJET (1325 in chips) 
+Seat 5: tw superfoot (3306 in chips) 
+Seat 6: kilometerObrien (2043 in chips) 
+Seat 8: BudDyFL (2245 in chips) 
+Seat 9: kdwan (1231 in chips) 
+bullets685: posts the ante 4
+gabamauri: posts the ante 4
+CADILLACJET: posts the ante 4
+tw superfoot: posts the ante 4
+kilometerObrien: posts the ante 4
+BudDyFL: posts the ante 4
+kdwan: posts the ante 4
+bullets685: posts small blind 15
+gabamauri: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Th Tc]
+CADILLACJET: folds 
+tw superfoot: raises 60 to 90
+kilometerObrien: calls 90
+BudDyFL: folds 
+kdwan: folds 
+bullets685: raises 210 to 300
+gabamauri: folds 
+tw superfoot: calls 210
+kilometerObrien: calls 210
+*** FLOP *** [8c 4d Ts]
+bullets685: bets 479
+tw superfoot: raises 569 to 1048
+kilometerObrien: folds 
+bullets685: raises 12 to 1060 and is all-in
+tw superfoot: calls 12
+*** TURN *** [8c 4d Ts] [Ac]
+*** RIVER *** [8c 4d Ts Ac] [6s]
+*** SHOW DOWN ***
+bullets685: shows [Th Tc] (three of a kind, Tens)
+tw superfoot: shows [Qd Qh] (a pair of Queens)
+bullets685 collected 3078 from pot
+*** SUMMARY ***
+Total pot 3078 | Rake 0 
+Board [8c 4d Ts Ac 6s]
+Seat 2: bullets685 (small blind) showed [Th Tc] and won (3078) with three of a kind, Tens
+Seat 3: gabamauri (big blind) folded before Flop
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot showed [Qd Qh] and lost with a pair of Queens
+Seat 6: kilometerObrien folded on the Flop
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458185991: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/20 18:50:47 CUST [2026/10/20 13:50:47 ET]
+Table '4041177272 1' 9-max Seat #2 is the button
+Seat 2: bullets685 (3078 in chips) 
+Seat 3: gabamauri (1952 in chips) 
+Seat 4: CADILLACJET (1321 in chips) 
+Seat 5: tw superfoot (1942 in chips) 
+Seat 6: kilometerObrien (1739 in chips) 
+Seat 8: BudDyFL (2241 in chips) 
+Seat 9: kdwan (1227 in chips) 
+bullets685: posts the ante 6
+gabamauri: posts the ante 6
+CADILLACJET: posts the ante 6
+tw superfoot: posts the ante 6
+kilometerObrien: posts the ante 6
+BudDyFL: posts the ante 6
+kdwan: posts the ante 6
+gabamauri: posts small blind 25
+CADILLACJET: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [6s 6d]
+tw superfoot: folds 
+kilometerObrien: folds 
+BudDyFL: folds 
+kdwan: raises 50 to 100
+bullets685: calls 100
+gabamauri: raises 392 to 492
+CADILLACJET: folds 
+kdwan: folds 
+bullets685: folds 
+Uncalled bet (392) returned to gabamauri
+gabamauri collected 392 from pot
+gabamauri: doesn't show hand 
+*** SUMMARY ***
+Total pot 392 | Rake 0 
+Seat 2: bullets685 (button) folded before Flop
+Seat 3: gabamauri (small blind) collected (392)
+Seat 4: CADILLACJET (big blind) folded before Flop
+Seat 5: tw superfoot folded before Flop (didn't bet)
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan folded before Flop
+
+
+
+Betfair Hand #262458194852: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/20 18:51:35 CUST [2026/10/20 13:51:35 ET]
+Table '4041177272 1' 9-max Seat #3 is the button
+Seat 2: bullets685 (2972 in chips) 
+Seat 3: gabamauri (2238 in chips) 
+Seat 4: CADILLACJET (1265 in chips) 
+Seat 5: tw superfoot (1936 in chips) 
+Seat 6: kilometerObrien (1733 in chips) 
+Seat 8: BudDyFL (2235 in chips) 
+Seat 9: kdwan (1121 in chips) 
+bullets685: posts the ante 6
+gabamauri: posts the ante 6
+CADILLACJET: posts the ante 6
+tw superfoot: posts the ante 6
+kilometerObrien: posts the ante 6
+BudDyFL: posts the ante 6
+kdwan: posts the ante 6
+CADILLACJET: posts small blind 25
+tw superfoot: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [7h Qc]
+kilometerObrien: folds 
+BudDyFL: folds 
+kdwan: folds 
+bullets685: folds 
+gabamauri: raises 50 to 100
+CADILLACJET: folds 
+tw superfoot: calls 50
+*** FLOP *** [Ac 9h 4d]
+tw superfoot: checks 
+gabamauri: bets 99
+tw superfoot: folds 
+Uncalled bet (99) returned to gabamauri
+gabamauri collected 267 from pot
+gabamauri: doesn't show hand 
+*** SUMMARY ***
+Total pot 267 | Rake 0 
+Board [Ac 9h 4d]
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri (button) collected (267)
+Seat 4: CADILLACJET (small blind) folded before Flop
+Seat 5: tw superfoot (big blind) folded on the Flop
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458206072: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/20 18:52:36 CUST [2026/10/20 13:52:36 ET]
+Table '4041177272 1' 9-max Seat #4 is the button
+Seat 2: bullets685 (2966 in chips) 
+Seat 3: gabamauri (2399 in chips) 
+Seat 4: CADILLACJET (1234 in chips) 
+Seat 5: tw superfoot (1830 in chips) 
+Seat 6: kilometerObrien (1727 in chips) 
+Seat 8: BudDyFL (2229 in chips) 
+Seat 9: kdwan (1115 in chips) 
+bullets685: posts the ante 6
+gabamauri: posts the ante 6
+CADILLACJET: posts the ante 6
+tw superfoot: posts the ante 6
+kilometerObrien: posts the ante 6
+BudDyFL: posts the ante 6
+kdwan: posts the ante 6
+tw superfoot: posts small blind 25
+kilometerObrien: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [2s 3s]
+BudDyFL: folds 
+kdwan: raises 50 to 100
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: folds 
+tw superfoot: raises 292 to 392
+kilometerObrien: folds 
+kdwan: folds 
+Uncalled bet (292) returned to tw superfoot
+tw superfoot collected 292 from pot
+tw superfoot: doesn't show hand 
+*** SUMMARY ***
+Total pot 292 | Rake 0 
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET (button) folded before Flop (didn't bet)
+Seat 5: tw superfoot (small blind) collected (292)
+Seat 6: kilometerObrien (big blind) folded before Flop
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan folded before Flop
+
+
+
+Betfair Hand #262458211671: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/20 18:53:07 CUST [2026/10/20 13:53:07 ET]
+Table '4041177272 1' 9-max Seat #5 is the button
+Seat 2: bullets685 (2960 in chips) 
+Seat 3: gabamauri (2393 in chips) 
+Seat 4: CADILLACJET (1228 in chips) 
+Seat 5: tw superfoot (2016 in chips) 
+Seat 6: kilometerObrien (1671 in chips) 
+Seat 8: BudDyFL (2223 in chips) 
+Seat 9: kdwan (1009 in chips) 
+bullets685: posts the ante 6
+gabamauri: posts the ante 6
+CADILLACJET: posts the ante 6
+tw superfoot: posts the ante 6
+kilometerObrien: posts the ante 6
+BudDyFL: posts the ante 6
+kdwan: posts the ante 6
+kilometerObrien: posts small blind 25
+BudDyFL: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [6s 7d]
+kdwan: folds 
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: raises 50 to 100
+tw superfoot: folds 
+kilometerObrien: calls 75
+BudDyFL is connected 
+BudDyFL is connected 
+BudDyFL: folds 
+*** FLOP *** [3c Th 9s]
+kilometerObrien: checks 
+CADILLACJET: checks 
+*** TURN *** [3c Th 9s] [Ts]
+kilometerObrien: checks 
+CADILLACJET: checks 
+*** RIVER *** [3c Th 9s Ts] [3s]
+kilometerObrien: bets 292
+CADILLACJET: folds 
+Uncalled bet (292) returned to kilometerObrien
+kilometerObrien collected 292 from pot
+kilometerObrien: doesn't show hand 
+*** SUMMARY ***
+Total pot 292 | Rake 0 
+Board [3c Th 9s Ts 3s]
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET folded on the River
+Seat 5: tw superfoot (button) folded before Flop (didn't bet)
+Seat 6: kilometerObrien (small blind) collected (292)
+Seat 8: BudDyFL (big blind) folded before Flop
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458230068: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/20 18:54:47 CUST [2026/10/20 13:54:47 ET]
+Table '4041177272 1' 9-max Seat #6 is the button
+Seat 2: bullets685 (2954 in chips) 
+Seat 3: gabamauri (2387 in chips) 
+Seat 4: CADILLACJET (1122 in chips) 
+Seat 5: tw superfoot (2010 in chips) 
+Seat 6: kilometerObrien (1857 in chips) 
+Seat 8: BudDyFL (2167 in chips) 
+Seat 9: kdwan (1003 in chips) 
+bullets685: posts the ante 6
+gabamauri: posts the ante 6
+CADILLACJET: posts the ante 6
+tw superfoot: posts the ante 6
+kilometerObrien: posts the ante 6
+BudDyFL: posts the ante 6
+kdwan: posts the ante 6
+BudDyFL: posts small blind 25
+kdwan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [4c Ks]
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: raises 50 to 100
+tw superfoot: folds 
+kilometerObrien: folds 
+BudDyFL: raises 150 to 250
+kdwan: folds 
+CADILLACJET: raises 866 to 1116 and is all-in
+BudDyFL: folds 
+Uncalled bet (866) returned to CADILLACJET
+CADILLACJET collected 592 from pot
+CADILLACJET: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET collected (592)
+Seat 5: tw superfoot folded before Flop (didn't bet)
+Seat 6: kilometerObrien (button) folded before Flop (didn't bet)
+Seat 8: BudDyFL (small blind) folded before Flop
+Seat 9: kdwan (big blind) folded before Flop
+
+
+
+Betfair Hand #262458239373: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/20 18:55:49 CUST [2026/10/20 13:55:49 ET]
+Table '4041177272 1' 9-max Seat #8 is the button
+Seat 2: bullets685 (2948 in chips) 
+Seat 3: gabamauri (2381 in chips) 
+Seat 4: CADILLACJET (1458 in chips) 
+Seat 5: tw superfoot (2004 in chips) 
+Seat 6: kilometerObrien (1851 in chips) 
+Seat 8: BudDyFL (1911 in chips) 
+Seat 9: kdwan (947 in chips) 
+bullets685: posts the ante 10
+gabamauri: posts the ante 10
+CADILLACJET: posts the ante 10
+tw superfoot: posts the ante 10
+kilometerObrien: posts the ante 10
+BudDyFL: posts the ante 10
+kdwan: posts the ante 10
+kdwan: posts small blind 40
+bullets685: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 4h]
+gabamauri: folds 
+CADILLACJET: folds 
+tw superfoot: folds 
+kilometerObrien: raises 160 to 240
+BudDyFL: folds 
+kdwan: folds 
+bullets685: calls 160
+*** FLOP *** [Qs Jd Ts]
+bullets685: checks 
+kilometerObrien: checks 
+*** TURN *** [Qs Jd Ts] [7s]
+bullets685: bets 320
+kilometerObrien: folds 
+Uncalled bet (320) returned to bullets685
+bullets685 collected 590 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [Qs Jd Ts 7s]
+Seat 2: bullets685 (big blind) collected (590)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot folded before Flop (didn't bet)
+Seat 6: kilometerObrien folded on the Turn
+Seat 8: BudDyFL (button) folded before Flop (didn't bet)
+Seat 9: kdwan (small blind) folded before Flop
+
+
+
+Betfair Hand #262458243701: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/20 18:56:24 CUST [2026/10/20 13:56:24 ET]
+Table '4041177272 1' 9-max Seat #9 is the button
+Seat 2: bullets685 (3288 in chips) 
+Seat 3: gabamauri (2371 in chips) 
+Seat 4: CADILLACJET (1448 in chips) 
+Seat 5: tw superfoot (1994 in chips) 
+Seat 6: kilometerObrien (1601 in chips) 
+Seat 8: BudDyFL (1901 in chips) 
+Seat 9: kdwan (897 in chips) 
+bullets685: posts the ante 10
+gabamauri: posts the ante 10
+CADILLACJET: posts the ante 10
+tw superfoot: posts the ante 10
+kilometerObrien: posts the ante 10
+BudDyFL: posts the ante 10
+kdwan: posts the ante 10
+bullets685: posts small blind 40
+gabamauri: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [5h 8s]
+CADILLACJET: folds 
+tw superfoot: folds 
+kilometerObrien: folds 
+BudDyFL: folds 
+kdwan: folds 
+bullets685: raises 120 to 200
+gabamauri: folds 
+Uncalled bet (120) returned to bullets685
+bullets685 collected 230 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Seat 2: bullets685 (small blind) collected (230)
+Seat 3: gabamauri (big blind) folded before Flop
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot folded before Flop (didn't bet)
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458246788: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/20 18:56:48 CUST [2026/10/20 13:56:48 ET]
+Table '4041177272 1' 9-max Seat #2 is the button
+Seat 2: bullets685 (3428 in chips) 
+Seat 3: gabamauri (2281 in chips) 
+Seat 4: CADILLACJET (1438 in chips) 
+Seat 5: tw superfoot (1984 in chips) 
+Seat 6: kilometerObrien (1591 in chips) 
+Seat 8: BudDyFL (1891 in chips) 
+Seat 9: kdwan (887 in chips) 
+bullets685: posts the ante 10
+gabamauri: posts the ante 10
+CADILLACJET: posts the ante 10
+tw superfoot: posts the ante 10
+kilometerObrien: posts the ante 10
+BudDyFL: posts the ante 10
+kdwan: posts the ante 10
+gabamauri: posts small blind 40
+CADILLACJET: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Jd Ts]
+tw superfoot: folds 
+kilometerObrien: raises 160 to 240
+BudDyFL: folds 
+kdwan: folds 
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: folds 
+Uncalled bet (160) returned to kilometerObrien
+kilometerObrien collected 270 from pot
+kilometerObrien: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 2: bullets685 (button) folded before Flop (didn't bet)
+Seat 3: gabamauri (small blind) folded before Flop
+Seat 4: CADILLACJET (big blind) folded before Flop
+Seat 5: tw superfoot folded before Flop (didn't bet)
+Seat 6: kilometerObrien collected (270)
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458249288: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/20 18:57:08 CUST [2026/10/20 13:57:08 ET]
+Table '4041177272 1' 9-max Seat #3 is the button
+Seat 2: bullets685 (3418 in chips) 
+Seat 3: gabamauri (2231 in chips) 
+Seat 4: CADILLACJET (1348 in chips) 
+Seat 5: tw superfoot (1974 in chips) 
+Seat 6: kilometerObrien (1771 in chips) 
+Seat 8: BudDyFL (1881 in chips) 
+Seat 9: kdwan (877 in chips) 
+bullets685: posts the ante 10
+gabamauri: posts the ante 10
+CADILLACJET: posts the ante 10
+tw superfoot: posts the ante 10
+kilometerObrien: posts the ante 10
+BudDyFL: posts the ante 10
+kdwan: posts the ante 10
+CADILLACJET: posts small blind 40
+tw superfoot: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [6s 5h]
+kilometerObrien: folds 
+BudDyFL: folds 
+kdwan: folds 
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: folds 
+Uncalled bet (40) returned to tw superfoot
+tw superfoot collected 150 from pot
+tw superfoot: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri (button) folded before Flop (didn't bet)
+Seat 4: CADILLACJET (small blind) folded before Flop
+Seat 5: tw superfoot (big blind) collected (150)
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458251966: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/20 18:57:28 CUST [2026/10/20 13:57:28 ET]
+Table '4041177272 1' 9-max Seat #4 is the button
+Seat 2: bullets685 (3408 in chips) 
+Seat 3: gabamauri (2221 in chips) 
+Seat 4: CADILLACJET (1298 in chips) 
+Seat 5: tw superfoot (2074 in chips) 
+Seat 6: kilometerObrien (1761 in chips) 
+Seat 8: BudDyFL (1871 in chips) 
+Seat 9: kdwan (867 in chips) 
+bullets685: posts the ante 10
+gabamauri: posts the ante 10
+CADILLACJET: posts the ante 10
+tw superfoot: posts the ante 10
+kilometerObrien: posts the ante 10
+BudDyFL: posts the ante 10
+kdwan: posts the ante 10
+tw superfoot: posts small blind 40
+kilometerObrien: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [2d 9s]
+BudDyFL: raises 80 to 160
+kdwan: folds 
+bullets685: folds 
+gabamauri: calls 160
+CADILLACJET: folds 
+tw superfoot: folds 
+kilometerObrien: folds 
+*** FLOP *** [7h Th Jd]
+BudDyFL: bets 168
+gabamauri: folds 
+Uncalled bet (168) returned to BudDyFL
+BudDyFL collected 510 from pot
+BudDyFL: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [7h Th Jd]
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri folded on the Flop
+Seat 4: CADILLACJET (button) folded before Flop (didn't bet)
+Seat 5: tw superfoot (small blind) folded before Flop
+Seat 6: kilometerObrien (big blind) folded before Flop
+Seat 8: BudDyFL collected (510)
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458257838: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/20 18:58:15 CUST [2026/10/20 13:58:15 ET]
+Table '4041177272 1' 9-max Seat #5 is the button
+Seat 2: bullets685 (3398 in chips) 
+Seat 3: gabamauri (2051 in chips) 
+Seat 4: CADILLACJET (1288 in chips) 
+Seat 5: tw superfoot (2024 in chips) 
+Seat 6: kilometerObrien (1671 in chips) 
+Seat 8: BudDyFL (2211 in chips) 
+Seat 9: kdwan (857 in chips) 
+bullets685: posts the ante 10
+gabamauri: posts the ante 10
+CADILLACJET: posts the ante 10
+tw superfoot: posts the ante 10
+kilometerObrien: posts the ante 10
+BudDyFL: posts the ante 10
+kdwan: posts the ante 10
+kilometerObrien: posts small blind 40
+BudDyFL: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [8d 7h]
+kdwan: folds 
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: raises 80 to 160
+tw superfoot: raises 160 to 320
+kilometerObrien: folds 
+BudDyFL: folds 
+CADILLACJET: folds 
+Uncalled bet (160) returned to tw superfoot
+tw superfoot collected 510 from pot
+tw superfoot: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET folded before Flop
+Seat 5: tw superfoot (button) collected (510)
+Seat 6: kilometerObrien (small blind) folded before Flop
+Seat 8: BudDyFL (big blind) folded before Flop
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458262089: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/20 18:58:48 CUST [2026/10/20 13:58:48 ET]
+Table '4041177272 1' 9-max Seat #6 is the button
+Seat 2: bullets685 (3388 in chips) 
+Seat 3: gabamauri (2041 in chips) 
+Seat 4: CADILLACJET (1118 in chips) 
+Seat 5: tw superfoot (2364 in chips) 
+Seat 6: kilometerObrien (1621 in chips) 
+Seat 8: BudDyFL (2121 in chips) 
+Seat 9: kdwan (847 in chips) 
+bullets685: posts the ante 10
+gabamauri: posts the ante 10
+CADILLACJET: posts the ante 10
+tw superfoot: posts the ante 10
+kilometerObrien: posts the ante 10
+BudDyFL: posts the ante 10
+kdwan: posts the ante 10
+BudDyFL: posts small blind 40
+kdwan: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [2c 8d]
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: folds 
+tw superfoot: folds 
+kilometerObrien: folds 
+BudDyFL: folds 
+Uncalled bet (40) returned to kdwan
+kdwan collected 150 from pot
+kdwan: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot folded before Flop (didn't bet)
+Seat 6: kilometerObrien (button) folded before Flop (didn't bet)
+Seat 8: BudDyFL (small blind) folded before Flop
+Seat 9: kdwan (big blind) collected (150)
+
+
+
+Betfair Hand #262458266986: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/20 18:59:25 CUST [2026/10/20 13:59:25 ET]
+Table '4041177272 1' 9-max Seat #8 is the button
+Seat 2: bullets685 (3378 in chips) 
+Seat 3: gabamauri (2031 in chips) 
+Seat 4: CADILLACJET (1108 in chips) 
+Seat 5: tw superfoot (2354 in chips) 
+Seat 6: kilometerObrien (1611 in chips) 
+Seat 8: BudDyFL (2071 in chips) 
+Seat 9: kdwan (947 in chips) 
+bullets685: posts the ante 10
+gabamauri: posts the ante 10
+CADILLACJET: posts the ante 10
+tw superfoot: posts the ante 10
+kilometerObrien: posts the ante 10
+BudDyFL: posts the ante 10
+kdwan: posts the ante 10
+kdwan: posts small blind 40
+bullets685: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [7h 7s]
+gabamauri: folds 
+CADILLACJET: folds 
+tw superfoot: folds 
+kilometerObrien: raises 160 to 240
+BudDyFL: folds 
+kdwan: folds 
+bullets685: calls 160
+*** FLOP *** [Qs Kh 2d]
+bullets685: checks 
+kilometerObrien: bets 295
+bullets685: folds 
+Uncalled bet (295) returned to kilometerObrien
+kilometerObrien collected 590 from pot
+kilometerObrien: doesn't show hand 
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [Qs Kh 2d]
+Seat 2: bullets685 (big blind) folded on the Flop
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot folded before Flop (didn't bet)
+Seat 6: kilometerObrien collected (590)
+Seat 8: BudDyFL (button) folded before Flop (didn't bet)
+Seat 9: kdwan (small blind) folded before Flop
+
+
+
+Betfair Hand #262458270580: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/20 18:59:54 CUST [2026/10/20 13:59:54 ET]
+Table '4041177272 1' 9-max Seat #9 is the button
+Seat 2: bullets685 (3128 in chips) 
+Seat 3: gabamauri (2021 in chips) 
+Seat 4: CADILLACJET (1098 in chips) 
+Seat 5: tw superfoot (2344 in chips) 
+Seat 6: kilometerObrien (1951 in chips) 
+Seat 8: BudDyFL (2061 in chips) 
+Seat 9: kdwan (897 in chips) 
+bullets685: posts the ante 10
+gabamauri: posts the ante 10
+CADILLACJET: posts the ante 10
+tw superfoot: posts the ante 10
+kilometerObrien: posts the ante 10
+BudDyFL: posts the ante 10
+kdwan: posts the ante 10
+bullets685: posts small blind 40
+gabamauri: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [7h Kd]
+CADILLACJET: folds 
+tw superfoot: folds 
+kilometerObrien: folds 
+BudDyFL: folds 
+kdwan: raises 807 to 887 and is all-in
+bullets685: folds 
+gabamauri: folds 
+Uncalled bet (807) returned to kdwan
+kdwan collected 270 from pot
+kdwan: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 2: bullets685 (small blind) folded before Flop
+Seat 3: gabamauri (big blind) folded before Flop
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot folded before Flop (didn't bet)
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan (button) collected (270)
+
+
+
+Betfair Hand #262458275550: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/20 19:00:30 CUST [2026/10/20 14:00:30 ET]
+Table '4041177272 1' 9-max Seat #2 is the button
+Seat 2: bullets685 (3078 in chips) 
+Seat 3: gabamauri (1931 in chips) 
+Seat 4: CADILLACJET (1088 in chips) 
+Seat 5: tw superfoot (2334 in chips) 
+Seat 6: kilometerObrien (1941 in chips) 
+Seat 8: BudDyFL (2051 in chips) 
+Seat 9: kdwan (1077 in chips) 
+bullets685: posts the ante 15
+gabamauri: posts the ante 15
+CADILLACJET: posts the ante 15
+tw superfoot: posts the ante 15
+kilometerObrien: posts the ante 15
+BudDyFL: posts the ante 15
+kdwan: posts the ante 15
+gabamauri: posts small blind 60
+CADILLACJET: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 3s]
+tw superfoot: folds 
+kilometerObrien: calls 120
+BudDyFL: folds 
+kdwan: folds 
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: checks 
+*** FLOP *** [5d 6s Ts]
+CADILLACJET: checks 
+kilometerObrien: checks 
+*** TURN *** [5d 6s Ts] [5s]
+CADILLACJET: checks 
+kilometerObrien: checks 
+*** RIVER *** [5d 6s Ts 5s] [Ac]
+CADILLACJET: checks 
+kilometerObrien: bets 1806 and is all-in
+CADILLACJET: folds 
+Uncalled bet (1806) returned to kilometerObrien
+kilometerObrien collected 405 from pot
+kilometerObrien: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Board [5d 6s Ts 5s Ac]
+Seat 2: bullets685 (button) folded before Flop (didn't bet)
+Seat 3: gabamauri (small blind) folded before Flop
+Seat 4: CADILLACJET (big blind) folded on the River
+Seat 5: tw superfoot folded before Flop (didn't bet)
+Seat 6: kilometerObrien collected (405)
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458284706: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/20 19:01:29 CUST [2026/10/20 14:01:29 ET]
+Table '4041177272 1' 9-max Seat #3 is the button
+Seat 2: bullets685 (3063 in chips) 
+Seat 3: gabamauri (1856 in chips) 
+Seat 4: CADILLACJET (953 in chips) 
+Seat 5: tw superfoot (2319 in chips) 
+Seat 6: kilometerObrien (2211 in chips) 
+Seat 8: BudDyFL (2036 in chips) 
+Seat 9: kdwan (1062 in chips) 
+bullets685: posts the ante 15
+gabamauri: posts the ante 15
+CADILLACJET: posts the ante 15
+tw superfoot: posts the ante 15
+kilometerObrien: posts the ante 15
+BudDyFL: posts the ante 15
+kdwan: posts the ante 15
+CADILLACJET: posts small blind 60
+tw superfoot: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [8h 9h]
+kilometerObrien: folds 
+BudDyFL: folds 
+kdwan: folds 
+bullets685: raises 120 to 240
+gabamauri: folds 
+CADILLACJET: raises 698 to 938 and is all-in
+tw superfoot: folds 
+bullets685: folds 
+Uncalled bet (698) returned to CADILLACJET
+CADILLACJET collected 705 from pot
+CADILLACJET: doesn't show hand 
+*** SUMMARY ***
+Total pot 705 | Rake 0 
+Seat 2: bullets685 folded before Flop
+Seat 3: gabamauri (button) folded before Flop (didn't bet)
+Seat 4: CADILLACJET (small blind) collected (705)
+Seat 5: tw superfoot (big blind) folded before Flop
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458289737: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/20 19:01:58 CUST [2026/10/20 14:01:58 ET]
+Table '4041177272 1' 9-max Seat #4 is the button
+Seat 2: bullets685 (2808 in chips) 
+Seat 3: gabamauri (1841 in chips) 
+Seat 4: CADILLACJET (1403 in chips) 
+Seat 5: tw superfoot (2184 in chips) 
+Seat 6: kilometerObrien (2196 in chips) 
+Seat 8: BudDyFL (2021 in chips) 
+Seat 9: kdwan (1047 in chips) 
+bullets685: posts the ante 15
+gabamauri: posts the ante 15
+CADILLACJET: posts the ante 15
+tw superfoot: posts the ante 15
+kilometerObrien: posts the ante 15
+BudDyFL: posts the ante 15
+kdwan: posts the ante 15
+tw superfoot: posts small blind 60
+kilometerObrien: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts 3s]
+BudDyFL: raises 120 to 240
+kdwan: folds 
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: folds 
+tw superfoot: folds 
+kilometerObrien: calls 120
+*** FLOP *** [5s 7c 4s]
+kilometerObrien: checks 
+BudDyFL: checks 
+*** TURN *** [5s 7c 4s] [9s]
+kilometerObrien: checks 
+BudDyFL: checks 
+*** RIVER *** [5s 7c 4s 9s] [8d]
+kilometerObrien: checks 
+BudDyFL: checks 
+*** SHOW DOWN ***
+kilometerObrien: shows [Qh 2d] (high card Queen)
+BudDyFL: shows [Kd Ac] (high card Ace)
+BudDyFL collected 645 from pot
+*** SUMMARY ***
+Total pot 645 | Rake 0 
+Board [5s 7c 4s 9s 8d]
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET (button) folded before Flop (didn't bet)
+Seat 5: tw superfoot (small blind) folded before Flop
+Seat 6: kilometerObrien (big blind) showed [Qh 2d] and lost with high card Queen
+Seat 8: BudDyFL showed [Kd Ac] and won (645) with high card Ace
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458299038: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/20 19:02:49 CUST [2026/10/20 14:02:49 ET]
+Table '4041177272 1' 9-max Seat #5 is the button
+Seat 2: bullets685 (2793 in chips) 
+Seat 3: gabamauri (1826 in chips) 
+Seat 4: CADILLACJET (1388 in chips) 
+Seat 5: tw superfoot (2109 in chips) 
+Seat 6: kilometerObrien (1941 in chips) 
+Seat 8: BudDyFL (2411 in chips) 
+Seat 9: kdwan (1032 in chips) 
+bullets685: posts the ante 15
+gabamauri: posts the ante 15
+CADILLACJET: posts the ante 15
+tw superfoot: posts the ante 15
+kilometerObrien: posts the ante 15
+BudDyFL: posts the ante 15
+kdwan: posts the ante 15
+kilometerObrien: posts small blind 60
+BudDyFL: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks Kh]
+kdwan: folds 
+bullets685: raises 120 to 240
+gabamauri: folds 
+CADILLACJET: folds 
+tw superfoot: folds 
+kilometerObrien: folds 
+BudDyFL: folds 
+Uncalled bet (120) returned to bullets685
+bullets685 collected 405 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 2: bullets685 collected (405)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot (button) folded before Flop (didn't bet)
+Seat 6: kilometerObrien (small blind) folded before Flop
+Seat 8: BudDyFL (big blind) folded before Flop
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458303268: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/20 19:03:12 CUST [2026/10/20 14:03:12 ET]
+Table '4041177272 1' 9-max Seat #6 is the button
+Seat 2: bullets685 (3063 in chips) 
+Seat 3: gabamauri (1811 in chips) 
+Seat 4: CADILLACJET (1373 in chips) 
+Seat 5: tw superfoot (2094 in chips) 
+Seat 6: kilometerObrien (1866 in chips) 
+Seat 8: BudDyFL (2276 in chips) 
+Seat 9: kdwan (1017 in chips) 
+bullets685: posts the ante 15
+gabamauri: posts the ante 15
+CADILLACJET: posts the ante 15
+tw superfoot: posts the ante 15
+kilometerObrien: posts the ante 15
+BudDyFL: posts the ante 15
+kdwan: posts the ante 15
+BudDyFL: posts small blind 60
+kdwan: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [As 5d]
+bullets685: folds 
+gabamauri: raises 1676 to 1796 and is all-in
+CADILLACJET: folds 
+tw superfoot: folds 
+kilometerObrien: folds 
+BudDyFL: folds 
+kdwan: folds 
+Uncalled bet (1676) returned to gabamauri
+gabamauri collected 405 from pot
+gabamauri: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri collected (405)
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot folded before Flop (didn't bet)
+Seat 6: kilometerObrien (button) folded before Flop (didn't bet)
+Seat 8: BudDyFL (small blind) folded before Flop
+Seat 9: kdwan (big blind) folded before Flop
+
+
+
+Betfair Hand #262458308628: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/20 19:03:42 CUST [2026/10/20 14:03:42 ET]
+Table '4041177272 1' 9-max Seat #8 is the button
+Seat 2: bullets685 (3048 in chips) 
+Seat 3: gabamauri (2081 in chips) 
+Seat 4: CADILLACJET (1358 in chips) 
+Seat 5: tw superfoot (2079 in chips) 
+Seat 6: kilometerObrien (1851 in chips) 
+Seat 8: BudDyFL (2201 in chips) 
+Seat 9: kdwan (882 in chips) 
+bullets685: posts the ante 15
+gabamauri: posts the ante 15
+CADILLACJET: posts the ante 15
+tw superfoot: posts the ante 15
+kilometerObrien: posts the ante 15
+BudDyFL: posts the ante 15
+kdwan: posts the ante 15
+kdwan: posts small blind 60
+bullets685: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [2c 8h]
+gabamauri: folds 
+CADILLACJET: folds 
+tw superfoot: raises 120 to 240
+kilometerObrien: folds 
+BudDyFL: folds 
+kdwan: folds 
+bullets685: folds 
+Uncalled bet (120) returned to tw superfoot
+tw superfoot collected 405 from pot
+tw superfoot: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 2: bullets685 (big blind) folded before Flop
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot collected (405)
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL (button) folded before Flop (didn't bet)
+Seat 9: kdwan (small blind) folded before Flop
+
+
+
+Betfair Hand #262458312802: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/20 19:04:05 CUST [2026/10/20 14:04:05 ET]
+Table '4041177272 1' 9-max Seat #9 is the button
+Seat 2: bullets685 (2913 in chips) 
+Seat 3: gabamauri (2066 in chips) 
+Seat 4: CADILLACJET (1343 in chips) 
+Seat 5: tw superfoot (2349 in chips) 
+Seat 6: kilometerObrien (1836 in chips) 
+Seat 8: BudDyFL (2186 in chips) 
+Seat 9: kdwan (807 in chips) 
+bullets685: posts the ante 15
+gabamauri: posts the ante 15
+CADILLACJET: posts the ante 15
+tw superfoot: posts the ante 15
+kilometerObrien: posts the ante 15
+BudDyFL: posts the ante 15
+kdwan: posts the ante 15
+bullets685: posts small blind 60
+gabamauri: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [As 5h]
+CADILLACJET: folds 
+tw superfoot: calls 120
+kilometerObrien: folds 
+BudDyFL: folds 
+kdwan: folds 
+bullets685: calls 60
+gabamauri: checks 
+*** FLOP *** [8c 7c Jd]
+bullets685: checks 
+gabamauri: checks 
+tw superfoot: bets 233
+bullets685: folds 
+gabamauri: folds 
+Uncalled bet (233) returned to tw superfoot
+tw superfoot collected 465 from pot
+tw superfoot: doesn't show hand 
+*** SUMMARY ***
+Total pot 465 | Rake 0 
+Board [8c 7c Jd]
+Seat 2: bullets685 (small blind) folded on the Flop
+Seat 3: gabamauri (big blind) folded on the Flop
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot collected (465)
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458323601: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/20 19:05:03 CUST [2026/10/20 14:05:03 ET]
+Table '4041177272 1' 9-max Seat #2 is the button
+Seat 2: bullets685 (2778 in chips) 
+Seat 3: gabamauri (1931 in chips) 
+Seat 4: CADILLACJET (1328 in chips) 
+Seat 5: tw superfoot (2679 in chips) 
+Seat 6: kilometerObrien (1821 in chips) 
+Seat 8: BudDyFL (2171 in chips) 
+Seat 9: kdwan (792 in chips) 
+bullets685: posts the ante 15
+gabamauri: posts the ante 15
+CADILLACJET: posts the ante 15
+tw superfoot: posts the ante 15
+kilometerObrien: posts the ante 15
+BudDyFL: posts the ante 15
+kdwan: posts the ante 15
+gabamauri: posts small blind 60
+CADILLACJET: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Js Qd]
+tw superfoot: raises 120 to 240
+kilometerObrien: folds 
+BudDyFL: folds 
+kdwan: folds 
+bullets685: calls 240
+gabamauri: folds 
+CADILLACJET: folds 
+*** FLOP *** [3c 8s 8h]
+tw superfoot: bets 360
+bullets685: calls 360
+*** TURN *** [3c 8s 8h] [6s]
+tw superfoot: checks 
+bullets685: checks 
+*** RIVER *** [3c 8s 8h 6s] [Jh]
+tw superfoot: bets 383
+bullets685: calls 383
+*** SHOW DOWN ***
+tw superfoot: shows [Ts Ad] (a pair of Eights)
+bullets685: shows [Js Qd] (two pair, Jacks and Eights)
+bullets685 collected 2251 from pot
+*** SUMMARY ***
+Total pot 2251 | Rake 0 
+Board [3c 8s 8h 6s Jh]
+Seat 2: bullets685 (button) showed [Js Qd] and won (2251) with two pair, Jacks and Eights
+Seat 3: gabamauri (small blind) folded before Flop
+Seat 4: CADILLACJET (big blind) folded before Flop
+Seat 5: tw superfoot showed [Ts Ad] and lost with a pair of Eights
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458335696: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/20 19:06:10 CUST [2026/10/20 14:06:10 ET]
+Table '4041177272 1' 9-max Seat #3 is the button
+Seat 2: bullets685 (4031 in chips) 
+Seat 3: gabamauri (1856 in chips) 
+Seat 4: CADILLACJET (1193 in chips) 
+Seat 5: tw superfoot (1681 in chips) 
+Seat 6: kilometerObrien (1806 in chips) 
+Seat 8: BudDyFL (2156 in chips) 
+Seat 9: kdwan (777 in chips) 
+bullets685: posts the ante 20
+gabamauri: posts the ante 20
+CADILLACJET: posts the ante 20
+tw superfoot: posts the ante 20
+kilometerObrien: posts the ante 20
+BudDyFL: posts the ante 20
+kdwan: posts the ante 20
+CADILLACJET: posts small blind 80
+tw superfoot: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Kc Th]
+kilometerObrien: raises 320 to 480
+BudDyFL: folds 
+kdwan: folds 
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: folds 
+tw superfoot: folds 
+Uncalled bet (320) returned to kilometerObrien
+kilometerObrien collected 540 from pot
+kilometerObrien: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri (button) folded before Flop (didn't bet)
+Seat 4: CADILLACJET (small blind) folded before Flop
+Seat 5: tw superfoot (big blind) folded before Flop
+Seat 6: kilometerObrien collected (540)
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458339802: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/20 19:06:33 CUST [2026/10/20 14:06:33 ET]
+Table '4041177272 1' 9-max Seat #4 is the button
+Seat 2: bullets685 (4011 in chips) 
+Seat 3: gabamauri (1836 in chips) 
+Seat 4: CADILLACJET (1093 in chips) 
+Seat 5: tw superfoot (1501 in chips) 
+Seat 6: kilometerObrien (2166 in chips) 
+Seat 8: BudDyFL (2136 in chips) 
+Seat 9: kdwan (757 in chips) 
+bullets685: posts the ante 20
+gabamauri: posts the ante 20
+CADILLACJET: posts the ante 20
+tw superfoot: posts the ante 20
+kilometerObrien: posts the ante 20
+BudDyFL: posts the ante 20
+kdwan: posts the ante 20
+tw superfoot: posts small blind 80
+kilometerObrien: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah Kc]
+BudDyFL: folds 
+kdwan: folds 
+bullets685: raises 160 to 320
+gabamauri: folds 
+CADILLACJET: folds 
+tw superfoot: folds 
+kilometerObrien: folds 
+Uncalled bet (160) returned to bullets685
+bullets685 collected 540 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Seat 2: bullets685 collected (540)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET (button) folded before Flop (didn't bet)
+Seat 5: tw superfoot (small blind) folded before Flop
+Seat 6: kilometerObrien (big blind) folded before Flop
+Seat 8: BudDyFL folded before Flop (didn't bet)
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458343356: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/20 19:06:53 CUST [2026/10/20 14:06:53 ET]
+Table '4041177272 1' 9-max Seat #5 is the button
+Seat 2: bullets685 (4371 in chips) 
+Seat 3: gabamauri (1816 in chips) 
+Seat 4: CADILLACJET (1073 in chips) 
+Seat 5: tw superfoot (1401 in chips) 
+Seat 6: kilometerObrien (1986 in chips) 
+Seat 8: BudDyFL (2116 in chips) 
+Seat 9: kdwan (737 in chips) 
+bullets685: posts the ante 20
+gabamauri: posts the ante 20
+CADILLACJET: posts the ante 20
+tw superfoot: posts the ante 20
+kilometerObrien: posts the ante 20
+BudDyFL: posts the ante 20
+kdwan: posts the ante 20
+kilometerObrien: posts small blind 80
+BudDyFL: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [8c 6h]
+kdwan: folds 
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: folds 
+tw superfoot: raises 1221 to 1381 and is all-in
+kilometerObrien: folds 
+BudDyFL: calls 1221
+*** FLOP *** [5c 3c 2h]
+*** TURN *** [5c 3c 2h] [9h]
+*** RIVER *** [5c 3c 2h 9h] [Qc]
+*** SHOW DOWN ***
+BudDyFL: shows [9c Kc] (a flush, King high)
+tw superfoot: shows [As 2d] (a pair of Deuces)
+BudDyFL collected 2982 from pot
+tw superfoot finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 2982 | Rake 0 
+Board [5c 3c 2h 9h Qc]
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 5: tw superfoot (button) showed [As 2d] and lost with a pair of Deuces
+Seat 6: kilometerObrien (small blind) folded before Flop
+Seat 8: BudDyFL (big blind) showed [9c Kc] and won (2982) with a flush, King high
+Seat 9: kdwan folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458350927: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/20 19:07:36 CUST [2026/10/20 14:07:36 ET]
+Table '4041177272 1' 9-max Seat #6 is the button
+Seat 2: bullets685 (4351 in chips) 
+Seat 3: gabamauri (1796 in chips) 
+Seat 4: CADILLACJET (1053 in chips) 
+Seat 6: kilometerObrien (1886 in chips) 
+Seat 8: BudDyFL (3697 in chips) 
+Seat 9: kdwan (717 in chips) 
+bullets685: posts the ante 20
+gabamauri: posts the ante 20
+CADILLACJET: posts the ante 20
+kilometerObrien: posts the ante 20
+BudDyFL: posts the ante 20
+kdwan: posts the ante 20
+BudDyFL: posts small blind 80
+kdwan: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc Ts]
+bullets685: raises 240 to 400
+gabamauri: raises 560 to 960
+CADILLACJET: folds 
+kilometerObrien: folds 
+BudDyFL: folds 
+kdwan: folds 
+bullets685: raises 3371 to 4331 and is all-in
+gabamauri: calls 816 and is all-in
+Uncalled bet (2555) returned to bullets685
+*** FLOP *** [Ah 3d 9s]
+*** TURN *** [Ah 3d 9s] [Ad]
+*** RIVER *** [Ah 3d 9s Ad] [Kc]
+*** SHOW DOWN ***
+bullets685: shows [Tc Ts] (two pair, Aces and Tens)
+gabamauri: shows [As Ac] (four of a kind, Aces)
+gabamauri collected 3912 from pot
+*** SUMMARY ***
+Total pot 3912 | Rake 0 
+Board [Ah 3d 9s Ad Kc]
+Seat 2: bullets685 showed [Tc Ts] and lost with two pair, Aces and Tens
+Seat 3: gabamauri showed [As Ac] and won (3912) with four of a kind, Aces
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 6: kilometerObrien (button) folded before Flop (didn't bet)
+Seat 8: BudDyFL (small blind) folded before Flop
+Seat 9: kdwan (big blind) folded before Flop
+
+
+
+Betfair Hand #262458358225: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/20 19:08:16 CUST [2026/10/20 14:08:16 ET]
+Table '4041177272 1' 9-max Seat #8 is the button
+Seat 2: bullets685 (2555 in chips) 
+Seat 3: gabamauri (3912 in chips) 
+Seat 4: CADILLACJET (1033 in chips) 
+Seat 6: kilometerObrien (1866 in chips) 
+Seat 8: BudDyFL (3597 in chips) 
+Seat 9: kdwan (537 in chips) 
+bullets685: posts the ante 20
+gabamauri: posts the ante 20
+CADILLACJET: posts the ante 20
+kilometerObrien: posts the ante 20
+BudDyFL: posts the ante 20
+kdwan: posts the ante 20
+kdwan: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [5h 8c]
+gabamauri: folds 
+CADILLACJET: raises 853 to 1013 and is all-in
+kilometerObrien: folds 
+BudDyFL: folds 
+kdwan: calls 437 and is all-in
+bullets685: folds 
+Uncalled bet (496) returned to CADILLACJET
+*** FLOP *** [Qd 7d 2h]
+*** TURN *** [Qd 7d 2h] [Ts]
+*** RIVER *** [Qd 7d 2h Ts] [9d]
+*** SHOW DOWN ***
+kdwan: shows [Ac 5d] (high card Ace)
+CADILLACJET: shows [Jd Qs] (a pair of Queens)
+CADILLACJET collected 1314 from pot
+kdwan finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1314 | Rake 0 
+Board [Qd 7d 2h Ts 9d]
+Seat 2: bullets685 (big blind) folded before Flop
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET showed [Jd Qs] and won (1314) with a pair of Queens
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL (button) folded before Flop (didn't bet)
+Seat 9: kdwan (small blind) showed [Ac 5d] and lost with high card Ace
+
+
+
+Betfair Hand #262458363697: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/20 19:08:47 CUST [2026/10/20 14:08:47 ET]
+Table '4041177272 1' 9-max Seat #2 is the button
+Seat 2: bullets685 (2375 in chips) 
+Seat 3: gabamauri (3892 in chips) 
+Seat 4: CADILLACJET (1810 in chips) 
+Seat 6: kilometerObrien (1846 in chips) 
+Seat 8: BudDyFL (3577 in chips) 
+bullets685: posts the ante 20
+gabamauri: posts the ante 20
+CADILLACJET: posts the ante 20
+kilometerObrien: posts the ante 20
+BudDyFL: posts the ante 20
+gabamauri: posts small blind 80
+CADILLACJET: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [2d 9h]
+kilometerObrien: folds 
+BudDyFL has timed out
+BudDyFL: folds 
+BudDyFL is sitting out
+bullets685: folds 
+BudDyFL has returned
+gabamauri: raises 3712 to 3872 and is all-in
+CADILLACJET: calls 1630 and is all-in
+Uncalled bet (2082) returned to gabamauri
+*** FLOP *** [2c Jd 7s]
+*** TURN *** [2c Jd 7s] [2s]
+*** RIVER *** [2c Jd 7s 2s] [Kh]
+*** SHOW DOWN ***
+gabamauri: shows [Ah 5h] (a pair of Deuces)
+CADILLACJET: shows [As 6s] (a pair of Deuces)
+gabamauri collected 1840 from pot
+CADILLACJET collected 1840 from pot
+*** SUMMARY ***
+Total pot 3680 | Rake 0 
+Board [2c Jd 7s 2s Kh]
+Seat 2: bullets685 (button) folded before Flop (didn't bet)
+Seat 3: gabamauri (small blind) showed [Ah 5h] and won (1840) with a pair of Deuces
+Seat 4: CADILLACJET (big blind) showed [As 6s] and won (1840) with a pair of Deuces
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458370181: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/20 19:09:24 CUST [2026/10/20 14:09:24 ET]
+Table '4041177272 1' 9-max Seat #3 is the button
+Seat 2: bullets685 (2355 in chips) 
+Seat 3: gabamauri (3922 in chips) 
+Seat 4: CADILLACJET (1840 in chips) 
+Seat 6: kilometerObrien (1826 in chips) 
+Seat 8: BudDyFL (3557 in chips) 
+bullets685: posts the ante 20
+gabamauri: posts the ante 20
+CADILLACJET: posts the ante 20
+kilometerObrien: posts the ante 20
+BudDyFL: posts the ante 20
+CADILLACJET: posts small blind 80
+kilometerObrien: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [5c 8s]
+BudDyFL: raises 160 to 320
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: folds 
+kilometerObrien: folds 
+Uncalled bet (160) returned to BudDyFL
+BudDyFL collected 500 from pot
+BudDyFL: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri (button) folded before Flop (didn't bet)
+Seat 4: CADILLACJET (small blind) folded before Flop
+Seat 6: kilometerObrien (big blind) folded before Flop
+Seat 8: BudDyFL collected (500)
+
+
+
+Betfair Hand #262458374565: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/20 19:09:48 CUST [2026/10/20 14:09:48 ET]
+Table '4041177272 1' 9-max Seat #4 is the button
+Seat 2: bullets685 (2335 in chips) 
+Seat 3: gabamauri (3902 in chips) 
+Seat 4: CADILLACJET (1740 in chips) 
+Seat 6: kilometerObrien (1646 in chips) 
+Seat 8: BudDyFL (3877 in chips) 
+bullets685: posts the ante 20
+gabamauri: posts the ante 20
+CADILLACJET: posts the ante 20
+kilometerObrien: posts the ante 20
+BudDyFL: posts the ante 20
+kilometerObrien: posts small blind 80
+BudDyFL: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 6c]
+bullets685: calls 160
+gabamauri: folds 
+CADILLACJET: folds 
+kilometerObrien: folds 
+BudDyFL: checks 
+*** FLOP *** [Ac 3c 3s]
+BudDyFL: checks 
+bullets685: bets 320
+BudDyFL: folds 
+Uncalled bet (320) returned to bullets685
+bullets685 collected 500 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [Ac 3c 3s]
+Seat 2: bullets685 collected (500)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET (button) folded before Flop (didn't bet)
+Seat 6: kilometerObrien (small blind) folded before Flop
+Seat 8: BudDyFL (big blind) folded on the Flop
+
+
+
+Betfair Hand #262458382534: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/20 19:10:33 CUST [2026/10/20 14:10:33 ET]
+Table '4041177272 1' 9-max Seat #6 is the button
+Seat 2: bullets685 (2655 in chips) 
+Seat 3: gabamauri (3882 in chips) 
+Seat 4: CADILLACJET (1720 in chips) 
+Seat 6: kilometerObrien (1546 in chips) 
+Seat 8: BudDyFL (3697 in chips) 
+bullets685: posts the ante 25
+gabamauri: posts the ante 25
+CADILLACJET: posts the ante 25
+kilometerObrien: posts the ante 25
+BudDyFL: posts the ante 25
+BudDyFL: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [9d As]
+gabamauri: folds 
+CADILLACJET: folds 
+kilometerObrien: folds 
+BudDyFL: folds 
+Uncalled bet (100) returned to bullets685
+bullets685 collected 325 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Seat 2: bullets685 (big blind) collected (325)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 6: kilometerObrien (button) folded before Flop (didn't bet)
+Seat 8: BudDyFL (small blind) folded before Flop
+
+
+
+Betfair Hand #262458386241: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/20 19:10:53 CUST [2026/10/20 14:10:53 ET]
+Table '4041177272 1' 9-max Seat #8 is the button
+Seat 2: bullets685 (2855 in chips) 
+Seat 3: gabamauri (3857 in chips) 
+Seat 4: CADILLACJET (1695 in chips) 
+Seat 6: kilometerObrien (1521 in chips) 
+Seat 8: BudDyFL (3572 in chips) 
+bullets685: posts the ante 25
+gabamauri: posts the ante 25
+CADILLACJET: posts the ante 25
+kilometerObrien: posts the ante 25
+BudDyFL: posts the ante 25
+bullets685: posts small blind 100
+gabamauri: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 4h]
+CADILLACJET: folds 
+kilometerObrien: folds 
+BudDyFL: folds 
+bullets685: calls 100
+gabamauri: raises 600 to 800
+bullets685: folds 
+Uncalled bet (600) returned to gabamauri
+gabamauri collected 525 from pot
+gabamauri: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 2: bullets685 (small blind) folded before Flop
+Seat 3: gabamauri (big blind) collected (525)
+Seat 4: CADILLACJET folded before Flop (didn't bet)
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458392829: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/20 19:11:29 CUST [2026/10/20 14:11:29 ET]
+Table '4041177272 1' 9-max Seat #2 is the button
+Seat 2: bullets685 (2630 in chips) 
+Seat 3: gabamauri (4157 in chips) 
+Seat 4: CADILLACJET (1670 in chips) 
+Seat 6: kilometerObrien (1496 in chips) 
+Seat 8: BudDyFL (3547 in chips) 
+bullets685: posts the ante 25
+gabamauri: posts the ante 25
+CADILLACJET: posts the ante 25
+kilometerObrien: posts the ante 25
+BudDyFL: posts the ante 25
+gabamauri: posts small blind 100
+CADILLACJET: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [3h 9s]
+kilometerObrien: folds 
+BudDyFL: folds 
+bullets685: folds 
+gabamauri: raises 3932 to 4132 and is all-in
+CADILLACJET: calls 1445 and is all-in
+Uncalled bet (2487) returned to gabamauri
+*** FLOP *** [8d 8s Qs]
+*** TURN *** [8d 8s Qs] [5h]
+*** RIVER *** [8d 8s Qs 5h] [3c]
+*** SHOW DOWN ***
+gabamauri: shows [Th 9h] (a pair of Eights)
+CADILLACJET: shows [8c Ad] (three of a kind, Eights)
+CADILLACJET collected 3415 from pot
+*** SUMMARY ***
+Total pot 3415 | Rake 0 
+Board [8d 8s Qs 5h 3c]
+Seat 2: bullets685 (button) folded before Flop (didn't bet)
+Seat 3: gabamauri (small blind) showed [Th 9h] and lost with a pair of Eights
+Seat 4: CADILLACJET (big blind) showed [8c Ad] and won (3415) with three of a kind, Eights
+Seat 6: kilometerObrien folded before Flop (didn't bet)
+Seat 8: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458397308: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/20 19:11:54 CUST [2026/10/20 14:11:54 ET]
+Table '4041177272 1' 9-max Seat #3 is the button
+Seat 2: bullets685 (2605 in chips) 
+Seat 3: gabamauri (2487 in chips) 
+Seat 4: CADILLACJET (3415 in chips) 
+Seat 6: kilometerObrien (1471 in chips) 
+Seat 8: BudDyFL (3522 in chips) 
+bullets685: posts the ante 25
+gabamauri: posts the ante 25
+CADILLACJET: posts the ante 25
+kilometerObrien: posts the ante 25
+BudDyFL: posts the ante 25
+CADILLACJET: posts small blind 100
+kilometerObrien: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks 8s]
+BudDyFL: folds 
+bullets685: raises 200 to 400
+gabamauri: folds 
+CADILLACJET: folds 
+kilometerObrien: calls 200
+*** FLOP *** [7s 6s 5c]
+kilometerObrien: bets 1025
+bullets685: raises 1155 to 2180 and is all-in
+kilometerObrien: calls 21 and is all-in
+Uncalled bet (1134) returned to bullets685
+*** TURN *** [7s 6s 5c] [Ad]
+*** RIVER *** [7s 6s 5c Ad] [2d]
+*** SHOW DOWN ***
+kilometerObrien: shows [7h Qh] (a pair of Sevens)
+bullets685: shows [Ks 8s] (high card Ace)
+kilometerObrien collected 3117 from pot
+*** SUMMARY ***
+Total pot 3117 | Rake 0 
+Board [7s 6s 5c Ad 2d]
+Seat 2: bullets685 showed [Ks 8s] and lost with high card Ace
+Seat 3: gabamauri (button) folded before Flop (didn't bet)
+Seat 4: CADILLACJET (small blind) folded before Flop
+Seat 6: kilometerObrien (big blind) showed [7h Qh] and won (3117) with a pair of Sevens
+Seat 8: BudDyFL folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262458401880: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/20 19:12:20 CUST [2026/10/20 14:12:20 ET]
+Table '4041177272 1' 9-max Seat #4 is the button
+Seat 2: bullets685 (1134 in chips) 
+Seat 3: gabamauri (2462 in chips) 
+Seat 4: CADILLACJET (3290 in chips) 
+Seat 6: kilometerObrien (3117 in chips) 
+Seat 8: BudDyFL (3497 in chips) 
+bullets685: posts the ante 25
+gabamauri: posts the ante 25
+CADILLACJET: posts the ante 25
+kilometerObrien: posts the ante 25
+BudDyFL: posts the ante 25
+kilometerObrien: posts small blind 100
+BudDyFL: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [9s 3d]
+bullets685: folds 
+gabamauri: folds 
+CADILLACJET: folds 
+kilometerObrien: calls 100
+BudDyFL: checks 
+*** FLOP *** [5c 3s 8d]
+kilometerObrien: checks 
+BudDyFL: bets 200
+kilometerObrien: folds 
+Uncalled bet (200) returned to BudDyFL
+BudDyFL collected 525 from pot
+BudDyFL: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Board [5c 3s 8d]
+Seat 2: bullets685 folded before Flop (didn't bet)
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET (button) folded before Flop (didn't bet)
+Seat 6: kilometerObrien (small blind) folded on the Flop
+Seat 8: BudDyFL (big blind) collected (525)
+
+
+
+Betfair Hand #262458406837: Tournament #4041177272, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/20 19:12:47 CUST [2026/10/20 14:12:47 ET]
+Table '4041177272 1' 9-max Seat #6 is the button
+Seat 2: bullets685 (1109 in chips) 
+Seat 3: gabamauri (2437 in chips) 
+Seat 4: CADILLACJET (3265 in chips) 
+Seat 6: kilometerObrien (2892 in chips) 
+Seat 8: BudDyFL (3797 in chips) 
+bullets685: posts the ante 25
+gabamauri: posts the ante 25
+CADILLACJET: posts the ante 25
+kilometerObrien: posts the ante 25
+BudDyFL: posts the ante 25
+BudDyFL: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Th Ac]
+gabamauri: folds 
+CADILLACJET: raises 200 to 400
+kilometerObrien: folds 
+BudDyFL: folds 
+bullets685: raises 684 to 1084 and is all-in
+CADILLACJET: calls 684
+*** FLOP *** [9d 2s 3s]
+*** TURN *** [9d 2s 3s] [Kd]
+*** RIVER *** [9d 2s 3s Kd] [2d]
+*** SHOW DOWN ***
+bullets685: shows [Th Ac] (a pair of Deuces)
+CADILLACJET: shows [9s 9c] (a full house, Nines full of Deuces)
+CADILLACJET collected 2393 from pot
+bullets685 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 2393 | Rake 0 
+Board [9d 2s 3s Kd 2d]
+Seat 2: bullets685 (big blind) showed [Th Ac] and lost with a pair of Deuces
+Seat 3: gabamauri folded before Flop (didn't bet)
+Seat 4: CADILLACJET showed [9s 9c] and won (2393) with a full house, Nines full of Deuces
+Seat 6: kilometerObrien (button) folded before Flop (didn't bet)
+Seat 8: BudDyFL (small blind) folded before Flop
+
+
+

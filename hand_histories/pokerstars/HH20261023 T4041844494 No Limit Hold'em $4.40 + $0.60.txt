@@ -1,0 +1,3698 @@
+﻿Betfair Hand #262484491058: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/23 12:36:56 CUST [2026/10/23 7:36:56 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (1500 in chips) 
+Seat 2: MaJeTiCs (1500 in chips) 
+Seat 3: chelelo10-4 (1500 in chips) 
+Seat 4: SrPan89 (1500 in chips) 
+Seat 5: Run_it_twyce (1500 in chips) 
+Seat 6: Zebulon_53 (1500 in chips) 
+Seat 7: Ferpagani111 (1500 in chips) 
+Seat 8: Antonfreddy (1500 in chips) 
+Seat 9: demon199548 (1500 in chips) 
+bullets685: posts the ante 3
+MaJeTiCs: posts the ante 3
+chelelo10-4: posts the ante 3
+SrPan89: posts the ante 3
+Run_it_twyce: posts the ante 3
+Zebulon_53: posts the ante 3
+Ferpagani111: posts the ante 3
+Antonfreddy: posts the ante 3
+demon199548: posts the ante 3
+MaJeTiCs: posts small blind 10
+chelelo10-4: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [2c Ac]
+SrPan89: folds 
+Run_it_twyce: folds 
+Zebulon_53: raises 20 to 40
+Ferpagani111 has timed out
+Ferpagani111: folds 
+Ferpagani111 is sitting out
+Antonfreddy: calls 40
+demon199548: folds 
+bullets685: raises 80 to 120
+MaJeTiCs: folds 
+chelelo10-4: folds 
+Zebulon_53: folds 
+Ferpagani111 has returned
+Antonfreddy: raises 80 to 200
+bullets685: calls 80
+*** FLOP *** [4c Ts Qh]
+Antonfreddy: bets 149
+bullets685: calls 149
+*** TURN *** [4c Ts Qh] [Ah]
+Antonfreddy: checks 
+bullets685: bets 398
+Antonfreddy: folds 
+Uncalled bet (398) returned to bullets685
+bullets685 collected 795 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 795 | Rake 0 
+Board [4c Ts Qh Ah]
+Seat 1: bullets685 (button) collected (795)
+Seat 2: MaJeTiCs (small blind) folded before Flop
+Seat 3: chelelo10-4 (big blind) folded before Flop
+Seat 4: SrPan89 folded before Flop (didn't bet)
+Seat 5: Run_it_twyce folded before Flop (didn't bet)
+Seat 6: Zebulon_53 folded before Flop
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy folded on the Turn
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484501383: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/23 12:38:46 CUST [2026/10/23 7:38:46 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (1943 in chips) 
+Seat 2: MaJeTiCs (1487 in chips) 
+Seat 3: chelelo10-4 (1477 in chips) 
+Seat 4: SrPan89 (1497 in chips) 
+Seat 5: Run_it_twyce (1497 in chips) 
+Seat 6: Zebulon_53 (1457 in chips) 
+Seat 7: Ferpagani111 (1497 in chips) 
+Seat 8: Antonfreddy (1148 in chips) 
+Seat 9: demon199548 (1497 in chips) 
+bullets685: posts the ante 3
+MaJeTiCs: posts the ante 3
+chelelo10-4: posts the ante 3
+SrPan89: posts the ante 3
+Run_it_twyce: posts the ante 3
+Zebulon_53: posts the ante 3
+Ferpagani111: posts the ante 3
+Antonfreddy: posts the ante 3
+demon199548: posts the ante 3
+chelelo10-4: posts small blind 10
+SrPan89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [2c Qc]
+Run_it_twyce: folds 
+Zebulon_53: calls 20
+Ferpagani111: raises 80 to 100
+Antonfreddy: folds 
+demon199548: folds 
+bullets685: folds 
+MaJeTiCs: folds 
+chelelo10-4: folds 
+SrPan89: folds 
+Zebulon_53: calls 80
+*** FLOP *** [9c 6c 4s]
+Zebulon_53: bets 20
+Ferpagani111: raises 70 to 90
+Zebulon_53: calls 70
+*** TURN *** [9c 6c 4s] [3c]
+Zebulon_53: bets 20
+Ferpagani111: folds 
+Uncalled bet (20) returned to Zebulon_53
+Zebulon_53 collected 437 from pot
+*** SUMMARY ***
+Total pot 437 | Rake 0 
+Board [9c 6c 4s 3c]
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs (button) folded before Flop (didn't bet)
+Seat 3: chelelo10-4 (small blind) folded before Flop
+Seat 4: SrPan89 (big blind) folded before Flop
+Seat 5: Run_it_twyce folded before Flop (didn't bet)
+Seat 6: Zebulon_53 collected (437)
+Seat 7: Ferpagani111 folded on the Turn
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484505422: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/23 12:39:30 CUST [2026/10/23 7:39:30 ET]
+Table '4041844494 1' 9-max Seat #3 is the button
+Seat 1: bullets685 (1940 in chips) 
+Seat 2: MaJeTiCs (1484 in chips) 
+Seat 3: chelelo10-4 (1464 in chips) 
+Seat 4: SrPan89 (1474 in chips) 
+Seat 5: Run_it_twyce (1494 in chips) 
+Seat 6: Zebulon_53 (1701 in chips) 
+Seat 7: Ferpagani111 (1304 in chips) 
+Seat 8: Antonfreddy (1145 in chips) 
+Seat 9: demon199548 (1494 in chips) 
+bullets685: posts the ante 3
+MaJeTiCs: posts the ante 3
+chelelo10-4: posts the ante 3
+SrPan89: posts the ante 3
+Run_it_twyce: posts the ante 3
+Zebulon_53: posts the ante 3
+Ferpagani111: posts the ante 3
+Antonfreddy: posts the ante 3
+demon199548: posts the ante 3
+SrPan89: posts small blind 10
+Run_it_twyce: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [7s 3h]
+Zebulon_53: calls 20
+Ferpagani111: folds 
+Antonfreddy: raises 20 to 40
+demon199548: folds 
+bullets685: folds 
+MaJeTiCs: calls 40
+chelelo10-4: calls 40
+SrPan89: folds 
+Run_it_twyce: calls 20
+Zebulon_53: folds 
+*** FLOP *** [5s 9s Qd]
+Run_it_twyce: checks 
+Antonfreddy: bets 65
+MaJeTiCs: folds 
+chelelo10-4: folds 
+Run_it_twyce: folds 
+Uncalled bet (65) returned to Antonfreddy
+Antonfreddy collected 217 from pot
+*** SUMMARY ***
+Total pot 217 | Rake 0 
+Board [5s 9s Qd]
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs folded on the Flop
+Seat 3: chelelo10-4 (button) folded on the Flop
+Seat 4: SrPan89 (small blind) folded before Flop
+Seat 5: Run_it_twyce (big blind) folded on the Flop
+Seat 6: Zebulon_53 folded before Flop
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy collected (217)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484512988: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/23 12:40:51 CUST [2026/10/23 7:40:51 ET]
+Table '4041844494 1' 9-max Seat #4 is the button
+Seat 1: bullets685 (1937 in chips) 
+Seat 2: MaJeTiCs (1441 in chips) 
+Seat 3: chelelo10-4 (1421 in chips) 
+Seat 4: SrPan89 (1461 in chips) 
+Seat 5: Run_it_twyce (1451 in chips) 
+Seat 6: Zebulon_53 (1678 in chips) 
+Seat 7: Ferpagani111 (1301 in chips) 
+Seat 8: Antonfreddy (1319 in chips) 
+Seat 9: demon199548 (1491 in chips) 
+bullets685: posts the ante 3
+MaJeTiCs: posts the ante 3
+chelelo10-4: posts the ante 3
+SrPan89: posts the ante 3
+Run_it_twyce: posts the ante 3
+Zebulon_53: posts the ante 3
+Ferpagani111: posts the ante 3
+Antonfreddy: posts the ante 3
+demon199548: posts the ante 3
+Run_it_twyce: posts small blind 10
+Zebulon_53: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [8c 3c]
+Ferpagani111: folds 
+Antonfreddy: folds 
+demon199548: folds 
+bullets685: folds 
+MaJeTiCs: calls 20
+chelelo10-4: calls 20
+SrPan89: folds 
+Run_it_twyce: folds 
+Zebulon_53: checks 
+*** FLOP *** [7c 3h Ks]
+Zebulon_53: bets 20
+MaJeTiCs: calls 20
+chelelo10-4: calls 20
+*** TURN *** [7c 3h Ks] [5d]
+Zebulon_53: bets 20
+MaJeTiCs: calls 20
+chelelo10-4: calls 20
+*** RIVER *** [7c 3h Ks 5d] [9h]
+Zebulon_53: bets 20
+MaJeTiCs: calls 20
+chelelo10-4: folds 
+*** SHOW DOWN ***
+Zebulon_53: shows [Kc Jd] (a pair of Kings)
+MaJeTiCs: mucks hand 
+Zebulon_53 collected 257 from pot
+*** SUMMARY ***
+Total pot 257 | Rake 0 
+Board [7c 3h Ks 5d 9h]
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs mucked [6h 7d]
+Seat 3: chelelo10-4 folded on the River
+Seat 4: SrPan89 (button) folded before Flop (didn't bet)
+Seat 5: Run_it_twyce (small blind) folded before Flop
+Seat 6: Zebulon_53 (big blind) showed [Kc Jd] and won (257) with a pair of Kings
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484517625: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level I (10/20) - 2026/10/23 12:41:42 CUST [2026/10/23 7:41:42 ET]
+Table '4041844494 1' 9-max Seat #5 is the button
+Seat 1: bullets685 (1934 in chips) 
+Seat 2: MaJeTiCs (1358 in chips) 
+Seat 3: chelelo10-4 (1358 in chips) 
+Seat 4: SrPan89 (1458 in chips) 
+Seat 5: Run_it_twyce (1438 in chips) 
+Seat 6: Zebulon_53 (1852 in chips) 
+Seat 7: Ferpagani111 (1298 in chips) 
+Seat 8: Antonfreddy (1316 in chips) 
+Seat 9: demon199548 (1488 in chips) 
+bullets685: posts the ante 3
+MaJeTiCs: posts the ante 3
+chelelo10-4: posts the ante 3
+SrPan89: posts the ante 3
+Run_it_twyce: posts the ante 3
+Zebulon_53: posts the ante 3
+Ferpagani111: posts the ante 3
+Antonfreddy: posts the ante 3
+demon199548: posts the ante 3
+Zebulon_53: posts small blind 10
+Ferpagani111: posts big blind 20
+*** HOLE CARDS ***
+Dealt to bullets685 [7s Ks]
+Antonfreddy: folds 
+demon199548: folds 
+bullets685: raises 36 to 56
+MaJeTiCs: calls 56
+chelelo10-4: calls 56
+SrPan89: folds 
+Run_it_twyce: raises 56 to 112
+Zebulon_53: folds 
+Ferpagani111: folds 
+bullets685: calls 56
+MaJeTiCs: calls 56
+chelelo10-4: calls 56
+*** FLOP *** [4c 6d 6h]
+bullets685: checks 
+MaJeTiCs: checks 
+chelelo10-4: checks 
+Run_it_twyce: checks 
+*** TURN *** [4c 6d 6h] [Jd]
+bullets685: bets 100
+MaJeTiCs: folds 
+chelelo10-4: calls 100
+Run_it_twyce: calls 100
+*** RIVER *** [4c 6d 6h Jd] [6s]
+bullets685: bets 300
+chelelo10-4: folds 
+Run_it_twyce: folds 
+Uncalled bet (300) returned to bullets685
+bullets685 collected 805 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 805 | Rake 0 
+Board [4c 6d 6h Jd 6s]
+Seat 1: bullets685 collected (805)
+Seat 2: MaJeTiCs folded on the Turn
+Seat 3: chelelo10-4 folded on the River
+Seat 4: SrPan89 folded before Flop (didn't bet)
+Seat 5: Run_it_twyce (button) folded on the River
+Seat 6: Zebulon_53 (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) folded before Flop
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484526492: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/23 12:43:16 CUST [2026/10/23 7:43:16 ET]
+Table '4041844494 1' 9-max Seat #6 is the button
+Seat 1: bullets685 (2524 in chips) 
+Seat 2: MaJeTiCs (1243 in chips) 
+Seat 3: chelelo10-4 (1143 in chips) 
+Seat 4: SrPan89 (1455 in chips) 
+Seat 5: Run_it_twyce (1223 in chips) 
+Seat 6: Zebulon_53 (1839 in chips) 
+Seat 7: Ferpagani111 (1275 in chips) 
+Seat 8: Antonfreddy (1313 in chips) 
+Seat 9: demon199548 (1485 in chips) 
+bullets685: posts the ante 4
+MaJeTiCs: posts the ante 4
+chelelo10-4: posts the ante 4
+SrPan89: posts the ante 4
+Run_it_twyce: posts the ante 4
+Zebulon_53: posts the ante 4
+Ferpagani111: posts the ante 4
+Antonfreddy: posts the ante 4
+demon199548: posts the ante 4
+Ferpagani111: posts small blind 15
+Antonfreddy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks 2s]
+demon199548: raises 30 to 60
+bullets685: folds 
+MaJeTiCs: folds 
+chelelo10-4: folds 
+SrPan89: folds 
+Run_it_twyce: raises 30 to 90
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: calls 60
+demon199548: calls 30
+*** FLOP *** [4s 8s 8h]
+Antonfreddy: checks 
+demon199548: checks 
+Run_it_twyce: checks 
+*** TURN *** [4s 8s 8h] [4h]
+Antonfreddy: checks 
+demon199548: checks 
+Run_it_twyce: checks 
+*** RIVER *** [4s 8s 8h 4h] [4d]
+Antonfreddy: checks 
+demon199548: checks 
+Run_it_twyce: checks 
+*** SHOW DOWN ***
+Antonfreddy: shows [6h Kd] (a full house, Fours full of Eights)
+demon199548: shows [9c Tc] (a full house, Fours full of Eights)
+Run_it_twyce: shows [Jc Kh] (a full house, Fours full of Eights)
+Antonfreddy collected 107 from pot
+demon199548 collected 107 from pot
+Run_it_twyce collected 107 from pot
+*** SUMMARY ***
+Total pot 321 | Rake 0 
+Board [4s 8s 8h 4h 4d]
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs folded before Flop (didn't bet)
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 4: SrPan89 folded before Flop (didn't bet)
+Seat 5: Run_it_twyce showed [Jc Kh] and won (107) with a full house, Fours full of Eights
+Seat 6: Zebulon_53 (button) folded before Flop (didn't bet)
+Seat 7: Ferpagani111 (small blind) folded before Flop
+Seat 8: Antonfreddy (big blind) showed [6h Kd] and won (107) with a full house, Fours full of Eights
+Seat 9: demon199548 showed [9c Tc] and won (107) with a full house, Fours full of Eights
+
+
+
+Betfair Hand #262484536916: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/23 12:45:06 CUST [2026/10/23 7:45:06 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (2520 in chips) 
+Seat 2: MaJeTiCs (1239 in chips) 
+Seat 3: chelelo10-4 (1139 in chips) 
+Seat 4: SrPan89 (1451 in chips) 
+Seat 5: Run_it_twyce (1236 in chips) 
+Seat 6: Zebulon_53 (1835 in chips) 
+Seat 7: Ferpagani111 (1256 in chips) 
+Seat 8: Antonfreddy (1326 in chips) 
+Seat 9: demon199548 (1498 in chips) 
+bullets685: posts the ante 4
+MaJeTiCs: posts the ante 4
+chelelo10-4: posts the ante 4
+SrPan89: posts the ante 4
+Run_it_twyce: posts the ante 4
+Zebulon_53: posts the ante 4
+Ferpagani111: posts the ante 4
+Antonfreddy: posts the ante 4
+demon199548: posts the ante 4
+Antonfreddy: posts small blind 15
+demon199548: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [3c Qs]
+bullets685: folds 
+MaJeTiCs: calls 30
+chelelo10-4: calls 30
+SrPan89: raises 75 to 105
+Run_it_twyce: folds 
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: folds 
+demon199548: calls 75
+MaJeTiCs: folds 
+chelelo10-4: folds 
+*** FLOP *** [2c 9d 8d]
+demon199548: checks 
+SrPan89: bets 106
+demon199548: raises 194 to 300
+MaJeTiCs is sitting out
+SrPan89: folds 
+Uncalled bet (194) returned to demon199548
+demon199548 collected 533 from pot
+demon199548: doesn't show hand 
+*** SUMMARY ***
+Total pot 533 | Rake 0 
+Board [2c 9d 8d]
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs folded before Flop
+Seat 3: chelelo10-4 folded before Flop
+Seat 4: SrPan89 folded on the Flop
+Seat 5: Run_it_twyce folded before Flop (didn't bet)
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 (button) folded before Flop (didn't bet)
+Seat 8: Antonfreddy (small blind) folded before Flop
+Seat 9: demon199548 (big blind) collected (533)
+
+
+
+Betfair Hand #262484543878: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level II (15/30) - 2026/10/23 12:46:19 CUST [2026/10/23 7:46:19 ET]
+Table '4041844494 1' 9-max Seat #8 is the button
+Seat 1: bullets685 (2516 in chips) 
+Seat 2: MaJeTiCs (1205 in chips) is sitting out
+Seat 3: chelelo10-4 (1105 in chips) 
+Seat 4: SrPan89 (1236 in chips) 
+Seat 5: Run_it_twyce (1232 in chips) 
+Seat 6: Zebulon_53 (1831 in chips) 
+Seat 7: Ferpagani111 (1252 in chips) 
+Seat 8: Antonfreddy (1307 in chips) 
+Seat 9: demon199548 (1816 in chips) 
+bullets685: posts the ante 4
+MaJeTiCs: posts the ante 4
+chelelo10-4: posts the ante 4
+SrPan89: posts the ante 4
+Run_it_twyce: posts the ante 4
+Zebulon_53: posts the ante 4
+Ferpagani111: posts the ante 4
+Antonfreddy: posts the ante 4
+demon199548: posts the ante 4
+demon199548: posts small blind 15
+bullets685: posts big blind 30
+*** HOLE CARDS ***
+Dealt to bullets685 [3d Tc]
+MaJeTiCs: folds 
+chelelo10-4: folds 
+SrPan89: raises 30 to 60
+Run_it_twyce: calls 60
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: calls 60
+demon199548: folds 
+bullets685: folds 
+*** FLOP *** [Js 3s 7c]
+SrPan89: checks 
+Run_it_twyce: checks 
+Antonfreddy: bets 78
+SrPan89: folds 
+Run_it_twyce: folds 
+Uncalled bet (78) returned to Antonfreddy
+Antonfreddy collected 261 from pot
+*** SUMMARY ***
+Total pot 261 | Rake 0 
+Board [Js 3s 7c]
+Seat 1: bullets685 (big blind) folded before Flop
+Seat 2: MaJeTiCs folded before Flop (didn't bet)
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 4: SrPan89 folded on the Flop
+Seat 5: Run_it_twyce folded on the Flop
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy (button) collected (261)
+Seat 9: demon199548 (small blind) folded before Flop
+
+
+
+Betfair Hand #262484549653: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 12:47:20 CUST [2026/10/23 7:47:20 ET]
+Table '4041844494 1' 9-max Seat #9 is the button
+Seat 1: bullets685 (2482 in chips) 
+Seat 2: MaJeTiCs (1201 in chips) is sitting out
+Seat 3: chelelo10-4 (1101 in chips) 
+Seat 4: SrPan89 (1172 in chips) 
+Seat 5: Run_it_twyce (1168 in chips) 
+Seat 6: Zebulon_53 (1827 in chips) 
+Seat 7: Ferpagani111 (1248 in chips) 
+Seat 8: Antonfreddy (1504 in chips) 
+Seat 9: demon199548 (1797 in chips) 
+bullets685: posts the ante 6
+MaJeTiCs: posts the ante 6
+chelelo10-4: posts the ante 6
+SrPan89: posts the ante 6
+Run_it_twyce: posts the ante 6
+Zebulon_53: posts the ante 6
+Ferpagani111: posts the ante 6
+Antonfreddy: posts the ante 6
+demon199548: posts the ante 6
+bullets685: posts small blind 25
+MaJeTiCs: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [7d 3s]
+chelelo10-4: folds 
+SrPan89: folds 
+Run_it_twyce: folds 
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: folds 
+demon199548: raises 50 to 100
+bullets685: raises 200 to 300
+MaJeTiCs: folds 
+demon199548: folds 
+Uncalled bet (200) returned to bullets685
+bullets685 collected 304 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 304 | Rake 0 
+Seat 1: bullets685 (small blind) collected (304)
+Seat 2: MaJeTiCs (big blind) folded before Flop
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 4: SrPan89 folded before Flop (didn't bet)
+Seat 5: Run_it_twyce folded before Flop (didn't bet)
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 (button) folded before Flop
+
+
+
+Betfair Hand #262484553364: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 12:47:59 CUST [2026/10/23 7:47:59 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (2680 in chips) 
+Seat 2: MaJeTiCs (1145 in chips) is sitting out
+Seat 3: chelelo10-4 (1095 in chips) 
+Seat 4: SrPan89 (1166 in chips) 
+Seat 5: Run_it_twyce (1162 in chips) 
+Seat 6: Zebulon_53 (1821 in chips) 
+Seat 7: Ferpagani111 (1242 in chips) 
+Seat 8: Antonfreddy (1498 in chips) 
+Seat 9: demon199548 (1691 in chips) 
+bullets685: posts the ante 6
+MaJeTiCs: posts the ante 6
+chelelo10-4: posts the ante 6
+SrPan89: posts the ante 6
+Run_it_twyce: posts the ante 6
+Zebulon_53: posts the ante 6
+Ferpagani111: posts the ante 6
+Antonfreddy: posts the ante 6
+demon199548: posts the ante 6
+MaJeTiCs: posts small blind 25
+chelelo10-4: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 8d]
+SrPan89: folds 
+Run_it_twyce: raises 100 to 150
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: folds 
+demon199548: folds 
+bullets685: calls 150
+MaJeTiCs: folds 
+chelelo10-4: folds 
+*** FLOP *** [Ac Ah Qh]
+Run_it_twyce: checks 
+bullets685: bets 215
+Run_it_twyce: calls 215
+*** TURN *** [Ac Ah Qh] [6d]
+Run_it_twyce: checks 
+bullets685: bets 430
+Run_it_twyce: raises 361 to 791 and is all-in
+bullets685: calls 361
+*** RIVER *** [Ac Ah Qh 6d] [8c]
+*** SHOW DOWN ***
+Run_it_twyce: shows [7s 7d] (two pair, Aces and Sevens)
+bullets685: shows [Ad 8d] (a full house, Aces full of Eights)
+bullets685 collected 2441 from pot
+Run_it_twyce finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 2441 | Rake 0 
+Board [Ac Ah Qh 6d 8c]
+Seat 1: bullets685 (button) showed [Ad 8d] and won (2441) with a full house, Aces full of Eights
+Seat 2: MaJeTiCs (small blind) folded before Flop
+Seat 3: chelelo10-4 (big blind) folded before Flop
+Seat 4: SrPan89 folded before Flop (didn't bet)
+Seat 5: Run_it_twyce showed [7s 7d] and lost with two pair, Aces and Sevens
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484557624: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 12:48:42 CUST [2026/10/23 7:48:42 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (3959 in chips) 
+Seat 2: MaJeTiCs (1114 in chips) is sitting out
+Seat 3: chelelo10-4 (1039 in chips) 
+Seat 4: SrPan89 (1160 in chips) 
+Seat 6: Zebulon_53 (1815 in chips) 
+Seat 7: Ferpagani111 (1236 in chips) 
+Seat 8: Antonfreddy (1492 in chips) 
+Seat 9: demon199548 (1685 in chips) 
+bullets685: posts the ante 6
+MaJeTiCs: posts the ante 6
+chelelo10-4: posts the ante 6
+SrPan89: posts the ante 6
+Zebulon_53: posts the ante 6
+Ferpagani111: posts the ante 6
+Antonfreddy: posts the ante 6
+demon199548: posts the ante 6
+chelelo10-4: posts small blind 25
+SrPan89: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [4d Tc]
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: folds 
+demon199548: raises 50 to 100
+bullets685: folds 
+MaJeTiCs: folds 
+chelelo10-4: folds 
+SrPan89: folds 
+Uncalled bet (50) returned to demon199548
+demon199548 collected 173 from pot
+demon199548: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs (button) folded before Flop (didn't bet)
+Seat 3: chelelo10-4 (small blind) folded before Flop
+Seat 4: SrPan89 (big blind) folded before Flop
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 collected (173)
+
+
+
+Betfair Hand #262484559766: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 12:49:04 CUST [2026/10/23 7:49:04 ET]
+Table '4041844494 1' 9-max Seat #3 is the button
+Seat 1: bullets685 (3953 in chips) 
+Seat 2: MaJeTiCs (1108 in chips) is sitting out
+Seat 3: chelelo10-4 (1008 in chips) 
+Seat 4: SrPan89 (1104 in chips) 
+Seat 6: Zebulon_53 (1809 in chips) 
+Seat 7: Ferpagani111 (1230 in chips) 
+Seat 8: Antonfreddy (1486 in chips) 
+Seat 9: demon199548 (1802 in chips) 
+bullets685: posts the ante 6
+MaJeTiCs: posts the ante 6
+chelelo10-4: posts the ante 6
+SrPan89: posts the ante 6
+Zebulon_53: posts the ante 6
+Ferpagani111: posts the ante 6
+Antonfreddy: posts the ante 6
+demon199548: posts the ante 6
+SrPan89: posts small blind 25
+Zebulon_53: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [5c 2h]
+Ferpagani111: folds 
+Antonfreddy: folds 
+demon199548: folds 
+bullets685: folds 
+MaJeTiCs: folds 
+chelelo10-4: raises 952 to 1002 and is all-in
+SrPan89: folds 
+Zebulon_53: folds 
+Uncalled bet (952) returned to chelelo10-4
+chelelo10-4 collected 173 from pot
+chelelo10-4: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs folded before Flop (didn't bet)
+Seat 3: chelelo10-4 (button) collected (173)
+Seat 4: SrPan89 (small blind) folded before Flop
+Seat 6: Zebulon_53 (big blind) folded before Flop
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484562163: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 12:49:29 CUST [2026/10/23 7:49:29 ET]
+Table '4041844494 1' 9-max Seat #4 is the button
+Seat 1: bullets685 (3947 in chips) 
+Seat 2: MaJeTiCs (1102 in chips) is sitting out
+Seat 3: chelelo10-4 (1125 in chips) 
+Seat 4: SrPan89 (1073 in chips) 
+Seat 6: Zebulon_53 (1753 in chips) 
+Seat 7: Ferpagani111 (1224 in chips) 
+Seat 8: Antonfreddy (1480 in chips) 
+Seat 9: demon199548 (1796 in chips) 
+bullets685: posts the ante 6
+MaJeTiCs: posts the ante 6
+chelelo10-4: posts the ante 6
+SrPan89: posts the ante 6
+Zebulon_53: posts the ante 6
+Ferpagani111: posts the ante 6
+Antonfreddy: posts the ante 6
+demon199548: posts the ante 6
+Zebulon_53: posts small blind 25
+Ferpagani111: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts Qs]
+Antonfreddy: folds 
+demon199548: raises 50 to 100
+bullets685: raises 200 to 300
+MaJeTiCs: folds 
+chelelo10-4: folds 
+SrPan89: folds 
+Zebulon_53: folds 
+MaJeTiCs has returned
+Ferpagani111: folds 
+demon199548: folds 
+Uncalled bet (200) returned to bullets685
+bullets685 collected 323 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 323 | Rake 0 
+Seat 1: bullets685 collected (323)
+Seat 2: MaJeTiCs folded before Flop (didn't bet)
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 4: SrPan89 (button) folded before Flop (didn't bet)
+Seat 6: Zebulon_53 (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) folded before Flop
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 folded before Flop
+
+
+
+Betfair Hand #262484565510: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 12:50:04 CUST [2026/10/23 7:50:04 ET]
+Table '4041844494 1' 9-max Seat #6 is the button
+Seat 1: bullets685 (4164 in chips) 
+Seat 2: MaJeTiCs (1096 in chips) 
+Seat 3: chelelo10-4 (1119 in chips) 
+Seat 4: SrPan89 (1067 in chips) 
+Seat 6: Zebulon_53 (1722 in chips) 
+Seat 7: Ferpagani111 (1168 in chips) 
+Seat 8: Antonfreddy (1474 in chips) 
+Seat 9: demon199548 (1690 in chips) 
+bullets685: posts the ante 6
+MaJeTiCs: posts the ante 6
+chelelo10-4: posts the ante 6
+SrPan89: posts the ante 6
+Zebulon_53: posts the ante 6
+Ferpagani111: posts the ante 6
+Antonfreddy: posts the ante 6
+demon199548: posts the ante 6
+Ferpagani111: posts small blind 25
+Antonfreddy: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [8s Kd]
+demon199548: folds 
+bullets685: folds 
+MaJeTiCs: folds 
+chelelo10-4: folds 
+SrPan89: raises 50 to 100
+Zebulon_53: calls 100
+Ferpagani111 has timed out
+Ferpagani111: folds 
+Ferpagani111 is sitting out
+Ferpagani111 has returned
+Antonfreddy: calls 50
+*** FLOP *** [6d Qh 2c]
+Antonfreddy: bets 112
+SrPan89: folds 
+Zebulon_53: folds 
+Uncalled bet (112) returned to Antonfreddy
+Antonfreddy collected 373 from pot
+*** SUMMARY ***
+Total pot 373 | Rake 0 
+Board [6d Qh 2c]
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs folded before Flop (didn't bet)
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 4: SrPan89 folded on the Flop
+Seat 6: Zebulon_53 (button) folded on the Flop
+Seat 7: Ferpagani111 (small blind) folded before Flop
+Seat 8: Antonfreddy (big blind) collected (373)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484571551: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level III (25/50) - 2026/10/23 12:51:06 CUST [2026/10/23 7:51:06 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (4158 in chips) 
+Seat 2: MaJeTiCs (1090 in chips) 
+Seat 3: chelelo10-4 (1113 in chips) 
+Seat 4: SrPan89 (961 in chips) 
+Seat 6: Zebulon_53 (1616 in chips) 
+Seat 7: Ferpagani111 (1137 in chips) 
+Seat 8: Antonfreddy (1741 in chips) 
+Seat 9: demon199548 (1684 in chips) 
+bullets685: posts the ante 6
+MaJeTiCs: posts the ante 6
+chelelo10-4: posts the ante 6
+SrPan89: posts the ante 6
+Zebulon_53: posts the ante 6
+Ferpagani111: posts the ante 6
+Antonfreddy: posts the ante 6
+demon199548: posts the ante 6
+Antonfreddy: posts small blind 25
+demon199548: posts big blind 50
+*** HOLE CARDS ***
+Dealt to bullets685 [Js 8h]
+bullets685: folds 
+MaJeTiCs: folds 
+chelelo10-4: folds 
+SrPan89: folds 
+Zebulon_53: folds 
+Ferpagani111: raises 50 to 100
+Antonfreddy: folds 
+demon199548: calls 50
+*** FLOP *** [4h 4c Kh]
+demon199548: checks 
+Ferpagani111: bets 90
+demon199548: folds 
+Uncalled bet (90) returned to Ferpagani111
+Ferpagani111 collected 273 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 273 | Rake 0 
+Board [4h 4c Kh]
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs folded before Flop (didn't bet)
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 4: SrPan89 folded before Flop (didn't bet)
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 (button) collected (273)
+Seat 8: Antonfreddy (small blind) folded before Flop
+Seat 9: demon199548 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262484577268: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 12:52:04 CUST [2026/10/23 7:52:04 ET]
+Table '4041844494 1' 9-max Seat #8 is the button
+Seat 1: bullets685 (4152 in chips) 
+Seat 2: MaJeTiCs (1084 in chips) 
+Seat 3: chelelo10-4 (1107 in chips) 
+Seat 4: SrPan89 (955 in chips) 
+Seat 6: Zebulon_53 (1610 in chips) 
+Seat 7: Ferpagani111 (1304 in chips) 
+Seat 8: Antonfreddy (1710 in chips) 
+Seat 9: demon199548 (1578 in chips) 
+bullets685: posts the ante 10
+MaJeTiCs: posts the ante 10
+chelelo10-4: posts the ante 10
+SrPan89: posts the ante 10
+Zebulon_53: posts the ante 10
+Ferpagani111: posts the ante 10
+Antonfreddy: posts the ante 10
+demon199548: posts the ante 10
+demon199548: posts small blind 40
+bullets685: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd As]
+MaJeTiCs: calls 80
+chelelo10-4: folds 
+SrPan89: folds 
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: raises 80 to 160
+demon199548: folds 
+bullets685: raises 240 to 400
+MaJeTiCs: raises 674 to 1074 and is all-in
+Antonfreddy: folds 
+bullets685: calls 674
+*** FLOP *** [4d 8c Kc]
+*** TURN *** [4d 8c Kc] [9d]
+*** RIVER *** [4d 8c Kc 9d] [3s]
+*** SHOW DOWN ***
+bullets685: shows [Qd As] (high card Ace)
+MaJeTiCs: shows [8h Qh] (a pair of Eights)
+MaJeTiCs collected 2428 from pot
+*** SUMMARY ***
+Total pot 2428 | Rake 0 
+Board [4d 8c Kc 9d 3s]
+Seat 1: bullets685 (big blind) showed [Qd As] and lost with high card Ace
+Seat 2: MaJeTiCs showed [8h Qh] and won (2428) with a pair of Eights
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 4: SrPan89 folded before Flop (didn't bet)
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy (button) folded before Flop
+Seat 9: demon199548 (small blind) folded before Flop
+
+
+
+Betfair Hand #262484581558: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 12:52:48 CUST [2026/10/23 7:52:48 ET]
+Table '4041844494 1' 9-max Seat #9 is the button
+Seat 1: bullets685 (3068 in chips) 
+Seat 2: MaJeTiCs (2428 in chips) 
+Seat 3: chelelo10-4 (1097 in chips) 
+Seat 4: SrPan89 (945 in chips) 
+Seat 6: Zebulon_53 (1600 in chips) 
+Seat 7: Ferpagani111 (1294 in chips) 
+Seat 8: Antonfreddy (1540 in chips) 
+Seat 9: demon199548 (1528 in chips) 
+bullets685: posts the ante 10
+MaJeTiCs: posts the ante 10
+chelelo10-4: posts the ante 10
+SrPan89: posts the ante 10
+Zebulon_53: posts the ante 10
+Ferpagani111: posts the ante 10
+Antonfreddy: posts the ante 10
+demon199548: posts the ante 10
+bullets685: posts small blind 40
+MaJeTiCs: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [3d Jd]
+chelelo10-4: folds 
+SrPan89: folds 
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: folds 
+demon199548: folds 
+bullets685: raises 104 to 184
+MaJeTiCs: folds 
+Uncalled bet (104) returned to bullets685
+bullets685 collected 240 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: bullets685 (small blind) collected (240)
+Seat 2: MaJeTiCs (big blind) folded before Flop
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 4: SrPan89 folded before Flop (didn't bet)
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484583544: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 12:53:08 CUST [2026/10/23 7:53:08 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (3218 in chips) 
+Seat 2: MaJeTiCs (2338 in chips) 
+Seat 3: chelelo10-4 (1087 in chips) 
+Seat 4: SrPan89 (935 in chips) 
+Seat 6: Zebulon_53 (1590 in chips) 
+Seat 7: Ferpagani111 (1284 in chips) 
+Seat 8: Antonfreddy (1530 in chips) 
+Seat 9: demon199548 (1518 in chips) 
+bullets685: posts the ante 10
+MaJeTiCs: posts the ante 10
+chelelo10-4: posts the ante 10
+SrPan89: posts the ante 10
+Zebulon_53: posts the ante 10
+Ferpagani111: posts the ante 10
+Antonfreddy: posts the ante 10
+demon199548: posts the ante 10
+MaJeTiCs: posts small blind 40
+chelelo10-4: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [9h 7d]
+SrPan89: folds 
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: folds 
+demon199548: folds 
+bullets685: raises 104 to 184
+MaJeTiCs: calls 144
+chelelo10-4: folds 
+*** FLOP *** [4h 7s 6s]
+MaJeTiCs: checks 
+bullets685: bets 320
+MaJeTiCs: folds 
+Uncalled bet (320) returned to bullets685
+bullets685 collected 528 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 528 | Rake 0 
+Board [4h 7s 6s]
+Seat 1: bullets685 (button) collected (528)
+Seat 2: MaJeTiCs (small blind) folded on the Flop
+Seat 3: chelelo10-4 (big blind) folded before Flop
+Seat 4: SrPan89 folded before Flop (didn't bet)
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484586563: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 12:53:39 CUST [2026/10/23 7:53:39 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (3552 in chips) 
+Seat 2: MaJeTiCs (2144 in chips) 
+Seat 3: chelelo10-4 (997 in chips) 
+Seat 4: SrPan89 (925 in chips) 
+Seat 6: Zebulon_53 (1580 in chips) 
+Seat 7: Ferpagani111 (1274 in chips) 
+Seat 8: Antonfreddy (1520 in chips) 
+Seat 9: demon199548 (1508 in chips) 
+bullets685: posts the ante 10
+MaJeTiCs: posts the ante 10
+chelelo10-4: posts the ante 10
+SrPan89: posts the ante 10
+Zebulon_53: posts the ante 10
+Ferpagani111: posts the ante 10
+Antonfreddy: posts the ante 10
+demon199548: posts the ante 10
+chelelo10-4: posts small blind 40
+SrPan89: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [2c Kh]
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: folds 
+demon199548: raises 80 to 160
+bullets685: folds 
+MaJeTiCs: folds 
+chelelo10-4: folds 
+SrPan89: folds 
+Uncalled bet (80) returned to demon199548
+demon199548 collected 280 from pot
+demon199548: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs (button) folded before Flop (didn't bet)
+Seat 3: chelelo10-4 (small blind) folded before Flop
+Seat 4: SrPan89 (big blind) folded before Flop
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 collected (280)
+
+
+
+Betfair Hand #262484589523: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 12:54:10 CUST [2026/10/23 7:54:10 ET]
+Table '4041844494 1' 9-max Seat #3 is the button
+Seat 1: bullets685 (3542 in chips) 
+Seat 2: MaJeTiCs (2134 in chips) 
+Seat 3: chelelo10-4 (947 in chips) 
+Seat 4: SrPan89 (835 in chips) 
+Seat 6: Zebulon_53 (1570 in chips) 
+Seat 7: Ferpagani111 (1264 in chips) 
+Seat 8: Antonfreddy (1510 in chips) 
+Seat 9: demon199548 (1698 in chips) 
+bullets685: posts the ante 10
+MaJeTiCs: posts the ante 10
+chelelo10-4: posts the ante 10
+SrPan89: posts the ante 10
+Zebulon_53: posts the ante 10
+Ferpagani111: posts the ante 10
+Antonfreddy: posts the ante 10
+demon199548: posts the ante 10
+SrPan89: posts small blind 40
+Zebulon_53: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [9s 4h]
+Ferpagani111: folds 
+Antonfreddy: folds 
+demon199548: folds 
+bullets685: folds 
+MaJeTiCs: folds 
+chelelo10-4: folds 
+SrPan89: folds 
+Uncalled bet (40) returned to Zebulon_53
+Zebulon_53 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs folded before Flop (didn't bet)
+Seat 3: chelelo10-4 (button) folded before Flop (didn't bet)
+Seat 4: SrPan89 (small blind) folded before Flop
+Seat 6: Zebulon_53 (big blind) collected (160)
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484591539: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 12:54:31 CUST [2026/10/23 7:54:31 ET]
+Table '4041844494 1' 9-max Seat #4 is the button
+Seat 1: bullets685 (3532 in chips) 
+Seat 2: MaJeTiCs (2124 in chips) 
+Seat 3: chelelo10-4 (937 in chips) 
+Seat 4: SrPan89 (785 in chips) 
+Seat 6: Zebulon_53 (1680 in chips) 
+Seat 7: Ferpagani111 (1254 in chips) 
+Seat 8: Antonfreddy (1500 in chips) 
+Seat 9: demon199548 (1688 in chips) 
+bullets685: posts the ante 10
+MaJeTiCs: posts the ante 10
+chelelo10-4: posts the ante 10
+SrPan89: posts the ante 10
+Zebulon_53: posts the ante 10
+Ferpagani111: posts the ante 10
+Antonfreddy: posts the ante 10
+demon199548: posts the ante 10
+Zebulon_53: posts small blind 40
+Ferpagani111: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts 8h]
+Antonfreddy: folds 
+demon199548: folds 
+bullets685: folds 
+MaJeTiCs: folds 
+chelelo10-4: raises 160 to 240
+SrPan89: folds 
+Zebulon_53: folds 
+Ferpagani111: folds 
+Uncalled bet (160) returned to chelelo10-4
+chelelo10-4 collected 280 from pot
+chelelo10-4: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs folded before Flop (didn't bet)
+Seat 3: chelelo10-4 collected (280)
+Seat 4: SrPan89 (button) folded before Flop (didn't bet)
+Seat 6: Zebulon_53 (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) folded before Flop
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484594311: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 12:55:00 CUST [2026/10/23 7:55:00 ET]
+Table '4041844494 1' 9-max Seat #6 is the button
+Seat 1: bullets685 (3522 in chips) 
+Seat 2: MaJeTiCs (2114 in chips) 
+Seat 3: chelelo10-4 (1127 in chips) 
+Seat 4: SrPan89 (775 in chips) 
+Seat 6: Zebulon_53 (1630 in chips) 
+Seat 7: Ferpagani111 (1164 in chips) 
+Seat 8: Antonfreddy (1490 in chips) 
+Seat 9: demon199548 (1678 in chips) 
+bullets685: posts the ante 10
+MaJeTiCs: posts the ante 10
+chelelo10-4: posts the ante 10
+SrPan89: posts the ante 10
+Zebulon_53: posts the ante 10
+Ferpagani111: posts the ante 10
+Antonfreddy: posts the ante 10
+demon199548: posts the ante 10
+Ferpagani111: posts small blind 40
+Antonfreddy: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [2c 6h]
+demon199548: raises 80 to 160
+bullets685: folds 
+MaJeTiCs: folds 
+chelelo10-4: folds 
+SrPan89: folds 
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: calls 80
+*** FLOP *** [5d Js Ac]
+Antonfreddy: bets 132
+demon199548: calls 132
+*** TURN *** [5d Js Ac] [Qh]
+Antonfreddy: checks 
+demon199548: bets 352
+Antonfreddy: folds 
+Uncalled bet (352) returned to demon199548
+demon199548 collected 704 from pot
+demon199548: doesn't show hand 
+*** SUMMARY ***
+Total pot 704 | Rake 0 
+Board [5d Js Ac Qh]
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs folded before Flop (didn't bet)
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 4: SrPan89 folded before Flop (didn't bet)
+Seat 6: Zebulon_53 (button) folded before Flop (didn't bet)
+Seat 7: Ferpagani111 (small blind) folded before Flop
+Seat 8: Antonfreddy (big blind) folded on the Turn
+Seat 9: demon199548 collected (704)
+
+
+
+Betfair Hand #262484598658: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 12:55:54 CUST [2026/10/23 7:55:54 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (3512 in chips) 
+Seat 2: MaJeTiCs (2104 in chips) 
+Seat 3: chelelo10-4 (1117 in chips) 
+Seat 4: SrPan89 (765 in chips) 
+Seat 6: Zebulon_53 (1620 in chips) 
+Seat 7: Ferpagani111 (1114 in chips) 
+Seat 8: Antonfreddy (1188 in chips) 
+Seat 9: demon199548 (2080 in chips) 
+bullets685: posts the ante 10
+MaJeTiCs: posts the ante 10
+chelelo10-4: posts the ante 10
+SrPan89: posts the ante 10
+Zebulon_53: posts the ante 10
+Ferpagani111: posts the ante 10
+Antonfreddy: posts the ante 10
+demon199548: posts the ante 10
+Antonfreddy: posts small blind 40
+demon199548: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts 5h]
+bullets685: folds 
+MaJeTiCs: calls 80
+chelelo10-4: folds 
+SrPan89: folds 
+Zebulon_53: folds 
+Ferpagani111: raises 160 to 240
+Antonfreddy: folds 
+demon199548: folds 
+MaJeTiCs: folds 
+Uncalled bet (160) returned to Ferpagani111
+Ferpagani111 collected 360 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs folded before Flop
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 4: SrPan89 folded before Flop (didn't bet)
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 (button) collected (360)
+Seat 8: Antonfreddy (small blind) folded before Flop
+Seat 9: demon199548 (big blind) folded before Flop
+
+
+
+Betfair Hand #262484600519: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IV (40/80) - 2026/10/23 12:56:18 CUST [2026/10/23 7:56:18 ET]
+Table '4041844494 1' 9-max Seat #8 is the button
+Seat 1: bullets685 (3502 in chips) 
+Seat 2: MaJeTiCs (2014 in chips) 
+Seat 3: chelelo10-4 (1107 in chips) 
+Seat 4: SrPan89 (755 in chips) 
+Seat 6: Zebulon_53 (1610 in chips) 
+Seat 7: Ferpagani111 (1384 in chips) 
+Seat 8: Antonfreddy (1138 in chips) 
+Seat 9: demon199548 (1990 in chips) 
+bullets685: posts the ante 10
+MaJeTiCs: posts the ante 10
+chelelo10-4: posts the ante 10
+SrPan89: posts the ante 10
+Zebulon_53: posts the ante 10
+Ferpagani111: posts the ante 10
+Antonfreddy: posts the ante 10
+demon199548: posts the ante 10
+demon199548: posts small blind 40
+bullets685: posts big blind 80
+*** HOLE CARDS ***
+Dealt to bullets685 [8s As]
+MaJeTiCs: raises 80 to 160
+chelelo10-4: folds 
+SrPan89: raises 585 to 745 and is all-in
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: folds 
+demon199548: folds 
+bullets685: calls 665
+MaJeTiCs: calls 585
+*** FLOP *** [Td Ad Kc]
+bullets685: bets 2747 and is all-in
+MaJeTiCs: folds [Jh Jd]
+Uncalled bet (2747) returned to bullets685
+*** TURN *** [Td Ad Kc] [6c]
+*** RIVER *** [Td Ad Kc 6c] [Ah]
+*** SHOW DOWN ***
+bullets685: shows [8s As] (three of a kind, Aces)
+SrPan89: shows [7c 7s] (two pair, Aces and Sevens)
+bullets685 collected 2355 from pot
+SrPan89 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 2355 | Rake 0 
+Board [Td Ad Kc 6c Ah]
+Seat 1: bullets685 (big blind) showed [8s As] and won (2355) with three of a kind, Aces
+Seat 2: MaJeTiCs folded on the Flop
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 4: SrPan89 showed [7c 7s] and lost with two pair, Aces and Sevens
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy (button) folded before Flop (didn't bet)
+Seat 9: demon199548 (small blind) folded before Flop
+
+
+
+Betfair Hand #262484604470: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 12:57:08 CUST [2026/10/23 7:57:08 ET]
+Table '4041844494 1' 9-max Seat #9 is the button
+Seat 1: bullets685 (5102 in chips) 
+Seat 2: MaJeTiCs (1259 in chips) 
+Seat 3: chelelo10-4 (1097 in chips) 
+Seat 6: Zebulon_53 (1600 in chips) 
+Seat 7: Ferpagani111 (1374 in chips) 
+Seat 8: Antonfreddy (1128 in chips) 
+Seat 9: demon199548 (1940 in chips) 
+bullets685: posts the ante 15
+MaJeTiCs: posts the ante 15
+chelelo10-4: posts the ante 15
+Zebulon_53: posts the ante 15
+Ferpagani111: posts the ante 15
+Antonfreddy: posts the ante 15
+demon199548: posts the ante 15
+bullets685: posts small blind 60
+MaJeTiCs: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [2d 6s]
+chelelo10-4: folds 
+Zebulon_53: folds 
+Ferpagani111: raises 1239 to 1359 and is all-in
+Antonfreddy: folds 
+demon199548: folds 
+bullets685: folds 
+MaJeTiCs: folds 
+Uncalled bet (1239) returned to Ferpagani111
+Ferpagani111 collected 405 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: bullets685 (small blind) folded before Flop
+Seat 2: MaJeTiCs (big blind) folded before Flop
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 collected (405)
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484605601: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 12:57:22 CUST [2026/10/23 7:57:22 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (5027 in chips) 
+Seat 2: MaJeTiCs (1124 in chips) 
+Seat 3: chelelo10-4 (1082 in chips) 
+Seat 6: Zebulon_53 (1585 in chips) 
+Seat 7: Ferpagani111 (1644 in chips) 
+Seat 8: Antonfreddy (1113 in chips) 
+Seat 9: demon199548 (1925 in chips) 
+bullets685: posts the ante 15
+MaJeTiCs: posts the ante 15
+chelelo10-4: posts the ante 15
+Zebulon_53: posts the ante 15
+Ferpagani111: posts the ante 15
+Antonfreddy: posts the ante 15
+demon199548: posts the ante 15
+MaJeTiCs: posts small blind 60
+chelelo10-4: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [6s 8d]
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: calls 120
+demon199548: folds 
+bullets685: raises 156 to 276
+MaJeTiCs: folds 
+chelelo10-4: folds 
+Antonfreddy: calls 156
+*** FLOP *** [Jd Jh 7s]
+Antonfreddy: checks 
+bullets685: checks 
+*** TURN *** [Jd Jh 7s] [Qd]
+Antonfreddy: checks 
+bullets685: bets 240
+Antonfreddy: calls 240
+*** RIVER *** [Jd Jh 7s Qd] [4h]
+Antonfreddy: checks 
+bullets685: bets 360
+Antonfreddy: folds 
+Uncalled bet (360) returned to bullets685
+bullets685 collected 1317 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1317 | Rake 0 
+Board [Jd Jh 7s Qd 4h]
+Seat 1: bullets685 (button) collected (1317)
+Seat 2: MaJeTiCs (small blind) folded before Flop
+Seat 3: chelelo10-4 (big blind) folded before Flop
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy folded on the River
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484610300: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 12:58:21 CUST [2026/10/23 7:58:21 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (5813 in chips) 
+Seat 2: MaJeTiCs (1049 in chips) 
+Seat 3: chelelo10-4 (947 in chips) 
+Seat 6: Zebulon_53 (1570 in chips) 
+Seat 7: Ferpagani111 (1629 in chips) 
+Seat 8: Antonfreddy (582 in chips) 
+Seat 9: demon199548 (1910 in chips) 
+bullets685: posts the ante 15
+MaJeTiCs: posts the ante 15
+chelelo10-4: posts the ante 15
+Zebulon_53: posts the ante 15
+Ferpagani111: posts the ante 15
+Antonfreddy: posts the ante 15
+demon199548: posts the ante 15
+chelelo10-4: posts small blind 60
+Zebulon_53: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Qh 6c]
+Ferpagani111: folds 
+Antonfreddy: folds 
+demon199548: folds 
+bullets685: folds 
+MaJeTiCs: folds 
+chelelo10-4: raises 812 to 932 and is all-in
+Zebulon_53: folds 
+Uncalled bet (812) returned to chelelo10-4
+chelelo10-4 collected 345 from pot
+chelelo10-4: doesn't show hand 
+*** SUMMARY ***
+Total pot 345 | Rake 0 
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs (button) folded before Flop (didn't bet)
+Seat 3: chelelo10-4 (small blind) collected (345)
+Seat 6: Zebulon_53 (big blind) folded before Flop
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484611723: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 12:58:39 CUST [2026/10/23 7:58:39 ET]
+Table '4041844494 1' 9-max Seat #3 is the button
+Seat 1: bullets685 (5798 in chips) 
+Seat 2: MaJeTiCs (1034 in chips) 
+Seat 3: chelelo10-4 (1157 in chips) 
+Seat 6: Zebulon_53 (1435 in chips) 
+Seat 7: Ferpagani111 (1614 in chips) 
+Seat 8: Antonfreddy (567 in chips) 
+Seat 9: demon199548 (1895 in chips) 
+bullets685: posts the ante 15
+MaJeTiCs: posts the ante 15
+chelelo10-4: posts the ante 15
+Zebulon_53: posts the ante 15
+Ferpagani111: posts the ante 15
+Antonfreddy: posts the ante 15
+demon199548: posts the ante 15
+Zebulon_53: posts small blind 60
+Ferpagani111: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Ks Ah]
+Antonfreddy: folds 
+demon199548: folds 
+bullets685: raises 180 to 300
+MaJeTiCs: folds 
+chelelo10-4: folds 
+Zebulon_53: folds 
+Ferpagani111: folds 
+Uncalled bet (180) returned to bullets685
+bullets685 collected 405 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: bullets685 collected (405)
+Seat 2: MaJeTiCs folded before Flop (didn't bet)
+Seat 3: chelelo10-4 (button) folded before Flop (didn't bet)
+Seat 6: Zebulon_53 (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) folded before Flop
+Seat 8: Antonfreddy folded before Flop (didn't bet)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484613667: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 12:59:04 CUST [2026/10/23 7:59:04 ET]
+Table '4041844494 1' 9-max Seat #6 is the button
+Seat 1: bullets685 (6068 in chips) 
+Seat 2: MaJeTiCs (1019 in chips) 
+Seat 3: chelelo10-4 (1142 in chips) 
+Seat 6: Zebulon_53 (1360 in chips) 
+Seat 7: Ferpagani111 (1479 in chips) 
+Seat 8: Antonfreddy (552 in chips) 
+Seat 9: demon199548 (1880 in chips) 
+bullets685: posts the ante 15
+MaJeTiCs: posts the ante 15
+chelelo10-4: posts the ante 15
+Zebulon_53: posts the ante 15
+Ferpagani111: posts the ante 15
+Antonfreddy: posts the ante 15
+demon199548: posts the ante 15
+Ferpagani111: posts small blind 60
+Antonfreddy: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [7d Kd]
+demon199548: raises 120 to 240
+bullets685: calls 240
+MaJeTiCs: folds 
+chelelo10-4: folds 
+Zebulon_53: folds 
+Ferpagani111: folds 
+Antonfreddy: raises 297 to 537 and is all-in
+demon199548: folds 
+bullets685: calls 297
+*** FLOP *** [4c Kc 7s]
+*** TURN *** [4c Kc 7s] [8c]
+*** RIVER *** [4c Kc 7s 8c] [Th]
+*** SHOW DOWN ***
+Antonfreddy: shows [9h Qc] (high card King)
+bullets685: shows [7d Kd] (two pair, Kings and Sevens)
+bullets685 collected 1479 from pot
+Antonfreddy finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 1479 | Rake 0 
+Board [4c Kc 7s 8c Th]
+Seat 1: bullets685 showed [7d Kd] and won (1479) with two pair, Kings and Sevens
+Seat 2: MaJeTiCs folded before Flop (didn't bet)
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 6: Zebulon_53 (button) folded before Flop (didn't bet)
+Seat 7: Ferpagani111 (small blind) folded before Flop
+Seat 8: Antonfreddy (big blind) showed [9h Qc] and lost with high card King
+Seat 9: demon199548 folded before Flop
+
+
+
+Betfair Hand #262484618250: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 13:00:01 CUST [2026/10/23 8:00:01 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (6995 in chips) 
+Seat 2: MaJeTiCs (1004 in chips) 
+Seat 3: chelelo10-4 (1127 in chips) 
+Seat 6: Zebulon_53 (1345 in chips) 
+Seat 7: Ferpagani111 (1404 in chips) 
+Seat 9: demon199548 (1625 in chips) 
+bullets685: posts the ante 15
+MaJeTiCs: posts the ante 15
+chelelo10-4: posts the ante 15
+Zebulon_53: posts the ante 15
+Ferpagani111: posts the ante 15
+demon199548: posts the ante 15
+demon199548: posts small blind 60
+bullets685: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Js 9d]
+MaJeTiCs: calls 120
+chelelo10-4: folds 
+Zebulon_53: folds 
+Ferpagani111: raises 1269 to 1389 and is all-in
+demon199548: folds 
+bullets685: folds 
+MaJeTiCs: folds 
+Uncalled bet (1269) returned to Ferpagani111
+Ferpagani111 collected 510 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Seat 1: bullets685 (big blind) folded before Flop
+Seat 2: MaJeTiCs folded before Flop
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 (button) collected (510)
+Seat 9: demon199548 (small blind) folded before Flop
+
+
+
+Betfair Hand #262484620758: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 13:00:32 CUST [2026/10/23 8:00:32 ET]
+Table '4041844494 1' 9-max Seat #9 is the button
+Seat 1: bullets685 (6860 in chips) 
+Seat 2: MaJeTiCs (869 in chips) 
+Seat 3: chelelo10-4 (1112 in chips) 
+Seat 6: Zebulon_53 (1330 in chips) 
+Seat 7: Ferpagani111 (1779 in chips) 
+Seat 9: demon199548 (1550 in chips) 
+bullets685: posts the ante 15
+MaJeTiCs: posts the ante 15
+chelelo10-4: posts the ante 15
+Zebulon_53: posts the ante 15
+Ferpagani111: posts the ante 15
+demon199548: posts the ante 15
+bullets685: posts small blind 60
+MaJeTiCs: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [6d 2h]
+chelelo10-4: folds 
+Zebulon_53: folds 
+Ferpagani111: folds 
+demon199548: folds 
+bullets685: folds 
+Uncalled bet (60) returned to MaJeTiCs
+MaJeTiCs collected 210 from pot
+MaJeTiCs: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Seat 1: bullets685 (small blind) folded before Flop
+Seat 2: MaJeTiCs (big blind) collected (210)
+Seat 3: chelelo10-4 folded before Flop (didn't bet)
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 9: demon199548 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484622739: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 13:00:54 CUST [2026/10/23 8:00:54 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (6785 in chips) 
+Seat 2: MaJeTiCs (1004 in chips) 
+Seat 3: chelelo10-4 (1097 in chips) 
+Seat 6: Zebulon_53 (1315 in chips) 
+Seat 7: Ferpagani111 (1764 in chips) 
+Seat 9: demon199548 (1535 in chips) 
+bullets685: posts the ante 15
+MaJeTiCs: posts the ante 15
+chelelo10-4: posts the ante 15
+Zebulon_53: posts the ante 15
+Ferpagani111: posts the ante 15
+demon199548: posts the ante 15
+MaJeTiCs: posts small blind 60
+chelelo10-4: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [5h 7s]
+Zebulon_53: folds 
+Ferpagani111: raises 120 to 240
+demon199548: folds 
+bullets685: folds 
+MaJeTiCs: folds 
+chelelo10-4: raises 842 to 1082 and is all-in
+Ferpagani111: calls 842
+*** FLOP *** [Ah 2h 9s]
+*** TURN *** [Ah 2h 9s] [8c]
+*** RIVER *** [Ah 2h 9s 8c] [Jd]
+*** SHOW DOWN ***
+chelelo10-4: shows [Kd Kh] (a pair of Kings)
+Ferpagani111: shows [Ks As] (a pair of Aces)
+Ferpagani111 collected 2314 from pot
+chelelo10-4 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 2314 | Rake 0 
+Board [Ah 2h 9s 8c Jd]
+Seat 1: bullets685 (button) folded before Flop (didn't bet)
+Seat 2: MaJeTiCs (small blind) folded before Flop
+Seat 3: chelelo10-4 (big blind) showed [Kd Kh] and lost with a pair of Kings
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 showed [Ks As] and won (2314) with a pair of Aces
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484626013: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 13:01:27 CUST [2026/10/23 8:01:27 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (6770 in chips) 
+Seat 2: MaJeTiCs (929 in chips) 
+Seat 6: Zebulon_53 (1300 in chips) 
+Seat 7: Ferpagani111 (2981 in chips) 
+Seat 9: demon199548 (1520 in chips) 
+bullets685: posts the ante 15
+MaJeTiCs: posts the ante 15
+Zebulon_53: posts the ante 15
+Ferpagani111: posts the ante 15
+demon199548: posts the ante 15
+Zebulon_53: posts small blind 60
+Ferpagani111: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [2s 3d]
+demon199548: folds 
+bullets685: folds 
+MaJeTiCs: folds 
+Zebulon_53: calls 60
+Ferpagani111: raises 2846 to 2966 and is all-in
+Zebulon_53: folds 
+Uncalled bet (2846) returned to Ferpagani111
+Ferpagani111 collected 315 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 315 | Rake 0 
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs (button) folded before Flop (didn't bet)
+Seat 6: Zebulon_53 (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) collected (315)
+Seat 9: demon199548 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484628652: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level V (60/120) - 2026/10/23 13:01:54 CUST [2026/10/23 8:01:54 ET]
+Table '4041844494 1' 9-max Seat #6 is the button
+Seat 1: bullets685 (6755 in chips) 
+Seat 2: MaJeTiCs (914 in chips) 
+Seat 6: Zebulon_53 (1165 in chips) 
+Seat 7: Ferpagani111 (3161 in chips) 
+Seat 9: demon199548 (1505 in chips) 
+bullets685: posts the ante 15
+MaJeTiCs: posts the ante 15
+Zebulon_53: posts the ante 15
+Ferpagani111: posts the ante 15
+demon199548: posts the ante 15
+Ferpagani111: posts small blind 60
+demon199548: posts big blind 120
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd 9d]
+bullets685: folds 
+MaJeTiCs: folds 
+Zebulon_53: folds 
+Ferpagani111: folds 
+Uncalled bet (60) returned to demon199548
+demon199548 collected 195 from pot
+demon199548: doesn't show hand 
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Seat 1: bullets685 folded before Flop (didn't bet)
+Seat 2: MaJeTiCs folded before Flop (didn't bet)
+Seat 6: Zebulon_53 (button) folded before Flop (didn't bet)
+Seat 7: Ferpagani111 (small blind) folded before Flop
+Seat 9: demon199548 (big blind) collected (195)
+
+
+
+Betfair Hand #262484630129: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 13:02:09 CUST [2026/10/23 8:02:09 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (6740 in chips) 
+Seat 2: MaJeTiCs (899 in chips) 
+Seat 6: Zebulon_53 (1150 in chips) 
+Seat 7: Ferpagani111 (3086 in chips) 
+Seat 9: demon199548 (1625 in chips) 
+bullets685: posts the ante 20
+MaJeTiCs: posts the ante 20
+Zebulon_53: posts the ante 20
+Ferpagani111: posts the ante 20
+demon199548: posts the ante 20
+demon199548: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [4c 7d]
+MaJeTiCs: calls 160
+Zebulon_53: folds 
+Ferpagani111: folds 
+demon199548: raises 1445 to 1605 and is all-in
+bullets685: folds 
+MaJeTiCs: calls 719 and is all-in
+Uncalled bet (726) returned to demon199548
+*** FLOP *** [Ts Tc 3s]
+*** TURN *** [Ts Tc 3s] [As]
+*** RIVER *** [Ts Tc 3s As] [Qs]
+*** SHOW DOWN ***
+demon199548: shows [Ac 8d] (two pair, Aces and Tens)
+MaJeTiCs: shows [Ad Kc] (two pair, Aces and Tens - King kicker)
+MaJeTiCs collected 2018 from pot
+*** SUMMARY ***
+Total pot 2018 | Rake 0 
+Board [Ts Tc 3s As Qs]
+Seat 1: bullets685 (big blind) folded before Flop
+Seat 2: MaJeTiCs showed [Ad Kc] and won (2018) with two pair, Aces and Tens
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 (button) folded before Flop (didn't bet)
+Seat 9: demon199548 (small blind) showed [Ac 8d] and lost with two pair, Aces and Tens
+
+
+
+Betfair Hand #262484633243: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 13:02:41 CUST [2026/10/23 8:02:41 ET]
+Table '4041844494 1' 9-max Seat #9 is the button
+Seat 1: bullets685 (6560 in chips) 
+Seat 2: MaJeTiCs (2018 in chips) 
+Seat 6: Zebulon_53 (1130 in chips) 
+Seat 7: Ferpagani111 (3066 in chips) 
+Seat 9: demon199548 (726 in chips) 
+bullets685: posts the ante 20
+MaJeTiCs: posts the ante 20
+Zebulon_53: posts the ante 20
+Ferpagani111: posts the ante 20
+demon199548: posts the ante 20
+bullets685: posts small blind 80
+MaJeTiCs: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [6s 6d]
+Zebulon_53: folds 
+Ferpagani111: folds 
+demon199548: raises 546 to 706 and is all-in
+bullets685: calls 626
+MaJeTiCs: folds 
+*** FLOP *** [As Qc 5d]
+*** TURN *** [As Qc 5d] [Kc]
+*** RIVER *** [As Qc 5d Kc] [Jc]
+*** SHOW DOWN ***
+bullets685: shows [6s 6d] (a pair of Sixes)
+demon199548: shows [4h 4d] (a pair of Fours)
+bullets685 collected 1672 from pot
+demon199548 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1672 | Rake 0 
+Board [As Qc 5d Kc Jc]
+Seat 1: bullets685 (small blind) showed [6s 6d] and won (1672) with a pair of Sixes
+Seat 2: MaJeTiCs (big blind) folded before Flop
+Seat 6: Zebulon_53 folded before Flop (didn't bet)
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+Seat 9: demon199548 (button) showed [4h 4d] and lost with a pair of Fours
+
+
+
+Betfair Hand #262484636367: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 13:03:12 CUST [2026/10/23 8:03:12 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (7506 in chips) 
+Seat 2: MaJeTiCs (1838 in chips) 
+Seat 6: Zebulon_53 (1110 in chips) 
+Seat 7: Ferpagani111 (3046 in chips) 
+bullets685: posts the ante 20
+MaJeTiCs: posts the ante 20
+Zebulon_53: posts the ante 20
+Ferpagani111: posts the ante 20
+MaJeTiCs: posts small blind 80
+Zebulon_53: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Kd Js]
+Ferpagani111: folds 
+bullets685: raises 240 to 400
+MaJeTiCs: calls 320
+Zebulon_53: folds 
+*** FLOP *** [5s 3c 5c]
+MaJeTiCs: checks 
+bullets685: checks 
+*** TURN *** [5s 3c 5c] [4h]
+MaJeTiCs: bets 320
+bullets685: folds 
+Uncalled bet (320) returned to MaJeTiCs
+MaJeTiCs collected 1040 from pot
+MaJeTiCs: doesn't show hand 
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [5s 3c 5c 4h]
+Seat 1: bullets685 (button) folded on the Turn
+Seat 2: MaJeTiCs (small blind) collected (1040)
+Seat 6: Zebulon_53 (big blind) folded before Flop
+Seat 7: Ferpagani111 folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484640718: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 13:03:56 CUST [2026/10/23 8:03:56 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (7086 in chips) 
+Seat 2: MaJeTiCs (2458 in chips) 
+Seat 6: Zebulon_53 (930 in chips) 
+Seat 7: Ferpagani111 (3026 in chips) 
+bullets685: posts the ante 20
+MaJeTiCs: posts the ante 20
+Zebulon_53: posts the ante 20
+Ferpagani111: posts the ante 20
+Zebulon_53: posts small blind 80
+Ferpagani111: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [7s Ah]
+bullets685: raises 240 to 400
+MaJeTiCs: folds 
+Zebulon_53: folds 
+Ferpagani111: folds 
+Uncalled bet (240) returned to bullets685
+bullets685 collected 480 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: bullets685 collected (480)
+Seat 2: MaJeTiCs (button) folded before Flop (didn't bet)
+Seat 6: Zebulon_53 (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) folded before Flop
+
+
+
+Betfair Hand #262484641664: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 13:04:06 CUST [2026/10/23 8:04:06 ET]
+Table '4041844494 1' 9-max Seat #6 is the button
+Seat 1: bullets685 (7386 in chips) 
+Seat 2: MaJeTiCs (2438 in chips) 
+Seat 6: Zebulon_53 (830 in chips) 
+Seat 7: Ferpagani111 (2846 in chips) 
+bullets685: posts the ante 20
+MaJeTiCs: posts the ante 20
+Zebulon_53: posts the ante 20
+Ferpagani111: posts the ante 20
+Ferpagani111: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [2s 2d]
+MaJeTiCs: folds 
+Zebulon_53: raises 650 to 810 and is all-in
+Ferpagani111: folds 
+bullets685: calls 650
+*** FLOP *** [Qs 7h Kc]
+*** TURN *** [Qs 7h Kc] [5c]
+*** RIVER *** [Qs 7h Kc 5c] [5s]
+*** SHOW DOWN ***
+bullets685: shows [2s 2d] (two pair, Fives and Deuces)
+Zebulon_53: shows [6d Ac] (a pair of Fives)
+bullets685 collected 1780 from pot
+Zebulon_53 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1780 | Rake 0 
+Board [Qs 7h Kc 5c 5s]
+Seat 1: bullets685 (big blind) showed [2s 2d] and won (1780) with two pair, Fives and Deuces
+Seat 2: MaJeTiCs folded before Flop (didn't bet)
+Seat 6: Zebulon_53 (button) showed [6d Ac] and lost with a pair of Fives
+Seat 7: Ferpagani111 (small blind) folded before Flop
+
+
+
+Betfair Hand #262484643575: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 13:04:26 CUST [2026/10/23 8:04:26 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (8336 in chips) 
+Seat 2: MaJeTiCs (2418 in chips) 
+Seat 7: Ferpagani111 (2746 in chips) 
+bullets685: posts the ante 20
+MaJeTiCs: posts the ante 20
+Ferpagani111: posts the ante 20
+bullets685: posts small blind 80
+MaJeTiCs: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts 3s]
+Ferpagani111: folds 
+bullets685: folds 
+Uncalled bet (80) returned to MaJeTiCs
+MaJeTiCs collected 220 from pot
+MaJeTiCs: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Seat 1: bullets685 (small blind) folded before Flop
+Seat 2: MaJeTiCs (big blind) collected (220)
+Seat 7: Ferpagani111 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484645273: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 13:04:43 CUST [2026/10/23 8:04:43 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (8236 in chips) 
+Seat 2: MaJeTiCs (2538 in chips) 
+Seat 7: Ferpagani111 (2726 in chips) 
+bullets685: posts the ante 20
+MaJeTiCs: posts the ante 20
+Ferpagani111: posts the ante 20
+MaJeTiCs: posts small blind 80
+Ferpagani111: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc 5h]
+bullets685: folds 
+MaJeTiCs: calls 80
+Ferpagani111: checks 
+*** FLOP *** [Tc 2c Ks]
+MaJeTiCs: checks 
+Ferpagani111: bets 160
+MaJeTiCs: folds 
+Uncalled bet (160) returned to Ferpagani111
+Ferpagani111 collected 380 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [Tc 2c Ks]
+Seat 1: bullets685 (button) folded before Flop (didn't bet)
+Seat 2: MaJeTiCs (small blind) folded on the Flop
+Seat 7: Ferpagani111 (big blind) collected (380)
+
+
+
+Betfair Hand #262484647651: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 13:05:06 CUST [2026/10/23 8:05:06 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (8216 in chips) 
+Seat 2: MaJeTiCs (2358 in chips) 
+Seat 7: Ferpagani111 (2926 in chips) 
+bullets685: posts the ante 20
+MaJeTiCs: posts the ante 20
+Ferpagani111: posts the ante 20
+Ferpagani111: posts small blind 80
+bullets685: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [4d 5d]
+MaJeTiCs: calls 160
+Ferpagani111: calls 80
+bullets685: checks 
+*** FLOP *** [Jh Jc 2d]
+Ferpagani111: checks 
+bullets685: checks 
+MaJeTiCs: checks 
+*** TURN *** [Jh Jc 2d] [Ah]
+Ferpagani111: checks 
+bullets685: bets 160
+MaJeTiCs: folds 
+Ferpagani111: raises 400 to 560
+bullets685: folds 
+Uncalled bet (400) returned to Ferpagani111
+Ferpagani111 collected 860 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [Jh Jc 2d Ah]
+Seat 1: bullets685 (big blind) folded on the Turn
+Seat 2: MaJeTiCs (button) folded on the Turn
+Seat 7: Ferpagani111 (small blind) collected (860)
+
+
+
+Betfair Hand #262484653172: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 13:06:02 CUST [2026/10/23 8:06:02 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (7876 in chips) 
+Seat 2: MaJeTiCs (2178 in chips) 
+Seat 7: Ferpagani111 (3446 in chips) 
+bullets685: posts the ante 20
+MaJeTiCs: posts the ante 20
+Ferpagani111: posts the ante 20
+bullets685: posts small blind 80
+MaJeTiCs: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [5h 5d]
+Ferpagani111: raises 160 to 320
+bullets685: calls 240
+MaJeTiCs: folds 
+*** FLOP *** [7c Jc Kh]
+bullets685: checks 
+Ferpagani111: bets 284
+bullets685: calls 284
+*** TURN *** [7c Jc Kh] [6h]
+bullets685: checks 
+Ferpagani111: checks 
+*** RIVER *** [7c Jc Kh 6h] [As]
+bullets685: checks 
+Ferpagani111: bets 471
+bullets685: calls 471
+*** SHOW DOWN ***
+Ferpagani111: shows [Ad Qc] (a pair of Aces)
+bullets685: mucks hand 
+Ferpagani111 collected 2370 from pot
+*** SUMMARY ***
+Total pot 2370 | Rake 0 
+Board [7c Jc Kh 6h As]
+Seat 1: bullets685 (small blind) mucked [5h 5d]
+Seat 2: MaJeTiCs (big blind) folded before Flop
+Seat 7: Ferpagani111 (button) showed [Ad Qc] and won (2370) with a pair of Aces
+
+
+
+Betfair Hand #262484658337: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VI (80/160) - 2026/10/23 13:06:55 CUST [2026/10/23 8:06:55 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (6781 in chips) 
+Seat 2: MaJeTiCs (1998 in chips) 
+Seat 7: Ferpagani111 (4721 in chips) 
+bullets685: posts the ante 20
+MaJeTiCs: posts the ante 20
+Ferpagani111: posts the ante 20
+MaJeTiCs: posts small blind 80
+Ferpagani111: posts big blind 160
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 8h]
+bullets685: raises 160 to 320
+MaJeTiCs: folds 
+Ferpagani111: calls 160
+*** FLOP *** [Ad Td 7d]
+Ferpagani111: checks 
+bullets685: bets 320
+Ferpagani111: calls 320
+*** TURN *** [Ad Td 7d] [Qc]
+Ferpagani111: checks 
+bullets685: bets 320
+Ferpagani111: folds 
+Uncalled bet (320) returned to bullets685
+bullets685 collected 1420 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Board [Ad Td 7d Qc]
+Seat 1: bullets685 (button) collected (1420)
+Seat 2: MaJeTiCs (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) folded on the Turn
+
+
+
+Betfair Hand #262484662077: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/23 13:07:33 CUST [2026/10/23 8:07:33 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (7541 in chips) 
+Seat 2: MaJeTiCs (1898 in chips) 
+Seat 7: Ferpagani111 (4061 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Th 3d]
+MaJeTiCs: raises 200 to 400
+Ferpagani111: raises 3636 to 4036 and is all-in
+bullets685: folds 
+MaJeTiCs: calls 1473 and is all-in
+Uncalled bet (2163) returned to Ferpagani111
+*** FLOP *** [Tc Ts 2d]
+*** TURN *** [Tc Ts 2d] [5c]
+*** RIVER *** [Tc Ts 2d 5c] [6c]
+*** SHOW DOWN ***
+Ferpagani111: shows [9h Ah] (a pair of Tens)
+MaJeTiCs: shows [5d 9d] (two pair, Tens and Fives)
+MaJeTiCs collected 4021 from pot
+*** SUMMARY ***
+Total pot 4021 | Rake 0 
+Board [Tc Ts 2d 5c 6c]
+Seat 1: bullets685 (big blind) folded before Flop
+Seat 2: MaJeTiCs (button) showed [5d 9d] and won (4021) with two pair, Tens and Fives
+Seat 7: Ferpagani111 (small blind) showed [9h Ah] and lost with a pair of Tens
+
+
+
+Betfair Hand #262484663932: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/23 13:07:52 CUST [2026/10/23 8:07:52 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (7316 in chips) 
+Seat 2: MaJeTiCs (4021 in chips) 
+Seat 7: Ferpagani111 (2163 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 100
+MaJeTiCs: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Js 8s]
+Ferpagani111: folds 
+bullets685: raises 200 to 400
+MaJeTiCs: calls 200
+*** FLOP *** [4d 9d 5d]
+bullets685: checks 
+MaJeTiCs: checks 
+*** TURN *** [4d 9d 5d] [5s]
+bullets685: checks 
+MaJeTiCs: checks 
+*** RIVER *** [4d 9d 5d 5s] [Kh]
+bullets685: checks 
+MaJeTiCs: bets 200
+bullets685: folds 
+Uncalled bet (200) returned to MaJeTiCs
+MaJeTiCs collected 875 from pot
+MaJeTiCs: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Board [4d 9d 5d 5s Kh]
+Seat 1: bullets685 (small blind) folded on the River
+Seat 2: MaJeTiCs (big blind) collected (875)
+Seat 7: Ferpagani111 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484666991: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/23 13:08:23 CUST [2026/10/23 8:08:23 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (6891 in chips) 
+Seat 2: MaJeTiCs (4471 in chips) 
+Seat 7: Ferpagani111 (2138 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+MaJeTiCs: posts small blind 100
+Ferpagani111: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [2c As]
+bullets685: folds 
+MaJeTiCs: calls 100
+Ferpagani111: checks 
+*** FLOP *** [9h Th 7h]
+MaJeTiCs: checks 
+Ferpagani111: bets 200
+MaJeTiCs: folds 
+Uncalled bet (200) returned to Ferpagani111
+Ferpagani111 collected 475 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Board [9h Th 7h]
+Seat 1: bullets685 (button) folded before Flop (didn't bet)
+Seat 2: MaJeTiCs (small blind) folded on the Flop
+Seat 7: Ferpagani111 (big blind) collected (475)
+
+
+
+Betfair Hand #262484669103: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/23 13:08:45 CUST [2026/10/23 8:08:45 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (6866 in chips) 
+Seat 2: MaJeTiCs (4246 in chips) 
+Seat 7: Ferpagani111 (2388 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah Jh]
+MaJeTiCs: calls 200
+Ferpagani111: folds 
+bullets685: raises 400 to 600
+MaJeTiCs: folds 
+Uncalled bet (400) returned to bullets685
+bullets685 collected 575 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Seat 1: bullets685 (big blind) collected (575)
+Seat 2: MaJeTiCs (button) folded before Flop
+Seat 7: Ferpagani111 (small blind) folded before Flop
+
+
+
+Betfair Hand #262484670706: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/23 13:09:01 CUST [2026/10/23 8:09:01 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (7216 in chips) 
+Seat 2: MaJeTiCs (4021 in chips) 
+Seat 7: Ferpagani111 (2263 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 100
+MaJeTiCs: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [4s 4c]
+Ferpagani111: folds 
+bullets685: calls 100
+MaJeTiCs: checks 
+*** FLOP *** [7c 8s 3s]
+bullets685: bets 400
+MaJeTiCs: calls 400
+*** TURN *** [7c 8s 3s] [9d]
+bullets685: checks 
+MaJeTiCs: checks 
+*** RIVER *** [7c 8s 3s 9d] [8d]
+bullets685: checks 
+MaJeTiCs: checks 
+*** SHOW DOWN ***
+bullets685: shows [4s 4c] (two pair, Eights and Fours)
+MaJeTiCs: shows [Jc 7h] (two pair, Eights and Sevens)
+MaJeTiCs collected 1275 from pot
+*** SUMMARY ***
+Total pot 1275 | Rake 0 
+Board [7c 8s 3s 9d 8d]
+Seat 1: bullets685 (small blind) showed [4s 4c] and lost with two pair, Eights and Fours
+Seat 2: MaJeTiCs (big blind) showed [Jc 7h] and won (1275) with two pair, Eights and Sevens
+Seat 7: Ferpagani111 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484672926: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/23 13:09:23 CUST [2026/10/23 8:09:23 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (6591 in chips) 
+Seat 2: MaJeTiCs (4671 in chips) 
+Seat 7: Ferpagani111 (2238 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+MaJeTiCs: posts small blind 100
+Ferpagani111: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [2h 4h]
+bullets685: folds 
+MaJeTiCs: calls 100
+Ferpagani111: checks 
+*** FLOP *** [7s Qh Kd]
+MaJeTiCs: checks 
+Ferpagani111: checks 
+*** TURN *** [7s Qh Kd] [8c]
+MaJeTiCs: checks 
+Ferpagani111: checks 
+*** RIVER *** [7s Qh Kd 8c] [Ts]
+MaJeTiCs: bets 200
+Ferpagani111: folds 
+Uncalled bet (200) returned to MaJeTiCs
+MaJeTiCs collected 475 from pot
+MaJeTiCs: doesn't show hand 
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Board [7s Qh Kd 8c Ts]
+Seat 1: bullets685 (button) folded before Flop (didn't bet)
+Seat 2: MaJeTiCs (small blind) collected (475)
+Seat 7: Ferpagani111 (big blind) folded on the River
+
+
+
+Betfair Hand #262484675795: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/23 13:09:53 CUST [2026/10/23 8:09:53 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (6566 in chips) 
+Seat 2: MaJeTiCs (4921 in chips) 
+Seat 7: Ferpagani111 (2013 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts Js]
+MaJeTiCs: calls 200
+Ferpagani111: folds 
+bullets685: checks 
+*** FLOP *** [Ks 2c 4s]
+bullets685: bets 400
+MaJeTiCs: calls 400
+*** TURN *** [Ks 2c 4s] [Kh]
+bullets685: bets 400
+MaJeTiCs: folds 
+Uncalled bet (400) returned to bullets685
+bullets685 collected 1375 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1375 | Rake 0 
+Board [Ks 2c 4s Kh]
+Seat 1: bullets685 (big blind) collected (1375)
+Seat 2: MaJeTiCs (button) folded on the Turn
+Seat 7: Ferpagani111 (small blind) folded before Flop
+
+
+
+Betfair Hand #262484677571: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/23 13:10:12 CUST [2026/10/23 8:10:12 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (7316 in chips) 
+Seat 2: MaJeTiCs (4296 in chips) 
+Seat 7: Ferpagani111 (1888 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 100
+MaJeTiCs: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [3d 2c]
+Ferpagani111: raises 1663 to 1863 and is all-in
+bullets685: folds 
+MaJeTiCs: folds 
+Uncalled bet (1663) returned to Ferpagani111
+Ferpagani111 collected 575 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Seat 1: bullets685 (small blind) folded before Flop
+Seat 2: MaJeTiCs (big blind) folded before Flop
+Seat 7: Ferpagani111 (button) collected (575)
+
+
+
+Betfair Hand #262484678817: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/23 13:10:24 CUST [2026/10/23 8:10:24 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (7191 in chips) 
+Seat 2: MaJeTiCs (4071 in chips) 
+Seat 7: Ferpagani111 (2238 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+MaJeTiCs: posts small blind 100
+Ferpagani111: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [Qc Kd]
+bullets685: raises 200 to 400
+MaJeTiCs: calls 300
+Ferpagani111: folds 
+*** FLOP *** [5h 7s 6c]
+MaJeTiCs: bets 200
+bullets685: calls 200
+*** TURN *** [5h 7s 6c] [9d]
+MaJeTiCs: bets 200
+bullets685: calls 200
+*** RIVER *** [5h 7s 6c 9d] [Jd]
+MaJeTiCs: bets 1138
+bullets685: folds 
+Uncalled bet (1138) returned to MaJeTiCs
+MaJeTiCs collected 1875 from pot
+MaJeTiCs: doesn't show hand 
+*** SUMMARY ***
+Total pot 1875 | Rake 0 
+Board [5h 7s 6c 9d Jd]
+Seat 1: bullets685 (button) folded on the River
+Seat 2: MaJeTiCs (small blind) collected (1875)
+Seat 7: Ferpagani111 (big blind) folded before Flop
+
+
+
+Betfair Hand #262484682014: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/23 13:10:57 CUST [2026/10/23 8:10:57 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (6366 in chips) 
+Seat 2: MaJeTiCs (5121 in chips) 
+Seat 7: Ferpagani111 (2013 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [5c 3c]
+MaJeTiCs: folds 
+Ferpagani111: calls 100
+bullets685: checks 
+*** FLOP *** [Kh Jd 9s]
+Ferpagani111: bets 200
+bullets685: folds 
+Uncalled bet (200) returned to Ferpagani111
+Ferpagani111 collected 475 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Board [Kh Jd 9s]
+Seat 1: bullets685 (big blind) folded on the Flop
+Seat 2: MaJeTiCs (button) folded before Flop (didn't bet)
+Seat 7: Ferpagani111 (small blind) collected (475)
+
+
+
+Betfair Hand #262484683618: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/23 13:11:13 CUST [2026/10/23 8:11:13 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (6141 in chips) 
+Seat 2: MaJeTiCs (5096 in chips) 
+Seat 7: Ferpagani111 (2263 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 100
+MaJeTiCs: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [6h Ks]
+Ferpagani111: folds 
+bullets685: raises 200 to 400
+MaJeTiCs: calls 200
+*** FLOP *** [9h Qc Td]
+bullets685: checks 
+MaJeTiCs: bets 600
+bullets685: folds 
+Uncalled bet (600) returned to MaJeTiCs
+MaJeTiCs collected 875 from pot
+MaJeTiCs: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Board [9h Qc Td]
+Seat 1: bullets685 (small blind) folded on the Flop
+Seat 2: MaJeTiCs (big blind) collected (875)
+Seat 7: Ferpagani111 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484686436: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/23 13:11:42 CUST [2026/10/23 8:11:42 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (5716 in chips) 
+Seat 2: MaJeTiCs (5546 in chips) 
+Seat 7: Ferpagani111 (2238 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+MaJeTiCs: posts small blind 100
+Ferpagani111: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [5d 9s]
+bullets685: folds 
+MaJeTiCs: calls 100
+Ferpagani111: raises 2013 to 2213 and is all-in
+MaJeTiCs: folds 
+Uncalled bet (2013) returned to Ferpagani111
+Ferpagani111 collected 475 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Seat 1: bullets685 (button) folded before Flop (didn't bet)
+Seat 2: MaJeTiCs (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) collected (475)
+
+
+
+Betfair Hand #262484687834: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VII (100/200) - 2026/10/23 13:11:56 CUST [2026/10/23 8:11:56 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (5691 in chips) 
+Seat 2: MaJeTiCs (5321 in chips) 
+Seat 7: Ferpagani111 (2488 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 100
+bullets685: posts big blind 200
+*** HOLE CARDS ***
+Dealt to bullets685 [8d 8c]
+MaJeTiCs: calls 200
+Ferpagani111: folds 
+bullets685: raises 400 to 600
+MaJeTiCs: calls 400
+*** FLOP *** [3h Ad Jc]
+bullets685: bets 600
+MaJeTiCs: raises 600 to 1200
+bullets685: folds 
+Uncalled bet (600) returned to MaJeTiCs
+MaJeTiCs collected 2575 from pot
+MaJeTiCs: doesn't show hand 
+*** SUMMARY ***
+Total pot 2575 | Rake 0 
+Board [3h Ad Jc]
+Seat 1: bullets685 (big blind) folded on the Flop
+Seat 2: MaJeTiCs (button) collected (2575)
+Seat 7: Ferpagani111 (small blind) folded before Flop
+
+
+
+Betfair Hand #262484690265: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:12:21 CUST [2026/10/23 8:12:21 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (4466 in chips) 
+Seat 2: MaJeTiCs (6671 in chips) 
+Seat 7: Ferpagani111 (2363 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 150
+MaJeTiCs: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [3d 9c]
+Ferpagani111: folds 
+bullets685: folds 
+Uncalled bet (150) returned to MaJeTiCs
+MaJeTiCs collected 375 from pot
+MaJeTiCs: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: bullets685 (small blind) folded before Flop
+Seat 2: MaJeTiCs (big blind) collected (375)
+Seat 7: Ferpagani111 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484690994: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:12:29 CUST [2026/10/23 8:12:29 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (4291 in chips) 
+Seat 2: MaJeTiCs (6871 in chips) 
+Seat 7: Ferpagani111 (2338 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+MaJeTiCs: posts small blind 150
+Ferpagani111: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [9s 3c]
+bullets685: folds 
+MaJeTiCs: calls 150
+Ferpagani111: checks 
+*** FLOP *** [Qc Qs As]
+MaJeTiCs: checks 
+Ferpagani111: checks 
+*** TURN *** [Qc Qs As] [3d]
+MaJeTiCs: checks 
+Ferpagani111: checks 
+*** RIVER *** [Qc Qs As 3d] [8d]
+MaJeTiCs: bets 300
+Ferpagani111: folds 
+Uncalled bet (300) returned to MaJeTiCs
+MaJeTiCs collected 675 from pot
+MaJeTiCs: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [Qc Qs As 3d 8d]
+Seat 1: bullets685 (button) folded before Flop (didn't bet)
+Seat 2: MaJeTiCs (small blind) collected (675)
+Seat 7: Ferpagani111 (big blind) folded on the River
+
+
+
+Betfair Hand #262484693845: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:12:57 CUST [2026/10/23 8:12:57 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (4266 in chips) 
+Seat 2: MaJeTiCs (7221 in chips) 
+Seat 7: Ferpagani111 (2013 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [2c 9h]
+MaJeTiCs: raises 300 to 600
+Ferpagani111: raises 1388 to 1988 and is all-in
+bullets685: folds 
+MaJeTiCs: calls 1388
+*** FLOP *** [Jc Ac Ah]
+*** TURN *** [Jc Ac Ah] [Qc]
+*** RIVER *** [Jc Ac Ah Qc] [6d]
+*** SHOW DOWN ***
+Ferpagani111: shows [6c As] (a full house, Aces full of Sixes)
+MaJeTiCs: shows [Kd Ks] (two pair, Aces and Kings)
+Ferpagani111 collected 4351 from pot
+*** SUMMARY ***
+Total pot 4351 | Rake 0 
+Board [Jc Ac Ah Qc 6d]
+Seat 1: bullets685 (big blind) folded before Flop
+Seat 2: MaJeTiCs (button) showed [Kd Ks] and lost with two pair, Aces and Kings
+Seat 7: Ferpagani111 (small blind) showed [6c As] and won (4351) with a full house, Aces full of Sixes
+
+
+
+Betfair Hand #262484695763: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:13:17 CUST [2026/10/23 8:13:17 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (3941 in chips) 
+Seat 2: MaJeTiCs (5208 in chips) 
+Seat 7: Ferpagani111 (4351 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 150
+MaJeTiCs: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Jc 2s]
+Ferpagani111: raises 300 to 600
+bullets685: folds 
+MaJeTiCs: folds 
+Uncalled bet (300) returned to Ferpagani111
+Ferpagani111 collected 825 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 1: bullets685 (small blind) folded before Flop
+Seat 2: MaJeTiCs (big blind) folded before Flop
+Seat 7: Ferpagani111 (button) collected (825)
+
+
+
+Betfair Hand #262484697289: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:13:33 CUST [2026/10/23 8:13:33 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (3766 in chips) 
+Seat 2: MaJeTiCs (4883 in chips) 
+Seat 7: Ferpagani111 (4851 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+MaJeTiCs: posts small blind 150
+Ferpagani111: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [6s 7d]
+bullets685: folds 
+MaJeTiCs: calls 150
+Ferpagani111: raises 4526 to 4826 and is all-in
+MaJeTiCs: folds 
+Uncalled bet (4526) returned to Ferpagani111
+Ferpagani111 collected 675 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: bullets685 (button) folded before Flop (didn't bet)
+Seat 2: MaJeTiCs (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) collected (675)
+
+
+
+Betfair Hand #262484698420: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:13:44 CUST [2026/10/23 8:13:44 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (3741 in chips) 
+Seat 2: MaJeTiCs (4558 in chips) 
+Seat 7: Ferpagani111 (5201 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [2c 2d]
+MaJeTiCs: folds 
+Ferpagani111: calls 150
+bullets685: checks 
+*** FLOP *** [3c Jc 6s]
+Ferpagani111: bets 300
+bullets685: folds 
+Uncalled bet (300) returned to Ferpagani111
+Ferpagani111 collected 675 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [3c Jc 6s]
+Seat 1: bullets685 (big blind) folded on the Flop
+Seat 2: MaJeTiCs (button) folded before Flop (didn't bet)
+Seat 7: Ferpagani111 (small blind) collected (675)
+
+
+
+Betfair Hand #262484700662: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:14:08 CUST [2026/10/23 8:14:08 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (3416 in chips) 
+Seat 2: MaJeTiCs (4533 in chips) 
+Seat 7: Ferpagani111 (5551 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 150
+MaJeTiCs: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [5h 9d]
+Ferpagani111: folds 
+bullets685: folds 
+Uncalled bet (150) returned to MaJeTiCs
+MaJeTiCs collected 375 from pot
+MaJeTiCs: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: bullets685 (small blind) folded before Flop
+Seat 2: MaJeTiCs (big blind) collected (375)
+Seat 7: Ferpagani111 (button) folded before Flop (didn't bet)
+
+
+
+Betfair Hand #262484701378: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:14:15 CUST [2026/10/23 8:14:15 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (3241 in chips) 
+Seat 2: MaJeTiCs (4733 in chips) 
+Seat 7: Ferpagani111 (5526 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+MaJeTiCs: posts small blind 150
+Ferpagani111: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Ts Qs]
+bullets685: raises 300 to 600
+MaJeTiCs: folds 
+Ferpagani111: folds 
+Uncalled bet (300) returned to bullets685
+bullets685 collected 825 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 1: bullets685 (button) collected (825)
+Seat 2: MaJeTiCs (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) folded before Flop
+
+
+
+Betfair Hand #262484703652: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:14:38 CUST [2026/10/23 8:14:38 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (3741 in chips) 
+Seat 2: MaJeTiCs (4558 in chips) 
+Seat 7: Ferpagani111 (5201 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Th Qc]
+MaJeTiCs: raises 300 to 600
+Ferpagani111: folds 
+bullets685: calls 300
+*** FLOP *** [3h 7h 5s]
+bullets685: checks 
+MaJeTiCs: bets 300
+bullets685: calls 300
+*** TURN *** [3h 7h 5s] [Qs]
+bullets685: checks 
+MaJeTiCs: checks 
+*** RIVER *** [3h 7h 5s Qs] [Td]
+bullets685: bets 1013
+MaJeTiCs: folds 
+Uncalled bet (1013) returned to bullets685
+bullets685 collected 2025 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 2025 | Rake 0 
+Board [3h 7h 5s Qs Td]
+Seat 1: bullets685 (big blind) collected (2025)
+Seat 2: MaJeTiCs (button) folded on the River
+Seat 7: Ferpagani111 (small blind) folded before Flop
+
+
+
+Betfair Hand #262484707481: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:15:16 CUST [2026/10/23 8:15:16 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (4841 in chips) 
+Seat 2: MaJeTiCs (3633 in chips) 
+Seat 7: Ferpagani111 (5026 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 150
+MaJeTiCs: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [5c 3s]
+Ferpagani111: raises 300 to 600
+bullets685: folds 
+MaJeTiCs: folds 
+Uncalled bet (300) returned to Ferpagani111
+Ferpagani111 collected 825 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 1: bullets685 (small blind) folded before Flop
+Seat 2: MaJeTiCs (big blind) folded before Flop
+Seat 7: Ferpagani111 (button) collected (825)
+
+
+
+Betfair Hand #262484708665: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:15:28 CUST [2026/10/23 8:15:28 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (4666 in chips) 
+Seat 2: MaJeTiCs (3308 in chips) 
+Seat 7: Ferpagani111 (5526 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+MaJeTiCs: posts small blind 150
+Ferpagani111: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [7s 2d]
+bullets685: folds 
+MaJeTiCs: calls 150
+Ferpagani111: raises 5201 to 5501 and is all-in
+MaJeTiCs: folds 
+Uncalled bet (5201) returned to Ferpagani111
+Ferpagani111 collected 675 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: bullets685 (button) folded before Flop (didn't bet)
+Seat 2: MaJeTiCs (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) collected (675)
+
+
+
+Betfair Hand #262484710202: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:15:44 CUST [2026/10/23 8:15:44 ET]
+Table '4041844494 1' 9-max Seat #2 is the button
+Seat 1: bullets685 (4641 in chips) 
+Seat 2: MaJeTiCs (2983 in chips) 
+Seat 7: Ferpagani111 (5876 in chips) 
+bullets685: posts the ante 25
+MaJeTiCs: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [6h 2c]
+MaJeTiCs: calls 300
+Ferpagani111: raises 5551 to 5851 and is all-in
+bullets685: folds 
+MaJeTiCs: calls 2658 and is all-in
+Uncalled bet (2893) returned to Ferpagani111
+*** FLOP *** [Kc Jh Kh]
+*** TURN *** [Kc Jh Kh] [3h]
+*** RIVER *** [Kc Jh Kh 3h] [8s]
+*** SHOW DOWN ***
+Ferpagani111: shows [As Jc] (two pair, Kings and Jacks)
+MaJeTiCs: shows [Qh Td] (a pair of Kings)
+Ferpagani111 collected 6291 from pot
+MaJeTiCs finished the tournament in 3rd place and received $7.92.
+*** SUMMARY ***
+Total pot 6291 | Rake 0 
+Board [Kc Jh Kh 3h 8s]
+Seat 1: bullets685 (big blind) folded before Flop
+Seat 2: MaJeTiCs (button) showed [Qh Td] and lost with a pair of Kings
+Seat 7: Ferpagani111 (small blind) showed [As Jc] and won (6291) with two pair, Kings and Jacks
+
+
+
+Betfair Hand #262484712668: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:16:08 CUST [2026/10/23 8:16:08 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (4316 in chips) 
+Seat 7: Ferpagani111 (9184 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 150
+Ferpagani111: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Kd Ad]
+bullets685: raises 300 to 600
+Ferpagani111: calls 300
+*** FLOP *** [8c Jh 3d]
+Ferpagani111: checks 
+bullets685: bets 600
+Ferpagani111: folds 
+Uncalled bet (600) returned to bullets685
+bullets685 collected 1250 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [8c Jh 3d]
+Seat 1: bullets685 (button) (small blind) collected (1250)
+Seat 7: Ferpagani111 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262484716095: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level VIII (150/300) - 2026/10/23 13:16:42 CUST [2026/10/23 8:16:42 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (4941 in chips) 
+Seat 7: Ferpagani111 (8559 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 150
+bullets685: posts big blind 300
+*** HOLE CARDS ***
+Dealt to bullets685 [Tc 8d]
+Ferpagani111: calls 150
+bullets685: checks 
+*** FLOP *** [9h 3c 7c]
+bullets685: bets 600
+Ferpagani111: calls 600
+*** TURN *** [9h 3c 7c] [Js]
+bullets685: bets 925
+Ferpagani111: folds 
+Uncalled bet (925) returned to bullets685
+bullets685 collected 1850 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1850 | Rake 0 
+Board [9h 3c 7c Js]
+Seat 1: bullets685 (big blind) collected (1850)
+Seat 7: Ferpagani111 (button) (small blind) folded on the Turn
+
+
+
+Betfair Hand #262484720097: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:17:22 CUST [2026/10/23 8:17:22 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (5866 in chips) 
+Seat 7: Ferpagani111 (7634 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 200
+Ferpagani111: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [4s 9h]
+bullets685: folds 
+Uncalled bet (200) returned to Ferpagani111
+Ferpagani111 collected 450 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Seat 1: bullets685 (button) (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) collected (450)
+
+
+
+Betfair Hand #262484720681: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:17:27 CUST [2026/10/23 8:17:27 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (5641 in chips) 
+Seat 7: Ferpagani111 (7859 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [5s 3s]
+Ferpagani111: calls 200
+bullets685: checks 
+*** FLOP *** [5h Ts 6c]
+bullets685: checks 
+Ferpagani111: bets 400
+bullets685: calls 400
+*** TURN *** [5h Ts 6c] [9s]
+bullets685: checks 
+Ferpagani111: checks 
+*** RIVER *** [5h Ts 6c 9s] [2s]
+bullets685: bets 1650
+Ferpagani111: calls 1650
+*** SHOW DOWN ***
+bullets685: shows [5s 3s] (a flush, Ten high)
+Ferpagani111: mucks hand 
+bullets685 collected 4950 from pot
+*** SUMMARY ***
+Total pot 4950 | Rake 0 
+Board [5h Ts 6c 9s 2s]
+Seat 1: bullets685 (big blind) showed [5s 3s] and won (4950) with a flush, Ten high
+Seat 7: Ferpagani111 (button) (small blind) mucked [Th Qh]
+
+
+
+Betfair Hand #262484723685: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:17:56 CUST [2026/10/23 8:17:56 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (8116 in chips) 
+Seat 7: Ferpagani111 (5384 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 200
+Ferpagani111: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [2h 5s]
+bullets685: raises 400 to 800
+Ferpagani111: raises 4559 to 5359 and is all-in
+bullets685: folds 
+Uncalled bet (4559) returned to Ferpagani111
+Ferpagani111 collected 1650 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Seat 1: bullets685 (button) (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) collected (1650)
+
+
+
+Betfair Hand #262484725072: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:18:10 CUST [2026/10/23 8:18:10 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (7291 in chips) 
+Seat 7: Ferpagani111 (6209 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [9s Ad]
+Ferpagani111: calls 200
+bullets685: checks 
+*** FLOP *** [Ac Qs 6d]
+bullets685: checks 
+Ferpagani111: bets 400
+bullets685: raises 800 to 1200
+Ferpagani111: folds 
+Uncalled bet (800) returned to bullets685
+bullets685 collected 1650 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [Ac Qs 6d]
+Seat 1: bullets685 (big blind) collected (1650)
+Seat 7: Ferpagani111 (button) (small blind) folded on the Flop
+
+
+
+Betfair Hand #262484727956: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:18:37 CUST [2026/10/23 8:18:37 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (8116 in chips) 
+Seat 7: Ferpagani111 (5384 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 200
+Ferpagani111: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Kh Jc]
+bullets685: raises 800 to 1200
+Ferpagani111: folds 
+Uncalled bet (800) returned to bullets685
+bullets685 collected 850 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: bullets685 (button) (small blind) collected (850)
+Seat 7: Ferpagani111 (big blind) folded before Flop
+
+
+
+Betfair Hand #262484729474: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:18:53 CUST [2026/10/23 8:18:53 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (8541 in chips) 
+Seat 7: Ferpagani111 (4959 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [8s 6d]
+Ferpagani111: calls 200
+bullets685: checks 
+*** FLOP *** [5h Kh 4c]
+bullets685: checks 
+Ferpagani111: bets 400
+bullets685: folds 
+Uncalled bet (400) returned to Ferpagani111
+Ferpagani111 collected 850 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [5h Kh 4c]
+Seat 1: bullets685 (big blind) folded on the Flop
+Seat 7: Ferpagani111 (button) (small blind) collected (850)
+
+
+
+Betfair Hand #262484731725: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:19:15 CUST [2026/10/23 8:19:15 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (8116 in chips) 
+Seat 7: Ferpagani111 (5384 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 200
+Ferpagani111: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [4d Jc]
+bullets685: raises 400 to 800
+Ferpagani111: calls 400
+*** FLOP *** [Ts 4h 5c]
+Ferpagani111: checks 
+bullets685: bets 800
+Ferpagani111: folds 
+Uncalled bet (800) returned to bullets685
+bullets685 collected 1650 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [Ts 4h 5c]
+Seat 1: bullets685 (button) (small blind) collected (1650)
+Seat 7: Ferpagani111 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262484734101: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:19:39 CUST [2026/10/23 8:19:39 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (8941 in chips) 
+Seat 7: Ferpagani111 (4559 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [8h 9s]
+Ferpagani111: calls 200
+bullets685: checks 
+*** FLOP *** [2s Qd Jd]
+bullets685: checks 
+Ferpagani111: bets 400
+bullets685: calls 400
+*** TURN *** [2s Qd Jd] [Kc]
+bullets685: checks 
+Ferpagani111: bets 825
+bullets685: folds 
+Uncalled bet (825) returned to Ferpagani111
+Ferpagani111 collected 1650 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [2s Qd Jd Kc]
+Seat 1: bullets685 (big blind) folded on the Turn
+Seat 7: Ferpagani111 (button) (small blind) collected (1650)
+
+
+
+Betfair Hand #262484738112: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:20:18 CUST [2026/10/23 8:20:18 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (8116 in chips) 
+Seat 7: Ferpagani111 (5384 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 200
+Ferpagani111: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah Qs]
+bullets685: raises 400 to 800
+Ferpagani111: folds 
+Uncalled bet (400) returned to bullets685
+bullets685 collected 850 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: bullets685 (button) (small blind) collected (850)
+Seat 7: Ferpagani111 (big blind) folded before Flop
+
+
+
+Betfair Hand #262484740059: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:20:37 CUST [2026/10/23 8:20:37 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (8541 in chips) 
+Seat 7: Ferpagani111 (4959 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Js 3s]
+Ferpagani111: raises 4534 to 4934 and is all-in
+bullets685: folds 
+Uncalled bet (4534) returned to Ferpagani111
+Ferpagani111 collected 850 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: bullets685 (big blind) folded before Flop
+Seat 7: Ferpagani111 (button) (small blind) collected (850)
+
+
+
+Betfair Hand #262484741048: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:20:46 CUST [2026/10/23 8:20:46 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (8116 in chips) 
+Seat 7: Ferpagani111 (5384 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 200
+Ferpagani111: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Qd 8s]
+bullets685: calls 200
+Ferpagani111: raises 4959 to 5359 and is all-in
+bullets685: folds 
+Uncalled bet (4959) returned to Ferpagani111
+Ferpagani111 collected 850 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: bullets685 (button) (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) collected (850)
+
+
+
+Betfair Hand #262484742557: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:21:01 CUST [2026/10/23 8:21:01 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (7691 in chips) 
+Seat 7: Ferpagani111 (5809 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [Jh As]
+Ferpagani111: calls 200
+bullets685: raises 7266 to 7666 and is all-in
+Ferpagani111: folds 
+Uncalled bet (7266) returned to bullets685
+bullets685 collected 850 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: bullets685 (big blind) collected (850)
+Seat 7: Ferpagani111 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262484744999: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:21:24 CUST [2026/10/23 8:21:24 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (8116 in chips) 
+Seat 7: Ferpagani111 (5384 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+bullets685: posts small blind 200
+Ferpagani111: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [2s Ks]
+bullets685: calls 200
+Ferpagani111: checks 
+*** FLOP *** [Ah 6s Ac]
+Ferpagani111: checks 
+bullets685: checks 
+*** TURN *** [Ah 6s Ac] [9c]
+Ferpagani111: checks 
+bullets685: bets 800
+Ferpagani111: calls 800
+*** RIVER *** [Ah 6s Ac 9c] [8d]
+Ferpagani111: checks 
+bullets685: checks 
+*** SHOW DOWN ***
+Ferpagani111: shows [9s Jc] (two pair, Aces and Nines)
+bullets685: mucks hand 
+Ferpagani111 collected 2450 from pot
+*** SUMMARY ***
+Total pot 2450 | Rake 0 
+Board [Ah 6s Ac 9c 8d]
+Seat 1: bullets685 (button) (small blind) mucked [2s Ks]
+Seat 7: Ferpagani111 (big blind) showed [9s Jc] and won (2450) with two pair, Aces and Nines
+
+
+
+Betfair Hand #262484748019: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level IX (200/400) - 2026/10/23 13:21:52 CUST [2026/10/23 8:21:52 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (6891 in chips) 
+Seat 7: Ferpagani111 (6609 in chips) 
+bullets685: posts the ante 25
+Ferpagani111: posts the ante 25
+Ferpagani111: posts small blind 200
+bullets685: posts big blind 400
+*** HOLE CARDS ***
+Dealt to bullets685 [2h 3s]
+Ferpagani111: calls 200
+bullets685: checks 
+*** FLOP *** [8h Ah 3d]
+bullets685: checks 
+Ferpagani111: bets 400
+bullets685: folds 
+Uncalled bet (400) returned to Ferpagani111
+Ferpagani111 collected 850 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [8h Ah 3d]
+Seat 1: bullets685 (big blind) folded on the Flop
+Seat 7: Ferpagani111 (button) (small blind) collected (850)
+
+
+
+Betfair Hand #262484750130: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:22:13 CUST [2026/10/23 8:22:13 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (6466 in chips) 
+Seat 7: Ferpagani111 (7034 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+bullets685: posts small blind 300
+Ferpagani111: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [Qs Td]
+bullets685: calls 300
+Ferpagani111 has timed out
+Ferpagani111: checks 
+*** FLOP *** [2s 3h Qh]
+Ferpagani111: checks 
+bullets685: bets 1200
+Ferpagani111: folds 
+Uncalled bet (1200) returned to bullets685
+bullets685 collected 1300 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [2s 3h Qh]
+Seat 1: bullets685 (button) (small blind) collected (1300)
+Seat 7: Ferpagani111 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262484753558: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:22:46 CUST [2026/10/23 8:22:46 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (7116 in chips) 
+Seat 7: Ferpagani111 (6384 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+Ferpagani111: posts small blind 300
+bullets685: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [3s Qh]
+Ferpagani111: calls 300
+bullets685: checks 
+*** FLOP *** [2d 3c 8s]
+bullets685: checks 
+Ferpagani111: bets 600
+bullets685: calls 600
+*** TURN *** [2d 3c 8s] [3h]
+bullets685: checks 
+Ferpagani111: checks 
+*** RIVER *** [2d 3c 8s 3h] [8c]
+bullets685: bets 1200
+Ferpagani111: calls 1200
+*** SHOW DOWN ***
+bullets685: shows [3s Qh] (a full house, Threes full of Eights)
+Ferpagani111: mucks hand 
+bullets685 collected 4900 from pot
+*** SUMMARY ***
+Total pot 4900 | Rake 0 
+Board [2d 3c 8s 3h 8c]
+Seat 1: bullets685 (big blind) showed [3s Qh] and won (4900) with a full house, Threes full of Eights
+Seat 7: Ferpagani111 (button) (small blind) mucked [6d Kc]
+
+
+
+Betfair Hand #262484757581: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:23:24 CUST [2026/10/23 8:23:24 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (9566 in chips) 
+Seat 7: Ferpagani111 (3934 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+bullets685: posts small blind 300
+Ferpagani111: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [5s 2d]
+bullets685: folds 
+Uncalled bet (300) returned to Ferpagani111
+Ferpagani111 collected 700 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: bullets685 (button) (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) collected (700)
+
+
+
+Betfair Hand #262484758422: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:23:32 CUST [2026/10/23 8:23:32 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (9216 in chips) 
+Seat 7: Ferpagani111 (4284 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+Ferpagani111: posts small blind 300
+bullets685: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [4h 7s]
+Ferpagani111: calls 300
+bullets685: checks 
+*** FLOP *** [Kd Jd 9c]
+bullets685: checks 
+Ferpagani111: bets 600
+bullets685: folds 
+Uncalled bet (600) returned to Ferpagani111
+Ferpagani111 collected 1300 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [Kd Jd 9c]
+Seat 1: bullets685 (big blind) folded on the Flop
+Seat 7: Ferpagani111 (button) (small blind) collected (1300)
+
+
+
+Betfair Hand #262484759969: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:23:47 CUST [2026/10/23 8:23:47 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (8566 in chips) 
+Seat 7: Ferpagani111 (4934 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+bullets685: posts small blind 300
+Ferpagani111: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [7h 5h]
+bullets685: calls 300
+Ferpagani111: checks 
+*** FLOP *** [4s Ks Ac]
+Ferpagani111: checks 
+bullets685: bets 600
+Ferpagani111: folds 
+Uncalled bet (600) returned to bullets685
+bullets685 collected 1300 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [4s Ks Ac]
+Seat 1: bullets685 (button) (small blind) collected (1300)
+Seat 7: Ferpagani111 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262484761677: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:24:04 CUST [2026/10/23 8:24:04 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (9216 in chips) 
+Seat 7: Ferpagani111 (4284 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+Ferpagani111: posts small blind 300
+bullets685: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [7d Qh]
+Ferpagani111: calls 300
+bullets685: checks 
+*** FLOP *** [Ks 3c Tc]
+bullets685: checks 
+Ferpagani111: bets 600
+bullets685: folds 
+Uncalled bet (600) returned to Ferpagani111
+Ferpagani111 collected 1300 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [Ks 3c Tc]
+Seat 1: bullets685 (big blind) folded on the Flop
+Seat 7: Ferpagani111 (button) (small blind) collected (1300)
+
+
+
+Betfair Hand #262484764191: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:24:28 CUST [2026/10/23 8:24:28 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (8566 in chips) 
+Seat 7: Ferpagani111 (4934 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+bullets685: posts small blind 300
+Ferpagani111: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [6s Qc]
+bullets685: folds 
+Uncalled bet (300) returned to Ferpagani111
+Ferpagani111 collected 700 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: bullets685 (button) (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) collected (700)
+
+
+
+Betfair Hand #262484764849: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:24:35 CUST [2026/10/23 8:24:35 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (8216 in chips) 
+Seat 7: Ferpagani111 (5284 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+Ferpagani111: posts small blind 300
+bullets685: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [7h Ah]
+Ferpagani111: calls 300
+bullets685: raises 600 to 1200
+Ferpagani111: folds 
+Uncalled bet (600) returned to bullets685
+bullets685 collected 1300 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 1: bullets685 (big blind) collected (1300)
+Seat 7: Ferpagani111 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262484765954: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:24:45 CUST [2026/10/23 8:24:45 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (8866 in chips) 
+Seat 7: Ferpagani111 (4634 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+bullets685: posts small blind 300
+Ferpagani111: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [Ad 5c]
+bullets685: calls 300
+Ferpagani111: checks 
+*** FLOP *** [Kh 8d Ah]
+Ferpagani111: checks 
+bullets685: bets 1200
+Ferpagani111: folds 
+Uncalled bet (1200) returned to bullets685
+bullets685 collected 1300 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [Kh 8d Ah]
+Seat 1: bullets685 (button) (small blind) collected (1300)
+Seat 7: Ferpagani111 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262484768084: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:25:05 CUST [2026/10/23 8:25:05 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (9516 in chips) 
+Seat 7: Ferpagani111 (3984 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+Ferpagani111: posts small blind 300
+bullets685: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah 2c]
+Ferpagani111: folds 
+Uncalled bet (300) returned to bullets685
+bullets685 collected 700 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: bullets685 (big blind) collected (700)
+Seat 7: Ferpagani111 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262484768785: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:25:12 CUST [2026/10/23 8:25:12 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (9866 in chips) 
+Seat 7: Ferpagani111 (3634 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+bullets685: posts small blind 300
+Ferpagani111: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [Jd 9h]
+bullets685: calls 300
+Ferpagani111: checks 
+*** FLOP *** [2d 5s 9d]
+Ferpagani111: checks 
+bullets685: bets 1200
+Ferpagani111: folds 
+Uncalled bet (1200) returned to bullets685
+bullets685 collected 1300 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [2d 5s 9d]
+Seat 1: bullets685 (button) (small blind) collected (1300)
+Seat 7: Ferpagani111 (big blind) folded on the Flop
+
+
+
+Betfair Hand #262484770653: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:25:30 CUST [2026/10/23 8:25:30 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (10516 in chips) 
+Seat 7: Ferpagani111 (2984 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+Ferpagani111: posts small blind 300
+bullets685: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [2d 9s]
+Ferpagani111: raises 2334 to 2934 and is all-in
+bullets685: folds 
+Uncalled bet (2334) returned to Ferpagani111
+Ferpagani111 collected 1300 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 1: bullets685 (big blind) folded before Flop
+Seat 7: Ferpagani111 (button) (small blind) collected (1300)
+
+
+
+Betfair Hand #262484771575: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:25:38 CUST [2026/10/23 8:25:38 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (9866 in chips) 
+Seat 7: Ferpagani111 (3634 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+bullets685: posts small blind 300
+Ferpagani111: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [6d Kh]
+bullets685: calls 300
+Ferpagani111: raises 2984 to 3584 and is all-in
+bullets685: folds 
+Uncalled bet (2984) returned to Ferpagani111
+Ferpagani111 collected 1300 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 1: bullets685 (button) (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) collected (1300)
+
+
+
+Betfair Hand #262484773237: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:25:54 CUST [2026/10/23 8:25:54 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (9216 in chips) 
+Seat 7: Ferpagani111 (4284 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+Ferpagani111: posts small blind 300
+bullets685: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [Ah 6s]
+Ferpagani111: calls 300
+bullets685: raises 8566 to 9166 and is all-in
+Ferpagani111: folds 
+Uncalled bet (8566) returned to bullets685
+bullets685 collected 1300 from pot
+bullets685: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 1: bullets685 (big blind) collected (1300)
+Seat 7: Ferpagani111 (button) (small blind) folded before Flop
+
+
+
+Betfair Hand #262484774840: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:26:09 CUST [2026/10/23 8:26:09 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (9866 in chips) 
+Seat 7: Ferpagani111 (3634 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+bullets685: posts small blind 300
+Ferpagani111: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [8d 3c]
+bullets685: folds 
+Uncalled bet (300) returned to Ferpagani111
+Ferpagani111 collected 700 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: bullets685 (button) (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) collected (700)
+
+
+
+Betfair Hand #262484775488: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:26:15 CUST [2026/10/23 8:26:15 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (9516 in chips) 
+Seat 7: Ferpagani111 (3984 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+Ferpagani111: posts small blind 300
+bullets685: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [3c 6s]
+Ferpagani111: raises 3334 to 3934 and is all-in
+bullets685: folds 
+Uncalled bet (3334) returned to Ferpagani111
+Ferpagani111 collected 1300 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 1: bullets685 (big blind) folded before Flop
+Seat 7: Ferpagani111 (button) (small blind) collected (1300)
+
+
+
+Betfair Hand #262484776404: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:26:24 CUST [2026/10/23 8:26:24 ET]
+Table '4041844494 1' 9-max Seat #1 is the button
+Seat 1: bullets685 (8866 in chips) 
+Seat 7: Ferpagani111 (4634 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+bullets685: posts small blind 300
+Ferpagani111: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [3s 8c]
+bullets685: folds 
+Uncalled bet (300) returned to Ferpagani111
+Ferpagani111 collected 700 from pot
+Ferpagani111: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: bullets685 (button) (small blind) folded before Flop
+Seat 7: Ferpagani111 (big blind) collected (700)
+
+
+
+Betfair Hand #262484777025: Tournament #4041844494, $4.40+$0.60 USD Hold'em No Limit - Level X (300/600) - 2026/10/23 13:26:30 CUST [2026/10/23 8:26:30 ET]
+Table '4041844494 1' 9-max Seat #7 is the button
+Seat 1: bullets685 (8516 in chips) 
+Seat 7: Ferpagani111 (4984 in chips) 
+bullets685: posts the ante 50
+Ferpagani111: posts the ante 50
+Ferpagani111: posts small blind 300
+bullets685: posts big blind 600
+*** HOLE CARDS ***
+Dealt to bullets685 [Th Jd]
+Ferpagani111: raises 4334 to 4934 and is all-in
+bullets685: calls 4334
+*** FLOP *** [Tc 5d 2s]
+*** TURN *** [Tc 5d 2s] [Ac]
+*** RIVER *** [Tc 5d 2s Ac] [6c]
+*** SHOW DOWN ***
+bullets685: shows [Th Jd] (a pair of Tens)
+Ferpagani111: shows [8s 7s] (high card Ace)
+bullets685 collected 9968 from pot
+Ferpagani111 finished the tournament in 2nd place and received $11.88.
+bullets685 wins the tournament and receives $19.80 - congratulations!
+*** SUMMARY ***
+Total pot 9968 | Rake 0 
+Board [Tc 5d 2s Ac 6c]
+Seat 1: bullets685 (big blind) showed [Th Jd] and won (9968) with a pair of Tens
+Seat 7: Ferpagani111 (button) (small blind) showed [8s 7s] and lost with high card Ace
+
+
+
