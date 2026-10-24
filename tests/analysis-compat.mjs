@@ -1,0 +1,31 @@
+import { chromium, expect } from '@playwright/test';
+const browser = await chromium.launch({ channel: 'chrome', headless: true });
+try {
+ const page = await browser.newPage();
+ const errors = []; page.on('pageerror', error => errors.push(error.message));
+ await page.route('**/api/health', route => route.fulfill({ json: { configured: false } }));
+ let payload = { filename: 'older.txt', total_hands_analyzed: 1, hands: [{ hand_id: '123', matrix_key: 'AKs', position: 'BTN', feedback: 'Older feedback', severity: 'NONE' }] };
+ await page.route('**/api/analyze', route => route.fulfill({ json: payload }));
+ await page.goto(`${process.env.FRONTEND_URL || 'http://127.0.0.1:5173'}/#analysis`);
+ await page.locator('input[type=file]').setInputFiles({ name: 'older.txt', mimeType: 'text/plain', buffer: Buffer.from('mock history') });
+ await page.getByRole('button', { name: 'Analyze session' }).click();
+ await expect(page.locator('.analysis-stats article').nth(3).locator('strong')).toHaveText('1');
+ await expect(page.locator('.analysis-hands')).toContainText('UNASSESSED');
+ await page.locator('.analysis-hand summary').click();
+ await expect(page.locator('.analysis-hand-content')).toContainText('Not available');
+ await expect(page.locator('#analysis')).not.toContainText('NaN');
+ await expect(page.locator('#analysis')).not.toContainText('undefined');
+ payload = { hands: [{ decision_assessment: 'CORRECT', analysis_source: 'CHART', matrix_key: 'AA', position: 'UTG', chart_stack_bb: 20, stack_depth_bb: 20, net_profit: 4, facing_action: 'UNOPENED', actions_before_hero: [] }] };
+ await page.getByRole('button', { name: 'Analyze session' }).click();
+ await expect(page.locator('.analysis-stats article').nth(1).locator('strong')).toHaveText('1');
+ payload = { hands: [null] };
+ await page.getByRole('button', { name: 'Analyze session' }).click();
+ await expect(page.getByRole('alert')).toContainText('no hand details');
+ await expect(page.locator('.analysis-stats article').nth(1).locator('strong')).toHaveText('1');
+ const icon = await page.request.get(new URL('/favicon.svg', page.url()).toString());
+ if (!icon.ok()) throw new Error('Favicon failed');
+ await page.getByRole('navigation').getByRole('link', { name: 'Overview' }).click();
+ await expect(page.locator('#overview')).toBeVisible();
+ if (errors.length) throw new Error(errors.join('\n'));
+ console.log('PASS: legacy/current/incomplete analysis responses render safely, malformed uploads preserve results, navigation survives and favicon loads.');
+} finally { await browser.close(); }

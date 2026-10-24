@@ -101,6 +101,9 @@ if (await apiReady()) {
   launch(python, ['-m', 'uvicorn', 'backend.main:app', '--host', '127.0.0.1', '--port', '8000'], 'Python API');
 }
 if (await waitForApi() && !stopping) {
-  console.log('Python API is ready. Starting frontend on http://127.0.0.1:5173/');
-  launch(process.execPath, [vite, '--host', '127.0.0.1', '--port', '5173', '--strictPort'], 'Frontend');
+  // Let Vite select the next free port if another terminal is already serving
+  // the frontend. Never terminate an unrelated process to reclaim its port.
+  console.log('Python API is ready. Starting frontend (preferred port 5173).');
+  console.log('Open the Local URL printed by Vite below; it will choose another port if needed.');
+  launch(process.execPath, [vite, '--host', '127.0.0.1', '--port', '5173'], 'Frontend');
 }

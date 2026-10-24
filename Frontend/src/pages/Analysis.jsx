@@ -1,13 +1,16 @@
 import { useMemo, useState } from 'react';
+import { normalizeAnalysis } from '../analysisReport';
 
 const PAGE_SIZE = 25;
 const severityOrder = { CRITICAL: 0, MAJOR: 1, MINOR: 2, NONE: 3, UNASSESSED: 4 };
 
 function formatChips(value) {
-  return `${Number(value).toLocaleString(undefined, { maximumFractionDigits: 2 })} chips`;
+  if (typeof value !== 'number' || !Number.isFinite(value)) return 'Not available';
+  return `${value.toLocaleString(undefined, { maximumFractionDigits: 2 })} chips`;
 }
 
-export default function Analysis({ analysis, onAnalysis }) {
+export default function Analysis({ analysis: rawAnalysis, onAnalysis }) {
+  const analysis = useMemo(() => normalizeAnalysis(rawAnalysis), [rawAnalysis]);
   const [file, setFile] = useState(null);
   const [status, setStatus] = useState('');
   const [error, setError] = useState('');
@@ -53,13 +56,14 @@ export default function Analysis({ analysis, onAnalysis }) {
         }
         throw new Error('Could not analyze this file. Please check the file and try again.');
       }
-      if (!Array.isArray(data?.hands) || !data.hands.length) {
+      const report = normalizeAnalysis(data);
+      if (!report) {
         throw new Error('The analysis API returned no hand details. Please try again.');
       }
-      onAnalysis(data);
+      onAnalysis(report);
       setFilter('all');
       setPage(0);
-      setStatus(`Analyzed ${data.total_hands_analyzed.toLocaleString()} hands from ${data.filename}.`);
+      setStatus(`Analyzed ${report.total_hands_analyzed.toLocaleString()} hands from ${report.filename}.`);
     } catch (failure) {
       setError(failure.message === 'Failed to fetch'
         ? 'Cannot reach the Python API. Start it on port 8000 and try again.'
@@ -75,7 +79,7 @@ export default function Analysis({ analysis, onAnalysis }) {
     ['Folded playable hands', breakdown.folded_playable_hands],
     ['Passive calls with premiums', breakdown.passive_calls_on_premiums],
   ] : [];
-  const maxLeak = Math.max(1, ...leaks.map(([, count]) => count));
+  const maxLeak = Math.max(1, ...leaks.map(([, count]) => count ?? 0));
 
   return <section className="page" id="analysis">
     <div className="page-title">
@@ -98,6 +102,7 @@ export default function Analysis({ analysis, onAnalysis }) {
     </section>
 
     {!analysis ? <section className="analysis-empty panel"><span>♧</span><h2>Your session results will appear here.</h2><p>Upload a history file to see session totals, common leaks, and hand-by-hand feedback.</p></section> : <>
+      {analysis.incomplete && <p className="analysis-message" role="status">This response is missing assessment details. Those hands are marked unassessed. Restart the Python API to load the latest analyzer.</p>}
       <div className="analysis-stats" aria-label="Session summary">
         <article className="panel"><span>HANDS ANALYZED</span><strong>{analysis.total_hands_analyzed.toLocaleString()}</strong></article>
         <article className="panel"><span>CORRECT</span><strong>{(analysis.decisions_scored - analysis.total_mistakes_detected).toLocaleString()}</strong></article>
@@ -109,7 +114,7 @@ export default function Analysis({ analysis, onAnalysis }) {
       <section className="panel analysis-leaks">
         <div className="panel-title"><div><h2>Leak breakdown</h2><p className="caption">Incorrect decisions flagged against a chart-supported action.</p></div><span className="tag">{analysis.filename}</span></div>
         {leaks.map(([label, count]) => <div className="leak-row" key={label}>
-          <span>{label}</span><div className="leak-track"><i style={{ width: `${count / maxLeak * 100}%` }} /></div><strong>{count.toLocaleString()}</strong>
+          <span>{label}</span><div className="leak-track"><i style={{ width: `${(count ?? 0) / maxLeak * 100}%` }} /></div><strong>{count === null ? '—' : count.toLocaleString()}</strong>
         </div>)}
       </section>
 
@@ -125,7 +130,7 @@ export default function Analysis({ analysis, onAnalysis }) {
         {!filteredHands.length ? <p className="panel analysis-empty">No hands match this filter.</p> : <div className="analysis-hand-list">
           {visibleHands.map((hand, index) => <details className="panel analysis-hand" key={`${hand.hand_id}-${page * PAGE_SIZE + index}`}>
             <summary>
-              <span className={`decision-status decision-${hand.decision_assessment.toLowerCase()}`}>{hand.decision_assessment} · {hand.analysis_source === 'CHART' ? 'CHART' : 'LEGACY LOGIC'}</span>
+              <span className={`decision-status decision-${hand.decision_assessment.toLowerCase()}`}>{hand.decision_assessment} · {hand.analysis_source === 'CHART' ? 'CHART' : hand.analysis_source === 'LEGACY_LOGIC' ? 'LEGACY LOGIC' : 'SOURCE UNAVAILABLE'}</span>
               <strong>{hand.matrix_key} · {hand.position}</strong>
               <span>{hand.deviation_type}</span>
               <span className="analysis-hand-id">{hand.hand_id}</span>
@@ -136,7 +141,7 @@ export default function Analysis({ analysis, onAnalysis }) {
                 <span>Cards<strong>{hand.raw_cards}</strong></span>
                 <span>Stack<strong>{hand.stack_depth_bb} bb</strong></span>
                 <span>Chart<strong>{hand.analysis_source === 'CHART' ? `${hand.chart_stack_bb} bb` : 'Not used'}</strong></span>
-                <span>Assessment source<strong>{hand.analysis_source === 'CHART' ? `Preflop chart (${hand.chart_stack_bb} bb)` : 'Legacy heuristic (not chart-based)'}</strong></span>
+                <span>Assessment source<strong>{hand.analysis_source === 'CHART' ? `Preflop chart (${hand.chart_stack_bb} bb)` : hand.analysis_source === 'LEGACY_LOGIC' ? 'Legacy heuristic (not chart-based)' : 'Not available'}</strong></span>
                 <span>Preflop context<strong>{hand.facing_action.replaceAll('_', ' ').toLowerCase()}</strong></span>
                 <span>Suggested<strong>{hand.recommended_action}</strong></span>
                 <span>Net result<strong>{formatChips(hand.net_profit)}</strong></span>

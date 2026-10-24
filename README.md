@@ -14,8 +14,8 @@ After installing dependencies once, run both the Python API and Vite frontend fr
 npm start
 ```
 
-Open `http://127.0.0.1:5173/`. Keep the terminal open while using the app; press Ctrl+C to stop both services.
-The launcher validates the Python app before starting either service, waits for the API to become ready, and stops both services together on Ctrl+C or a service failure. Port 5173 is fixed; if it is occupied, stop the earlier instance before starting another.
+Open the **Local** URL printed by Vite (normally `http://127.0.0.1:5173/`). Keep the terminal open while using the app; press Ctrl+C to stop both services.
+The launcher validates the Python app before starting either service, waits for the API to become ready, and stops both services together on Ctrl+C or a service failure. Port 5173 is preferred; if it is occupied, Vite selects the next available port and prints the correct Local URL. The Python API stays on port 8000 and is reused when already running.
 
 First-time setup on macOS / Linux (from the project root):
 
