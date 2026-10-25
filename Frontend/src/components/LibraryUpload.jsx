@@ -9,8 +9,12 @@ export default function LibraryUpload({ kind, onImported }) {
       const response = await fetch(`/api/library/${kind}`, { method: 'POST', body });
       const data = await response.json();
       if (!response.ok) throw new Error(typeof data.detail === 'string' ? data.detail : 'Import failed. Check the Python API.');
-      setMessage(data.already_imported ? 'This file was already imported.' : `Saved to ${kind === 'hands' ? 'hand_histories' : 'tournament_summaries'}/${data.file}`);
-      onImported?.();
+      if (data.already_imported) {
+        setMessage(`Duplicate not imported; this file already exists at ${kind === 'hands' ? 'hand_histories' : 'tournament_summaries'}/${data.file}.`);
+      } else {
+        setMessage(`Saved to ${kind === 'hands' ? 'hand_histories' : 'tournament_summaries'}/${data.file}`);
+        onImported?.();
+      }
     } catch (failure) { setError(true); setMessage(failure.message); }
     finally { setBusy(false); }
   }
