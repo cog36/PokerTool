@@ -12,6 +12,7 @@
 }
 body { font-size: 15px; line-height: 1.65; }
 .sidebar, [data-theme="light"] .sidebar { background: var(--panel); }
+.sidebar > nav { margin-top: 24px; }
 .brand { font-size: 34px; font-weight: 700; letter-spacing: -1.8px; padding-left: 7px; }
 .brand-mark { border-radius: 7px; width: 33px; height: 36px; font-size: 27px; background: var(--mint); }
 .club-label { font-size: 10px; letter-spacing: 1.2px; padding: 16px 8px 30px; }
