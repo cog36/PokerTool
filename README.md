@@ -25,7 +25,7 @@ Our aim is to give people somewhere to make mistakes with virtual chips and lear
 
 ## The team
 
-Built together by [Pritam Gurung](https://www.linkedin.com/in/pritamgurung1/) and [Daniel Collings](https://www.linkedin.com/in/daniel-collings-701b13315/). We'd love to hear what you think, especially if you give it a try.
+Built together by [Pritam Gurung](https://www.linkedin.com/in/pritamgurung1/), [Daniel Collings](https://www.linkedin.com/in/daniel-collings-701b13315/), and that one economics guy [Arthur Davies](https://www.linkedin.com/in/arthur-davies-66b3bb325/). We'd love to hear what you think, especially if you give it a try.
 
 ## Try it locally
 
