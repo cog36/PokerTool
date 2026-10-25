@@ -3,7 +3,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
-
+# constants for file paths and formatting
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 HAND_HISTORY_DIR = PROJECT_ROOT / "hand_histories"
 HERO_BY_FORMAT = {
@@ -20,7 +20,7 @@ def _split_hands(text: str) -> list[str]:
         if re.match(r"^(?:Poker Hand|PokerStars Hand|Betfair Hand) #", part.strip())
     ]
 
-
+# extract player action from a line of hand history
 def _action(line: str) -> tuple[str, str] | None:
     match = re.match(r"^(.+?):\s+(.*)$", line.strip())
     if not match:
@@ -45,7 +45,7 @@ def _action(line: str) -> tuple[str, str] | None:
         return None
     return player, action_type
 
-
+# get the table position of hero based on hand history and hero name
 def _table_position(hand: str, hero: str) -> str:
     table = re.search(r"Table .*?(\d+)-max Seat #(\d+) is the button", hand)
     if table:
@@ -99,7 +99,7 @@ def _hero_summary_line(summary: str, hero: str) -> str:
     )
     return match.group(0).strip() if match else ""
 
-
+# parse a single hand and extract statistics and actions of hero
 def _parse_hand(raw: str, source_file: str, hero: str, room: str) -> dict[str, Any] | None:
     header_match = re.search(
         r"^((?:Poker Hand|PokerStars Hand|Betfair Hand) #([^:\s]+):[^\r\n]*)",
@@ -247,7 +247,7 @@ def _parse_hand(raw: str, source_file: str, hero: str, room: str) -> dict[str, A
 def _percentage(numerator: int, denominator: int) -> float:
     return round(100 * numerator / denominator, 1) if denominator else 0.0
 
-
+# leak detection based on collected hand stats
 def _leak_flags(hands: list[dict[str, Any]]) -> list[dict[str, str]]:
     count = len(hands)
     vpip_count = sum(hand["vpip"] for hand in hands)
@@ -299,7 +299,7 @@ def _leak_flags(hands: list[dict[str, Any]]) -> list[dict[str, str]]:
         })
     return flags
 
-
+# builds an overview of hand history statistics and errors for a given poker room
 def build_hand_history_overview(history_dir: Path = HAND_HISTORY_DIR, room: str = "all") -> dict[str, Any]:
     selected_room = {"all": None, "pokerstars": "PokerStars / Betfair", "ggpoker": "GGPoker"}
     if room not in selected_room:

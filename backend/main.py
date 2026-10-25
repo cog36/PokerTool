@@ -10,7 +10,6 @@ from fastapi import FastAPI, File, HTTPException, Response, UploadFile, Form
 from openai import AsyncOpenAI, APIConnectionError, APIStatusError, APITimeoutError
 from pydantic import BaseModel, ConfigDict, Field, field_validator, model_validator
 
-# Support both project-root startup and `cd backend && uvicorn main:app`.
 if __package__:
     from .parser import parse_hand_history
     from .analyzer import analyze_session_hands
@@ -30,8 +29,7 @@ BACKEND_DIR = Path(__file__).resolve().parent
 
 
 def settings():
-    # Read files per request so a saved model/key change does not need a restart.
-    # Explicit process variables win; backend/.env wins over the legacy root file.
+    # read files per request so a saved model change doesn't need a restart
     values = {**dotenv_values(BACKEND_DIR.parent / '.env'), **dotenv_values(BACKEND_DIR / '.env')}
     for name in ('GROQ_API_KEY', 'GROQ_MODEL'):
         if name in os.environ:
@@ -144,7 +142,7 @@ async def import_library_file(kind: Literal['hands', 'tournaments'], file: Uploa
     except (ValueError, UnicodeDecodeError) as error:
         raise HTTPException(400, str(error)) from None
 
-
+# analyze a hand-history file uploaded by the user
 @app.post('/api/analyze')
 async def analyze_hand_history(file: UploadFile = File(...)):
     filename = file.filename or ''

@@ -19,7 +19,7 @@ def cents(value):
         raise ValueError('Amount has fractional cents')
     return int(amount)
 
-
+# parses tournament summary into dictioanry of fields
 def parse_summary(text, source):
     text = text.lstrip('\ufeff')
     header = re.search(r'^(?:(PokerStars|Betfair) )?Tournament #(\d+),\s*(.+)', text, re.M)
@@ -39,8 +39,6 @@ def parse_summary(text, source):
     entered = bool(rows)
     finished = re.search(r'You finished(?: the tournament)? in (\d+)(?:st|nd|rd|th) place', text)
     hero_row = rows[0] if rows else None
-    # In satellites, qualified players can be numbered alphabetically. Prefer
-    # the explicit personal finish statement over the roster row number.
     place = int(finished[1]) if finished else int(hero_row[1]) if hero_row and 'still playing' not in hero_row[3 if header[1] else 2].lower() else None
     row_text = hero_row[3 if header[1] else 2].strip() if hero_row else ''
     terminal = entered and 'still playing' not in row_text.lower() and (bool(finished) or 'eliminated at hand' in text.lower() or 'Tournament finished' in text or bool(re.search(r'You received|received a total', text)))
@@ -51,8 +49,6 @@ def parse_summary(text, source):
     if buyin_match:
         line = buyin_match[1].strip()
         parts = re.findall(MONEY, line)
-        # Reject unsupported currency/payment text rather than interpreting a
-        # prize-pool or target tournament amount as the entry cost.
         rest = re.sub(MONEY, '', line)
         if parts and not re.sub(r'[+/\s]|USD', '', rest, flags=re.I):
             unit = sum(cents(part) for part in parts)
@@ -83,7 +79,6 @@ def parse_summary(text, source):
     if entered and cash is None:
         warnings.append('Final cash return is unknown; it is not assumed to be zero.')
     bounty = 'bounty' in header[3].lower()
-    # User's cash-based ITM: any positive cash return, including bounties.
     itm = cash > 0 if terminal and cash is not None else None
     return dict(id=header[2], room=room, name=header[3].strip(), hero=hero, entered=entered,
                 started_at=date, timezone='CUST (unspecified)' if ' CUST' in text else 'unspecified',
@@ -92,7 +87,7 @@ def parse_summary(text, source):
                 itm=itm, final=terminal, bounty=bounty,
                 warnings=warnings, source_files=[source], conflicted=False)
 
-
+# build a summary of all tournament files
 def build_tournaments(directory=SUMMARY_DIR):
     records = {}
     errors = []

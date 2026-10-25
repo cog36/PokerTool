@@ -2,7 +2,7 @@ import json
 from functools import lru_cache
 from pathlib import Path
 
-
+# constants for chart stacks, positions, and directories
 CHART_STACKS = (5, 10, 20, 40, 100)
 CHART_POSITIONS = {"EP1", "EP2", "EP3", "LJ", "HJ", "CO", "BTN", "SB", "BB"}
 CHARTS_DIR = Path(__file__).resolve().parent.parent / "charts"
@@ -44,7 +44,6 @@ def _load_chart(stack_bb: int) -> dict[str, dict[str, float]]:
 
 def _nearest_chart_stack(stack_bb: float) -> int:
     return min(CHART_STACKS, key=lambda chart_bb: (abs(chart_bb - stack_bb), -chart_bb))
-
 
 def _chart_actions(hand: dict) -> list[tuple[str, str]] | None:
     position = hand.get("position")
@@ -100,7 +99,7 @@ def _format_chart_options(frequencies: dict[str, float]) -> str:
         options.append(f"FOLD {fold_frequency:.0%}")
     return " / ".join(options) or "FOLD 100%"
 
-
+# legacy logic for hand analysis when chart data is unavailable
 def _legacy_position(position: str) -> str:
     return {
         "EP1": "UTG",
@@ -110,7 +109,7 @@ def _legacy_position(position: str) -> str:
         "HJ": "MP",
     }.get(position, position)
 
-
+# generate context for decision-making based on hand history
 def _decision_context(hand: dict) -> str:
     timeline = hand.get("action_timeline", [])
     decision_index = hand.get("decision_action_index")
@@ -139,7 +138,7 @@ def _decision_context(hand: dict) -> str:
     hero_action = hand.get("hero_first_action") or "no recorded action"
     return f"{context}, Hero chose {hero_action}."
 
-
+# legacy logic for hand analysis when chart data is unavailable
 def _audit_with_legacy_logic(hand: dict) -> dict:
     matrix_key = hand.get("matrix_key", "")
     position = _legacy_position(hand.get("position", "BTN"))
@@ -275,7 +274,7 @@ def _audit_with_legacy_logic(hand: dict) -> dict:
         "severity": severity,
     }
 
-
+# check a single hand against the preflop chart and return the analysis
 def audit_single_hand(hand: dict) -> dict:
     matrix_key = hand.get("matrix_key", "")
     position = hand.get("position", "UNKNOWN")
@@ -380,7 +379,7 @@ def audit_single_hand(hand: dict) -> dict:
         "severity": severity,
     }
 
-
+# analyze a session of hands and return a summary of mistakes and statistics
 def analyze_session_hands(parsed_hands: list[dict]) -> dict:
     audited_hands = [audit_single_hand(hand) for hand in parsed_hands]
     mistakes = [hand for hand in audited_hands if hand["decision_assessment"] == "INCORRECT"]

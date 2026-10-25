@@ -6,13 +6,13 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 LIBRARY_ROOTS = {'hands': ROOT / 'hand_histories', 'tournaments': ROOT / 'tournament_summaries'}
 
-
+# get a list of all hand files from the directory
 def hand_files():
     root = LIBRARY_ROOTS['hands']
     return [{'id': str(path.relative_to(root)), 'name': path.name, 'bytes': path.stat().st_size}
             for path in sorted(root.rglob('*.txt')) if path.is_file() and path.resolve().is_relative_to(root.resolve())]
 
-
+# get a list of all tournament files from the directory
 def saved_hand_path(file_id):
     root = LIBRARY_ROOTS['hands'].resolve()
     path = (root / file_id).resolve()
@@ -20,7 +20,7 @@ def saved_hand_path(file_id):
         raise ValueError('Choose an existing hand-history file from the list.')
     return path
 
-
+# returns a list of all tournament files from the folder
 def store_import(kind, filename, content):
     if kind not in LIBRARY_ROOTS:
         raise ValueError('Unknown library')

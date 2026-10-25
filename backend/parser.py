@@ -1,9 +1,11 @@
 # parser.py
 import re
 
+# constants for parsing
 RANKS = "23456789TJQKA"
 CHART_POSITION_ORDER = ["BTN", "SB", "BB", "EP1", "EP2", "EP3", "LJ", "HJ", "CO"]
 
+# convert a string of two cards into matrix form
 def convert_to_matrix_key(card_str: str) -> str:
     cards = card_str.strip().split()
     if len(cards) != 2:
@@ -23,7 +25,7 @@ def convert_to_matrix_key(card_str: str) -> str:
     else:
         return f"{r1}{r2}o"
 
-
+# determine how much hero invested in the hand
 def _hero_contribution(block: str, hero: str) -> float:
     invested = 0.0
     street_contribution = 0.0
