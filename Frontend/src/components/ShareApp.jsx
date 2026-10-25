@@ -55,7 +55,7 @@ export default function ShareApp() {
   return <main className="share-page">
     <a className="share-brand" href="./">♠ PokerTool</a>
     <section className="share-app-dialog" aria-labelledby="share-app-title">
-      <header><div><span className="eyebrow">TAKE A SEAT</span><h1 id="share-app-title">Scan to play.</h1></div></header>
+      <header><div><h1 id="share-app-title">Share PokerTool</h1></div></header>
       <p>Scan with your camera to open the app. Download the code for your presentation or demo table.</p>
       <label className="field">Website or demo address<input type="url" value={address} onChange={event => setAddress(event.target.value)} spellCheck="false" autoCapitalize="none" autoComplete="off" /></label>
       {networkLinks.length > 1 && <label className="field">Wi-Fi address<select value={networkLinks.includes(address) ? address : ''} onChange={event => { if (event.target.value) setAddress(event.target.value); }}><option value="" disabled>Choose a network</option>{networkLinks.map(link => <option key={link} value={link}>{link}</option>)}</select></label>}
@@ -69,6 +69,5 @@ export default function ShareApp() {
       </>}
       <p className="caption" role="status">{status}</p>
     </section>
-    <p className="share-page-footer">Seven opponents. One seat with your name on it.</p>
   </main>;
 }

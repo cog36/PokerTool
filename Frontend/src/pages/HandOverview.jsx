@@ -74,7 +74,6 @@ export default function HandOverview({ active }) {
   return <section id="hand-overview" className="page">
     <div className="page-title">
       <div>
-        <p className="eyebrow">YOUR COMPLETE HAND-HISTORY LIBRARY</p>
         <h1>Hand Overview<span>.</span></h1>
         <p>Overall HUD statistics and hand details parsed from the local hand_histories folder.</p>
       </div>

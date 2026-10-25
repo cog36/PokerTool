@@ -192,7 +192,7 @@ export default function Ranges() {
 
   return <section className="page" id="ranges">
     <div className="page-title">
-      <div><p className="eyebrow">MTT PREFLOP REFERENCE</p><h1>Preflop Range Chart<span>.</span></h1><p>Eight-player chart frequencies by stack depth, position and preflop action.</p></div>
+      <div><h1>Preflop Range Chart<span>.</span></h1><p>Eight-player chart frequencies by stack depth, position and preflop action.</p></div>
       <span className="pill outlined">169 starting hands · MTT</span>
     </div>
 

@@ -86,7 +86,7 @@ export default function Analysis({ analysis: rawAnalysis, onAnalysis, active }) 
 
   return <section className="page" id="analysis">
     <div className="page-title">
-      <div><p className="eyebrow">TURN HAND HISTORIES INTO STUDY NOTES</p><h1>Session Analysis<span>.</span></h1><p>See each flagged preflop decision in the full sequence of actions across the hand.</p></div>
+      <div><h1>Session Analysis<span>.</span></h1><p>See each flagged preflop decision in the full sequence of actions across the hand.</p></div>
       <span className="pill outlined">GG Poker · PokerStars · .txt · up to 10 MB</span>
     </div>
 
@@ -113,7 +113,7 @@ export default function Analysis({ analysis: rawAnalysis, onAnalysis, active }) 
 
       <section className="analysis-hands">
         <div className="section-heading">
-          <div><p className="eyebrow">DECISION + FULL HAND CONTEXT</p><h2>Review hands</h2><p className="caption">{analysis.room ? `${analysis.room} · ` : ''}{analysis.filename}</p></div>
+          <div><h2>Review hands</h2><p className="caption">{analysis.room ? `${analysis.room} · ` : ''}{analysis.filename}</p></div>
           <label className="analysis-filter">Show
             <select value={filter} onChange={event => { setFilter(event.target.value); setPage(0); }}>
               <option value="all">All hands</option><option value="mistakes">Incorrect only</option><option value="CRITICAL">Critical</option><option value="MAJOR">Major</option><option value="MINOR">Minor</option><option value="correct">Correct</option><option value="unassessed">Unassessed</option>

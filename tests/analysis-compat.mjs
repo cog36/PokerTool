@@ -12,21 +12,21 @@ try {
  await page.getByRole('button', { name: 'Analyze session' }).click();
  await expect(page.locator('.analysis-stats article').nth(3).locator('strong')).toHaveText('1');
  await expect(page.locator('.analysis-hands')).toContainText('UNASSESSED');
- await page.locator('.analysis-hand summary').click();
+ await page.locator('.analysis-hand').first().locator('summary').first().click();
  await expect(page.locator('.analysis-hand-content')).toContainText('Not available');
  await expect(page.locator('#analysis')).not.toContainText('NaN');
  await expect(page.locator('#analysis')).not.toContainText('undefined');
  payload = { hands: [{ decision_assessment: 'CORRECT', analysis_source: 'CHART', matrix_key: 'AA', position: 'UTG', chart_stack_bb: 20, stack_depth_bb: 20, net_profit: 4, facing_action: 'UNOPENED', actions_before_hero: [] }] };
  await page.getByRole('button', { name: 'Analyze session' }).click();
- await expect(page.locator('.analysis-stats article').nth(1).locator('strong')).toHaveText('1');
+ await expect(page.locator('.analysis-stats article').nth(2).locator('strong')).toHaveText('1');
  payload = { hands: [null] };
  await page.getByRole('button', { name: 'Analyze session' }).click();
  await expect(page.getByRole('alert')).toContainText('no hand details');
- await expect(page.locator('.analysis-stats article').nth(1).locator('strong')).toHaveText('1');
+ await expect(page.locator('.analysis-stats article').nth(2).locator('strong')).toHaveText('1');
  const icon = await page.request.get(new URL('/favicon.svg', page.url()).toString());
  if (!icon.ok()) throw new Error('Favicon failed');
- await page.getByRole('navigation').getByRole('link', { name: 'Home', exact: true }).click();
- await expect(page.locator('#overview')).toBeVisible();
+ await page.getByRole('navigation').getByRole('link', { name: 'Hand Overview', exact: true }).click();
+ await expect(page.locator('#hand-overview')).toBeVisible();
  if (errors.length) throw new Error(errors.join('\n'));
  console.log('PASS: legacy/current/incomplete analysis responses render safely, malformed uploads preserve results, navigation survives and favicon loads.');
 } finally { await browser.close(); }
