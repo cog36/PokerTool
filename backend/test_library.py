@@ -35,6 +35,13 @@ class LibraryTests(unittest.TestCase):
     def test_validated_tournament_import_and_rejections(self):
         result = self.client.post('/api/library/tournaments', files={'file': ('summary.txt', GG.encode(), 'text/plain')})
         self.assertEqual(result.status_code, 200)
+        duplicate = self.client.post(
+            '/api/library/tournaments',
+            files={'file': ('renamed-summary.txt', GG.encode(), 'text/plain')},
+        )
+        self.assertEqual(duplicate.status_code, 200)
+        self.assertTrue(duplicate.json()['already_imported'])
+        self.assertEqual(len(list(library.LIBRARY_ROOTS['tournaments'].rglob('*.txt'))), 1)
         for kind, name, body in [('hands', 'bad.txt', b'garbage'), ('tournaments', 'bad.txt', b'garbage'), ('hands', 'game.exe', self.sample), ('tournaments', 'wrong.txt', GG.replace('Hero', 'Other').encode())]:
             self.assertEqual(self.client.post(f'/api/library/{kind}', files={'file': (name, body, 'text/plain')}).status_code, 400)
 

@@ -32,9 +32,19 @@ def store_import(kind, filename, content):
     if not destination.resolve().is_relative_to(LIBRARY_ROOTS[kind].resolve()):
         raise ValueError('Import folder must remain inside the local library.')
     destination.mkdir(parents=True, exist_ok=True)
-    digest = hashlib.sha256(content).hexdigest()[:12]
+    digest = hashlib.sha256(content).hexdigest()
+    if kind == 'tournaments':
+        root = LIBRARY_ROOTS[kind].resolve()
+        for existing in root.rglob('*.txt'):
+            if existing.is_file() and existing.resolve().is_relative_to(root):
+                if hashlib.sha256(existing.read_bytes()).hexdigest() == digest:
+                    return {
+                        'file': str(existing.relative_to(root)),
+                        'already_imported': True,
+                    }
+
     stem = re.sub(r'[^\w .-]', '_', Path(basename).stem)[:110] or 'import'
-    target = destination / f'{stem}-{digest}.txt'
+    target = destination / f'{stem}-{digest[:12]}.txt'
     try:
         with target.open('xb') as output:
             output.write(content)

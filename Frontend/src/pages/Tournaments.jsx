@@ -51,7 +51,7 @@ export default function Tournaments({ active }) {
     {!data&&loading&&<p className="panel" role="status">Reading tournament summaries…</p>}
     {data&&<>
       <div className="tournament-stats" aria-label="Tournament statistics">{[
-        ['Tournaments',s.tournaments,`${s.entries} entries · ${s.reentries} re-entries`],
+        ['Unique tournaments',s.tournaments,`${s.entries} total entries, including ${s.reentries} re-entries`],
         ['Total buy-ins',dollars(s.buyin_cents),'All components and reported re-entries'],
         ['Cash returns',dollars(returns),'Reported payouts, including bounty cash'],
         ['Net profit',dollars(profit),`${s.accounted_tournaments} completed tournaments accounted`],
