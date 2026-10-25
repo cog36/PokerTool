@@ -1,301 +1,59 @@
-# ♠️ Interactive Poker Analysis & GTO Training App
+# PokerTool
 
-## Run the React frontend
+![Friends studying a poker hand together around a green felt table, with cards, chips and a notebook.](docs/images/pokertool-study-table.png)
 
-The browser-only frontend uses **React + Vite**, with the existing custom CSS and light/dark themes.
-It includes the overview, interactive range explorer, sample practice decisions, AI Arena games, hand replays, and local study notes.
-The range and training data are illustrative; no Python server, API key, or solver is required.
+**A place to play a hand, understand a decision, and come back a little better.**
 
-## Run the app
+Poker is easy to pick up and difficult to understand. You can make a good decision and lose, win with a bad decision, or finish a session unsure what you should have done differently. We wanted to make that learning process easier to approach.
 
-After installing dependencies once, run both the Python API and Vite frontend from the project root with:
+We built PokerTool for a 24-hour university hackathon: a poker study space where you can practise against different personalities, explore starting hands, and ask questions without feeling you should already know the answer.
 
-```powershell
-npm start
-```
+## Why we built it
 
-Open the **Local** URL printed by Vite (normally `http://127.0.0.1:5173/`). Keep the terminal open while using the app; press Ctrl+C to stop both services.
-The launcher validates the Python app before starting either service, waits for the API to become ready, and stops both services together on Ctrl+C or a service failure. Port 5173 is preferred; if it is occupied, Vite selects the next available port and prints the correct Local URL. The Python API stays on port 8000 and is reused when already running.
+For us, this project was a chance to bring an interest in poker together with what we are learning as developers. It meant working through the rules, making sense of real hand histories, and finding ways to explain decisions clearly. Getting a table to play is one challenge; making it useful to someone learning the game is another.
 
-First-time setup on macOS / Linux (from the project root):
+Our aim is to give people somewhere to make mistakes with virtual chips and learn from them. A newer player can get comfortable with positions and betting. Someone with more experience can review a session, explore a range, or notice a habit worth working on. The question we want to encourage is simple: *why did I make that move?*
 
-```bash
+## What you can do
+
+- **Play the AI Arena.** Face seven opponents drawn from 13 poker personalities, from cautious Nits to aggressive Maniacs. Hands start preflop, with starting stacks of 5, 10, 20, 40 or 100 big blinds, animated dealing, and decision feedback.
+- **Explore preflop charts.** Use an interactive 13 × 13 hand matrix to study different positions and stack depths.
+- **Talk to the AI coach.** Ask about a concept or work through a hand, with constructive advice or a friendly roast.
+- **Review your play.** Import supported GG Poker and PokerStars/Betfair hand histories to explore session statistics and preflop decisions.
+- **Track tournament results.** See cash returns, buy-ins, profit, ROI, cash-based ITM and a cumulative profit graph, with incomplete or conflicting records flagged.
+- **Keep a study notebook.** Save the lessons you want to remember. Use the responsive interface on a laptop or phone.
+
+## The team
+
+Built together by [Pritam Gurung](https://www.linkedin.com/in/pritamgurung1/) and [Daniel Collings](https://www.linkedin.com/in/daniel-collings-701b13315/). We'd love to hear what you think, especially if you give it a try.
+
+## Try it locally
+
+You need Node.js 22.12+ and Python 3.11+. From the project root on macOS or Linux:
+
+```sh
 python3 -m venv .venv
 .venv/bin/python -m pip install -r backend/requirements.txt
 npm install
 npm start
 ```
 
-On Windows, install Python dependencies with `.\.venv\Scripts\python.exe -m pip install -r backend\requirements.txt` (use `.venv`, not `venv`, for this project's environment).
+Open the Local URL printed in the terminal. On Windows, use `.venv\Scripts\python.exe` for the Python installation step.
 
-`npm run dev` also starts both services. For the frontend alone, run `npm run dev:frontend` from the project root with Node.js 22.12+ (or 20.19+).
+For AI coaching, create `backend/.env` and add your own key:
 
-Open the local URL printed by Vite (usually `http://127.0.0.1:5173`). Both `/` and `/doc.html` load the React app.
-Use Vite rather than opening the HTML file directly or using Live Server; JSX requires the build tool.
-
-```bash
-npm test          # Range generation, scoring, and persisted-data validation
-npm run build    # Production assets in dist/
-npm run preview  # Preview the production build
-npm run test:browser # Browser flows; run npm run dev first (uses installed Chrome)
+```env
+GROQ_API_KEY=your_key_here
 ```
 
-Frontend source:
+Keep this file private. The Arena and charts work without an AI key; coaching requires one.
 
-- `Frontend/src/App.jsx`: navigation, shared practice results, and checklist state.
-- `Frontend/src/pages/`: Home, Hand Overview, Session Analysis, Ranges, Practice, Hands, Notebook, and coaching components.
-- `Frontend/src/components/`: shared cards and the theme switch.
-- `Frontend/src/data.js`: curated teaching and replay examples.
-- `Frontend/src/model.js`: pure range/scoring helpers and browser storage utilities.
-- `Frontend/style.css`: responsive layouts, themes, and motion with reduced-motion support.
+For a phone demo, run `npm run dev:mobile`. Connect your phone and laptop to the same Wi-Fi. Open `/share.html` at the printed Local URL on your laptop to display the QR code, then scan it on your phone. Keep the laptop running. Home-screen installation and offline support require an HTTPS production build.
 
-Existing `river.notes`, `river.tasks`, and `pokerttool.theme` storage keys are retained.
-Browser storage is specific to the site origin; notes from a different port or a file URL remain on that origin.
-Practice scores last for the current visit; notes, checklist choices, and theme preferences persist locally.
+## How it works
 
-## Play the AI Arena
+React, Vite and custom CSS power the interface. Python and FastAPI handle parsing and analysis; Groq provides the AI coaching. Preflop decisions use the checked-in JSON charts where covered. Unsupported situations and postflop reviews use labelled heuristic feedback. **GTOpen is not connected, and AI explanations are not solver results.** The Arena practises tournament chip accumulation, without ICM or payout modelling.
 
-Open **AI Arena → Full-hand challenge** for **MTT/SNG chip-EV drills**. Each hand is an independent exercise at a randomly selected depth of **5, 10, 20, 40, or 100bb** with you and seven distinct types drawn from TAG, LAG, TP, LP, Nit, Maniac, Calling Station, Rock, Fit-or-Fold, ABC Player, Tricky / Deceptive, Exploitative Regular, and GTO-Oriented Regular.
+Run `npm test` for frontend unit tests and `npm run build` for a production build. Backend tests run with `.venv/bin/python -m unittest discover -s backend -p 'test_*.py'`.
 
-Every new hand redraws the roster and randomizes physical seating and the dealer. The hero and retained archetypes move to different physical seats; the hero's poker position also changes. Identities and archetypes stay fixed during the hand. Blinds and action order follow the physical seat order, while the view keeps the hero bottom centre. Each fresh drill gives everyone the same randomly chosen starting depth; the session totals track actual chip gains/losses across drills rather than pretending this changing roster is one continuous tournament.
-
-Hands start **preflop**, with 0.5bb / 1bb blinds and no ante, and continue through flop, turn, and river. Every seat has a persistent chip pile for its current street contribution, plus exact action text: for example **Raise to 3bb**, **3-bet to 8bb**, or **Call 5bb** with an 8bb total pile. A call label is the additional amount paid; a raise-to label is the total for that street. Chips stay in front of the player until the betting round closes, then sweep into the pot. The history retains every street and bet size.
-
-Use Fold, Check / Call, a custom Bet / Raise-to size, or All-in when legal. The engine handles minimum raises, short all-ins and reopening, main / side pots, refunds, and split pots. Half-bb integer accounting prevents fractional-chip loss. All chips are virtual.
-
-### Chip-EV model and its limits
-
-The active Arena bots use deterministic Monte Carlo samples of unseen cards (40 trials per decision), drawn only from the bot's own cards and the public board. Opponents' real hole cards and the real undealt deck are excluded from their decision view. Call EV compares expected chip returns from the currently eligible pots with the call cost. The bet model estimates fold frequency and additional calls from public action statistics and covered stacks. It assumes uniform unknown holdings and simplified future play, so these are noisy baseline estimates, **not exact strategic EV or solver results**.
-
-TAG, ABC, exploitative, and GTO-oriented bots use that baseline to filter negative estimated chip-EV calls/bets while retaining their profile's entry ranges and mixed actions. Loose/passive and overly aggressive archetypes intentionally deviate: a Calling Station can make a losing call, and a Maniac can make an excessive bluff. GTO-oriented describes a mixed heuristic profile, not an equilibrium solver.
-
-This is **chip accumulation practice**, not payout-equity training. There is no ICM, bubble risk premium, payout structure, blind clock, or progressive tournament field. It should not be treated as bubble/final-table advice; [chip EV and ICM differ](https://www.pokerstars.com/poker/learn/lesson/icm-and-its-impact-on-tournaments/). Starting depths are sampled equally from 5, 10, 20, 40 and 100bb each hand; repeats are possible. Advanced tournament settings remain deferred.
-
-Dealer animations, thinking bubbles, chip movements and showdown reveals are retained. Cinematic / Quick play and Skip animations control pacing. Leaving the Arena pauses playback; reduced-motion preferences disable decorative movement. The **Read the opponent** quiz remains available as the second game.
-
-## Run the Python AI coach
-
-The AI Coach screen calls a FastAPI endpoint backed by Groq. Range and training screens still use sample data; the chatbot does not have a solver or automatic access to your notebook or practice results.
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r backend/requirements.txt
-cp backend/.env.example backend/.env
-```
-
-Edit `backend/.env` and add your `GROQ_API_KEY` from [Groq Console](https://console.groq.com/keys).
-`GROQ_MODEL` is configurable; its default is `openai/gpt-oss-120b`. The older Llama model is retired for free/developer accounts. Choose a model available to your account.
-Never put the key in frontend code or a `VITE_` variable.
-
-To start the Python API by itself:
-
-```bash
-source .venv/bin/activate
-python -m uvicorn backend.main:app --reload --host 127.0.0.1 --port 8000
-```
-
-If you started Python separately, run `npm run dev:frontend` in another terminal, then open **AI Coach**. Otherwise use `npm start` or `npm run dev` to start both services together.
-Vite proxies `/api` requests to Python. The API reads saved settings on every request. `backend/.env` takes priority over the legacy root `.env`; explicit shell environment variables take priority over both.
-`GET /api/health` reports whether a key is configured, not whether it is valid.
-`POST /api/chat` accepts `{ "messages": [{ "role": "user", "content": "Explain position" }], "mode": "constructive" }`.
-
-- The conversation stays in memory for this visit; submitting sends recent messages to Groq.
-- Constructive and friendly-roast styles share the same server-side poker coaching instructions.
-- No API key means a clear setup message, not a simulated AI response.
-- The API is for local development. A public deployment needs authentication, abuse limits, and a same-origin `/api` proxy before exposing this paid-provider endpoint.
-- Run API tests with `.venv/bin/python -m unittest discover -s backend -p 'test_*.py'` (mocked provider; no live AI calls).
-
-The Hand Overview screen reads `.txt`, `.log`, and `.hh` files recursively from the local `hand_histories/` directory through `GET /api/hand-history-overview`. It aggregates GG Poker hands dealt to `Hero` and PokerStars/Betfair hands dealt to `bullets685`, with overall HUD metrics, position statistics, heuristic flags, and searchable hand details. Went-to-showdown (WTSD) is showdowns divided by hands that saw a flop; showdown frequency per all dealt hands is shown separately. Three-bet opportunities require exactly one prior raise, and c-bet opportunities require the preflop aggressor to reach a flop without facing a bet before acting. The files are read locally and are not modified. Tournament ROI is not calculated because hand histories alone do not provide a complete results ledger.
-
-The Session Analysis screen accepts UTF-8 GG Poker `.txt` histories dealt to `Hero` and PokerStars/Betfair `.txt` histories dealt to `bullets685`. The API detects the format, normalizes positions, cards, stacks, and preflop actions, then audits the hands in memory; files are not saved. The response includes session totals, leak counts, and per-hand feedback. These findings use the supplied preflop charts with a legacy heuristic fallback, not a solver or verified GTO output.
-
-Install the backend dependencies, including `python-multipart`, from `backend/requirements.txt` before starting the API. Run the upload and analysis API tests with `.venv\\Scripts\\python -m unittest discover -s backend -p "test_*.py"` on Windows (or the corresponding activated-environment command on macOS/Linux).
-
-The remaining GTO solver and advanced statistical-analysis sections describe proposed scope and are not implemented yet.
-
----
-
-
-[![Python](https://img.shields.io/badge/Backend-Python_3.11+-3776AB?logo=python&logoColor=white)](#tech-stack-breakdown)
-[![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi&logoColor=white)](#tech-stack-breakdown)
-[![Engine](https://img.shields.io/badge/Solver-GTOpen_C%2B%2B%2FRust-FF6F00)](#2-preflop--postflop-gto-solver-gtopen-integration)
-[![Groq](https://img.shields.io/badge/AI-Groq_Llama_3.3_70B-F34B21)](#3-ai-chatbot--persona-analyst)
-
-An interactive, full-stack poker analysis and training platform that transforms raw hand history data into real-time GTO (Game Theory Optimal) strategy heatmaps, gamified training scenarios, and AI-powered player roasting.
-
----
-
-## 📌 Project Overview
-
-This application bridges raw online poker hand history parsing with high-performance GTO solving and gamified player analytics. It converts complex mathematical strategy trees and postflop Counterfactual Regret Minimization (CFR) solvers into an intuitive, visually appealing web interface. 
-
-By pairing data analysis with an LLM personality coach and interactive training minigames, the platform turns dry statistical audits into an engaging, educational experience.
-
----
-
-## 🏗️ Core Architecture & Features
-
-### 1. Data Ingestion & Game Parsing
-* **Hand History Importer:** Ingests exported `.txt` or standard `.phh` (Poker Hand History) log files from standard online poker clients and tracking software.
-* **169 Hand Matrix Normalization:** Converts raw hole cards down into canonical $13 \times 13$ matrix keys (e.g., $AKs$, $AKo$, $77$).
-* **Performance Tracking:** Programmatically measures player metrics, including EV/bb (expected value per big blind), positional frequencies, street-by-street aggression, and net win/loss distributions.
-
-### 2. Preflop & Postflop GTO Solver (GTOpen Integration)
-* **Preflop Multiway Engine:** Leverages GTOpen’s **Preflop Lab** to compute multiway preflop strategy trees ($2$ to $9$ players across opens, limps, 3-bets, and calls) using coupled-deck equity abstractions.
-* **Postflop CFR Solver:** Automatically feeds heads-up postflop scenarios (Flop, Turn, River) into GTOpen’s Rust/C++ Counterfactual Regret Minimization engine with CPU or NVIDIA CUDA hardware acceleration.
-* **Dynamic Strategy Heatmaps:** Renders interactive, color-coded $13 \times 13$ strategy matrix grids displaying exact action probabilities ($\text{Fold}$, $\text{Call}$, $\text{Raise}$) and expected values ($EV$).
-
-### 3. AI Chatbot & Persona Analyst
-* **Automated Gameplay Roaster:** Integrated with Groq's `llama-3.3-70b-versatile` model to deliver near-instant, sarcastic, or constructive critiques of sub-optimal plays (e.g., triple-barrel bluffing into multiway calling stations).
-* **Dynamic "Tilt Meter":** Detects erratic post-loss betting behaviors and updates a visual emotional state gauge ($\text{Calm} \rightarrow \text{Annoyed} \rightarrow \text{Steaming} \rightarrow \text{Tilt}$).
-* **Player Archetype Badges:** Evaluates player stats ($VPIP$, $PFR$, $3\text{-Bet}\%$) to assign funny badges like *"The Nit"*, *"The Calling Station"*, or *"The Maniac"*.
-
-### 4. Gamified "GTO Scenario" Minigame
-* **Interactive Scenario Mode:** Drops players into randomized, high-stakes situations (e.g., facing a 3-bet in the Cutoff on a $A\spades K\spades 7\heartsuit$ board).
-* **Instant GTO Evaluation:** Compares user actions directly against GTOpen’s calculated optimal strategy distribution in real time.
-* **Scoring System:** Tracks player accuracy with score multipliers, GTO streak counters, and immediate strategic feedback.
-
----
-
-## 🛠️ Tech Stack Breakdown
-
-* **Backend API:** Python 3.11+ via **FastAPI** / **Uvicorn**
-* **Solver Engine:** **GTOpen** (C++/Rust CFR Solver with optional CUDA GPU support)
-* **AI / LLM Engine:** **Groq API** (`llama-3.3-70b-versatile`) using standard OpenAI SDK
-* **Frontend UI:** React + Vite with custom CSS, responsive layouts, and light/dark themes
-* **Data Processing:** `pandas`, `numpy`, `eval7`
-
----
-
-## ⚡ Quick Start & Installation
-
-### Prerequisites
-* Python 3.11 or higher
-* Compiled GTOpen binary in your system path or project root
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/poker-gto-app.git
-   cd poker-gto-app
-   ```
-
-2. **Set up virtual environment:**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Environment Variables:**
-   Create a `.env` file in the project root:
-   ```env
-   GROQ_API_KEY="your-groq-api-key-here"
-   GTOPEN_BIN_PATH="./bin/gtoopen"
-   ```
-
-5. **Run the Application:**
-   ```bash
-   uvicorn main:app --reload
-   ```
-   Open `http://localhost:8000` in your web browser.
-
----
-
-## 📊 Matrix Key Normalization Reference
-
-The $13 \times 13$ strategy grid maps all 1,326 starting hand combinations into 169 canonical keys:
-* **Pairs ($AA - 22$):** Represented along the main diagonal ($i = j$).
-* **Suited Hands ($AKs, T9s$):** Represented in the upper-right triangle ($i < j$).
-* **Offsuit Hands ($AKo, 72o$):** Represented in the lower-left triangle ($i > j$).
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-### Arena controls and decision reviews
-
-The human stays at the bottom centre of the table; the view rotates around their shuffled physical seat, so poker position and the yellow D button still change between hands. Player types and wager amounts use larger text. Enter a custom raise-to amount in bb or select 33%, 50%, 75%, or 100% of the current pot. Presets round to 0.5bb and clamp to legal raise limits; facing a bet they represent a raise-to total, not an extra raise after calling.
-
-The separate Practice Room has been removed from navigation. After each Arena move, a decision-time snapshot (hero cards, visible board, stacks, opponent archetypes, and recent action history) is sent to the existing Python `/api/chat` coach. Future board cards and opponents' hidden cards are excluded. Feedback appears beneath the controls, with retry for failures. It is AI coaching, not a solver verdict.
-
-GTOpen is **not installed or connected**. Its [official API documentation](https://github.com/MatthewPDingle/GTOpen/blob/master/docs/technical_reference.md) exposes multiway preflop and heads-up postflop solving. A full trainer integration still needs a local engine, configured ranges/trees, mapping each Arena action to a solver node (including custom sizes), convergence checks and persisted solutions. No frequencies or EV losses are fabricated when these are unavailable. Multiway postflop remains outside its supported solve scope.
-
-### Live table insights
-
-Every played action now includes a short public-information explanation, displayed as its animation plays. Calls show the immediate price/equity threshold (capped for side-pot coverage); raises explain the extra risk, and checks/folds explain their tradeoff. This is heuristic commentary, not an evaluation against solved ranges or proof a move is correct. Skipping animations retains the skipped actions in the collapsed recent-action list.
-
-Hero moves also request a two-sentence AI review; the table keeps updating while it loads, and works if the coach is offline. Only the latest insight and latest hero review remain expanded. Older actions are capped at twelve entries. Initial avatars replace Arena emoji characters, and table talk starts muted to keep the felt uncluttered.
-
-### Gradual coaching replies
-
-Coach replies are fetched from the Python API as before, then displayed progressively word by word. This is a frontend reveal, not token streaming from the provider. Use **Show full response** to finish immediately, or **New chat** to clear it. The complete reply is retained for conversation context and copying. Arena AI notes use the same reveal; immediate local table insights remain instant. Hand Library has been removed from navigation and the overview links to Study Notebook instead.
-
-### Arena Hero preflop chart evaluation
-
-Hero preflop reviews read the checked-in `charts/MTT_{5,10,20,40,100}_GTO.json` files at the hand's exact starting depth. Cards become canonical pair/suited/offsuit keys. Position mapping follows the chart's nine-seat naming with earliest positions removed for shorter tables (eight-handed UTG → EP2, UTG+1 → EP3). The structured action history selects open/limp, call/3-bet, call-3-bet/4-bet and later matching tables.
-
-Any positive-frequency action is chart-approved, including mixed actions; zero-frequency actions are outside the chart. Fold frequency is the residual after the listed alternatives. Limped/calling multiway sequences, unsupported cold reraises, missing tables/depths and inconsistent frequency totals are marked as a clearly labelled **Legacy fallback**: the chart remains unassessed and the prior heuristic feedback is used instead. The coverage reason is displayed and passed to AI coaching. Charts evaluate action category, not the chosen bet amount, exact EV, or ICM.
-
-The chart verdict remains visible in **Your preflop review** and is included in the AI explanation request. Opponent action selection and feedback are unchanged. Hero postflop reviews continue using the existing legacy feedback and AI coaching. No live GTO solver is added.
-
-## Tournament ledger
-
-Open **Tournaments** to read `tournament_summaries/**/*.txt` through `GET /api/tournaments`. The parser identifies GG player `Hero` and PokerStars/Betfair player `bullets685`; rows without a matching entry are labelled and excluded from accounting. It includes all listed buy-in components (including fees and bounty contributions), multiplying by the initial entry plus reported re-entries. Money uses integer cents; entries are nominal values because payment methods are not recorded.
-
-Duplicate `(room, tournament ID)` summaries are counted once. Conflicting financial snapshots are flagged and excluded rather than silently choosing one. Unknown returns, costs, or unfinished personal results are not converted to zero. Parse failures and incomplete/conflicting records are exposed in the view. The listed summary folder is read afresh when you refresh the tab.
-
-Cash-basis net profit = reported cash returns minus nominal buy-ins; ROI = net profit / buy-ins × 100. Only cash returns are counted. Noncash qualifications and ticket awards are $0 cash and do not count as cashed. No face-value view is offered.
-
-Cash-based ITM is binary for every completed known result: a positive cash return (including bounty cash) means cashed; $0 means did not cash. Unknown or unfinished results are excluded rather than fabricated. Accounting coverage is not a rating of skill or proof that all tournaments are present.
-
-The cumulative graph starts at $0 and uses each included result once, ordered by recorded start time. Timezones are not uniformly specified, so within-day cross-room order can be approximate; this is a tournament-results curve, not a settled cash-balance ledger. Missing-date results are excluded from the graph and counted separately.
-
-For the current files: 24 files, 23 unique entered tournaments, 29 entries, $77.60 buy-ins, $142.65 cash returns, $65.05 cash-prize net and 83.83% cash-prize ROI. Cash-based ITM is 16/23 tournaments (69.57%); all 23 supplied final results have a known cash outcome. These are a small observed sample, not a reliable estimate of long-run ROI.
-
-The reliability panel also cross-checks tournament IDs found in parsed hand histories against the summaries. Currently it finds 19 matches among 20 identifiable hand-history tournaments; PokerStars/Betfair #4040099699 has no summary. Its unknown result is excluded, not treated as a loss. Histories without identifiable tournament IDs cannot establish summary coverage.
-
-## Saved games, imports and decision reviews
-
-Session Analysis now lists files from `hand_histories` through `/api/hand-files` and analyzes the selected relative path through `/api/analyze-saved`. Each review explicitly identifies Hero's first preflop decision, prior actions and the action taken. Final board cards are labelled as later context rather than decision-time information. EP2/EP3 are displayed as UTG1/UTG2; internal chart keys are unchanged.
-
-Hand Overview and Session Analysis include an **Add hand histories** importer. Tournaments includes **Add tournament summaries**. `/api/library/hands` and `/api/library/tournaments` validate UTF-8 .txt exports up to 10 MB before saving in the corresponding `uploads` subfolder. Filenames are sanitized and content-hashed; existing files are never overwritten. Repeat imports are idempotent. Hand/tournament deduplication continues to protect statistics.
-
-Preflop Charts is fixed at eight players. BB is unavailable for RFI and the 3-bet/shove-response view; the first position is unavailable when facing an open. There are no separate shove charts in the supplied data.
-
-Arena uses a fitted desktop table with coaching and actions beside it, plus a Fullscreen button. The table scales while controls and coaching text stay unscaled. Hero decision reviews pause playback and show a correct/incorrect verdict; chart-backed grades reflect chart support, and legacy grades are explicitly labelled estimates based on the existing heuristic policy at a fixed roll, not solved poker truth. Continuing resumes the hand. Skipping abandons the unfinished drill without adding any fictitious win/loss to session totals. Opponent policy and game RNG are unchanged. Coach previews retain the full response rather than truncating it mid-sentence.
-
-### Arena sound
-
-Arena sound is enabled by default, with **Mute sounds** available in the toolbar. A deliberate mute preference is remembered. Click or tap anywhere in the Arena to unlock audio if browser autoplay rules require it. Effects include a soft card swish and short action chimes (fold, check, call and bet/raise). The setting is saved locally. Browser autoplay rules may require another click/tap after a page reload. Sounds follow the visible playback frames; skipping animations does not play a burst of skipped effects. Audio is suspended when leaving the Arena or hiding the tab. Effects are synthesized locally with Web Audio and require no external sound assets.
-
-### Phone version
-
-The existing React app now supports home-screen installation (PWA), a collapsible phone menu, touch-sized controls, and safe areas around the camera notch and home indicator. No app-store account is required. This is a web app, not a native iOS/Android package.
-
-For a quick phone preview:
-
-```sh
-npm run dev:mobile
-```
-
-Connect the phone and Mac to the same trusted Wi-Fi, then open the **Network** address printed by Vite on the phone. Keep the Mac running. Do not enter `localhost` on the phone: that refers to the phone itself. This command exposes the frontend and its API proxy on your local network; the Python server and API key remain on the Mac. Normal `npm start` stays local to your computer.
-
-For installation and offline support, run `npm run build` and serve `dist/` over **HTTPS**, with `/api` forwarded to the Python backend on the same origin. Plain HTTP over Wi-Fi is a preview, not a full offline installation. `npm run preview` can test the production build locally on the Mac. A production host must support the backend too; uploading only `dist/` will not provide AI chat, hand analysis or tournament imports.
-
-On iPhone, open the HTTPS site in Safari → Share → Add to Home Screen → Open as Web App. On Android, use the browser's Install app option, or the in-app Install PokerTool button when offered by the browser.
-
-After the first successful production download, the Arena, preflop charts, portraits, and saved notebook work offline. Chat, server data and uploads require a connection. API responses and conversations are never stored in the service-worker cache. Notebook and settings stay on that device and browser; they do not sync to a second phone. Updates wait until all existing app windows are closed so they cannot interrupt a hand.
-
-### QR presentation page
-
-Run `npm run dev:mobile`, then open the **Network URL** on your laptop with `/share.html` appended (for example, `http://192.168.1.20:5173/share.html`). This separate “Scan to play” page automatically generates a QR pointing to the main app at that address. Keep it on your laptop while judges scan from phones on the same Wi-Fi. Keep the Mac running.
-
-If you open `/share.html` through localhost while `npm run dev:mobile` is running, the page automatically detects the Wi-Fi address and actual port. If multiple network interfaces are available, choose the one your phone can reach from the Wi-Fi address dropdown. You can also paste Vite’s Network URL into the address field. The page also supports a public HTTPS address and downloading a PNG for slides. Codes are generated locally. The main app no longer has a QR sharing button. A QR code does not publish the app or make a local Wi-Fi address accessible outside that network.
+Built for a hackathon, with room to grow—and with the hope that each session leaves you with something you understand a little better.

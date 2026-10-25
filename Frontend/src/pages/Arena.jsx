@@ -2,6 +2,7 @@ import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import useArenaSound from '../useArenaSound';
 import PlayingCard from '../components/PlayingCard';
 import PlayerPortrait from '../components/PlayerPortrait';
+import PlayerDetails from '../components/PlayerDetails';
 import DealerHand from '../components/DealerHand';
 import { arenaPosition, arenaText } from '../positions';
 import CoachReply from '../components/CoachReply';
@@ -47,11 +48,11 @@ function SeatWager({ player, street, complete }) {
   </div>;
 }
 
-function BotSeat({ player, hand, reveal, muted, dealStep, thinking, event, winner }) {
+function BotSeat({ player, hand, reveal, muted, dealStep, thinking, event, winner, onInspect }) {
   const persona = profileFor(player.archetype);
   const [x, y] = seatCoordinates[displaySeat(hand, player)];
   return <article className={`arena-bot ${persona.colour}${player.folded || !player.inHand ? ' folded' : ''}${thinking ? ' thinking' : ''}${winner ? ' celebrating' : ''}${event && event !== 'thinking' ? ' speaking' : ''}`}
-    tabIndex={0} style={{ '--seat-x': `${x}%`, '--seat-y': `${y}%` }}
+    role="button" onClick={() => onInspect(player.id)} onKeyDown={event => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); onInspect(player.id); } }} aria-haspopup="dialog" tabIndex={0} style={{ '--seat-x': `${x}%`, '--seat-y': `${y}%` }}
     aria-label={`${persona.name}, ${persona.label}`} data-seat={player.id} data-physical-seat={displaySeat(hand, player)}>
     {!muted && <div className={`speech-bubble${thinking ? ' thought-bubble' : ''}`} key={`${thinking}-${player.bubble}`}>
       {thinking ? <><div className="thinking-dots" aria-label={`${persona.name} is thinking`}><i /><i /><i /></div><span>THINKING…</span></> : <><p>{player.inHand ? player.bubble : 'Out of chips. Watching this hand.'}</p><span>TABLE TALK</span></>}
@@ -104,6 +105,8 @@ function HoldemGame({ active }) {
   const soundedFrames = useRef(new WeakSet());
   const lastDealSound = useRef('');
   const [game, setGame] = useState(() => ({ hand: newArenaMatch(), played: 0, wins: 0, net: 0 }));
+  const [inspectedPlayer, setInspectedPlayer] = useState(null);
+  useEffect(() => { setInspectedPlayer(null); }, [game.hand.number, active]);
   const [reviews, setReviews] = useState([]);
   const [liveFeedback, setLiveFeedback] = useState(null);
   const seenFeedback = useRef(new Set());
@@ -125,6 +128,7 @@ function HoldemGame({ active }) {
   const [flight, setFlight] = useState(null);
   const [collected, setCollected] = useState([]);
   const [decisionPrompt, setDecisionPrompt] = useState(null);
+  useEffect(() => { if (decisionPrompt) setInspectedPlayer(null); }, [decisionPrompt]);
   const [tableScale, setTableScale] = useState(1);
   const locked = useRef(false);
   const stage = useRef(null);
@@ -343,14 +347,14 @@ function HoldemGame({ active }) {
       {reviews.length > 0 && <details className="feedback-history"><summary>Recent actions <span>{reviews.length}</span></summary>{reviews.map(review => <article key={review.id}><strong>{review.name} · {STREETS[review.street]} · {review.label}</strong><p>{arenaText(review.text)}</p></article>)}</details>}
     </section>
     <div className="tournament-mode-note"><span>MTT / SNG · CHIP EV</span><span>{hand.stackDepthBB}bb starting stacks · no ICM or payouts · new roster &amp; seats each hand</span></div>
-    <p className="table-scroll-hint">On smaller screens, swipe the table sideways to see every player.</p>
+    <p className="table-scroll-hint">Tap a player for their profile, stack and latest action.</p>
     <div ref={tableViewport} style={{ '--table-scale': tableScale }} className="arena-table-viewport" tabIndex={0} role="region" aria-label="Poker table. Scroll sideways to see all seats.">
     <div ref={stage} className={`arena-stage animated-table holdem-table${muted ? ' quiet-table' : ''}${dealing ? ' is-dealing' : ''}${event === 'collect' ? ' is-collecting' : ''}`} data-dealing={dealing} data-playing={frame !== null} aria-label="Eight-seat poker table">
       <div className="arena-felt"><span className="arena-wordmark">PokerTool</span></div>
       <div className="dealer-deck" aria-label="Dealer deck"><span>♠</span><small>DEALER</small></div>
       {dealing && !reduced && flight && <span key={`${hand.number}-${dealStep}`} className="flying-deal-card" aria-hidden="true" style={{ ...flight, '--flight-time': quick ? '75ms' : '250ms' }}>♠</span>}
       {!reduced && (dealing || event === 'street' || event === 'showdown') && <DealerHand key={`hand-${hand.number}-${dealStep}-${hand.street}-${event}`} fast={quick} revealing={!dealing} style={dealing ? flight || {} : { '--origin-x': '5%', '--origin-y': '70%', '--target-x': '50%', '--target-y': '56%' }} />}
-      <div className="arena-seats">{hand.players.slice(1).map(player => <BotSeat key={player.id} player={player} hand={hand} reveal={reveal} muted={muted} dealStep={dealStep} thinking={event === 'thinking' && actor === player.id} event={actor === player.id ? event : ''} winner={complete && hand.winners.includes(player.id)} />)}</div>
+      <div className="arena-seats">{hand.players.slice(1).map(player => <BotSeat key={player.id} player={player} hand={hand} reveal={reveal} muted={muted} dealStep={dealStep} thinking={event === 'thinking' && actor === player.id} event={actor === player.id ? event : ''} winner={complete && hand.winners.includes(player.id)} onInspect={setInspectedPlayer} />)}</div>
   
       <div className="arena-community"><span className="arena-pot" key={`${hand.number}-${hand.pot}`}><small>{complete ? 'POT AWARDED' : 'TOTAL POT'}</small><strong>{bb((complete ? hand.awarded : hand.pot) / 2)}<em>bb</em></strong></span>
         <div className="table-cards" aria-label={`${STREETS[hand.street]} board`}>{Array.from({ length: 5 }, (_, index) => hand.board[index] ? <PlayingCard key={`${hand.number}-${index}`} rank={hand.board[index][0]} suit={hand.board[index][1]} index={index} className="arena-reveal-card" /> : <span key={index} className="board-card-space" aria-label="Community card not dealt" />)}</div>
@@ -369,6 +373,8 @@ function HoldemGame({ active }) {
     </div>
       {decisionPrompt && <div className={`arena-review-prompt ${decisionPrompt.assessment.toLowerCase()}`} role="dialog" aria-modal="false" aria-label="Your decision review"><strong>{decisionPrompt.assessment === 'CORRECT' ? 'Correct decision' : 'Incorrect decision'}{decisionPrompt.estimated && ' · legacy estimate'}</strong><p>{arenaText(decisionPrompt.text)}</p>{decisionPrompt.estimated && <p className="caption">Heuristic comparison, not a solved verdict. Suggested action: {decisionPrompt.recommendedType}.</p>}<div><button className="button primary" onClick={() => setDecisionPrompt(null)}>Continue hand</button><button className="button" onClick={skipHand}>Skip to next hand</button></div><small>Skipped hands are excluded from session results.</small></div>}
     </div>
+    <div className="phone-player-picker"><label>Inspect a player<select aria-label="Inspect a player" value="" onChange={event => { if (event.target.value !== '') setInspectedPlayer(Number(event.target.value)); }}><option value="">Choose an opponent…</option>{hand.players.slice(1).map(player => <option value={player.id} key={player.id}>{player.name} · {arenaPosition(player.position)}</option>)}</select></label><p>Tap a seat or choose a player for readable details. Rotate your phone for a wider table.</p></div>
+    {active && inspectedPlayer !== null && !decisionPrompt && <PlayerDetails key={`${hand.number}-${inspectedPlayer}`} player={hand.players.find(player => player.id === inspectedPlayer)} hand={hand} onClose={() => setInspectedPlayer(null)} />}
     <div className="decision-context"><span>Your position<strong>{arenaPosition(hand.players[0].position)}</strong></span><span>Already in this street<strong>{bb(hand.players[0].streetBet / 2)} bb</strong></span><span>Current bet total<strong>{bb(hand.currentBet / 2)} bb</strong></span><span>To call<strong>{complete ? '—' : `${bb(Math.min(hand.players[0].stack, Math.max(0, hand.currentBet - hand.players[0].streetBet)) / 2)} bb`}</strong></span></div>
     <div className="arena-decision" aria-live="polite">{complete ? <div className={`arena-outcome ${winner ? 'won' : 'lost'}`}><strong>{winner ? 'You win a pot!' : 'This hand goes to the opposition.'}</strong><p>{hand.result}</p>{hand.showdown && !hand.players[0].folded && <span>Your hand: {handLabels[hand.players[0].rank[0]]}</span>}{hand.pots?.filter(pot => !pot.refund).length > 1 && <span> · Main pot and side pots are detailed in the action history.</span>}</div> : <p>{busy ? 'Follow the table action, or skip to your next decision.' : `It’s your decision on the ${STREETS[hand.street].toLowerCase()}. Review the action history before you act.`}</p>}</div>
     {complete ? <div className="arena-actions"><button type="button" className="button primary" disabled={busy} onClick={dealNext}>Deal next hand →</button></div> : heroLegal ? <BettingControls legal={heroLegal} busy={busy} onMove={move} currentBet={hand.currentBet} pot={hand.pot} /> : <div className="arena-actions"><button type="button" className="button" disabled>Waiting for the table…</button></div>}
