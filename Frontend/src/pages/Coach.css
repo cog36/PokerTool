@@ -104,3 +104,4 @@
 .coach-reveal-controls button { background: none; border: 1px solid var(--border); border-radius: 6px; padding: 7px 10px; color: var(--mint); font-size: 13px; cursor: pointer; }
 @keyframes coach-caret-pulse { from { opacity: .3; } to { opacity: 1; } }
 @media (prefers-reduced-motion: reduce) { .coach-writing-caret { animation: none; } }
+#coach .coach-welcome { flex-shrink:0; }

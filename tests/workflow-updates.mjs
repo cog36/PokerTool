@@ -1,0 +1,40 @@
+import { chromium, expect } from '@playwright/test';
+const browser=await chromium.launch({channel:'chrome',headless:true});
+try{
+ const page=await browser.newPage({viewport:{width:1440,height:1000},reducedMotion:'reduce'});
+ await page.addInitScript(() => { Math.random = () => .999; });
+ const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.route('**/api/chat',r=>r.fulfill({json:{reply:'This preview remains readable while the decision is reviewed.'}}));
+ await page.goto('http://127.0.0.1:5173/#analysis');
+ await expect(page.getByRole('combobox',{name:'Saved game'}).locator('option')).not.toHaveCount(1);
+ await page.getByRole('button',{name:'Analyze session'}).click();
+ await expect(page.locator('.analysis-hand').first()).toBeVisible();
+ await page.locator('.analysis-hand summary').first().click();
+ await expect(page.locator('.analysis-decision-point').first()).toContainText('Preflop');
+ await page.screenshot({path:'/tmp/analysis-workflow.png',fullPage:true});
+ await page.evaluate(()=>location.hash='ranges');
+ await expect(page.locator('.range-fixed-size')).toContainText('8 players');
+ const positions=page.getByRole('group',{name:'Hero position'});
+ await expect(positions.getByRole('button',{name:'BB',exact:true})).toHaveCount(0);
+ await expect(positions.getByRole('button',{name:'UTG1',exact:true})).toHaveCount(1);
+ await page.getByRole('button',{name:'Facing Open',exact:true}).click();
+ await expect(positions.getByRole('button',{name:'UTG1',exact:true})).toHaveCount(0);
+ await page.getByRole('button',{name:'Facing 3-Bet / Shove',exact:true}).click();
+ await expect(positions.getByRole('button',{name:'BB',exact:true})).toHaveCount(0);
+ await page.evaluate(()=>location.hash='arena');
+ await expect(page.locator('.arena-stage')).toHaveAttribute('data-dealing','false');
+ await expect(page.locator('.arena-stage')).toHaveAttribute('data-playing','false');
+ await page.screenshot({path:'/tmp/arena-fit.png',fullPage:true});
+ const roomBounds = await page.locator('.eight-seat-room').boundingBox();
+ if (roomBounds.y + roomBounds.height > 1001) throw new Error(`Arena controls extend beyond screen: ${JSON.stringify(roomBounds)}`);
+ await page.locator('.arena-actions button').filter({hasText:/^(Call|Check)/}).first().click();
+ await expect(page.getByRole('dialog',{name:'Your decision review'})).toContainText(/Correct decision|Incorrect decision/);
+ await page.screenshot({path:'/tmp/arena-verdict.png',fullPage:true});
+ await page.getByRole('button',{name:'Skip to next hand',exact:true}).click();
+ await expect(page.getByRole('dialog',{name:'Your decision review'})).toHaveCount(0);
+ await expect(page.locator('.arena-club-brand h2')).toContainText('Hand 2');
+ await expect(page.locator('.arena-session-summary .practice-metrics strong').first()).toHaveText('0');
+ for(const route of ['handOverview','tournaments']){await page.evaluate(r=>location.hash=r,route);await expect(page.locator('.library-upload:visible')).toBeVisible();}
+ if(errors.length)throw new Error(errors.join('\n'));
+ console.log('PASS: saved games, decision context, fixed chart positions, Arena review and skip, import controls.');
+}finally{await browser.close();}

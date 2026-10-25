@@ -57,7 +57,7 @@ export default function Coach() {
 
   useEffect(() => {
     const log = transcript.current;
-    if (log) log.scrollTop = log.scrollHeight;
+    if (log) log.scrollTop = !messages.length && !pending && !busy ? 0 : log.scrollHeight;
   }, [messages, pending, busy, error]);
 
   function choosePrompt(text) {

@@ -1,16 +1,21 @@
 import { useEffect, useLayoutEffect, useRef, useState } from 'react';
+import useArenaSound from '../useArenaSound';
 import PlayingCard from '../components/PlayingCard';
 import PlayerPortrait from '../components/PlayerPortrait';
+import PlayerDetails from '../components/PlayerDetails';
 import DealerHand from '../components/DealerHand';
+import { arenaPosition, arenaText } from '../positions';
 import CoachReply from '../components/CoachReply';
 import { planAction, planOpening, createTournamentHand, decisionView, legalActions, STREETS, handLabels, personalities, tellQuestions } from '../arena';
 import { profileFor } from '../archetypes';
 
 // Rotate the view around the human; poker positions still follow the shuffled seats.
-const seatCoordinates = [[50, 86], [18, 73], [10, 43], [25, 18], [50, 12], [75, 18], [90, 43], [82, 73]];
+const seatCoordinates = [[50, 81], [23, 75], [10, 48], [28, 25], [50, 20], [72, 25], [90, 48], [77, 75]];
 const newArenaMatch = (number, previous = null) => createTournamentHand({ number: number || 1, previous });
 
 const displaySeat = (hand, player) => ((player.seat ?? player.id) - hand.players[0].seat + 8) % 8;
+
+const compactType = profile => ({ exploit: 'Exploitative reg', gto: 'GTO reg', tricky: 'Deceptive', station: 'Calling station', fitfold: 'Fit or fold', abc: 'ABC' }[profile.id] || profile.label);
 
 const bb = value => Number(value.toFixed(2)).toLocaleString(undefined, { maximumFractionDigits: 2 });
 
@@ -36,25 +41,25 @@ function SeatWager({ player, street, complete }) {
   const action = player.lastAction?.street === street ? player.lastAction : null;
   const amount = complete ? 0 : player.streetBet;
   if (!action && !amount) return null;
-  const label = action ? `${action.label}${['raise', 'call', 'blind'].includes(action.type) ? ` ${action.type === 'raise' ? 'to ' : ''}${bb((action.type === 'raise' ? action.total : action.amount) / 2)}bb` : ''}${action.allIn ? ' · All-in' : ''}` : '';
+  const label = action ? `${action.type === 'blind' ? action.label === 'Small blind' ? 'SB' : 'BB' : action.label}${['raise', 'call', 'blind'].includes(action.type) ? ` ${action.type === 'raise' ? 'to ' : ''}${bb((action.type === 'raise' ? action.total : action.amount) / 2)}bb` : ''}${action.allIn ? ' · All-in' : ''}` : '';
   return <div className="seat-wager" data-player={player.id} aria-label={`${player.name}: ${label}${amount ? `; ${bb(amount / 2)}bb in front this street` : ''}`}>
     {label && <span className={`wager-action${action?.type === 'fold' ? ' folded-action' : ''}`}>{label}</span>}
     {amount > 0 && <div className="wager-pile"><span className="chip-pile" aria-hidden="true"><i /><i /><i /></span><strong>{bb(amount / 2)}<small>bb</small></strong></div>}
   </div>;
 }
 
-function BotSeat({ player, hand, reveal, muted, dealStep, thinking, event, winner }) {
+function BotSeat({ player, hand, reveal, muted, dealStep, thinking, event, winner, onInspect }) {
   const persona = profileFor(player.archetype);
   const [x, y] = seatCoordinates[displaySeat(hand, player)];
   return <article className={`arena-bot ${persona.colour}${player.folded || !player.inHand ? ' folded' : ''}${thinking ? ' thinking' : ''}${winner ? ' celebrating' : ''}${event && event !== 'thinking' ? ' speaking' : ''}`}
-    tabIndex={0} style={{ '--seat-x': `${x}%`, '--seat-y': `${y}%` }}
+    role="button" onClick={() => onInspect(player.id)} onKeyDown={event => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); onInspect(player.id); } }} aria-haspopup="dialog" tabIndex={0} style={{ '--seat-x': `${x}%`, '--seat-y': `${y}%` }}
     aria-label={`${persona.name}, ${persona.label}`} data-seat={player.id} data-physical-seat={displaySeat(hand, player)}>
     {!muted && <div className={`speech-bubble${thinking ? ' thought-bubble' : ''}`} key={`${thinking}-${player.bubble}`}>
       {thinking ? <><div className="thinking-dots" aria-label={`${persona.name} is thinking`}><i /><i /><i /></div><span>THINKING…</span></> : <><p>{player.inHand ? player.bubble : 'Out of chips. Watching this hand.'}</p><span>TABLE TALK</span></>}
     </div>}
     <div className={`bot-avatar ${event || ''}`} aria-hidden="true"><PlayerPortrait type={player.archetype} /></div>
-    <h3>{hand.button === player.id && <span className="seat-dealer" aria-label="Dealer button">D</span>}{persona.name}{winner && ' ★'}</h3><span className="archetype-tag" title={persona.description}>{persona.label}</span>
-    <p className="bot-personality">{player.position} {hand.button === player.id ? '· DEALER' : ''}</p><strong className="bot-stack">{bb(player.stack / 2)} bb</strong>
+    <h3>{hand.button === player.id && <span className="seat-dealer" aria-label="Dealer button">D</span>}{persona.name}{winner && ' ★'}</h3><span className="archetype-tag" title={persona.description}>{compactType(persona)}</span>
+    <p className="bot-personality">{arenaPosition(player.position)} {hand.button === player.id ? '· DEALER' : ''}</p><strong className="bot-stack">{bb(player.stack / 2)} bb</strong>
     <div className={`bot-cards${player.folded ? ' mucked-cards' : ''}`}>
       {player.cards.map(([rank, suit], index) => reveal && !player.folded
         ? <span className="showdown-flip" key={index}><PlayingCard rank={rank} suit={suit} index={index} /></span>
@@ -96,7 +101,12 @@ function BettingControls({ legal, busy, onMove, currentBet, pot }) {
 }
 
 function HoldemGame({ active }) {
+  const sound = useArenaSound(active);
+  const soundedFrames = useRef(new WeakSet());
+  const lastDealSound = useRef('');
   const [game, setGame] = useState(() => ({ hand: newArenaMatch(), played: 0, wins: 0, net: 0 }));
+  const [inspectedPlayer, setInspectedPlayer] = useState(null);
+  useEffect(() => { setInspectedPlayer(null); }, [game.hand.number, active]);
   const [reviews, setReviews] = useState([]);
   const [liveFeedback, setLiveFeedback] = useState(null);
   const seenFeedback = useRef(new Set());
@@ -117,9 +127,19 @@ function HoldemGame({ active }) {
   const [queue, setQueue] = useState([]);
   const [flight, setFlight] = useState(null);
   const [collected, setCollected] = useState([]);
+  const [decisionPrompt, setDecisionPrompt] = useState(null);
+  useEffect(() => { if (decisionPrompt) setInspectedPlayer(null); }, [decisionPrompt]);
+  const [tableScale, setTableScale] = useState(1);
   const locked = useRef(false);
   const stage = useRef(null);
   const tableViewport = useRef(null);
+  useLayoutEffect(() => {
+    if (!active || !tableViewport.current) return;
+    const viewport = tableViewport.current;
+    const fit = () => setTableScale(Math.min(1, viewport.clientWidth / 760, viewport.clientHeight / 620));
+    const observer = new ResizeObserver(fit); observer.observe(viewport); fit();
+    return () => observer.disconnect();
+  }, [active]);
   useLayoutEffect(() => {
     if (!active) return;
     const centre = () => {
@@ -140,7 +160,23 @@ function HoldemGame({ active }) {
   const heroLegal = legalActions(hand, 0) || legalActions(game.hand, 0);
   const event = frame?.event;
   const actor = frame?.actor;
-  const heroReview = reviews.find(item => item.actor === 0);
+  const heroReview = reviews.find(item => item.actor === 0 && item.id.startsWith(`${hand.number}-`));
+
+  useEffect(() => {
+    if (!active || !dealing) return;
+    const key = `${hand.number}:${dealStep}`;
+    if (lastDealSound.current === key) return;
+    lastDealSound.current = key;
+    sound.play('deal');
+  }, [active, dealing, dealStep, hand.number, sound.play]);
+
+  useEffect(() => {
+    if (!active || !frame || soundedFrames.current.has(frame)) return;
+    soundedFrames.current.add(frame);
+    if (['fold', 'check', 'call', 'raise'].includes(frame.event)) sound.play(frame.event);
+    else if (frame.event === 'street') sound.play('deal');
+  }, [active, frame, sound.play]);
+
 
   useEffect(() => {
     if (active && frame?.feedback) showFeedback([frame.feedback]);
@@ -173,20 +209,22 @@ function HoldemGame({ active }) {
   }, [active, dealing, opening, frame, game.hand]);
 
   useEffect(() => {
-    if (!active || !frame) return;
+    if (!active || !frame || decisionPrompt) return;
     const duration = reduced ? 12 : quick ? 65 : event === 'thinking' ? 450 : event === 'showdown' ? 900 : event === 'street' ? 650 : event === 'award' ? 700 : 300;
     const timer = setTimeout(() => {
       if (queue.length) { setFrame(queue[0]); setQueue(previous => previous.slice(1)); }
       else commit(frame.hand);
     }, duration);
     return () => clearTimeout(timer);
-  }, [active, frame, queue, quick, reduced]);
+  }, [active, frame, queue, quick, reduced, decisionPrompt]);
 
   // Measure the actual card targets, including the horizontally scrollable mobile seats.
   useLayoutEffect(() => {
     if (!active || !stage.current) return;
     const update = () => {
       const bounds = stage.current.getBoundingClientRect();
+      const scale = bounds.width / stage.current.offsetWidth || 1;
+      const px = value => `${value / scale}px`;
       const deck = stage.current.querySelector('.dealer-deck').getBoundingClientRect();
       const id = dealing ? hand.dealOrder[dealStep] : actor;
       const cards = stage.current.querySelector(`[data-seat="${id}"] .${id === 0 ? 'table-cards' : 'bot-cards'}`);
@@ -196,15 +234,15 @@ function HoldemGame({ active }) {
       if (event === 'collect') {
         setCollected(hand.players.filter(player => player.streetBet > 0).flatMap(player => {
           const pile = stage.current.querySelector(`[data-seat="${player.id}"] .seat-wager`)?.getBoundingClientRect();
-          return pile ? [{ id: player.id, '--from-x': `${pile.left - bounds.left + pile.width / 2}px`, '--from-y': `${pile.top - bounds.top}px` }] : [];
+          return pile ? [{ id: player.id, '--from-x': px(pile.left - bounds.left + pile.width / 2), '--from-y': px(pile.top - bounds.top) }] : [];
         }));
       } else setCollected([]);
-      if (target) setFlight({ '--origin-x': `${deck.left - bounds.left}px`, '--origin-y': `${deck.top - bounds.top}px`, '--target-x': `${target.left - bounds.left + target.width / 2}px`, '--target-y': `${target.top - bounds.top}px`, '--start-x': `${target.left - bounds.left}px`, '--start-y': `${target.top - bounds.top}px`, '--bet-end-x': `${wager ? wager.left - bounds.left + wager.width / 2 : target.left - bounds.left}px`, '--bet-end-y': `${wager ? wager.top - bounds.top : target.top - bounds.top}px` });
+      if (target) setFlight({ '--origin-x': px(deck.left - bounds.left), '--origin-y': px(deck.top - bounds.top), '--target-x': px(target.left - bounds.left + target.width / 2), '--target-y': px(target.top - bounds.top), '--start-x': px(target.left - bounds.left), '--start-y': px(target.top - bounds.top), '--bet-end-x': px(wager ? wager.left - bounds.left + wager.width / 2 : target.left - bounds.left), '--bet-end-y': px(wager ? wager.top - bounds.top : target.top - bounds.top) });
     };
     update();
     window.addEventListener('resize', update);
     return () => window.removeEventListener('resize', update);
-  }, [active, dealStep, dealing, actor, hand.number, frame]);
+  }, [active, dealStep, dealing, actor, hand.number, frame, tableScale]);
 
   useEffect(() => {
     if (!active || !(actor > 0)) return;
@@ -222,10 +260,14 @@ function HoldemGame({ active }) {
     const snapshot = decisionView(before, 0);
     const id = frames.find(item => item.feedback?.actor === 0)?.feedback.id;
     if (!id) return;
-    showFeedback(frames.filter(item => item.feedback?.actor === 0).map(item => item.feedback));
+    const review = frames.find(item => item.feedback?.actor === 0)?.feedback;
+    setDecisionPrompt(review);
+    showFeedback([review]);
     const context = {
       preflopChart: frames.find(item => item.feedback?.actor === 0)?.feedback.chart || null,
       evaluationSource: frames.find(item => item.feedback?.actor === 0)?.feedback.source,
+      decisionVerdict: review.assessment,
+      legacyEstimate: review.estimated || false,
       legacyFallback: frames.find(item => item.feedback?.actor === 0)?.feedback.fallback || false,
       hand: before.number, street: STREETS[before.street], position: before.players[0].position,
       cards: snapshot.cards, board: snapshot.board, stackBB: before.players[0].stack / 2,
@@ -247,10 +289,14 @@ function HoldemGame({ active }) {
       const data = await response.json();
       if (!response.ok) throw new Error(data?.detail?.message || 'The coach is unavailable. Start the Python API and check its configuration.');
       if (!data.reply?.trim()) throw new Error('The coach returned no feedback.');
-      setReviews(previous => previous.map(item => item.id === id ? { ...item, status: 'ready', aiText: data.reply.split(/\s+/).slice(0, 55).join(' ') } : item));
+      setReviews(previous => previous.map(item => item.id === id ? { ...item, status: 'ready', aiText: data.reply.trim() } : item));
     } catch (error) {
       setReviews(previous => previous.map(item => item.id === id ? { ...item, status: 'error', error: error.name === 'AbortError' ? 'Review timed out. Try again.' : error.message } : item));
     } finally { clearTimeout(timeout); reviewRequests.current.delete(controller); }
+  }
+  function skipHand() {
+    setDecisionPrompt(null); setLiveFeedback(null); setDealStep(0); setOpening(true); setFrame(null); setQueue([]); locked.current = false;
+    setGame(previous => ({ ...previous, hand: newArenaMatch(previous.hand.number + 1, previous.hand) }));
   }
   function freshTable() {
     if (busy) return;
@@ -261,7 +307,7 @@ function HoldemGame({ active }) {
   }
   function dealNext() {
     if (busy || !complete) return;
-    setLiveFeedback(null);
+    setDecisionPrompt(null); setLiveFeedback(null);
     setDealStep(0); setOpening(true);
     setGame(previous => ({ ...previous, hand: newArenaMatch(previous.hand.number + 1, previous.hand) }));
   }
@@ -281,31 +327,34 @@ function HoldemGame({ active }) {
   return <div className="arena-layout arena-lounge"><section className="panel arena-game eight-seat-room">
     <div className="panel-title"><div className="arena-club-brand"><span className="club-mark" aria-hidden="true">♠</span><div><span className="eyebrow">POKERTOOL · THE EIGHT SEAT CLUB</span><h2>Full-hand challenge <span className="muted">· Hand {hand.number}</span></h2></div></div><div className="arena-table-controls">
       <button type="button" className="button" aria-pressed={quick} onClick={() => setQuick(value => !value)}>{quick ? 'Quick play' : 'Cinematic play'}</button>
+      <button type="button" className="button arena-sound-toggle" aria-pressed={sound.enabled} disabled={!sound.supported} title={sound.error || 'Card-dealing sounds and action chimes'} onClick={sound.toggle}>{sound.enabled ? 'Mute sounds' : 'Enable sound'}</button>
       <button type="button" className="button bubble-toggle" aria-pressed={!muted} onClick={() => setMuted(value => !value)}>{muted ? 'Show table talk' : 'Mute table talk'}</button>
+      <button type="button" className="button" onClick={event => { const room = event.currentTarget.closest('.eight-seat-room'); if (document.fullscreenElement) document.exitFullscreen?.(); else room.requestFullscreen?.().catch(() => {}); }}>Fullscreen</button>
       <button type="button" className="button" disabled={busy} onClick={freshTable}>New random table</button>
     </div></div>
+    {sound.error && <span className="arena-audio-error" role="status">{sound.error}</span>}
     <ol className="arena-streets" aria-label="Hand progress">{STREETS.map((street, index) => <li key={street} aria-current={index === hand.street ? 'step' : undefined} className={index <= hand.street ? 'reached' : ''}>{street}</li>)}</ol>
-    <div className={`dealer-status${!busy ? ' your-turn' : ''}`} role="status"><span className="dealer-token" aria-hidden="true">D</span><span>{announcement}</span>{busy && <button type="button" className="skip-playback" onClick={skip}>Skip animations →</button>}</div>
+    <div className={`dealer-status${!busy ? ' your-turn' : ''}`} role="status"><span className="dealer-token" aria-hidden="true">D</span><span>{arenaText(announcement)}</span>{busy && <button type="button" className="skip-playback" onClick={skip}>Skip animations →</button>}</div>
     <section className="decision-reviews" aria-label="Live decision feedback">
       <header><span className="feedback-dot" /><h2>Table insight</h2><span className="caption">Live · {liveFeedback?.source === 'CHART' ? 'preflop chart' : 'legacy analysis'}</span></header>
       <div className="live-feedback" role="status" aria-live="polite">
-        {liveFeedback ? <><strong>{liveFeedback.name} · {liveFeedback.position} · {liveFeedback.label}</strong><p>{liveFeedback.text}</p></> : <p>Short feedback appears here as each player acts.</p>}
+        {liveFeedback ? <><strong>{liveFeedback.name} · {arenaPosition(liveFeedback.position)} · {liveFeedback.label}</strong><p>{arenaText(liveFeedback.text)}</p></> : <p>Short feedback appears here as each player acts.</p>}
       </div>
-      {heroReview?.chart && !heroReview.fallback && <div className={`hero-chart-note ${heroReview.chart.assessment.toLowerCase()}`} data-assessment={heroReview.chart.assessment}><strong>Your preflop review · {heroReview.chart.assessment === 'APPROVED' ? 'Chart match' : 'Outside chart'}</strong><p>{heroReview.text}</p></div>}
-      {reviews.find(item => item.actor === 0 && item.aiText) && <div className="hero-coach-note"><strong>Your coach</strong><CoachReply text={reviews.find(item => item.actor === 0 && item.aiText).aiText} animate /></div>}
+      {heroReview?.chart && !heroReview.fallback && <div className={`hero-chart-note ${heroReview.chart.assessment.toLowerCase()}`} data-assessment={heroReview.chart.assessment}><strong>Your preflop review · {heroReview.chart.assessment === 'APPROVED' ? 'Chart match' : 'Outside chart'}</strong><p>{arenaText(heroReview.text)}</p></div>}
+      {heroReview?.aiText && <div className="hero-coach-note"><strong>Your coach</strong><CoachReply text={arenaText(heroReview.aiText)} animate /></div>}
       {reviews.some(item => item.status === 'loading') && <span className="caption">Coach is reviewing your move…</span>}
       {reviews.find(item => item.status === 'error') && <div className="review-retry"><span className="caption">AI coach unavailable. Live feedback is still active.</span><button className="button" onClick={() => { const item = reviews.find(item => item.status === 'error'); setReviews(previous => previous.map(review => review.id === item.id ? { ...review, status: 'loading' } : review)); requestReview(item.id, item.context); }}>Retry coach</button></div>}
-      {reviews.length > 0 && <details className="feedback-history"><summary>Recent actions <span>{reviews.length}</span></summary>{reviews.map(review => <article key={review.id}><strong>{review.name} · {STREETS[review.street]} · {review.label}</strong><p>{review.text}</p></article>)}</details>}
+      {reviews.length > 0 && <details className="feedback-history"><summary>Recent actions <span>{reviews.length}</span></summary>{reviews.map(review => <article key={review.id}><strong>{review.name} · {STREETS[review.street]} · {review.label}</strong><p>{arenaText(review.text)}</p></article>)}</details>}
     </section>
     <div className="tournament-mode-note"><span>MTT / SNG · CHIP EV</span><span>{hand.stackDepthBB}bb starting stacks · no ICM or payouts · new roster &amp; seats each hand</span></div>
-    <p className="table-scroll-hint">On smaller screens, swipe the table sideways to see every player.</p>
-    <div ref={tableViewport} className="arena-table-viewport" tabIndex={0} role="region" aria-label="Poker table. Scroll sideways to see all seats.">
+    <p className="table-scroll-hint">Tap a player for their profile, stack and latest action.</p>
+    <div ref={tableViewport} style={{ '--table-scale': tableScale }} className="arena-table-viewport" tabIndex={0} role="region" aria-label="Poker table. Scroll sideways to see all seats.">
     <div ref={stage} className={`arena-stage animated-table holdem-table${muted ? ' quiet-table' : ''}${dealing ? ' is-dealing' : ''}${event === 'collect' ? ' is-collecting' : ''}`} data-dealing={dealing} data-playing={frame !== null} aria-label="Eight-seat poker table">
       <div className="arena-felt"><span className="arena-wordmark">PokerTool</span></div>
       <div className="dealer-deck" aria-label="Dealer deck"><span>♠</span><small>DEALER</small></div>
       {dealing && !reduced && flight && <span key={`${hand.number}-${dealStep}`} className="flying-deal-card" aria-hidden="true" style={{ ...flight, '--flight-time': quick ? '75ms' : '250ms' }}>♠</span>}
       {!reduced && (dealing || event === 'street' || event === 'showdown') && <DealerHand key={`hand-${hand.number}-${dealStep}-${hand.street}-${event}`} fast={quick} revealing={!dealing} style={dealing ? flight || {} : { '--origin-x': '5%', '--origin-y': '70%', '--target-x': '50%', '--target-y': '56%' }} />}
-      <div className="arena-seats">{hand.players.slice(1).map(player => <BotSeat key={player.id} player={player} hand={hand} reveal={reveal} muted={muted} dealStep={dealStep} thinking={event === 'thinking' && actor === player.id} event={actor === player.id ? event : ''} winner={complete && hand.winners.includes(player.id)} />)}</div>
+      <div className="arena-seats">{hand.players.slice(1).map(player => <BotSeat key={player.id} player={player} hand={hand} reveal={reveal} muted={muted} dealStep={dealStep} thinking={event === 'thinking' && actor === player.id} event={actor === player.id ? event : ''} winner={complete && hand.winners.includes(player.id)} onInspect={setInspectedPlayer} />)}</div>
   
       <div className="arena-community"><span className="arena-pot" key={`${hand.number}-${hand.pot}`}><small>{complete ? 'POT AWARDED' : 'TOTAL POT'}</small><strong>{bb((complete ? hand.awarded : hand.pot) / 2)}<em>bb</em></strong></span>
         <div className="table-cards" aria-label={`${STREETS[hand.street]} board`}>{Array.from({ length: 5 }, (_, index) => hand.board[index] ? <PlayingCard key={`${hand.number}-${index}`} rank={hand.board[index][0]} suit={hand.board[index][1]} index={index} className="arena-reveal-card" /> : <span key={index} className="board-card-space" aria-label="Community card not dealt" />)}</div>
@@ -315,21 +364,24 @@ function HoldemGame({ active }) {
       {frame?.amount > 0 && <div className="travelling-chips" key={`${hand.log.length}-${actor}`} style={flight || {}} aria-hidden="true"><span /><span /><span /><b>{bb(frame.amount / 2)} bb</b></div>}
       <div data-seat="0" data-physical-seat={0} style={{ '--seat-x': `${seatCoordinates[0][0]}%`, '--seat-y': `${seatCoordinates[0][1]}%` }} className={`arena-hero reseated-hero${winner ? ' winner' : ''}${!busy && !complete ? ' hero-active' : ''}`}>
         <div className="table-cards">{hand.players[0].cards.map(([rank, suit], index) => dealStep > (index ? hand.dealOrder.lastIndexOf(0) : hand.dealOrder.indexOf(0)) ? <PlayingCard key={`${hand.number}-${index}`} rank={rank} suit={suit} index={0} className="arena-reveal-card" /> : <span key={index} className="hero-card-space" />)}</div>
-        <strong>{hand.button === 0 && <span className="seat-dealer" aria-label="Dealer button">D</span>}{winner ? '★ YOU WIN' : `YOU · ${hand.players[0].position}`} <span>{bb(hand.players[0].stack / 2)} bb</span></strong>{hand.players[0].folded && <span className="fold-label">FOLDED</span>}{hand.players[0].allIn && <span className="fold-label">ALL-IN</span>}
+        <strong>{hand.button === 0 && <span className="seat-dealer" aria-label="Dealer button">D</span>}{winner ? '★ YOU WIN' : `YOU · ${arenaPosition(hand.players[0].position)}`} <span>{bb(hand.players[0].stack / 2)} bb</span></strong>{hand.players[0].folded && <span className="fold-label">FOLDED</span>}{hand.players[0].allIn && <span className="fold-label">ALL-IN</span>}
         <SeatWager player={hand.players[0]} street={hand.street} complete={complete} />
       </div>
       <div className="arena-bankroll"><span>YOUR STACK</span><strong>{bb(hand.players[0].stack / 2)}<small>bb</small></strong></div>
       <span className={`arena-turn-indicator${!busy && !complete ? ' active' : ''}`}><i />{complete ? 'Hand complete' : busy ? 'Table in motion' : 'Your turn'}</span>
       {winner && <div className="winner-sparks" aria-hidden="true">✦ <span>✧</span> ✦</div>}
     </div>
+      {decisionPrompt && <div className={`arena-review-prompt ${decisionPrompt.assessment.toLowerCase()}`} role="dialog" aria-modal="false" aria-label="Your decision review"><strong>{decisionPrompt.assessment === 'CORRECT' ? 'Correct decision' : 'Incorrect decision'}{decisionPrompt.estimated && ' · legacy estimate'}</strong><p>{arenaText(decisionPrompt.text)}</p>{decisionPrompt.estimated && <p className="caption">Heuristic comparison, not a solved verdict. Suggested action: {decisionPrompt.recommendedType}.</p>}<div><button className="button primary" onClick={() => setDecisionPrompt(null)}>Continue hand</button><button className="button" onClick={skipHand}>Skip to next hand</button></div><small>Skipped hands are excluded from session results.</small></div>}
     </div>
-    <div className="decision-context"><span>Your position<strong>{hand.players[0].position}</strong></span><span>Already in this street<strong>{bb(hand.players[0].streetBet / 2)} bb</strong></span><span>Current bet total<strong>{bb(hand.currentBet / 2)} bb</strong></span><span>To call<strong>{complete ? '—' : `${bb(Math.min(hand.players[0].stack, Math.max(0, hand.currentBet - hand.players[0].streetBet)) / 2)} bb`}</strong></span></div>
+    <div className="phone-player-picker"><label>Inspect a player<select aria-label="Inspect a player" value="" onChange={event => { if (event.target.value !== '') setInspectedPlayer(Number(event.target.value)); }}><option value="">Choose an opponent…</option>{hand.players.slice(1).map(player => <option value={player.id} key={player.id}>{player.name} · {arenaPosition(player.position)}</option>)}</select></label><p>Tap a seat or choose a player for readable details. Rotate your phone for a wider table.</p></div>
+    {active && inspectedPlayer !== null && !decisionPrompt && <PlayerDetails key={`${hand.number}-${inspectedPlayer}`} player={hand.players.find(player => player.id === inspectedPlayer)} hand={hand} onClose={() => setInspectedPlayer(null)} />}
+    <div className="decision-context"><span>Your position<strong>{arenaPosition(hand.players[0].position)}</strong></span><span>Already in this street<strong>{bb(hand.players[0].streetBet / 2)} bb</strong></span><span>Current bet total<strong>{bb(hand.currentBet / 2)} bb</strong></span><span>To call<strong>{complete ? '—' : `${bb(Math.min(hand.players[0].stack, Math.max(0, hand.currentBet - hand.players[0].streetBet)) / 2)} bb`}</strong></span></div>
     <div className="arena-decision" aria-live="polite">{complete ? <div className={`arena-outcome ${winner ? 'won' : 'lost'}`}><strong>{winner ? 'You win a pot!' : 'This hand goes to the opposition.'}</strong><p>{hand.result}</p>{hand.showdown && !hand.players[0].folded && <span>Your hand: {handLabels[hand.players[0].rank[0]]}</span>}{hand.pots?.filter(pot => !pot.refund).length > 1 && <span> · Main pot and side pots are detailed in the action history.</span>}</div> : <p>{busy ? 'Follow the table action, or skip to your next decision.' : `It’s your decision on the ${STREETS[hand.street].toLowerCase()}. Review the action history before you act.`}</p>}</div>
     {complete ? <div className="arena-actions"><button type="button" className="button primary" disabled={busy} onClick={dealNext}>Deal next hand →</button></div> : heroLegal ? <BettingControls legal={heroLegal} busy={busy} onMove={move} currentBet={hand.currentBet} pot={hand.pot} /> : <div className="arena-actions"><button type="button" className="button" disabled>Waiting for the table…</button></div>}
   </section><aside className="arena-sidebar">
     <section className="panel arena-session-summary"><div className="panel-title"><h2>Your drill session</h2><span className="tag">VIRTUAL CHIPS</span></div><div className="practice-metrics"><div><strong>{game.played}</strong><span>Hands finished</span></div><div><strong>{game.wins}</strong><span>Pots shared / won</span></div><div><strong>{bb(game.net / 2)}</strong><span>Realised net bb</span></div></div></section>
-    <section className="panel arena-action-log"><div className="panel-title"><h2>Full hand history</h2><span className="tag">EVERY STREET</span></div>{STREETS.map(street => { const entries = hand.history.filter(entry => entry.street === street); return entries.length > 0 && <section className="history-street" key={street}><h3>{street}</h3><ol>{entries.map((entry, index) => <li key={index}>{entry.text}</li>)}</ol></section>; })}</section>
-    <section className="panel roster-guide"><div className="panel-title"><h2>At your table</h2><span className="tag">7 OPPONENTS</span></div><p className="roster-intro">Know the tendencies. Watch the decisions.</p><div className="roster-list">{hand.players.slice(1).map(player => { const profile = profileFor(player.archetype); return <article key={player.id}><PlayerPortrait type={player.archetype} className="roster-portrait" /><div><div className="roster-heading"><strong>{player.name}</strong><span>{player.position}</span></div><span className="roster-type">{profile.label}</span><p>{profile.description}</p></div><span className={`roster-status${player.folded ? ' is-folded' : ''}`}>{player.folded ? 'Folded' : player.allIn ? 'All-in' : 'In hand'}</span></article>; })}</div></section>
+    <section className="panel arena-action-log"><div className="panel-title"><h2>Full hand history</h2><span className="tag">EVERY STREET</span></div>{STREETS.map(street => { const entries = hand.history.filter(entry => entry.street === street); return entries.length > 0 && <section className="history-street" key={street}><h3>{street}</h3><ol>{entries.map((entry, index) => <li key={index}>{arenaText(entry.text)}</li>)}</ol></section>; })}</section>
+    <section className="panel roster-guide"><div className="panel-title"><h2>At your table</h2><span className="tag">7 OPPONENTS</span></div><p className="roster-intro">Know the tendencies. Watch the decisions.</p><div className="roster-list">{hand.players.slice(1).map(player => { const profile = profileFor(player.archetype); return <article key={player.id}><PlayerPortrait type={player.archetype} className="roster-portrait" /><div><div className="roster-heading"><strong>{player.name}</strong><span>{arenaPosition(player.position)}</span></div><span className="roster-type">{profile.label}</span><p>{profile.description}</p></div><span className={`roster-status${player.folded ? ' is-folded' : ''}`}>{player.folded ? 'Folded' : player.allIn ? 'All-in' : 'In hand'}</span></article>; })}</div></section>
     <details className="arena-drill-guide"><summary>How these drills work <span>Format, chip EV &amp; coaching</span></summary><div className="drill-guide-grid"><section><h3>The format</h3><p>Eight players with a randomly chosen starting depth of 5, 10, 20, 40 or 100bb each hand. Everyone starts at the same depth, with 0.5 / 1bb blinds. Each hand draws seven archetypes and new poker positions. Your view stays bottom centre.</p></section><section><h3>Reading opponents</h3><p>Bots use their own cards, the visible board, position and observed actions. Archetypes influence decisions; speech bubbles are fictional table talk.</p></section><section><h3>Understanding feedback</h3><p>Hero’s preflop actions are checked against the supplied charts at the exact starting depth. When a chart does not cover a spot, the review uses legacy analysis and labels the fallback. Sizes are not graded by the charts. Opponent decisions and postflop feedback use the existing logic. AI coaching explains these results; it is not a live solver. Realised net chips are tracked separately. These independent MTT/SNG drills do not model payouts or ICM.</p></section></div></details>
   </aside></div>;
 }

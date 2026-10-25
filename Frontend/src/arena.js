@@ -279,7 +279,20 @@ function apply(state, action, record) {
     const lines = { fold: profile.threshold > .7 ? 'Patience. Another hand will come.' : 'Not this time. Keep those chips warm.', check: profile.trap > .3 ? 'A quiet move can still tell a story.' : 'Let’s see what happens next.', call: profile.stickiness > .8 ? 'I do like to see how the story ends.' : 'That price deserves a look.', raise: profile.aggression > .8 ? 'Your move. Let’s make it interesting.' : 'I have a reason to put chips in.' };
     player.bubble = lines[type];
   }
-  record(state, type, player.id, amount, actionFeedback(before, state, player.id));
+  const feedback = actionFeedback(before, state, player.id);
+  if (player.id === 0) {
+    if (feedback.chart && !feedback.fallback) {
+      feedback.assessment = feedback.chart.assessment === 'APPROVED' ? 'CORRECT' : 'INCORRECT';
+    } else {
+      // Reuse the existing heuristic policy without consuming the game's RNG.
+      const recommendation = chooseBotAction(decisionView(before, 0), .5);
+      const recommendedType = typeof recommendation === 'string' ? recommendation : recommendation.type;
+      feedback.assessment = type === recommendedType ? 'CORRECT' : 'INCORRECT';
+      feedback.estimated = true;
+      feedback.recommendedType = recommendedType;
+    }
+  }
+  record(state, type, player.id, amount, feedback);
   progress(state, record);
   return true;
 }

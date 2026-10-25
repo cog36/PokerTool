@@ -4,6 +4,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
+const mobile = process.argv.includes('--mobile');
 const windows = process.platform === 'win32';
 const python = windows
   ? join(root, '.venv', 'Scripts', 'python.exe')
@@ -105,5 +106,7 @@ if (await waitForApi() && !stopping) {
   // the frontend. Never terminate an unrelated process to reclaim its port.
   console.log('Python API is ready. Starting frontend (preferred port 5173).');
   console.log('Open the Local URL printed by Vite below; it will choose another port if needed.');
-  launch(process.execPath, [vite, '--host', '127.0.0.1', '--port', '5173'], 'Frontend');
+  if (mobile) console.log('Phone preview: use the Network URL on the same Wi-Fi. This exposes the app and its API proxy to your local network; HTTPS is needed for offline installation.');
+  if (mobile) console.log('QR presentation page: open the Network URL with /share.html added on your laptop.');
+  launch(process.execPath, [vite, '--host', mobile ? '0.0.0.0' : '127.0.0.1', '--port', '5173'], 'Frontend');
 }

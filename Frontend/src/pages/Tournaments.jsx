@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import './Tournaments.css';
+import LibraryUpload from '../components/LibraryUpload';
 const dollars = cents => cents === null || cents === undefined ? '—' : new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD' }).format(cents / 100);
 const percent = value => value === null || value === undefined ? '—' : `${value.toFixed(2)}%`;
 
@@ -44,6 +45,7 @@ export default function Tournaments({ active }) {
   const rows=data?.tournaments.filter(row=>`${row.id} ${row.name} ${row.room} ${row.hero}`.toLowerCase().includes(search.toLowerCase()))||[];
   return <section id="tournaments" className="page tournaments-page">
     <div className="page-title"><div><p className="eyebrow">THE TOURNAMENT LEDGER</p><h1>Tournaments</h1><p>Entry costs, reported prizes and the results behind the numbers.</p></div><button className="button" disabled={loading} onClick={()=>setRefresh(value=>value+1)}>{loading?'Reading summaries…':'Refresh summaries'}</button></div>
+    <LibraryUpload kind="tournaments" onImported={() => setRefresh(value => value + 1)} />
     <div className="tournament-toolbar"><p><strong>Cash results only.</strong> Cash payouts include bounty cash. Noncash awards have no cash value in these figures. GG player: <strong>Hero</strong>; PokerStars/Betfair player: <strong>bullets685</strong>.</p></div>
     {error&&<p role="alert" className="analysis-message error">{error}</p>}
     {!data&&loading&&<p className="panel" role="status">Reading tournament summaries…</p>}

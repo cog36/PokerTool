@@ -10,9 +10,11 @@
     "preview": "vite preview --host 127.0.0.1",
     "test": "node --test Frontend/src/*.test.js",
     "test:browser": "node tests/frontend.mjs",
-    "dev:frontend": "vite --host 127.0.0.1"
+    "dev:frontend": "vite --host 127.0.0.1",
+    "dev:mobile": "node scripts/start.js --mobile"
   },
   "dependencies": {
+    "qrcode": "^1.5.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-markdown": "^10.1.0",
