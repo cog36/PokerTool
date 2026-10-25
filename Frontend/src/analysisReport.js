@@ -13,10 +13,22 @@ export function normalizeAnalysis(data) {
     deviation_type: text(hand.deviation_type), feedback: text(hand.feedback, 'No feedback was returned for this hand.'),
     raw_cards: text(hand.raw_cards), facing_action: text(hand.facing_action), recommended_action: text(hand.recommended_action),
     stack_depth_bb: finite(hand.stack_depth_bb) ? hand.stack_depth_bb : 'Unknown',
+    big_blind: finite(hand.big_blind) && hand.big_blind > 0 ? hand.big_blind : null,
     chart_stack_bb: finite(hand.chart_stack_bb) ? hand.chart_stack_bb : 'Unknown',
     net_profit: finite(hand.net_profit) ? hand.net_profit : null,
     board: text(hand.board, 'No board'),
     actions_before_hero: Array.isArray(hand.actions_before_hero) ? hand.actions_before_hero.filter(action => action && typeof action === 'object').map(action => ({ ...action, position: text(action.position), action: text(action.action) })) : [],
+    hero: text(hand.hero, 'Hero'),
+    action_timeline: Array.isArray(hand.action_timeline) ? hand.action_timeline.filter(action => action && typeof action === 'object').map(action => ({
+      ...action,
+      street: text(action.street, 'Preflop'),
+      player: text(action.player),
+      position: text(action.position, 'UNKNOWN'),
+      action: text(action.action),
+      text: text(action.text, text(action.action)),
+    })) : [],
+    decision_action_index: Number.isInteger(hand.decision_action_index) ? hand.decision_action_index : null,
+    street_boards: hand.street_boards && typeof hand.street_boards === 'object' ? hand.street_boards : {},
   }));
   if (!hands.length) return null;
   return {

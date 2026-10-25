@@ -95,6 +95,9 @@ class AnalysisApiTests(unittest.TestCase):
         self.assertIn(hand['analysis_source'], {'CHART', 'LEGACY_LOGIC'})
         self.assertIn('chart_stack_bb', hand)
         self.assertIn('actions_before_hero', hand)
+        self.assertTrue(hand['action_timeline'])
+        self.assertIn(hand['decision_action_index'], range(len(hand['action_timeline'])))
+        self.assertTrue(hand['action_timeline'][hand['decision_action_index']]['is_decision'])
 
     def test_upload_analyzes_pokerstars_history(self):
         with POKERSTARS_FILE_PATH.open('rb') as history:
@@ -111,6 +114,15 @@ class AnalysisApiTests(unittest.TestCase):
         self.assertIn(result['hands'][0]['position'], {'EP1', 'EP2', 'EP3', 'LJ', 'HJ', 'CO', 'BTN', 'SB', 'BB'})
         self.assertEqual(result['hands'][0]['matrix_key'], 'ATs')
         self.assertIn(result['hands'][0]['analysis_source'], {'CHART', 'LEGACY_LOGIC'})
+        hand = result['hands'][0]
+        decision = hand['action_timeline'][hand['decision_action_index']]
+        self.assertEqual(decision['player'], 'bullets685')
+        self.assertEqual(decision['street'], 'Preflop')
+        self.assertEqual(decision['text'], 'raises 1.75bb to 2.75bb')
+        self.assertIn('Flop', hand['street_boards'])
+        self.assertEqual(len(hand['street_boards']['Turn'].split()), 4)
+        self.assertEqual(len(hand['street_boards']['River'].split()), 5)
+        self.assertEqual(hand['big_blind'], 20)
 
     def test_rejects_non_text_files(self):
         response = self.client.post(

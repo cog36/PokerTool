@@ -205,7 +205,30 @@ body { font-size: 15px; line-height: 1.65; }
 .analysis-upload .field select { font-size:16px; background:var(--panel); color:var(--text); }
 .analysis-decision-point { background:color-mix(in srgb,var(--green) 6%,var(--panel)); border-left:3px solid var(--brass); padding:14px 18px; margin-bottom:18px; }
 .analysis-decision-point p { font-size:15px; margin-top:6px; line-height:1.7; }
-#analysis .analysis-stats { grid-template-columns:repeat(5,minmax(0,1fr)); }
+.analysis-decision-point > strong { display:block; margin-top:5px; font-size:18px; }
+.analysis-decision-point .caption { margin-top:8px; overflow-wrap:anywhere; }
+.analysis-reason { border-left:3px solid var(--red); padding:12px 16px; margin:16px 0 22px; background:color-mix(in srgb,var(--red) 5%,var(--panel)); }
+.analysis-reason > strong { display:block; margin-bottom:5px; }
+.analysis-reason p { margin:0; }
+.analysis-timeline { margin-top:20px; }
+.analysis-timeline h3 { margin:0 0 4px; font-size:19px; }
+.analysis-timeline .panel-title { align-items:center; margin-bottom:14px; }
+.analysis-street { border:1px solid var(--border); border-radius:5px; overflow:hidden; margin:10px 0; }
+.analysis-street-heading { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:9px 14px; background:color-mix(in srgb,var(--brass) 9%,var(--panel)); border-bottom:1px solid var(--border); font-size:14px; }
+.analysis-street-heading > span { color:var(--muted); font-variant-numeric:tabular-nums; }
+.analysis-street ol { list-style:none; margin:0; padding:0; }
+.analysis-action { display:grid; grid-template-columns:75px minmax(90px,.7fr) minmax(160px,1.5fr) auto; align-items:center; gap:10px; padding:8px 14px; border-bottom:1px solid color-mix(in srgb,var(--border) 65%,transparent); font-size:14px; }
+.analysis-action:last-child { border-bottom:0; }
+.analysis-action-position { color:var(--muted); font-size:12px; }
+.analysis-action-player { font-weight:600; overflow-wrap:anywhere; }
+.analysis-action-text { font-variant-numeric:tabular-nums; overflow-wrap:anywhere; }
+.analysis-action.is-decision { background:color-mix(in srgb,var(--red) 10%,var(--panel)); box-shadow:inset 3px 0 var(--red); }
+.analysis-action-badge { color:var(--red); font-size:10px; font-weight:800; letter-spacing:.06em; white-space:nowrap; }
+.analysis-street-empty { padding:9px 14px; margin:0; color:var(--muted); font-size:13px; }
+.analysis-assessment-details { margin-top:16px; border-top:1px solid var(--border); padding-top:12px; }
+.analysis-assessment-details > summary { cursor:pointer; color:var(--muted); font-size:13px; }
+.analysis-assessment-details .analysis-hand-facts { margin-top:12px; }
+#analysis .analysis-stats { grid-template-columns:repeat(4,minmax(0,1fr)); }
 #analysis .analysis-hand summary { grid-template-columns:minmax(180px,1fr) minmax(120px,.7fr) minmax(170px,1fr) minmax(100px,.7fr); }
 #analysis .analysis-hand-facts { grid-template-columns:repeat(3,minmax(0,1fr)); }
 #analysis .analysis-hand-content p,#analysis .analysis-hand-facts strong { font-size:15px; line-height:1.7; }
@@ -213,7 +236,7 @@ body { font-size: 15px; line-height: 1.65; }
 .range-fixed-size { display:flex; flex-direction:column; gap:8px; font-size:14px; }
 .range-fixed-size strong { padding:10px 0; font-size:16px; }
 .study-plan-note { margin:20px 0; font-size:15px; }
-@media(max-width:720px){#analysis .analysis-stats{grid-template-columns:repeat(2,minmax(0,1fr))}#analysis .analysis-hand summary{grid-template-columns:1fr 1fr}#analysis .analysis-hand-facts{grid-template-columns:1fr 1fr}}
+@media(max-width:720px){#analysis .analysis-stats{grid-template-columns:repeat(2,minmax(0,1fr))}#analysis .analysis-hand summary{grid-template-columns:1fr 1fr}#analysis .analysis-hand-facts{grid-template-columns:1fr 1fr}.analysis-action{grid-template-columns:52px minmax(70px,.7fr) minmax(100px,1.3fr);gap:7px;padding:8px}.analysis-action-badge{grid-column:2/-1}.analysis-timeline .panel-title{align-items:flex-start;flex-direction:column}}
 #analysis .analysis-hand summary{grid-template-columns:minmax(180px,1fr) minmax(100px,.6fr) minmax(160px,1fr) minmax(100px,.6fr) 20px;align-items:center}
 #analysis .decision-status{padding:7px 10px;font-size:12px;line-height:1.5;border-radius:5px}
 #analysis .decision-incorrect{background:#4b2029;color:#ffbec8}
