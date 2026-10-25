@@ -1,11 +1,12 @@
 """Local poker coaching API. Run: python -m uvicorn backend.main:app --reload or cd backend && uvicorn main:app --reload."""
 
 import os
+import io
 from pathlib import Path
 from typing import Literal
 
 from dotenv import dotenv_values
-from fastapi import FastAPI, File, HTTPException, Response, UploadFile
+from fastapi import FastAPI, File, HTTPException, Response, UploadFile, Form
 from openai import AsyncOpenAI, APIConnectionError, APIStatusError, APITimeoutError
 from pydantic import BaseModel, ConfigDict, Field, field_validator, model_validator
 
@@ -14,12 +15,14 @@ if __package__:
     from .parser import parse_hand_history
     from .analyzer import analyze_session_hands
     from .hand_history_overview import build_hand_history_overview
-    from .tournaments import build_tournaments
+    from .tournaments import build_tournaments, parse_summary
+    from .library import hand_files, saved_hand_path, store_import
 else:
     from parser import parse_hand_history
     from analyzer import analyze_session_hands
     from hand_history_overview import build_hand_history_overview
-    from tournaments import build_tournaments
+    from tournaments import build_tournaments, parse_summary
+    from library import hand_files, saved_hand_path, store_import
 
 MAX_HAND_HISTORY_BYTES = 10 * 1024 * 1024
 DEFAULT_MODEL = 'openai/gpt-oss-120b'
@@ -100,6 +103,46 @@ def hand_history_overview(response: Response, room: Literal['all', 'pokerstars',
 def tournaments(response: Response):
     response.headers['Cache-Control'] = 'no-store'
     return build_tournaments()
+
+
+@app.get('/api/hand-files')
+def list_hand_files():
+    return {'files': hand_files()}
+
+
+@app.post('/api/analyze-saved')
+async def analyze_saved(file_id: str = Form(...)):
+    try:
+        path = saved_hand_path(file_id)
+    except ValueError as error:
+        raise HTTPException(400, str(error)) from None
+    if path.stat().st_size > MAX_HAND_HISTORY_BYTES:
+        raise HTTPException(413, 'Choose a file that is 10 MB or smaller.')
+    uploaded = UploadFile(filename=path.name, file=io.BytesIO(path.read_bytes()))
+    try:
+        return await analyze_hand_history(uploaded)
+    finally:
+        await uploaded.close()
+
+
+@app.post('/api/library/{kind}')
+async def import_library_file(kind: Literal['hands', 'tournaments'], file: UploadFile = File(...)):
+    content = await file.read(MAX_HAND_HISTORY_BYTES + 1)
+    if not content or len(content) > MAX_HAND_HISTORY_BYTES:
+        raise HTTPException(400, 'Choose a nonempty .txt file up to 10 MB.')
+    try:
+        text = content.decode('utf-8-sig')
+        if kind == 'hands':
+            _, hands = parse_hand_history(text)
+            if not hands:
+                raise ValueError('No supported hands for the configured player were found.')
+        else:
+            summary = parse_summary(text, file.filename or 'upload.txt')
+            if not summary['entered']:
+                raise ValueError('No tournament entry for the configured player was found.')
+        return store_import(kind, file.filename or 'upload.txt', content)
+    except (ValueError, UnicodeDecodeError) as error:
+        raise HTTPException(400, str(error)) from None
 
 
 @app.post('/api/analyze')

@@ -5,9 +5,10 @@ try {
  const errors = []; page.on('pageerror', error => errors.push(error.message));
  await page.route('**/api/health', route => route.fulfill({ json: { configured: false } }));
  let payload = { filename: 'older.txt', total_hands_analyzed: 1, hands: [{ hand_id: '123', matrix_key: 'AKs', position: 'BTN', feedback: 'Older feedback', severity: 'NONE' }] };
- await page.route('**/api/analyze', route => route.fulfill({ json: payload }));
+ await page.route('**/api/analyze-saved', route => route.fulfill({ json: payload }));
+ await page.route('**/api/hand-files', route => route.fulfill({ json: { files: [{ id: 'older.txt', name: 'older.txt', bytes: 30 }] } }));
  await page.goto(`${process.env.FRONTEND_URL || 'http://127.0.0.1:5173'}/#analysis`);
- await page.locator('input[type=file]').setInputFiles({ name: 'older.txt', mimeType: 'text/plain', buffer: Buffer.from('mock history') });
+ await expect(page.getByRole('combobox', { name: 'Saved game' })).toHaveValue('older.txt');
  await page.getByRole('button', { name: 'Analyze session' }).click();
  await expect(page.locator('.analysis-stats article').nth(3).locator('strong')).toHaveText('1');
  await expect(page.locator('.analysis-hands')).toContainText('UNASSESSED');
@@ -24,7 +25,7 @@ try {
  await expect(page.locator('.analysis-stats article').nth(1).locator('strong')).toHaveText('1');
  const icon = await page.request.get(new URL('/favicon.svg', page.url()).toString());
  if (!icon.ok()) throw new Error('Favicon failed');
- await page.getByRole('navigation').getByRole('link', { name: 'Overview' }).click();
+ await page.getByRole('navigation').getByRole('link', { name: 'Home', exact: true }).click();
  await expect(page.locator('#overview')).toBeVisible();
  if (errors.length) throw new Error(errors.join('\n'));
  console.log('PASS: legacy/current/incomplete analysis responses render safely, malformed uploads preserve results, navigation survives and favicon loads.');

@@ -1,0 +1,40 @@
+import { chromium, expect } from '@playwright/test';
+const browser=await chromium.launch({channel:'chrome',headless:true});
+try {
+ const page=await browser.newPage({viewport:{width:1440,height:1000}});
+ const errors=[];page.on('pageerror',error=>errors.push(error.message));
+ await page.addInitScript(()=>{
+  localStorage.removeItem('pokertool.arena.sound');Math.random=()=>.999;
+  window.audioCounts={deal:0,tone:0};window.audioContexts=[];
+  const Native=window.AudioContext;
+  window.AudioContext=class extends Native{constructor(...args){super(...args);window.audioContexts.push(this);}};
+  const source=AudioBufferSourceNode.prototype.start;
+  AudioBufferSourceNode.prototype.start=function(...args){window.audioCounts.deal++;return source.apply(this,args);};
+  const tone=OscillatorNode.prototype.start;
+  OscillatorNode.prototype.start=function(...args){window.audioCounts.tone++;return tone.apply(this,args);};
+ });
+ await page.route('**/api/chat',route=>route.fulfill({json:{reply:'A test review.'}}));
+ await page.goto(`${process.env.FRONTEND_URL||'http://127.0.0.1:5173'}/#arena`);
+ await expect(page.getByRole('button',{name:'Mute sounds',exact:true})).toHaveAttribute('aria-pressed','true');
+ await page.getByRole('button',{name:'Cinematic play',exact:true}).click();
+ await expect.poll(()=>page.evaluate(()=>window.audioCounts.deal)).toBeGreaterThan(0);
+ await expect.poll(()=>page.evaluate(()=>window.audioCounts.tone)).toBeGreaterThan(2);
+ await expect(page.locator('.arena-stage')).toHaveAttribute('data-dealing','false',{timeout:10000});
+ await expect(page.locator('.arena-stage')).toHaveAttribute('data-playing','false',{timeout:10000});
+ const before=await page.evaluate(()=>window.audioCounts.tone);
+ await page.locator('.arena-actions button').filter({hasText:/^(Call|Check)/}).first().click();
+ await expect(page.getByRole('dialog',{name:'Your decision review'})).toBeVisible();
+ await expect.poll(()=>page.evaluate(()=>window.audioCounts.tone)).toBe(before+2);
+ await page.getByRole('button',{name:'Mute sounds',exact:true}).click();
+ await expect.poll(()=>page.evaluate(()=>window.audioContexts[0].state)).toBe('suspended');
+ const muted=await page.evaluate(()=>({...window.audioCounts}));
+ await page.getByRole('button',{name:'Continue hand',exact:true}).click();
+ await page.waitForTimeout(600);
+ expect(await page.evaluate(()=>window.audioCounts)).toEqual(muted);
+ expect(await page.evaluate(()=>localStorage.getItem('pokertool.arena.sound'))).toBe('off');
+ await page.getByRole('button',{name:'Enable sound',exact:true}).click();
+ await page.getByRole('navigation').getByRole('link',{name:'Home',exact:true}).click();
+ await expect.poll(()=>page.evaluate(()=>window.audioContexts[0].state)).toBe('suspended');
+ if(errors.length)throw new Error(errors.join('\n'));
+ console.log('PASS: card swishes, distinct action chime generation, one chime per action, mute, saved setting and suspension outside Arena.');
+} finally {await browser.close();}

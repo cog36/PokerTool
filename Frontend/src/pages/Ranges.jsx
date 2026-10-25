@@ -47,8 +47,8 @@ const HANDS = RANKS.split('').flatMap((rowRank, row) => RANKS.split('').map((col
 const COMBINATIONS = hand => hand.length === 2 ? 6 : hand.endsWith('s') ? 4 : 12;
 const positionLabel = (position, tableSize) => {
   if (tableSize === 6 && position === 'LJ') return 'UTG';
-  if (tableSize === 8 && position === 'EP2') return 'UTG';
-  if (tableSize === 8 && position === 'EP3') return 'UTG+1';
+  if (tableSize === 8 && position === 'EP2') return 'UTG1';
+  if (tableSize === 8 && position === 'EP3') return 'UTG2';
   return POSITION_LABELS[position];
 };
 
@@ -114,14 +114,16 @@ function RangeMatrix({ cells, selectedHand, onSelect, chartSupported }) {
 }
 
 export default function Ranges() {
-  const [tableSize, setTableSize] = useState(8);
+  const tableSize = 8;
   const [stackDepth, setStackDepth] = useState(20);
-  const [heroPosition, setHeroPosition] = useState('EP2');
+  const [heroSelection, setHeroPosition] = useState('EP2');
   const [villainPosition, setVillainPosition] = useState('EP1');
   const [actionType, setActionType] = useState('rfi');
   const [selectedCell, setSelectedCell] = useState('AKs');
   const { chart, chartDepth } = chartForStack(stackDepth);
-  const positions = TABLE_POSITIONS[tableSize];
+  const positions = TABLE_POSITIONS[8];
+  const heroOptions = positions.filter(position => actionType === 'vsOpen' ? position !== 'EP2' : position !== 'BB');
+  const heroPosition = heroOptions.includes(heroSelection) ? heroSelection : heroOptions[0];
 
   const villainOptions = useMemo(() => {
     if (actionType === 'rfi') return [];
@@ -190,21 +192,12 @@ export default function Ranges() {
 
   return <section className="page" id="ranges">
     <div className="page-title">
-      <div><p className="eyebrow">MTT PREFLOP REFERENCE</p><h1>Preflop Range Chart<span>.</span></h1><p>Explore chart frequencies across table sizes, stack depths, positions, and preflop action.</p></div>
+      <div><p className="eyebrow">MTT PREFLOP REFERENCE</p><h1>Preflop Range Chart<span>.</span></h1><p>Eight-player chart frequencies by stack depth, position and preflop action.</p></div>
       <span className="pill outlined">169 starting hands · MTT</span>
     </div>
 
     <section className="panel range-controls" aria-label="Range chart controls">
-      <label>Table size
-        <select value={tableSize} onChange={event => {
-          const nextSize = Number(event.target.value);
-          const nextPositions = TABLE_POSITIONS[nextSize];
-          setTableSize(nextSize);
-          if (!nextPositions.includes(heroPosition)) setHeroPosition(nextPositions[0]);
-        }}>
-          <option value={6}>6-Max</option><option value={8}>8-Max</option><option value={9}>9-Max</option>
-        </select>
-      </label>
+      <div className="range-fixed-size"><span>Table size</span><strong>8 players</strong></div>
       <label>Stack depth
         <select value={stackDepth} onChange={event => setStackDepth(Number(event.target.value))}>
           {STACK_OPTIONS.map(option => <option key={option.value} value={option.value}>{option.label}</option>)}
@@ -222,7 +215,7 @@ export default function Ranges() {
 
     <div className="range-position-bar">
       <div><span className="eyebrow">HERO POSITION</span><div className="range-position-options" role="group" aria-label="Hero position">
-        {positions.map(position => <button key={position} type="button" aria-pressed={heroPosition === position} className={heroPosition === position ? 'selected' : ''} onClick={() => setHeroPosition(position)}>{positionLabel(position, tableSize)}</button>)}
+        {heroOptions.map(position => <button key={position} type="button" aria-pressed={heroPosition === position} className={heroPosition === position ? 'selected' : ''} onClick={() => setHeroPosition(position)}>{positionLabel(position, tableSize)}</button>)}
       </div></div>
       {actionType !== 'rfi' && (villainOptions.length
         ? <label>Villain position

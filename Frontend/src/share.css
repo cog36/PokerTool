@@ -1,0 +1,8 @@
+body { margin: 0; background: #121816; color: #ecf1e9; }
+.share-page { min-height: 100dvh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 32px 16px; gap: 24px; }
+.share-brand { font: bold 30px Georgia, serif; color: #a4dfc2; text-decoration: none; }
+.share-page .share-app-dialog { display: block; width: min(600px, 100%); max-height: none; margin: 0; padding: 32px; background: #1a211e; }
+.share-page h1 { font: 56px/1.1 Georgia, serif; margin: 10px 0 20px; color: #ecf1e9; }
+.share-page .share-qr-image { width: min(320px, 100%); margin: 28px auto; }
+.share-page-footer { color: #a9b4ac; text-align: center; font-size: 15px; }
+@media(max-width:480px) { .share-page .share-app-dialog { padding: 22px; } .share-page h1 { font-size: 42px; } }

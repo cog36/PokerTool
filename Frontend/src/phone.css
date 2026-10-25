@@ -1,0 +1,52 @@
+/* Phone chrome stays small; the table and study pages keep their familiar layout. */
+.mobile-menu-button { display: none; }
+.phone-app-notice { padding: 12px 24px; background: var(--panel); border-bottom: 1px solid var(--border); color: var(--text); font-size: 14px; line-height: 1.6; }
+@media (max-width: 720px) {
+  html { scroll-padding-top: 80px; }
+  body { padding-left: env(safe-area-inset-left); padding-right: env(safe-area-inset-right); }
+  .sidebar { position: relative; display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; justify-content: space-between; width: 100%; height: auto; padding: max(12px, env(safe-area-inset-top)) 16px 12px; gap: 12px; }
+  .sidebar .brand { flex: 1; justify-content: flex-start; font-size: 27px; margin: 0; padding: 0; }
+  .sidebar .brand-mark { width: 32px; height: 38px; font-size: 25px; }
+  .sidebar .club-label, .sidebar .profile, .sidebar .sidebar-tip { display: none; }
+  .mobile-menu-button { flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center; background: var(--panel); color: var(--text); border: 1px solid var(--border); border-radius: 7px; padding: 10px 14px; min-height: 44px; font: inherit; }
+  .sidebar nav { display: none; width: 100%; margin: 0; padding: 8px 0 0; overflow: visible; }
+  .sidebar.mobile-open nav { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+  .sidebar nav a { min-width: 0; white-space: normal; min-height: 48px; font-size: 14px; padding: 10px; gap: 8px; }
+  .sidebar nav a::before { display: none; }
+  .app-shell { margin-left: 0; }
+  .topbar { min-height: 52px; height: auto; padding: 10px 16px; gap: 8px; }
+  .topbar .local-badge, .topbar .avatar { display: none; }
+  .topbar-right { gap: 0; }
+  .app-shell main { padding: 20px 12px max(24px, env(safe-area-inset-bottom)); }
+  .phone-app-notice { padding: 12px 16px; }
+  input, select, textarea { font-size: 16px !important; }
+  button, a, input { touch-action: manipulation; }
+  .button, .theme-toggle { min-height: 44px; }
+  .page-footer { flex-wrap: wrap; gap: 10px; }
+  #arena .arena-table-controls { display: flex; flex-wrap: wrap; gap: 8px; }
+  #arena .arena-table-controls .button { min-height: 44px; font-size: 13px; }
+  #arena .eight-seat-room > .panel-title { flex-wrap: wrap; gap: 12px; }
+  #arena .holdem-controls .button { min-height: 46px; font-size: 14px; }
+  #arena .pot-presets { gap: 8px; }
+  #arena .holdem-controls input { min-height: 44px; }
+  #arena .decision-reviews { max-height: none; overflow: visible; }
+}
+
+/* A printable, high-contrast QR sits apart from the app's dark or light palette. */
+.share-app-trigger { white-space: nowrap; font-size: 13px; }
+.share-app-dialog { width: min(520px, calc(100vw - 28px)); max-height: calc(100dvh - 32px); overflow-y: auto; margin: auto; padding: 24px; color: var(--text); background: var(--panel); border: 1px solid var(--border); border-radius: 14px; box-shadow: 0 24px 80px #0006; }
+.share-app-dialog::backdrop { background: #07110dcc; }
+.share-app-dialog header { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }
+.share-app-dialog h2 { font: 28px/1.2 Georgia, serif; margin: 8px 0 16px; }
+.share-app-dialog p { font-size: 15px; line-height: 1.65; margin: 12px 0; }
+.share-app-dialog .field { margin: 18px 0 10px; font-size: 14px; }
+.share-app-dialog input { width: 100%; min-height: 44px; font-size: 16px; }
+.share-address-note { border-left: 3px solid var(--brass); padding: 10px 14px; background: var(--bg); }
+.share-qr-image { display: block; width: min(256px, 100%); height: auto; margin: 22px auto; border-radius: 6px; }
+.share-app-actions { display: flex; flex-wrap: wrap; gap: 12px; }
+@media(max-width:720px) {
+  .topbar .breadcrumb { font-size: 12px; }
+  .topbar-right { gap: 6px; }
+  .share-app-trigger { padding: 8px; }
+  .share-app-dialog { padding: 18px; }
+}

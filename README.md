@@ -261,3 +261,41 @@ The cumulative graph starts at $0 and uses each included result once, ordered by
 For the current files: 24 files, 23 unique entered tournaments, 29 entries, $77.60 buy-ins, $142.65 cash returns, $65.05 cash-prize net and 83.83% cash-prize ROI. Cash-based ITM is 16/23 tournaments (69.57%); all 23 supplied final results have a known cash outcome. These are a small observed sample, not a reliable estimate of long-run ROI.
 
 The reliability panel also cross-checks tournament IDs found in parsed hand histories against the summaries. Currently it finds 19 matches among 20 identifiable hand-history tournaments; PokerStars/Betfair #4040099699 has no summary. Its unknown result is excluded, not treated as a loss. Histories without identifiable tournament IDs cannot establish summary coverage.
+
+## Saved games, imports and decision reviews
+
+Session Analysis now lists files from `hand_histories` through `/api/hand-files` and analyzes the selected relative path through `/api/analyze-saved`. Each review explicitly identifies Hero's first preflop decision, prior actions and the action taken. Final board cards are labelled as later context rather than decision-time information. EP2/EP3 are displayed as UTG1/UTG2; internal chart keys are unchanged.
+
+Hand Overview and Session Analysis include an **Add hand histories** importer. Tournaments includes **Add tournament summaries**. `/api/library/hands` and `/api/library/tournaments` validate UTF-8 .txt exports up to 10 MB before saving in the corresponding `uploads` subfolder. Filenames are sanitized and content-hashed; existing files are never overwritten. Repeat imports are idempotent. Hand/tournament deduplication continues to protect statistics.
+
+Preflop Charts is fixed at eight players. BB is unavailable for RFI and the 3-bet/shove-response view; the first position is unavailable when facing an open. There are no separate shove charts in the supplied data.
+
+Arena uses a fitted desktop table with coaching and actions beside it, plus a Fullscreen button. The table scales while controls and coaching text stay unscaled. Hero decision reviews pause playback and show a correct/incorrect verdict; chart-backed grades reflect chart support, and legacy grades are explicitly labelled estimates based on the existing heuristic policy at a fixed roll, not solved poker truth. Continuing resumes the hand. Skipping abandons the unfinished drill without adding any fictitious win/loss to session totals. Opponent policy and game RNG are unchanged. Coach previews retain the full response rather than truncating it mid-sentence.
+
+### Arena sound
+
+Arena sound is enabled by default, with **Mute sounds** available in the toolbar. A deliberate mute preference is remembered. Click or tap anywhere in the Arena to unlock audio if browser autoplay rules require it. Effects include a soft card swish and short action chimes (fold, check, call and bet/raise). The setting is saved locally. Browser autoplay rules may require another click/tap after a page reload. Sounds follow the visible playback frames; skipping animations does not play a burst of skipped effects. Audio is suspended when leaving the Arena or hiding the tab. Effects are synthesized locally with Web Audio and require no external sound assets.
+
+### Phone version
+
+The existing React app now supports home-screen installation (PWA), a collapsible phone menu, touch-sized controls, and safe areas around the camera notch and home indicator. No app-store account is required. This is a web app, not a native iOS/Android package.
+
+For a quick phone preview:
+
+```sh
+npm run dev:mobile
+```
+
+Connect the phone and Mac to the same trusted Wi-Fi, then open the **Network** address printed by Vite on the phone. Keep the Mac running. Do not enter `localhost` on the phone: that refers to the phone itself. This command exposes the frontend and its API proxy on your local network; the Python server and API key remain on the Mac. Normal `npm start` stays local to your computer.
+
+For installation and offline support, run `npm run build` and serve `dist/` over **HTTPS**, with `/api` forwarded to the Python backend on the same origin. Plain HTTP over Wi-Fi is a preview, not a full offline installation. `npm run preview` can test the production build locally on the Mac. A production host must support the backend too; uploading only `dist/` will not provide AI chat, hand analysis or tournament imports.
+
+On iPhone, open the HTTPS site in Safari → Share → Add to Home Screen → Open as Web App. On Android, use the browser's Install app option, or the in-app Install PokerTool button when offered by the browser.
+
+After the first successful production download, the Arena, preflop charts, portraits, and saved notebook work offline. Chat, server data and uploads require a connection. API responses and conversations are never stored in the service-worker cache. Notebook and settings stay on that device and browser; they do not sync to a second phone. Updates wait until all existing app windows are closed so they cannot interrupt a hand.
+
+### QR presentation page
+
+Run `npm run dev:mobile`, then open the **Network URL** on your laptop with `/share.html` appended (for example, `http://192.168.1.20:5173/share.html`). This separate “Scan to play” page automatically generates a QR pointing to the main app at that address. Keep it on your laptop while judges scan from phones on the same Wi-Fi. Keep the Mac running.
+
+If you open `/share.html` through localhost while `npm run dev:mobile` is running, the page automatically detects the Wi-Fi address and actual port. If multiple network interfaces are available, choose the one your phone can reach from the Wi-Fi address dropdown. You can also paste Vite’s Network URL into the address field. The page also supports a public HTTPS address and downloading a PNG for slides. Codes are generated locally. The main app no longer has a QR sharing button. A QR code does not publish the app or make a local Wi-Fi address accessible outside that network.

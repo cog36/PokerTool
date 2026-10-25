@@ -1,3 +1,5 @@
+import { displayPosition } from '../positions';
+import LibraryUpload from '../components/LibraryUpload';
 import { useEffect, useMemo, useState } from 'react';
 
 const PAGE_SIZE = 50;
@@ -81,6 +83,7 @@ export default function HandOverview({ active }) {
       </button>
     </div>
 
+    <LibraryUpload kind="hands" onImported={() => setRefreshKey(value => value + 1)} />
     <div className="hand-room-toolbar"><label className="field">Poker room<select value={room} onChange={event => { setRoom(event.target.value); setData(null); setSearch(''); }}><option value="all">All rooms</option><option value="pokerstars">PokerStars / Betfair</option><option value="ggpoker">GG Poker</option></select></label><p className="caption">Includes local files in hand_histories/pokerstars and hand_histories/ggpoker. All statistics below reflect the selected room.</p></div>
     {error && <p className="analysis-message error" role="alert">{error}</p>}
     {loading && !data && <section className="panel analysis-empty" role="status"><p>Reading hand histories…</p></section>}
@@ -125,7 +128,7 @@ export default function HandOverview({ active }) {
             <table className="hand-overview-table">
               <thead><tr><th>Position</th><th>Hands</th><th>VPIP</th><th>PFR</th><th>3-bet</th><th>3-bet opp.</th><th>Saw flop</th></tr></thead>
               <tbody>{data.position_stats.map(row => <tr key={row.position}>
-                <th scope="row">{row.position}</th><td>{row.hands.toLocaleString()}</td><td>{percent(row.vpip_percent)}</td><td>{percent(row.pfr_percent)}</td>
+                <th scope="row">{displayPosition(row.position)}</th><td>{row.hands.toLocaleString()}</td><td>{percent(row.vpip_percent)}</td><td>{percent(row.pfr_percent)}</td>
                 <td>{row.three_bet_percent === null ? '—' : percent(row.three_bet_percent)}</td><td>{row.three_bet_opportunities}</td><td>{percent(row.saw_flop_percent)}</td>
               </tr>)}</tbody>
             </table>
@@ -154,7 +157,7 @@ export default function HandOverview({ active }) {
                     <p>Blinds: {hand.small_blind ?? '—'} / {hand.big_blind ?? '—'} · Postflop bets/raises: {hand.post_bets_raises} · Postflop calls: {hand.post_calls}</p>
                   </details>
                 </td>
-                <td>{hand.position}</td><td>{hand.cards || 'Not shown'}</td><td>{hand.board || '—'}</td><td>{hand.vpip ? 'Yes' : 'No'}</td><td>{hand.pfr ? 'Yes' : 'No'}</td>
+                <td>{displayPosition(hand.position)}</td><td>{hand.cards || 'Not shown'}</td><td>{hand.board || '—'}</td><td>{hand.vpip ? 'Yes' : 'No'}</td><td>{hand.pfr ? 'Yes' : 'No'}</td>
                 <td>{hand.three_bet_opportunity ? (hand.three_bet ? 'Yes' : 'No') : '—'}</td>
                 <td>{hand.cbet_opportunity ? (hand.cbet ? 'Yes' : 'No') : '—'}</td><td>{hand.saw_flop ? 'Yes' : 'No'}</td>
                 <td>{hand.showdown ? (hand.won_showdown ? 'Won' : 'Lost') : 'No'}</td><td>{hand.place ?? '—'}</td><td><strong>{hand.room}</strong><small>{hand.source_file}</small></td>

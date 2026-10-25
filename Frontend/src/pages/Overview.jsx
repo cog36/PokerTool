@@ -51,7 +51,7 @@ export default function Overview({ tasks, toggleTask }) {
               <div className="panel-title"><h2>Today’s study plan</h2><span className="tag">YOUR CHECKLIST</span></div>
               <div className="study-completion"><strong>{completed}<span>/ 3</span></strong><p>small steps completed</p></div>
               <div className="progress-track"><span style={{ width: `${completed / 3 * 100}%` }} /></div>
-              <ol className="study-plan-list">{[['range', 'Compare two opening ranges'], ['practice', 'Play three decisions'], ['note', 'Save one takeaway']].map(([key, label]) => <li key={key} className={tasks[key] === true ? 'done' : ''}><span>{tasks[key] === true ? '✓' : '—'}</span>{label}</li>)}</ol>
+              <p className="caption study-plan-note">Use the checklist below to track today’s study. Your progress is saved in this browser.</p>
               <a href="#notebook" className="text-link">Keep your notes together <span>↗</span></a>
             </section>
           </div>
