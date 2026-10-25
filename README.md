@@ -25,7 +25,7 @@ Our aim is to give people somewhere to make mistakes with virtual chips and lear
 
 ## The team
 
-Built together by [Arthur Davies](https://www.linkedin.com/in/arthur-davies-66b3bb325/),[[Daniel Collings](https://www.linkedin.com/in/daniel-collings-701b13315/), Pritam. We'd love to hear what you think, especially if you give it a try.
+Built together by [Arthur Davies](https://www.linkedin.com/in/arthur-davies-66b3bb325/), [Daniel Collings](https://www.linkedin.com/in/daniel-collings-701b13315/), Pritam. We'd love to hear what you think, especially if you give it a try.
 
 ## Try it locally
 
