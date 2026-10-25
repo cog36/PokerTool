@@ -10,7 +10,7 @@ try {
   const errors = [];
   page.on('pageerror', error => errors.push(error.message));
   await page.goto(baseUrl);
-  await page.getByRole('heading', { name: /Welcome to the table/ }).waitFor();
+  await page.getByRole('heading', { name: 'Hand Overview' }).waitFor();
   const originalTheme = await page.locator('html').getAttribute('data-theme');
   await page.getByRole('button', { name: /Switch to .* mode/ }).click();
   const selectedTheme = await page.locator('html').getAttribute('data-theme');
@@ -18,16 +18,13 @@ try {
   await page.reload();
   assert.equal(await page.locator('html').getAttribute('data-theme'), selectedTheme);
 
-  await page.getByRole('navigation').getByRole('link', { name: 'Range Explorer', exact: false }).first().click();
-  assert.equal(await page.locator('.hand').count(), 169);
-  await page.getByRole('button', { name: 'UTG', exact: true }).click();
-  await page.getByRole('button', { name: /^77, illustrative/ }).click();
-  assert.equal(await page.locator('.inspector h2').textContent(), '77');
-  await page.getByRole('searchbox').fill('AKs');
-  assert.equal(await page.locator('.hand:not(.dimmed)').count(), 1);
+  await page.getByRole('navigation').getByRole('link', { name: 'Preflop Charts', exact: true }).click();
+  assert.equal(await page.locator('.preflop-cell').count(), 169);
+  await page.getByRole('button', { name: /^AKs:/ }).click();
+  assert.equal(await page.locator('.preflop-hand-detail h2').textContent(), 'AKs');
 
-  await page.getByRole('navigation').getByRole('link', { name: 'Overview', exact: false }).first().click();
-  await page.getByRole('checkbox').first().check();
+  await page.getByRole('navigation').getByRole('link', { name: 'Hand Overview', exact: true }).click();
+  await expect(page.locator('#hand-overview')).toBeVisible();
   await page.getByRole('navigation').getByRole('link', { name: 'Study Notebook', exact: false }).click();
   await page.getByRole('textbox', { name: 'Title', exact: true }).fill('React migration check');
   await page.getByRole('textbox', { name: 'Your notes', exact: true }).fill('Study the position before acting.');
@@ -77,8 +74,8 @@ try {
   await expect(page.locator('.arena-sidebar .practice-metrics strong').first()).toHaveText('1');
   await page.locator('.arena-actions').getByRole('button').click();
   await expect(page.locator('.arena-community .card')).toHaveCount(0);
-  await page.getByRole('navigation').getByRole('link', { name: 'Overview' }).first().click();
-  await expect(page.locator('#overview')).toBeVisible();
+  await page.getByRole('navigation').getByRole('link', { name: 'Hand Overview', exact: true }).click();
+  await expect(page.locator('#hand-overview')).toBeVisible();
   const pausedStatus = await page.locator('.dealer-status').textContent();
   await page.waitForTimeout(400);
   assert.equal(await page.locator('.dealer-status').textContent(), pausedStatus);

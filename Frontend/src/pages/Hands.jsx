@@ -7,7 +7,7 @@ export default function Hands() {
   const [streetIndex, setStreetIndex] = useState(0);
   const hand = hands[handIndex], street = hand.streets[streetIndex];
   return <section className="page" id="hands">
-    <div className="page-title"><div><p className="eyebrow">HAND REVIEW</p><h1>Hand Library<span>.</span></h1><p>Step through a sample hand and review the betting on each street.</p></div><span className="pill outlined">Sample hand replays</span></div>
+    <div className="page-title"><div><h1>Hand Library<span>.</span></h1><p>Step through a sample hand and review the betting on each street.</p></div></div>
     <div className="library-layout"><div className="hand-list">{hands.map((item, index) => <button type="button" key={item.title} className={`hand-preview${index === handIndex ? ' selected' : ''}`} aria-pressed={index === handIndex} onClick={() => { setHandIndex(index); setStreetIndex(0); }}><span>SAMPLE HAND 0{index + 1}</span><h3>{item.title}</h3><p>{item.subtitle}</p><b>{item.hand}</b></button>)}</div>
       <section className="panel replay-panel"><div className="panel-title"><div><span className="eyebrow">HAND REPLAY</span><h2>{hand.title}</h2></div><span className="tag">ILLUSTRATIVE</span></div>
         <div className="replay-board"><span className="pill">{street.name.toUpperCase()}</span><div className="table-cards" key={`${handIndex}-${streetIndex}`}>{street.board.length ? street.board.map(([rank, suit], index) => <PlayingCard key={rank + suit} rank={rank} suit={suit} index={index} />) : <span className="no-board">The action starts before the flop.</span>}</div><p>Pot · {street.pot}</p></div>

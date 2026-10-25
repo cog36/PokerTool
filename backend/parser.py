@@ -282,6 +282,84 @@ def parse_preflop_actions(
         "hero_first_action_is_all_in": hero_first_action_is_all_in
     }
 
+
+def parse_hand_timeline(
+    block: str,
+    player_positions: dict[str, str],
+    hero: str,
+    big_blind: float,
+) -> tuple[list[dict], int | None, dict[str, str]]:
+    street = "Preflop"
+    timeline = []
+    decision_index = None
+    street_boards = {"Preflop": ""}
+    street_markers = {
+        "*** FLOP ***": "Flop",
+        "*** TURN ***": "Turn",
+        "*** RIVER ***": "River",
+    }
+    for line in block.splitlines():
+        stripped = line.strip()
+        for marker, next_street in street_markers.items():
+            if stripped.startswith(marker):
+                street = next_street
+                board_parts = re.findall(r"\[([^\]]+)\]", stripped)
+                if board_parts:
+                    board = board_parts[-1].strip()
+                    previous_street = {"Turn": "Flop", "River": "Turn"}.get(street)
+                    previous_board = street_boards.get(previous_street, "") if previous_street else ""
+                    if previous_board and len(board.split()) == 1:
+                        board = f"{previous_board} {board}"
+                    street_boards[street] = board
+                break
+        else:
+            match = re.match(r"^([^:]+):\s+(.+)$", stripped)
+            if not match:
+                continue
+            player, action_text = match.groups()
+            lowered = action_text.lower()
+            if lowered.startswith("posts "):
+                action = "posts"
+            elif lowered.startswith("folds"):
+                action = "folds"
+            elif lowered.startswith("checks"):
+                action = "checks"
+            elif lowered.startswith("calls"):
+                action = "calls"
+            elif lowered.startswith("bets"):
+                action = "bets"
+            elif lowered.startswith("raises"):
+                action = "raises"
+            elif "is all-in" in lowered:
+                action = "all-in"
+            else:
+                continue
+
+            is_decision = (
+                decision_index is None
+                and street == "Preflop"
+                and player == hero
+                and action != "posts"
+            )
+            text_in_bb = re.sub(
+                r"(?<![\w.])\d[\d,]*(?:\.\d+)?",
+                lambda match: f"{float(match.group(0).replace(',', '')) / big_blind:.2f}".rstrip("0").rstrip(".") + "bb",
+                action_text,
+            ) if big_blind > 0 else action_text
+            timeline.append({
+                "street": street,
+                "player": player,
+                "position": player_positions.get(player, "UNKNOWN"),
+                "action": action,
+                "text": text_in_bb,
+                "is_all_in": "and is all-in" in lowered,
+                "is_decision": is_decision,
+            })
+            if is_decision:
+                decision_index = len(timeline) - 1
+    return timeline, decision_index, street_boards
+
+
 def parse_gg_hand_history(text_content: str) -> list[dict]:
     raw_hands = re.split(r"(?=^Poker Hand #)", text_content, flags=re.MULTILINE)
 
@@ -313,6 +391,9 @@ def parse_gg_hand_history(text_content: str) -> list[dict]:
         positions = get_player_positions(block)
         hero_pos = positions.get("Hero", determine_hero_position(block))
         preflop_info = parse_preflop_actions(block, positions)
+        action_timeline, decision_action_index, street_boards = parse_hand_timeline(
+            block, positions, "Hero", big_blind
+        )
 
         board_match = re.search(r"Board \[([^\]]+)\]", block)
         board = board_match.group(1) if board_match else ""
@@ -328,6 +409,7 @@ def parse_gg_hand_history(text_content: str) -> list[dict]:
 
         parsed_hands.append({
             "hand_id": hand_id,
+            "hero": "Hero",
             "raw_cards": raw_cards,
             "matrix_key": matrix_key,
             "position": hero_pos,
@@ -348,7 +430,10 @@ def parse_gg_hand_history(text_content: str) -> list[dict]:
             "num_callers_before_hero": preflop_info["num_callers_before_hero"],
             "actions_before_hero": preflop_info["actions_before_hero"],
             "hero_first_action": preflop_info["hero_first_action"],
-            "hero_first_action_is_all_in": preflop_info["hero_first_action_is_all_in"]
+            "hero_first_action_is_all_in": preflop_info["hero_first_action_is_all_in"],
+            "action_timeline": action_timeline,
+            "decision_action_index": decision_action_index,
+            "street_boards": street_boards,
         })
 
     return parsed_hands
@@ -396,6 +481,9 @@ def parse_pokerstars_hand_history(
         positions = get_player_positions(block)
         hero_position = positions.get(hero, determine_hero_position(block, hero))
         preflop_info = parse_preflop_actions(block, positions, hero)
+        action_timeline, decision_action_index, street_boards = parse_hand_timeline(
+            block, positions, hero, big_blind
+        )
 
         board_match = re.search(r"Board \[([^\]]+)\]", block)
         total_pot_match = re.search(r"Total pot ([\d,]+)", block)
@@ -405,6 +493,7 @@ def parse_pokerstars_hand_history(
         hero_all_in = preflop_info["hero_first_action_is_all_in"]
         parsed_hands.append({
             "hand_id": hand_match.group(1),
+            "hero": hero,
             "raw_cards": raw_cards,
             "matrix_key": convert_to_matrix_key(raw_cards),
             "position": hero_position,
@@ -427,6 +516,9 @@ def parse_pokerstars_hand_history(
             "actions_before_hero": preflop_info["actions_before_hero"],
             "hero_first_action": preflop_info["hero_first_action"],
             "hero_first_action_is_all_in": preflop_info["hero_first_action_is_all_in"],
+            "action_timeline": action_timeline,
+            "decision_action_index": decision_action_index,
+            "street_boards": street_boards,
         })
     return parsed_hands
 

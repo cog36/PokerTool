@@ -177,12 +177,17 @@ async def analyze_hand_history(file: UploadFile = File(...)):
         {
             **audited,
             'raw_cards': parsed['raw_cards'],
+            'hero': parsed['hero'],
+            'big_blind': parsed['big_blind'],
             'board': parsed['board'],
             'total_pot': parsed['total_pot'],
             'hero_invested': parsed['hero_invested'],
             'saw_showdown': parsed['saw_showdown'],
             'actions_before_hero': parsed['actions_before_hero'],
             'hero_first_action': parsed['hero_first_action'],
+            'action_timeline': parsed['action_timeline'],
+            'decision_action_index': parsed['decision_action_index'],
+            'street_boards': parsed['street_boards'],
         }
         for parsed, audited in zip(parsed_hands, analysis['audited_hand_details'], strict=True)
     ]

@@ -33,7 +33,7 @@ try {
  expect(await page.evaluate(()=>window.audioCounts)).toEqual(muted);
  expect(await page.evaluate(()=>localStorage.getItem('pokertool.arena.sound'))).toBe('off');
  await page.getByRole('button',{name:'Enable sound',exact:true}).click();
- await page.getByRole('navigation').getByRole('link',{name:'Home',exact:true}).click();
+ await page.getByRole('navigation').getByRole('link',{name:'Hand Overview',exact:true}).click();
  await expect.poll(()=>page.evaluate(()=>window.audioContexts[0].state)).toBe('suspended');
  if(errors.length)throw new Error(errors.join('\n'));
  console.log('PASS: card swishes, distinct action chime generation, one chime per action, mute, saved setting and suspension outside Arena.');

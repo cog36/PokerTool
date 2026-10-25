@@ -32,7 +32,7 @@ export default function Practice({ session, onAnswer, active }) {
     locked.current = false;
   }
   return <section className="page" id="practice">
-    <div className="page-title"><div><p className="eyebrow">THINK IT THROUGH. MAKE YOUR MOVE.</p><h1>Practice Room<span>.</span></h1><p>No pressure. Just you and the next decision.</p></div><span className="pill outlined">Fundamentals · 3 sample spots</span></div>
+    <div className="page-title"><div><h1>Practice Room<span>.</span></h1></div><span className="pill outlined">Fundamentals · 3 sample spots</span></div>
     <div className="practice-layout"><section className="panel table-panel"><div className="panel-title"><h2>{spot.title}</h2><span className="tag">SPOT {index + 1} OF {scenarios.length}</span></div>
       <div className="poker-stage"><div className="poker-table"><span className="felt-logo">PokerTool</span><div className="pot-label">POT <strong>1.5 bb</strong></div>
         {[['top', 'Big Blind', '♟'], ['left', 'Small Blind', '♟'], ['right', 'Folded', '↘']].map(([place, label, icon]) => <div key={place} className={`seat seat-${place}`}><span className="seat-avatar">{icon}</span><strong>{label}</strong><small>100 bb</small></div>)}

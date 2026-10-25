@@ -326,7 +326,7 @@ function HoldemGame({ active }) {
     : `Your turn · ${STREETS[hand.street]} · ${heroLegal?.toCall ? `${bb(heroLegal.callCost / 2)}bb to call` : 'You may check'}.`;
 
   return <div className="arena-layout arena-lounge"><section className="panel arena-game eight-seat-room">
-    <div className="panel-title"><div className="arena-club-brand"><span className="club-mark" aria-hidden="true">♠</span><div><span className="eyebrow">POKERTOOL · THE EIGHT SEAT CLUB</span><h2>Full-hand challenge <span className="muted">· Hand {hand.number}</span></h2></div></div><div className="arena-table-controls">
+    <div className="panel-title"><div className="arena-club-brand"><span className="club-mark" aria-hidden="true">♠</span><div><h2>Full-hand challenge <span className="muted">· Hand {hand.number}</span></h2></div></div><div className="arena-table-controls">
       <button type="button" className="button" aria-pressed={quick} onClick={() => setQuick(value => !value)}>{quick ? 'Quick play' : 'Cinematic play'}</button>
       <button type="button" className="button arena-sound-toggle" aria-pressed={sound.enabled} disabled={!sound.supported} title={sound.error || 'Card-dealing sounds and action chimes'} onClick={sound.toggle}>{sound.enabled ? 'Mute sounds' : 'Enable sound'}</button>
       <button type="button" className="button bubble-toggle" aria-pressed={!muted} onClick={() => setMuted(value => !value)}>{muted ? 'Show table talk' : 'Mute table talk'}</button>
@@ -411,8 +411,8 @@ function ReadGame() {
 export default function Arena({ active }) {
   const [mode, setMode] = useState('holdem');
   return <section className="page" id="arena"><header className="arena-intro">
-      <div className="arena-intro-copy"><p className="eyebrow">YOUR NEXT SEAT AT THE TABLE</p><h1>AI Arena<span>.</span></h1><p>Read the players. Play your hand. Learn from every decision.</p></div>
-      <div className="arena-intro-opponents"><div className="intro-portrait-line">{['tag', 'maniac', 'tricky', 'nit', 'gto'].map(type => <PlayerPortrait type={type} key={type} />)}</div><div><strong>13 personalities. A different table every hand.</strong><p>8 seats <span>·</span> 5–100bb stacks <span>·</span> Chip-EV drills</p></div></div>
+      <div className="arena-intro-copy"><h1>AI Arena<span>.</span></h1></div>
+      <div className="arena-intro-opponents"><div className="intro-portrait-line">{['tag', 'maniac', 'tricky', 'nit', 'gto'].map(type => <PlayerPortrait type={type} key={type} />)}</div><div><strong>Opponent profiles</strong><p>8 seats <span>·</span> 5–100bb stacks <span>·</span> Chip-EV drills</p></div></div>
     </header>
     <div className="arena-mode-switch segmented" role="group" aria-label="Arena game"><button type="button" className={mode === 'holdem' ? 'selected' : ''} aria-pressed={mode === 'holdem'} onClick={() => setMode('holdem')}>♠ Full-hand challenge</button><button type="button" className={mode === 'read' ? 'selected' : ''} aria-pressed={mode === 'read'} onClick={() => setMode('read')}>☏ Read the opponent</button></div>
     <div hidden={mode !== 'holdem'}><HoldemGame active={active && mode === 'holdem'} /></div><div hidden={mode !== 'read'}><ReadGame /></div>

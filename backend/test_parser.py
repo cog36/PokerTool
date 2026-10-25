@@ -36,6 +36,17 @@ class ParserRoomTests(unittest.TestCase):
         self.assertEqual(hand["hero_first_action"], "raise")
         self.assertEqual(hand["hero_invested"], 209)
         self.assertTrue(hand["voluntarily_played"])
+        decision = hand["action_timeline"][hand["decision_action_index"]]
+        self.assertTrue(decision["is_decision"])
+        self.assertEqual(decision["street"], "Preflop")
+        self.assertEqual(decision["player"], "bullets685")
+        self.assertEqual(decision["text"], "raises 1.75bb to 2.75bb")
+        self.assertIn("Flop", hand["street_boards"])
+        self.assertTrue(any(action["street"] == "Flop" for action in hand["action_timeline"]))
+        self.assertEqual(len(hand["street_boards"]["Flop"].split()), 3)
+        self.assertEqual(len(hand["street_boards"]["Turn"].split()), 4)
+        self.assertEqual(len(hand["street_boards"]["River"].split()), 5)
+        self.assertIn("bb", decision["text"])
 
         result = analyze_session_hands(hands)
         self.assertEqual(result["total_hands_analyzed"], len(hands))

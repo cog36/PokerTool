@@ -23,11 +23,11 @@ export default function Notebook() {
     setNotes(next); setStatus('Note deleted.');
   }
   return <section className="page" id="notebook">
-    <div className="page-title"><div><p className="eyebrow">YOUR STUDY NOTES</p><h1>Study Notebook<span>.</span></h1><p>Save a hand, an observation, or a question for your next session.</p></div><button className="button primary" type="button" onClick={() => titleInput.current.focus()}>New note <span>＋</span></button></div>
+    <div className="page-title"><div><h1>Study Notebook<span>.</span></h1><p>Save a hand, an observation, or a question for your next session.</p></div><button className="button primary" type="button" onClick={() => titleInput.current.focus()}>New note <span>＋</span></button></div>
     <div className="notebook-layout"><section className="panel"><div className="panel-title"><h2>Write your takeaway</h2><span className="tag">SAVED ON THIS DEVICE</span></div>
       <form onSubmit={save}><label className="field">Title<input ref={titleInput} value={title} onChange={event => setTitle(event.target.value)} maxLength={80} placeholder="One thing I learned today…" required /></label><label className="field">Focus<select value={category} onChange={event => setCategory(event.target.value)}>{['Preflop', 'Position', 'Bet sizing', 'Mindset', 'General'].map(value => <option key={value}>{value}</option>)}</select></label><label className="field">Your notes<textarea value={body} onChange={event => setBody(event.target.value)} rows={8} maxLength={5000} placeholder="What happened? What would you think about next time?" required /></label><button className="button primary" type="submit">Save takeaway <span>↗</span></button><p className="caption save-status" role="status">{status}</p></form>
     </section><section><div className="section-heading compact"><h2>Your takeaways</h2><span className="muted">{notes.length} {notes.length === 1 ? 'note' : 'notes'}</span></div><div className="note-list">
-      {!notes.length && <div className="empty-notes"><span>▤</span><h3>Your next insight goes here.</h3><p>Write a takeaway and make it part of your game.</p></div>}
+      {!notes.length && <div className="empty-notes"><span>▤</span><h3>No notes saved.</h3><p>Your saved notes will appear here.</p></div>}
       {notes.map(note => <article className="saved-note" key={note.id}><header><span className="tag">{note.category}</span><button type="button" aria-label={`Delete note: ${note.title}`} onClick={() => remove(note.id)}>Delete</button></header><h3>{note.title}</h3><p>{note.body}</p><time dateTime={new Date(note.date).toISOString()}>{new Date(note.date).toLocaleDateString(undefined, { day: 'numeric', month: 'short', year: 'numeric' })}</time></article>)}
     </div></section></div>
   </section>;

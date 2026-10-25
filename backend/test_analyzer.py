@@ -40,6 +40,28 @@ class ChartAnalysisTests(unittest.TestCase):
         self.assertEqual(approved["chart_action_frequency"], 1.0)
         self.assertEqual(approved["chart_stack_bb"], 20)
         self.assertEqual(rejected["decision_assessment"], "INCORRECT")
+        self.assertIn("Hero chose fold", rejected["feedback"])
+        self.assertIn("chart assigns 0%", rejected["feedback"])
+
+    def test_incorrect_decision_explanation_includes_preceding_player_action(self):
+        result = audit_single_hand(make_hand(
+            matrix_key="72o",
+            position="BTN",
+            hero_first_action="raise",
+            actions_before_hero=[{
+                "player": "Opponent",
+                "position": "CO",
+                "action": "raise",
+                "text": "raises 2,000 to 4,000",
+                "is_all_in": False,
+            }],
+            facing_action="FACING_OPEN_RAISE",
+            num_raises_before_hero=1,
+        ))
+
+        self.assertEqual(result["decision_assessment"], "INCORRECT")
+        self.assertIn("after CO raises 2,000 to 4,000", result["feedback"])
+        self.assertIn("Hero chose raise", result["feedback"])
 
     def test_facing_open_uses_call_and_three_bet_chart_ranges(self):
         before_hero = [{

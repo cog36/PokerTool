@@ -111,6 +111,35 @@ def _legacy_position(position: str) -> str:
     }.get(position, position)
 
 
+def _decision_context(hand: dict) -> str:
+    timeline = hand.get("action_timeline", [])
+    decision_index = hand.get("decision_action_index")
+    if isinstance(decision_index, int) and 0 <= decision_index <= len(timeline):
+        actions = timeline[:decision_index]
+        prior_actions = [
+            f"{action.get('position', 'UNKNOWN')} {action.get('text') or action.get('action', 'acted')}"
+            for action in actions
+            if action.get("action") != "posts"
+        ]
+    else:
+        actions = hand.get("actions_before_hero", [])
+        prior_actions = [
+            f"{action.get('position', 'UNKNOWN')} {action.get('text') or action.get('action', 'acted')}"
+            for action in actions
+            if action.get("action") != "unknown"
+        ]
+    context = (
+        f"At {hand.get('starting_stack_bb', 'unknown')}bb from "
+        f"{hand.get('position', 'UNKNOWN')}"
+    )
+    if prior_actions:
+        context += f", after {', '.join(prior_actions)}"
+    else:
+        context += ", with no raise or call before Hero"
+    hero_action = hand.get("hero_first_action") or "no recorded action"
+    return f"{context}, Hero chose {hero_action}."
+
+
 def _audit_with_legacy_logic(hand: dict) -> dict:
     matrix_key = hand.get("matrix_key", "")
     position = _legacy_position(hand.get("position", "BTN"))
@@ -319,7 +348,18 @@ def audit_single_hand(hand: dict) -> dict:
     if not assessment_available:
         legacy_result = _audit_with_legacy_logic(hand)
         legacy_result["chart_stack_bb"] = chart_stack_bb
+        if legacy_result["decision_assessment"] == "INCORRECT":
+            legacy_result["feedback"] = (
+                f"{_decision_context(hand)} {legacy_result['feedback']}"
+            )
         return legacy_result
+
+    if decision_assessment == "INCORRECT":
+        feedback = (
+            f"{_decision_context(hand)} The {chart_stack_bb}bb chart assigns "
+            f"{action_frequency:.0%} to this action; available chart actions are "
+            f"{recommended_action}. The recorded choice is not chart-approved."
+        )
 
     return {
         "hand_id": hand.get("hand_id"),
